@@ -52,7 +52,7 @@ def cord_to_schema(gt_parse):
     for entry in _as_list(gt_parse.get("menu")):
         rows = [entry] + _as_list(entry.get("sub"))  # priced modifiers become their own items
         for r in rows:
-            price = parse_amount(_as_str(r.get("price")), "IDR")
+            price = parse_amount(_as_str(r.get("price") or r.get("itemsubtotal")), "IDR")
             if price is None or not r.get("nm"):
                 continue
             items.append({"name": _as_str(r["nm"]), "qty": _qty(r.get("cnt")), "price": price})

@@ -1,2 +1,2 @@
-CORD: test=100 receipts (266 priced items), validation=100; test with roi=37
+CORD: test=100 receipts (268 priced items), validation=100; test with roi=37
 SRD: 198 images, 193 with text, 198 with corners, val=30, test=168, reliable totals=171
