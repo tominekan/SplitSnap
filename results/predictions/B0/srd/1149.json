@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "No Beverage",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "No Beverage",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Milk Shake",
+   "qty": 1,
+   "price": 3.99
+  }
+ ],
+ "subtotal": 3.98,
+ "tax": 0.3,
+ "tip": 1.0,
+ "total": 5.29,
+ "raw_text": "pine 1n\npenny’s Restaurant #8129\n160 Eastern as\nCanandaigua, NY 14 24\n(585) 394-4880\n(ae)\n8/30/2015 11:00:11 PM\nOrder: 429742 Server: Bethany F\nTable: 12 Guests: 2\n1 No Beverage 0,00\n1 No Beverage 0,00\n1 Milk Shake 3.99\nShake Choc\nSubTotal 3.98\nTax 0.30\nGratuity 1.00\nTotal 5.29",
+ "checksum": true,
+ "runtime_s": 0.268081417074427,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "<p\nTKEA Fo0D\nTKEA MILTON KEYNES 185\nVAT: GB 527773320\nAddress4\nQty Name\nMeatballs 10\nFish & Chips Adult\nPetit Pain - White\nWine rose\nWine red",
+ "checksum": null,
+ "runtime_s": 0.2042810837738216,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

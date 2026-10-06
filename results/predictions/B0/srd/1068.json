@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Cafe Eugene\ni 1978 Solano Avenue\nAlbany CA 94705\n510-647-9999,\nTable: Table 10\nDate: 4/10/16, 8\n> Pork\nPancakes\n/ Side Bacon\n2 Regular\n$3.00 each",
+ "checksum": null,
+ "runtime_s": 0.17797350022010505,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "JT's Diner\n37011 Cook Street\n(760) 797-2100\nServer: Braulio\n102/1\nGuests: 2\nCoffee (2 @2.95)\nTwo Eggs Any Style\nWhole-Wheat Pancakes\nHawaiian Sausage\nSubtotal\nTax\nTotal\n02/12/2016\n10:28 AM\n50022\n5.90\n6.95\n8.95\n4.50\n26 .30\n2010\n28.40",
+ "checksum": null,
+ "runtime_s": 0.21905150008387864,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

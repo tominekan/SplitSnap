@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "TANDOORI CHICKEN «179-100",
+   "qty": 1,
+   "price": -279.0
+  },
+  {
+   "name": "MUTTON RAGON JOSH 209 «2.00",
+   "qty": 1,
+   "price": 209.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Bill No. 00027 «Bill Date 06.07.2037\nBill Tame 22:06 © Persons 02\nTable No. P Wer. No. SD\nItem Name Amount\nTANDOORI CHICKEN «179-100 -279.00\nMUTTON RAGON JOSH 209 «2.00 209.00\nFISH BIRIYANI 229 1.00 :",
+ "checksum": null,
+ "runtime_s": 0.28558479086495936,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

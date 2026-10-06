@@ -1,0 +1,50 @@
+{
+ "items": [
+  {
+   "name": "Seafood Puff",
+   "qty": 1,
+   "price": 10.8
+  },
+  {
+   "name": "Sesame Prawn Toast",
+   "qty": 1,
+   "price": 11.8
+  },
+  {
+   "name": "Beancurd Prawn Cheung Fun",
+   "qty": 1,
+   "price": 10.8
+  },
+  {
+   "name": "X0 Scallop Dumpling",
+   "qty": 1,
+   "price": 8.8
+  },
+  {
+   "name": "Poached Beijing Dumpling",
+   "qty": 1,
+   "price": 5.8
+  },
+  {
+   "name": "Spinach Dumpling",
+   "qty": 1,
+   "price": 6.8
+  },
+  {
+   "name": "Tea Smoked Pork Ribs",
+   "qty": 1,
+   "price": 22.0
+  }
+ ],
+ "subtotal": 84.8,
+ "tax": 3.82,
+ "tip": null,
+ "total": null,
+ "raw_text": "MAR YAUATCHA\nYauatcha\n110578007 Kakin\nCHK 1867 TBL 84/1\nRestaurant\n1 Tender Branch Hibiscus 8.00\n1 Seafood Puff 10.80\n1 Sesame Prawn Toast 11.80\n1 Beancurd Prawn Cheung Fun 10.80\n1 X0 Scallop Dumpling 8.80\n1 Poached Beijing Dumpling 5.80\n1 Spinach Dumpling 6.80\n1 Tea Smoked Pork Ribs 22.00\nSubtotal $84.80\nTax $3.82\nTotal Bue $88 .62\nInternational Market Place\n2330 Kalakaua Ave Ste 326\nHonolulu, Hawaii 96815\nReservat ions@YauatchaWaikiki .com\nPhone: 808-739-9318\n**GRATUITY NOT INCLUDED**\nPa gis ce exis eras",
+ "checksum": null,
+ "runtime_s": 0.5663963751867414,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

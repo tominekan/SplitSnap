@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "Lama ares",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": 1.0,
+ "total": null,
+ "raw_text": "_ M's Hot Wings & Things n°\n886 N. Garfield Ave\nMontebello, CA 90640\n(323) 477-1345\nServer: Jose\nDine In\nLama ares 10.00\n1 Ribeye Steak Lunch 10\n> med-rare\nSUB TOTAL:\nTax:\nTOTAL:\n>> Ticket #: 32 «\n6/28/2019 2:16:34 PM\npape ROHS EE Boo obi\n10% Gratuity = $1.00\n15% Gratuity = $1.50\n20% Gratuity = $2.00\nFREESE EERE EIA OA REA AE\nA",
+ "checksum": null,
+ "runtime_s": 0.4576971249189228,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

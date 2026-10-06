@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "Vegetable Biryani",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "Malai Kofta",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "Onion Naan",
+   "qty": 1,
+   "price": 3.95
+  },
+  {
+   "name": "You have saved",
+   "qty": 1,
+   "price": 14.93
+  }
+ ],
+ "subtotal": 29.85,
+ "tax": 1.32,
+ "tip": null,
+ "total": 16.24,
+ "raw_text": "ma\nOM INDIAN FOOD\n204 Spring St\nNew York, NY 10012\n(646) 756-4000\n(646) 657-0514 (Fax)\nTABLE T1\nORDER #2\n2 Guests\nInvoice #2143,\n[15/16 12:03:14 PM\nManoj\n1 Vegetable Biryani $12.95\n1 Malai Kofta $12.95\n1 Onion Naan $3.95\nSUBTOTAL: $29.85\nLUNCH DISCOUNT 50% OFF : $14.93\nTAX: $1.32\nTOTAL: $16.24\nYou have saved : $14.93",
+ "checksum": false,
+ "runtime_s": 0.3883722920436412,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

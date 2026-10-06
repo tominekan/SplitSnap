@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "FRI-SUN DINNER $29.88",
+   "qty": 5,
+   "price": 149.4
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "MOONSTAR REST AURANT\n383 GELLERT BLYD., DALY CITY, CA 94015\n650- 992- 2888\nQry NAME U/P PRICE\n5 FRI-SUN DINNER $29.88 149.40\n29.88 50%0FF BIRTHDAY -0.50 -14.94\nSUBTOTAL: “134. 46\nTax(9%): Ve)\nTip Guide:\n15K: + 20.17= 166.74\n185+ 24.203 NTT\n20K: + 26.89 173.48\nMANTA",
+ "checksum": null,
+ "runtime_s": 0.4837567089125514,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

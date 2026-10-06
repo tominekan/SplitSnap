@@ -1,0 +1,1 @@
+B0: 298 receipts in 20s -> results/predictions/B0/

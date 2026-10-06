@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "Chicken Caesar Salad",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "Chefs Special",
+   "qty": 1,
+   "price": 19.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Angela's Pizza Restaurant\n12247 Sheridan St\nCooper Cityb, FL 33026\n(954) 893-2000\nServer: Melina Station: 2\nOrder #: 4876 Dine In\nTable: 1 Guests: 4\n1 Sprite ZB)\n1 Chicken Caesar Salad 8.95\n1 Chefs Special 19.95\n> Chefs Special\nSoup of Day\nBar Subtotal:\nFood Subtotal:\nTax 1:\nTOTAL:\n>» Ticket #: 56 «\n7/10/2017 9:32:06 PM\nTHANK YOU!\nTMA",
+ "checksum": null,
+ "runtime_s": 0.4369670001324266,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

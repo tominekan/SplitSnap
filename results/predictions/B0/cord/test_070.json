@@ -1,0 +1,65 @@
+{
+ "items": [
+  {
+   "name": "AYM GR JUN NJAN",
+   "qty": 1,
+   "price": 108000.0
+  },
+  {
+   "name": "SAPO TH SEAFOOD",
+   "qty": 1,
+   "price": 172000.0
+  },
+  {
+   "name": "POCAI 3 “111,000",
+   "qty": 1,
+   "price": 222000.0
+  },
+  {
+   "name": "GURAME FILLET M",
+   "qty": 1,
+   "price": 163000.0
+  },
+  {
+   "name": "RBIHUN GORENG JJ",
+   "qty": 1,
+   "price": 116000.0
+  },
+  {
+   "name": "ICED TEA 12,000",
+   "qty": 1,
+   "price": 60000.0
+  },
+  {
+   "name": "NASI PUTIH 16,000",
+   "qty": 1,
+   "price": 70000.0
+  },
+  {
+   "name": "FOOD",
+   "qty": 1,
+   "price": 1213000.0
+  },
+  {
+   "name": "BEVERAGES",
+   "qty": 1,
+   "price": 60000.0
+  },
+  {
+   "name": "OTHERS",
+   "qty": 1,
+   "price": 70000.0
+  }
+ ],
+ "subtotal": 1343000.0,
+ "tax": 142358.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "UDANG RE (214,000 432\n=¥LARGEX==\nAYM GR JUN NJAN 108,000\n=3MEDIUMK=\nSAPO TH SEAFOOD 172,000\n=#LARBEX==\nPOCAI 3 “111,000 222,000\n=¥MEDIUMX=\nGURAME FILLET M 163,000\n\" ASAM MANIS\nRBIHUN GORENG JJ 116,000\n=¥LARGEX==\nICED TEA 12,000 60,000\nNASI PUTIH 16,000 70,000\nFOOD 1,213,000\nBEVERAGES ~ \"60,000\nOTHERS 70,000\nSUBTOTAL 1,343,000\nSERVICE CHARGE 80, 580\nTax 10% 142,358\nDU 1,565,938.",
+ "checksum": null,
+ "runtime_s": 0.7733467500656843,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

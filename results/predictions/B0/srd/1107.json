@@ -1,0 +1,55 @@
+{
+ "items": [
+  {
+   "name": "Mojito Pitcher Original w",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "Brussel Sprouts",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Pepperfin",
+   "qty": 1,
+   "price": 14.5
+  },
+  {
+   "name": "Spicy Drm 1 Red",
+   "qty": 1,
+   "price": 14.5
+  },
+  {
+   "name": "Aerojet",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "Cou Toro",
+   "qty": 2,
+   "price": 19.0
+  },
+  {
+   "name": "Daikon Hamachi",
+   "qty": 1,
+   "price": 14.5
+  },
+  {
+   "name": "Garlic Salmon",
+   "qty": 1,
+   "price": 14.0
+  }
+ ],
+ "subtotal": 133.9,
+ "tax": 10.38,
+ "tip": null,
+ "total": null,
+ "raw_text": "MIKUNI JAPANESE\n4323 Haze] Avenue\nFair Oaks, CA 95628\n(916) 961-2112\n1070 David 0\nTb] 42/1 Chk 3905\nJu116'17 08:15PM\n1 Mojito Pitcher Original w/ 18.00\n2 Glass\n1 Brussel Sprouts 6.50\n1 Pepperfin 14.50\n1 Spicy Drm 1 Red 14.50\n1 Aerojet 14.95\n1 Tommy WE)\n2 Cou Toro 19.00\n1 Daikon Hamachi 14.50\n1 Garlic Salmon 14,00\nSubtotal 133.90\nTax 10.38\nTotal Due\n144.28",
+ "checksum": null,
+ "runtime_s": 0.42694674897938967,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

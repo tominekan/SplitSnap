@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "BANANA DONUT",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "CREAMCHEESE BREAD",
+   "qty": 1,
+   "price": 13000.0
+  },
+  {
+   "name": "FRANKFRUT SAUSAGE ROLL",
+   "qty": 1,
+   "price": 12000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1 Heed tee ‘ere 4\n‘ ,\nae * ; * -\n“2IWIST OMT =———S~*«*MO0O\n1 BANANA DONUT 11,000\n1 CREAMCHEESE BREAD 13,000\n1 FRANKFRUT SAUSAGE ROLL 12,000\nTOTAL 5¢ ,000\n| CASH\n104 ,000\n| CHANGE = 5,000",
+ "checksum": null,
+ "runtime_s": 0.5310568751301616,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

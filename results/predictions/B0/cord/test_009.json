@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "36000\nSub Total\nDiscount (0 %)\nTunai\nKembalian",
+ "checksum": null,
+ "runtime_s": 0.23260679189115763,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

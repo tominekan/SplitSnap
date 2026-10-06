@@ -1,0 +1,50 @@
+{
+ "items": [
+  {
+   "name": "WATER",
+   "qty": 3,
+   "price": 0.0
+  },
+  {
+   "name": "CRAB SUIZA",
+   "qty": 1,
+   "price": 13.25
+  },
+  {
+   "name": "SHRIMP VERACRUZ",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "ENCHILADA",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "FAJITA BF",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "TAKE QUT",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "HH MIGUELS MARGARIT @ 3.38",
+   "qty": 4,
+   "price": 13.52
+  }
+ ],
+ "subtotal": 60.87,
+ "tax": 4.27,
+ "tip": null,
+ "total": 65.14,
+ "raw_text": "Gq MIGUEL S MEXICAN ~~\n: 3035 WW. KENNEDY BLVD\nTAMPA , FL,\n(813) 876 - 2587\n127 MISSY\nTb! 82/1\nDec26’12 04:41PM\n3 WATER 0,00\n1 CRAB SUIZA 13,25\n1 SHRIMP VERACRUZ 14.95\n1 ENCHILADA 4.95\n1 FAJITA BF 13.95\n1 *¥TAKE QUT#® 0.25\n4 HH MIGUELS MARGARIT @ 3.38 13.52\nSubtotal 60.87\nTax 4.27\n05:19PM Total 65.14\nPLEASE Day voip ecevER",
+ "checksum": true,
+ "runtime_s": 0.2884357499424368,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

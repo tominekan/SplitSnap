@@ -1,0 +1,45 @@
+{
+ "items": [
+  {
+   "name": "Pulled Pork Sand",
+   "qty": 1,
+   "price": 8.5
+  },
+  {
+   "name": "Reg",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Creamed Corn[Small",
+   "qty": 1,
+   "price": 3.35
+  },
+  {
+   "name": "Mac & Cheese[sm",
+   "qty": 1,
+   "price": 4.2
+  },
+  {
+   "name": "Cake[Slice",
+   "qty": 1,
+   "price": 3.95
+  },
+  {
+   "name": "Wells Fargo",
+   "qty": 1,
+   "price": 64.43
+  }
+ ],
+ "subtotal": 59.11,
+ "tax": 5.32,
+ "tip": null,
+ "total": 64.43,
+ "raw_text": "Pulled Pork Sand $8.50\n*Reg $0.00\nCreamed Corn[Small] $3.35\nMac & Cheese[sm] $4.20\nCake[Slice] $3.95\n$2.25\nSubtotal $59.11\nCA Sales Tax $5.32\nTotal $64.43\nWells Fargo $64.43\nChange $0.00\nThank You for Visiting\nPlease visit our website\nwww. smokecitymarket.com\nEnjoy our BBQ? 'Like' us on\nfacebook and Yelp\nPlease rate us on Zagat\nWw .Zagat com/r/smoke-city-market-van-nuy",
+ "checksum": false,
+ "runtime_s": 0.5124014168977737,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

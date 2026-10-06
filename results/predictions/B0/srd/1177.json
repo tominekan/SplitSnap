@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "Coors Light",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Shrimp Fajita",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Stuffed Chicken",
+   "qty": 1,
+   "price": 17.95
+  }
+ ],
+ "subtotal": 45.15,
+ "tax": 2.18,
+ "tip": null,
+ "total": null,
+ "raw_text": "El Charro Cafe Ventana\n6910 E SUNRISE DR\nServer: Ana 06/24/2018\nTable 24/1 8:00 PI\nGuests: 2\na #30076\nCoors Light 5.00\nIce Tea 3.5\nShrimp Fajita 18.95\nStuffed Chicken 17.95\nSubtotal 45.15\nTax 2.18\nTotal 47 30\nBalance Due alge (S\\0)\nJ FOR FREE!!!",
+ "checksum": null,
+ "runtime_s": 0.3447537508327514,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

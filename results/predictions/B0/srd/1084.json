@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "name": "STUFFED ARTICHOKE",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "BK FETT AL PORCINI",
+   "qty": 1,
+   "price": 36.0
+  },
+  {
+   "name": "COSTOLETTE/ALLA/PAPx",
+   "qty": 1,
+   "price": 42.0
+  },
+  {
+   "name": "BROCCOLT RABE W/ GA",
+   "qty": 1,
+   "price": 10.5
+  },
+  {
+   "name": "DBLD ESPRESSO# neece",
+   "qty": 1,
+   "price": 7.9
+  }
+ ],
+ "subtotal": 117.75,
+ "tax": null,
+ "tip": null,
+ "total": 16.38,
+ "raw_text": "Trattoria sap0rit9\n328 Washingtonstreet\nHoboken\n201-533-1801\nTABLE # 4\nCHECK# 27273\nDATE (TINE: 7/1/2018 8:83:48 PM\nSERVER: Gastone\nSTATION: 01\nIten ROU ieee ee is\n1 STUFFED ARTICHOKE* «$18.00\n(0222\n1 BK FETT AL PORCINI * $36.00\n1 COSTOLETTE/ALLA/PAPx $42.00\n1 BROCCOLT RABE W/ GA $10.50\n1 ESPRESSO* $3.7\n1 DBLD ESPRESSO# neece $7.90\nSubtotal = $117.75\nFAN TOTAL ‘16.38\nOpened: 7/1/2018 5:53:48 PM",
+ "checksum": false,
+ "runtime_s": 0.5433292507659644,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

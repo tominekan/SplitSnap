@@ -16,3 +16,10 @@ Chronological record of what was done, commands run, and what failed. Times are 
 - Downloaded SRD: `curl -L -o data/srd/Dataset.zip https://zenodo.org/records/13688441/files/Dataset.zip?download=1` (18,998,248 bytes), unzipped. Inspected contents by hand before writing the loader (see `data/README.md`). Surprises: (1) corner order in `homography.csv` is TL, TR, BL, BR, not clockwise; (2) corners are in the EXIF-rotated frame (5 images have an EXIF orientation tag); (3) 198 images but 195 label files, 5 images have no text and 2 labels have no image.
 - Downloaded CORD v2 via `datasets` (HF cache redirected to `data/hf/`). Saved test + validation as PNG + JSON.
 - `python src/data.py` -> `results/logs/data.txt`: CORD test 100 receipts (268 priced items), 37 with roi corners; SRD 198 images, 193 with text, 198 with corners, val 30 / test 168, reliable totals 171 of 193 (after widening the keyword list from 153).
+
+## Task 3: Baseline B0
+- Wrote `src/ocr.py` (one `image_to_data` call), `src/parse_regex.py`, `src/pipeline.py` (switchable stages, OCR cache, 8 processes), `src/metrics.py`.
+- Checked the regex parser on CORD **validation** (dev only): item P 0.474, R 0.116. Looked at 4 OCR outputs by hand: misses come from Tesseract psm 3 dropping or separating the price column, not from the regex.
+- `python src/pipeline.py --config B0` -> `results/logs/pipeline_B0.txt` (298 receipts, 20 s). Predictions in `results/predictions/B0/`.
+- Scored -> `results/logs/score_B0.txt`: CORD test item F1 0.213 (P 0.514, R 0.134), total acc 0.126; SRD test CER 0.393, total acc 0.240 (n=146).
+- Note: on 6 SRD images Tesseract psm 3 returns no text at all on the raw photo (e.g. 1001, small text on a 645x1000 photo). Verified by calling Tesseract directly.

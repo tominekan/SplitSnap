@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "Taco Shrimp Fresh Catch 3",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Water",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 19.75
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "T\n) Marrison Ave\nNew Orleans, LA 70124\nPhone: (504) 488-0107\n8 Daniel P\nTo? 90/1 Chk 4650. Gst 1\nAug23'19 12:07PM\n**k Memo Check #4\nSeat: 1\n1 Fajita Vegetable LAS\n1 Taco Shrimp Fresh Catch 3 12.00\n*DON'T MAKE*\n1 Water 0.00\nFood 19.75\nTax DON\nTotal =) 4 wale",
+ "checksum": null,
+ "runtime_s": 0.41419295920059085,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

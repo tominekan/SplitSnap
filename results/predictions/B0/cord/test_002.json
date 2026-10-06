@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "imIhE MT CL",
+   "qty": 1,
+   "price": 24000.0
+  },
+  {
+   "name": "WeoNUT JELLY CL",
+   "qty": 1,
+   "price": 4000.0
+  },
+  {
+   "name": "SUB ft",
+   "qty": 1,
+   "price": 28000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 26000.0,
+ "raw_text": "imIhE MT CL) 24,000\nWeoNUT JELLY CL) 4,000\nSUB ft] 28,000\n4\nTOTAL SASS 26.000\nTOTAL TMS \\\nCASH 100,000\nCHANGE",
+ "checksum": null,
+ "runtime_s": 0.5094171247910708,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

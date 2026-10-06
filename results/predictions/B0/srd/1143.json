@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "rthur’s Burger #*ChsBleu",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "Burger #*hvocado",
+   "qty": 1,
+   "price": 15.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Arthurs\n237 Washington\nHoboken, NJ 07030\n(201) 856-5009\n1AB/62 Gst 3\nOctO1’17 01:44!\nBar\nrthur’s Burger #*ChsBleu 13.95\nBurger #*hvocado 15.95\n12.95\n6.00\n12.00\n6.00\n13.95\ng\n84.78\nPrivate Rooms\nAvailable for\nYour Next Party!",
+ "checksum": null,
+ "runtime_s": 0.3845567509997636,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

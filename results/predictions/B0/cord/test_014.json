@@ -1,0 +1,55 @@
+{
+ "items": [
+  {
+   "name": "RedVelvet Cheese Sic",
+   "qty": 1,
+   "price": 38000.0
+  },
+  {
+   "name": "i Fish # Chips",
+   "qty": 1,
+   "price": 3000.0
+  },
+  {
+   "name": "Susproom Soup",
+   "qty": 1,
+   "price": 30000.0
+  },
+  {
+   "name": "i Chamomile",
+   "qty": 1,
+   "price": 2000.0
+  },
+  {
+   "name": "i Teed Tea",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "PRI",
+   "qty": 1,
+   "price": 25080.0
+  },
+  {
+   "name": "ate",
+   "qty": 1,
+   "price": 100000.0
+  },
+  {
+   "name": "Charge",
+   "qty": 1,
+   "price": 18065.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": 17850.0,
+ "total": 281435.0,
+ "raw_text": "1 RedVelvet Cheese Sic 38,000\n1 Chicken Baked Rice 5, 000\ni Fish # Chips 3,000\n1 Susproom Soup 30,000\ni Chamomile 2,000\ni Teed Tea 20,000\nSUBTOTAL 238 , 000\nService 17,850\nPRI ‘ 25,080\nTOTAL 281,435\n= ate 100,000\nDAS £00 , 000\nCharge 18,065\n®\nee me ee ee me ee eee meet teen me a nant\neee ee ee tte et tad a attrabettetet tod —obwt\na ae\nee ee ee eo oe ee ae a en Be Pa Si am ane coe Sane So ee aah ce oe",
+ "checksum": null,
+ "runtime_s": 1.4196069168392569,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

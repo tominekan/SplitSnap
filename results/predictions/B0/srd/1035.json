@@ -1,0 +1,55 @@
+{
+ "items": [
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 1.45
+  },
+  {
+   "name": "Tea",
+   "qty": 1,
+   "price": 1.45
+  },
+  {
+   "name": "Waffle",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "Old Fashion French Toast",
+   "qty": 1,
+   "price": 4.5
+  },
+  {
+   "name": "Side Home Fries",
+   "qty": 1,
+   "price": 2.95
+  },
+  {
+   "name": "Banana",
+   "qty": 1,
+   "price": 2.95
+  },
+  {
+   "name": "ef) Whipped Cream",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "W/ 2 EGGS",
+   "qty": 1,
+   "price": 2.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 24.25,
+ "raw_text": "ry Argonaut Diner2000°_ We Deliver \\\n= Please Pay at Cashier “\n1084 Yonkers Avenue Yonkers, NY 10704\n(914) 237-5055\nCopy of Receipt\n1 Coffee $1.45\n1 Tea $1.45\n1 Waffle $5.50\n1 Old Fashion French Toast $4.50\n1 Side Home Fries $2.95\n1 Banana $2.95\nef) Whipped Cream $2.50\n1 W/ 2 EGGS $2.95\ntotal: $24.25\n$2.13\nMichael\nDe Maio\nAUGUST 13, 2017 &&\n4\n(7) Like\n26.3\n12 Comments\n} Comment",
+ "checksum": null,
+ "runtime_s": 0.5246372499968857,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

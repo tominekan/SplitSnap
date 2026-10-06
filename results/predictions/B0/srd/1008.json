@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "Pupusa Queso",
+   "qty": 3,
+   "price": 6.75
+  },
+  {
+   "name": "Platanos Orden",
+   "qty": 1,
+   "price": 7.75
+  },
+  {
+   "name": "Diet coke",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "Quesadilla salvadorena",
+   "qty": 2,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 22.25,
+ "tax": 2.22,
+ "tip": null,
+ "total": 24.47,
+ "raw_text": "Dona Mercedes Restaurant\n1030 1/2 San Fernando Rd\nSan Fernando CA 91341\nVero\nCENTERL\n1 CHicharon $225\n3 Pupusa Queso $6.75\n1 Platanos Orden $7.75\n1 Diet coke $1.50\n2 Quesadilla salvadorena $4.00\nSUBTOTAL: $22.25\nTAX: $2.22\nTOTAL: $24.47\nTIP SUGGESTIONS\n18%: $4.40\n20%: $4.89\n25%: $6.12\nThank You!",
+ "checksum": false,
+ "runtime_s": 0.39678158331662416,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

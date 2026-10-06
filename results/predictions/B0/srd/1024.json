@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "AMOUNT",
+   "qty": 1,
+   "price": 31.12
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.8,
+ "tip": null,
+ "total": 33.92,
+ "raw_text": "New Asia Buffet\n14727.5 Rinaldi st\nSan Fernando, CA 91340\nTel ;(818)898-0880\nWeekEnd Dinner\nDate: ov-15-06-N Time\nServer\nTh#: D4\nNo. of Guest\nWeeken Dinner\nCoke\nAMOUNT : 31.12\nTAX(Sk) : 2.80\nTOTAL : 33.92\nTHANK YOU VERY MUCH,",
+ "checksum": null,
+ "runtime_s": 0.3486994591075927,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

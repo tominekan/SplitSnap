@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "1 1/2 AND 1/2 COMBO",
+   "qty": 1,
+   "price": 8.45
+  },
+  {
+   "name": "1 1/2 AND 1/2 COMBO",
+   "qty": 1,
+   "price": 1.95
+  },
+  {
+   "name": "FOUNTAIN MEDIUM",
+   "qty": 2,
+   "price": 3.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "QHANA HAWATTAN BBO\n4469 SLAUSON AVE\nMaywood, CA 90270\n(323) 771-9888\nServer: karla station: 3\nOrder #: 65193 Dine In\n>> SETTLED\n1 1/2 AND 1/2 COMBO 8.45\nFRIED SHRIMP\nSHORT RIB\n1 1/2 AND 1/2 COMBO 1.95\nBBQ BEEF\nFRIED SHRIMP\n2 FOUNTAIN MEDIUM 3.50\nBar Subtotal:\nFood Subtotal:\nTax 1:\nAMQUNT DUE:\nCash Tendered:\nCHANGE:\n>> Ticket #: 94 <<\nCreated: 6/1/2013 7:43:46 PM\nSETTLED; 6/1/2013 7:44:18 PM\nTHANK YOU!\n————ea",
+ "checksum": null,
+ "runtime_s": 0.4520833748392761,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

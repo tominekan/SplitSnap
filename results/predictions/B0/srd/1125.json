@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "1 6.5 Chicken Korma",
+   "qty": 1,
+   "price": 11.95
+  },
+  {
+   "name": "1 10.1 Naan (Plain Naan",
+   "qty": 1,
+   "price": 1.95
+  },
+  {
+   "name": "1 13.1 Kheer",
+   "qty": 1,
+   "price": 3.95
+  }
+ ],
+ "subtotal": 17.85,
+ "tax": 1.25,
+ "tip": null,
+ "total": 19.1,
+ "raw_text": "CHATPATA RESTAURANT INC\n1683 ROUTES\nCLIFTON PARK, NY 12065\n5182801190\nCashier: Kamal\n19-Mar-2019 5:28:12P\n1 6.5 Chicken Korma $11.95\n1 10.1 Naan (Plain Naan $1.95\n1 13.1 Kheer $3.95\nSubtotal $17.85\nTax $1.25\nTotal $19.10\nOnline: https://clover.com T/KQ23FATONSTOT\nOrder KQ23F4 T9N8T6T\nP",
+ "checksum": true,
+ "runtime_s": 0.3648972921073437,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

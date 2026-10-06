@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "suede\nKopi Susu Kampung. x1\nIce\nKopi Susu Kampung Less Ice\nKopi Susu Kampung. x2\nIce\nCash\nChange",
+ "checksum": null,
+ "runtime_s": 0.30117404204793274,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

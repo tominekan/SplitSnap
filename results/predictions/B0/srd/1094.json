@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": 13.5,
+ "tax": 1.25,
+ "tip": 1.48,
+ "total": null,
+ "raw_text": "x\nZ Pokeatery cv\n18911 Lake Chabot December 29 2018\nRoad 2:01PM\nCastro Valley, CA\nRamelle p\n94546\npeceet 3zCw\nAuthorization “ge\nCHASE Visa\n80 00 000003 19 10\nPoke f Bax. $13.50 »\nRegular, Avocado ($1.00)\nSubtotal $13.50\nCastro Valley Sales Tax $1.25\nTip $1.48\nVisa 0642 (Chip)\n$16.23",
+ "checksum": null,
+ "runtime_s": 0.4035919578745961,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

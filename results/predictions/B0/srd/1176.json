@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "HEDLEYS\n640 N ROBERTSON BLVD\nwesT HOLLYWOOD CA 90069\n310-659-2009\n01528251",
+ "checksum": null,
+ "runtime_s": 0.30106600001454353,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

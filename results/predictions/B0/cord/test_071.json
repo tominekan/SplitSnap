@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "Kernbalian",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "fg#000\nSub Total\n198000\nTuna\na 200200\nKernbalian 22000",
+ "checksum": null,
+ "runtime_s": 0.24163187481462955,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

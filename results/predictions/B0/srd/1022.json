@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "Peo: Ph",
+   "qty": 1,
+   "price": 37.37
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Peo: Ph 37.37\nwg",
+ "checksum": null,
+ "runtime_s": 0.26966745778918266,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

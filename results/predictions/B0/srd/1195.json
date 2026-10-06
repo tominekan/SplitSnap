@@ -1,0 +1,45 @@
+{
+ "items": [
+  {
+   "name": "Side Caesar",
+   "qty": 1,
+   "price": 4.99
+  },
+  {
+   "name": "Subtctal",
+   "qty": 1,
+   "price": 19.27
+  },
+  {
+   "name": "Db] Stack Cheeseturger",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Bacon",
+   "qty": 1,
+   "price": 0.99
+  },
+  {
+   "name": "Subtctal",
+   "qty": 1,
+   "price": 12.27
+  },
+  {
+   "name": "Tctal",
+   "qty": 1,
+   "price": 13.13
+  }
+ ],
+ "subtotal": 31.54,
+ "tax": 1.35,
+ "tip": null,
+ "total": 20.62,
+ "raw_text": "Amici Conyers\n1805 Parker RD Suite 6110\n1805 Parker RD\n(678) 890-2005\nServer: Nicole\n06/10,\nTable 52/1 ‘ae\nGuests: 2 30004\nSeat 1\nBERET EEH eh rye, a\neerie Caizcne ie\nSide Caesar 4.99\nSubtctal 19.27\nTax 1.35\nTotal 20.62\nSeat 2\neee app IRI ESO\nCoke ee)\nDb] Stack Cheeseturger 8,99\nBacon 0.99\nSubtctal 12,27\nTax 0.86\nTctal 13.13\nSubtotal 31.54\nTax 2.21\ni 93.75\nTotal 4\nBalance Due 33.75\nyou for dining with us!\nTED GRATUITY:",
+ "checksum": false,
+ "runtime_s": 0.3872265841346234,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

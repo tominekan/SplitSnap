@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "SORE MOJITO’S",
+   "qty": 4,
+   "price": 40.0
+  },
+  {
+   "name": "tal",
+   "qty": 1,
+   "price": 50.8
+  }
+ ],
+ "subtotal": 40.0,
+ "tax": 40.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "seererceeesenrennerennaadenents tte\nFinnegan’s Way Check 822819\n1344 Ocean Drive\nMiami Beach Florida 33139\nTel, 305-672-1747\n08/21/17 8:38 PH\nTable 16 Cust 1\nWaiter 86 IRYNA\nprereset\n4 SORE MOJITO’S 40.00\nBACAROL LIGHT\nTaxable: 40.00\nSub-total: 40.00\nSales Tax 7%: 2.80\nResort Tax 2%: 0.60.\nTotal: \"43°60\nVoluntary 18% Tip 720\nfeel free to adjust or renove\nttip anount at your discret ion\ntal 50.80",
+ "checksum": null,
+ "runtime_s": 0.3447408329229802,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

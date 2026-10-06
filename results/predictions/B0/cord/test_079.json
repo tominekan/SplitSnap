@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "otal",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "® 22.000 x1 22.000\n6001-Plastic Bag Seal)\neo od i]\nfotal Item: 2\notal. © 22.000",
+ "checksum": null,
+ "runtime_s": 0.29088070802390575,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

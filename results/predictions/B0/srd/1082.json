@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "FOOD",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "PAYVENT",
+   "qty": 1,
+   "price": 6.56
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.57,
+ "tip": null,
+ "total": null,
+ "raw_text": "SURATI FARSAN MART\n11814 186TH STREET\nARTESIA, CA 90701\n562-860-2310\nHHH SURATIFARSAN COM\n16 Daksh D\nChk 45 14\n7 Chole Samosa ¥*k-7T0°GO *** 5,99\nHXKKRMRKKXXXB4OZ\nVISA 6.56\nFOOD 5,99\nTAX / 0.57\nPAYVENT 6.56\nde Je 16 Check Closed---=------__-\na, -----jug08' 19 07:34PM-2-~---———\nTnank You fier your business\nFree ground Shipsing onorders\nof 7lbs or_more...\nWW, SURAT IFARSAN COM",
+ "checksum": null,
+ "runtime_s": 0.5558992489241064,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

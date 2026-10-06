@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "I, Yeson Mexican Restaurant\nServer: IGOR Station: 33\nOrder #: 18533, Dine\nTable: Al Giests: 2\n1 SOPA DE TORTILA BOML 5.5\n1 TACO SALAD\nCHK\n1 HOUSE MARGARITA JUMBO 1\n1 Dr Pepper 6\n1 SIDE CHEESE 1.5\n1 HOUSE MARGARITA JUMBO\nSUB TOTAL: 4\nTax 1:\nTO",
+ "checksum": null,
+ "runtime_s": 0.20604449999518692,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

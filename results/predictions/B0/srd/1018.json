@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "ye",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "ma",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "it 12:49 PM\nZi ier Ake\nYOUR GUEST NUMBER IS\n12\nIN-N-QUT BURGER SANTA CLARA\n2012-04-27 12:48 PM\n176 1 262 1110\nCashier: KEVIN DU\nCheck : 12\nEred\nye 2.00\nW GR X LX TM Inst pro\nCounter-—Take Out\nTAX 8.25% =\nA “\nmount Due —\nCash Tend\nma $3.00\nChange\n9012-04-27 8 LI 7)",
+ "checksum": null,
+ "runtime_s": 0.5634081661701202,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

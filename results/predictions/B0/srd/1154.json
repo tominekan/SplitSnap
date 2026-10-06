@@ -1,0 +1,60 @@
+{
+ "items": [
+  {
+   "name": "TAP BEER 10-HH",
+   "qty": 6,
+   "price": 9.58
+  },
+  {
+   "name": "Tamarindo",
+   "qty": 1,
+   "price": 2.18
+  },
+  {
+   "name": "Sprite",
+   "qty": 1,
+   "price": 2.18
+  },
+  {
+   "name": "Thur. 2 Cock Shrimp",
+   "qty": 1,
+   "price": 11.95
+  },
+  {
+   "name": "Whole Fish",
+   "qty": 2,
+   "price": 21.9
+  },
+  {
+   "name": "1 2 tes Governador",
+   "qty": 1,
+   "price": 1.15
+  },
+  {
+   "name": "French Fries",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Taco DE Asada",
+   "qty": 1,
+   "price": 2.28
+  },
+  {
+   "name": "LNT DUE",
+   "qty": 1,
+   "price": 13.24
+  }
+ ],
+ "subtotal": null,
+ "tax": 6.35,
+ "tip": null,
+ "total": null,
+ "raw_text": "Via Mar Restaurant\n4105 Maine Ave\nBaldwin park, ca 91706\n626) 939-9019\n21\nServer: Isabe] station:\n5 P = in\nOrder #: 320502 Mes\nTable: 16 quests:\n6 TAP BEER 10-HH 9.58\nModelo Tap. 0\n2 Manzanita Sol 5.5\n1 Tamarindo 2.18\n1 Sprite 2.18\n1 Thur. 2 Cock Shrimp 11.95\n2 Whole Fish 21,90\nTilapia Wh)\nFried 3\n1 2 tes Governador 1.15\n> plan ,fries\n1 French Fries 2,50\n1 Taco DE Asada 2.28\n> plain,papas\nSUB TOTAL: 66°89\nTax 1: 6.35\nTax 2: 0.00\nLNT DUE: $13.24\n9/6/2018\nEERE EEA AAA\nyvniir cerver",
+ "checksum": null,
+ "runtime_s": 0.47600033320486546,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

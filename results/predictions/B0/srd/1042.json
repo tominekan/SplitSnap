@@ -1,0 +1,45 @@
+{
+ "items": [
+  {
+   "name": "Guaca Chicharron",
+   "qty": 1,
+   "price": 13.99
+  },
+  {
+   "name": "EMPANADA",
+   "qty": 2,
+   "price": 3.0
+  },
+  {
+   "name": "PARGO FRITO",
+   "qty": 1,
+   "price": 19.95
+  },
+  {
+   "name": "MAR Y CHICKEN",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "SALMON A LA PLANCHA",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "Void",
+   "qty": 1,
+   "price": -17.95
+  }
+ ],
+ "subtotal": 69.9,
+ "tax": 3.44,
+ "tip": null,
+ "total": 55.39,
+ "raw_text": "caraview, NJ 07022\nphone : (201) 840-8428\nsk 1832869 Guests:\n2/11/19 Time:07:46pm\nTable:23 Server :DANIELA\nAA A\n1 Guaca Chicharron $13.99\n2 EMPANADA $3.00\n1 PARGO FRITO $19.95\nEnsalada\nAguacate\nNo Cebolla\nNo Cebolla Roja\n1 MAR Y CHICKEN $17.00\nTostones\nTostones\n€& TOGO 2 »»»HyDd»»DDDDD2vHDDDIVPDNNDDDY\n1 SALMON A LA PLANCHA $16.00\nEnsalada\nEnsalada\naN a ae a\nSubtotal: $69.90\nVoid: -$17.95\nTax:: $3.44\nSbt] w/Tax: $73.34\nAmt Due: $55.39",
+ "checksum": false,
+ "runtime_s": 0.5443583333399147,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

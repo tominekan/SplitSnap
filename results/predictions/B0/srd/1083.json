@@ -1,0 +1,50 @@
+{
+ "items": [
+  {
+   "name": "TACO ASADA",
+   "qty": 1,
+   "price": 1.59
+  },
+  {
+   "name": "TACO PASTOR",
+   "qty": 1,
+   "price": 1.59
+  },
+  {
+   "name": "QUESADILLA ASADA",
+   "qty": 1,
+   "price": 4.89
+  },
+  {
+   "name": "ORDEN CHIPS",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "Sub/Tt",
+   "qty": 1,
+   "price": 12.67
+  },
+  {
+   "name": "TO-GO",
+   "qty": 1,
+   "price": 13.78
+  },
+  {
+   "name": "YiSA",
+   "qty": 1,
+   "price": 13.78
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Gece\nRESTAURANTS, INC\nKing Taco # 30\nExquisitamente.._.\na la Mexicana 1!\nJOP RRERE BERBER EERO EERE R EER EHP S EH\n1 SOPE ASADA\nCON TODO\nCOPA $,ROJA\n1 TACO ASADA 1.59\nCON CEBOLLA\nCOPA $.ROJA\n1 TACO PASTOR 1.59\nNO CEBOLLA\nCOPA S.ROJA\n1 QUESADILLA ASADA 4,89\n1 ORDEN CHIPS 1.50\nSub/Tt] 12.67\nTax 8.75% 111\nTO-GO 13.78\nYiSA 13.78\nAcct: XXXXXXXXXXXXB3B1\nAuth: 042402\nTrans ID: 274999\nS/T 11:24pm\nCashier 12875 CYNTHIA\nTerminal 01 RECIBO # 10368\nNUMERO DE ORDEN\noz SH Sees eters tesesatang\nMuchas Gracias Por su Visita!\nFU tee er 4",
+ "checksum": null,
+ "runtime_s": 0.7020399158354849,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

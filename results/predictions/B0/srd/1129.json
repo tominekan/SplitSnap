@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 17.18,
+ "raw_text": "HIRO JAPANESE RESTAURANT\n3007 NE 163RD STREET\nNorth Miami Beach, FL 33160\n(305) 948-3687\nServer: HUGO Station: 2\nOrder #: 209744\nGuests: 2\n1 (L)Ton Katsu\n1 (L) Makimono\nSUB TOTAL:\nTax 1;\nTOTAL : $17.18\n>> Ticket #: 20 <<\n2/13/2018 1:09:45 PM\nTHANK YOU!",
+ "checksum": null,
+ "runtime_s": 0.41107537504285574,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

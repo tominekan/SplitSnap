@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "SAL",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "PALA, (SPL",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "VEDAN BENGAN SERTAY",
+   "qty": 1,
+   "price": 17.0
+  }
+ ],
+ "subtotal": 55.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "eee) Qete\nMAME: FARES\nCHECKE 7128.1\nClosed to Credit Cara\nDATE/TIME: 12/91/2018 6:06:02 PM\nSabi: OF\nSo happy about your visit!\n1 SAL $20.00\nCHICKEN (MuRGH)\nPALA, (SPL $18.00\n(CHEESE)\n1 VEDAN BENGAN SERTAY $17.00\nSubtotal $55.00\nTax 3,30,\nTotal before tip: 30)\nTip amount",
+ "checksum": null,
+ "runtime_s": 0.23214795789681375,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

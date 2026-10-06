@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "TAHU GORENG",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "CAK WE",
+   "qty": 1,
+   "price": 17000.0
+  },
+  {
+   "name": "PHO TAI CHINI R3",
+   "qty": 1,
+   "price": 63000.0
+  },
+  {
+   "name": "TEA",
+   "qty": 1,
+   "price": 11000.0
+  }
+ ],
+ "subtotal": 113000.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "TAHU GORENG 28,000\nCAK WE 17,000\nPHO TAI CHINI R3 63,000\nTEA 11,000\nSub Total 113,000\nServ, 7,0% 8,330\nPBi 10.0% 12,733\nte\n=\n<x\n>\n=\nWw\n>\nPHO NOODLE\nee\nGrand Total 140,0\nCREDIT CAR:",
+ "checksum": null,
+ "runtime_s": 0.5339656251017004,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

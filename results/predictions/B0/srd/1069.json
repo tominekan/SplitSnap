@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "Apple French Toast",
+   "qty": 1,
+   "price": 7.99
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "(734)236-4033\nServer: Jasmine & 12/19 8:02 AY\nCheck #7 Table 23\nApple French Toast $7.99\nCoffee ee)\nsubtotal\nTax\nTotal\n7,99 early bird breakfast special\nNonday- Friday 7am ~ 8am\nRiver village kayaking now open\nSunday-Thursday 7 :00am-8;00pm\nFriday/Saturday 7;00am-9:00Pm\nPay at the cash register\n/ Thank you!!",
+ "checksum": null,
+ "runtime_s": 0.37206183397211134,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

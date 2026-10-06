@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "w. Chicken Fried Rice",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Sweet / Sour Chicken",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 24.95
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.01,
+ "tip": null,
+ "total": 26.96,
+ "raw_text": "New China\n30 Noh Hil Ra.sulel”— 102\nsa, AZ 85205\nresiquoria 9886/9892\nWalk In,\naie. 03-12-2016 Ime 02pm __# 23\n30S\n1 Beefw, Broccoli\n8.25\nw. Chicken Fried Rice 2,00\n1 Sweet / Sour Chicken 7.95\n1 Chicken Chow Mein 675\nAmount: 24.95\nTAX(8.05%): 2.01\nTOTAL: 26.96\nThank you very much",
+ "checksum": null,
+ "runtime_s": 0.2799614991527051,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

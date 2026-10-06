@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "BUBUR GO",
+   "qty": 1,
+   "price": 40000.0
+  },
+  {
+   "name": "PUYUH GO",
+   "qty": 1,
+   "price": 6000.0
+  },
+  {
+   "name": "SATECATIZGO",
+   "qty": 1,
+   "price": 9000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 55000.0,
+ "raw_text": "2 #20.000\nBUBUR GO 40.000\nPUYUH GO 6.000\n3 93.000\nSATECATIZGO 9.000\n6 .OOxITEMS\nTOTAL 55.000\n55.000\nWalia)",
+ "checksum": null,
+ "runtime_s": 0.24880762491375208,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

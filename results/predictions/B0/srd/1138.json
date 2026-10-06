@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "jonton or Egg Drop or",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "Wonton Soup",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Tropical",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Tamal De Pollo",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 24.24,
+ "tax": 1.7,
+ "tip": null,
+ "total": null,
+ "raw_text": "ORDER: 9\nDine In\njonton or Egg Drop or $3.75\nMixed Dinner\nWonton Soup $0.00\n$3.00\n#01 Egg Roll\n$8.99\n#23 Juice Chinesse Chop\nSuey Honduran Style\nDinner\nTropical $5.00\n2 @ $2.50/12 oz\nTamal De Pollo $3.50\n@ $3.50/each\nSubtotal $24.24\nTax $1.70\n$25.94\nTotal\nOrder DAHGRRF9JPM70\nBring back this receipt for 10% off your next\nvisit! :)\nOnline: https://clover.com/t/\nDMHGRRFSJPM70\nMLL",
+ "checksum": null,
+ "runtime_s": 0.3861002919729799,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "MD] SOFT STEAMED CHEESEC",
+   "qty": 2,
+   "price": 20000.0
+  },
+  {
+   "name": "MD] SOFT STEAMED CHOCCCA",
+   "qty": 2,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "2 [MD] SOFT STEAMED CHEESEC 20,000\n2 [MD] SOFT STEAMED CHOCCCA 20,000\nTOTAL 40 ,000\nCASH\n100,009\nCHANGE 60 ,000",
+ "checksum": null,
+ "runtime_s": 0.4282108750194311,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

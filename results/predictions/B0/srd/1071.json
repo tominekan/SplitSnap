@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "190 Jericho Tpke\nFloral Park NY 11001\nTel. (616) 368-5584\nOrder 217510\n02/18/17 10:20 PM Check 101244\nTable 15 Cust. 2 Server 21 Kelly Bone\nSOKO OK OOO OOO OOOO OOOO ORIG\n1 Quesadilla\n1 Pot Roast\n1 Fish An Chips\n1 Side Salad\n1 Dft Shock to\n2 Dft Gui\nble\nSub-tota\nTotal Due:",
+ "checksum": null,
+ "runtime_s": 0.4243000829592347,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

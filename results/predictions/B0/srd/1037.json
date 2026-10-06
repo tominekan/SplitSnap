@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "PARTY PK 18-22",
+   "qty": 1,
+   "price": 139.0
+  },
+  {
+   "name": "PEPPERCORN SHRIMP",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 151.0,
+ "tax": 13.89,
+ "tip": null,
+ "total": 164.89,
+ "raw_text": "Store #1291\nPanda Express\nEverett, WA\n(425)710-0278\n3:41:24 PM\n3/16/2013\nOrder: 177437\nServer: Tameka J\n1 PARTY PK 18-22 139.00\nCHOW MEIN\nFRIED RICE\nFRIED/C MEIN\nORANGE CKN\nGRILL TERIYAKI CKN\nPEPPERCORN SHRIMP 12.00\nSubTotal 151.00\nTAX 13.89\nTotal 164.89\nCash 200.00\nChange $11\nJIC IOC ICI IOI IOI OOOO III II\nFOCI CIO IOI III IR IR II IR IR IR IK\nFREE ENTREE ITEM!\nHE VALUE YOUR OPINION!\nCall 1-888-51-PANDA(72632) or\nVisit pandaexpress.com/guest\nPek oe oe se\nHx 4 4 OE OE",
+ "checksum": true,
+ "runtime_s": 0.578540415968746,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

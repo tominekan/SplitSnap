@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "wo KH fom",
+   "qty": 1,
+   "price": 3.3
+  },
+  {
+   "name": "Counter-Eat In",
+   "qty": 1,
+   "price": 18.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "43:04 PM\n2013-06-10 Nig 84\nYOUR GUEST NUMBER 3 a\nTN-N-QUT BURGER ESCONDIDO\n2013-08-10 »3;02 PM\n247 2 480 2152\n€ashier: ADAM EL\nGheck : 25\nCounter-Eat In\ndb1Db1\nwo KH fom 3.30\nXS\n> GR S only >\niy\nFF Animal Ne\nlg Coke 4 1-70\n= — 1.50\nc 2.05\nCounter-Eat In 18.00\n' 00 44",
+ "checksum": null,
+ "runtime_s": 0.5115268342196941,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

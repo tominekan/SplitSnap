@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "02 1 ~~ $FiveLl",
+   "qty": 1,
+   "price": 7.69
+  },
+  {
+   "name": "03 1 Pitcher",
+   "qty": 1,
+   "price": 13.5
+  },
+  {
+   "name": "COUPON (F6",
+   "qty": 1,
+   "price": 10.18
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 23.5
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.02,
+ "tip": 0.94,
+ "total": 26.76,
+ "raw_text": "PIZZA HUT\nDINE_IN\nTicket #00100\nItem Count: 3\nENTERED BY TABLE #GUEST\nMAURICE 56 2\n030835 10/25/2018 8:30 PM\n01 1 $FiveLU 12.49 Z,\nHand toss\nC\nPepperoni\n02 1 ~~ $FiveLl 7.69\nBone OUT\nGar]eParm #\n03 1 Pitcher 13.50\nDosEquis\nCOUPON (F6) 10.18\nSubtota] 23.50\nService Fee 0,94\nSALES TAX 2.02\nBalance Due 26.76",
+ "checksum": null,
+ "runtime_s": 0.3992943747434765,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

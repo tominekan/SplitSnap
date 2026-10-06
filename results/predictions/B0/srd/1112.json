@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "CHICKEN MARSALA",
+   "qty": 4,
+   "price": 18.91
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 184.47,
+ "raw_text": "COLUMBUS RESTAURANT\n736 OCEAN DRIVE\nMIAMI BEACH, FL 33139\nTEL: 786-275-6944\nTABLE 94\nS GUESTS Gustavo\n2 FBD BLUE NARGARI 55.00 110.00!\n1 CHEESE BURGER 4.4\n4 CHICKEN MARSALA 18.91\nTAX and. SERUICE Det ail\nTE ARTICLES Tax Total\n| SALES TAX 72 143.00 10.01 153.0\n| RESORT TAX2Z\n| SERUICE20/\nTOTAL 184.47\nSATURDAY 01-27-2048 03:59PM\nKey 42-Haitr: 12-POS\nPLEASE RATE US SO ME CAN\nFOOD: iad we 6\nCe el 2 3 4 5 oO\nqMBIANCE: 12345 6",
+ "checksum": null,
+ "runtime_s": 0.5261601668316871,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

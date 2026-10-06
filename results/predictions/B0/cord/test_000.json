@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "EDC CINB NIAGA No: xx7730",
+   "qty": 1,
+   "price": 60000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 60000.0,
+ "raw_text": "-TICKET CP\n2 60,000 £0,000\n901016\nTOTAL DISC $\nTAX\nSubtotal\nTOTAL caty 2.00 60,000\n~ EDC CINB NIAGA No: xx7730 60.000\neres Tur.",
+ "checksum": null,
+ "runtime_s": 0.4580286671407521,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

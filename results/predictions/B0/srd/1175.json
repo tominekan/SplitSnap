@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "Whiskey",
+   "qty": 1,
+   "price": 6.25
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 6.25
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.31,
+ "tip": null,
+ "total": null,
+ "raw_text": "Bar Louie Huntsville\n365 The Bridge St. ,Suitel\nHuntsvilte, AL, 35866\nServer: 07/03/2015\nCashier:\n143/2 4:42 PM\nGuests: 1 20111\nReprint #: 1\nWhiskey . 6.25\nSubtota | 6.25\nTax 1.31\nTotal 1256\nCASH 10.00\nChange 2.44\nThank you for visiting us!\nAsk us about hosting\nyour party or private event\nat Bar Louie Huntsville!\nEat, Drink, Be Happy!\nhuntsvil le@bar]oujeamerica.com\n--- Check Closed ---",
+ "checksum": null,
+ "runtime_s": 0.6832744169514626,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

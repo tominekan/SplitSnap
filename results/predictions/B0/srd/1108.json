@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "0 Mongo B80\n‘661 stanford Ranch Rd.\nRocklin, CA 95677\n916-632-0028\nReceipt: songo-042441\nDate: Jan 28, 2010 5:48:07 PH\nServed by: Manager\nTea Price gty Value\nx\nA tax 7.254:\nTotal\ncash\n‘endered:\n‘change",
+ "checksum": null,
+ "runtime_s": 0.19591816677711904,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

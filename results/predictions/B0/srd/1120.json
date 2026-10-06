@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 21.55
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.91,
+ "tip": null,
+ "total": null,
+ "raw_text": "RED & HOT Il\n349 7 AVE. (CORNER 10ST)\nBROOKLYN, NY 11215\nTEL(718)309-2577\nTEL(718)309-8897\nDine In\nDate: 10-20-2018 Time: 12 37PM\nServer: WAITER\nTAB#: C2\nNo. of Guest |\n1 Vegetable Roll\nEgg Roll\n2 L35.Sesame chicken\n1 WR\n1 F/R\n1 (L)Veg Spare Ribs .BBS\nW/R\n7.65\nAmount: 21,55\nTAX(8.875%): 1.91\nTOTAL : 23. 46\nThane you very much.",
+ "checksum": null,
+ "runtime_s": 0.4488573749549687,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

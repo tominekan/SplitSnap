@@ -1,0 +1,50 @@
+{
+ "items": [
+  {
+   "name": "J avion Silver RX",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "Tavion Silver RX",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "DA Delsonico 14",
+   "qty": 1,
+   "price": 62.0
+  },
+  {
+   "name": "Truffle fries",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "1 Wac/Cheese",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Asparagus",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "1 BAKED cooKre",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 742.0,
+ "tax": 2.88,
+ "tip": 25.56,
+ "total": null,
+ "raw_text": "seo sent\n103/1 1959 6ST\nZ5nug’17 8:03M\nDining\nJ avion Silver RX 16.00\nmargarita rx\n) 1} Staub\nTavion Silver RX 16.00\n: margarita rx\n1 DA Delsonico 14 62.00\n) | Truffle fries 13.00\n_ 1 Wac/Cheese 12.00\n| Asparagus 13,00\n) 1 BAKED cooKre 10.00\n4 SUBTOTAL 742.00\n) Add-On Tax Food 70\n7\nAdd-On Tax Bev 2\nResort Tax 2.88\nTOTAL UE $154.7\nFor your conventence\nsuggested gratuities\n‘are shown below\n18% gratuity $25.56\n20% gratuity $28.40\n22k gratuity $31.24",
+ "checksum": null,
+ "runtime_s": 0.31180495815351605,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "Net Tote",
+   "qty": 1,
+   "price": 1.05
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 11.97,
+ "raw_text": "Net Total: $11.97\nNet Tote $1.05\nTOTAL: $13.03\nCASH\nGet FREE Smal] French Fries!\nTake our 1-minute survey\nWithin 72 hours\nMOOYAH, com/survey",
+ "checksum": null,
+ "runtime_s": 0.2680706672836095,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "ICED TEA",
+   "qty": 1,
+   "price": 4.5
+  },
+  {
+   "name": "ROMBO CARCIOFI FUNGH",
+   "qty": 1,
+   "price": 48.0
+  },
+  {
+   "name": "SPARKLING WATER LARG",
+   "qty": 1,
+   "price": 8.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "| Ee eae oy see\nNorth Ca\n= Beverly Hills, cA 90210\nTUE JANUARY a 2018\nCK #278470— 1\n| oa TABLE a\n1 ICED TEA $4.50\n1 ROMBO CARCIOFI FUNGH $48.00\n1 SPARKLING WATER LARG $8.50\n1 BRANZINO GRIGLIATO $40\n1 CARPACCIO RED SNAP 33\nFOOD\nSUB-TOTAL\nTAX\nTOTAL\nLeis",
+ "checksum": null,
+ "runtime_s": 0.4580952909309417,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

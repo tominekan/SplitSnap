@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": ": KFC\n= Restaurant #C160014\n3680 Hempstead Turnpike\nLevittown\n(516)735-3508\nTicket #2684\n2016-07-08 9:16 PM\nC160014 2 117 2884",
+ "checksum": null,
+ "runtime_s": 0.30161616718396544,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

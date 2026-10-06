@@ -1,0 +1,2 @@
+B0 CORD test: {'item_P': 0.514, 'item_R': 0.134, 'item_F1': 0.213, 'checksum_pass': 0.02, 'subtotal_acc': 0.092, 'subtotal_n': 65, 'tax_acc': 0.098, 'tax_n': 41, 'total_acc': 0.126, 'total_n': 95}
+B0 SRD test: {'CER': 0.39295035310666687, 'CER_median': 0.3132832080200501, 'total_acc': 0.23972602739726026, 'total_n': 146}

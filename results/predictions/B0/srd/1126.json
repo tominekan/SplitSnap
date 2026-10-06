@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "SAUV BLANC JB",
+   "qty": 2,
+   "price": 18.0
+  },
+  {
+   "name": "QUICHE LORATNE",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "06/02 2:44pT OT AL",
+   "qty": 1,
+   "price": 39.18
+  }
+ ],
+ "subtotal": 41.0,
+ "tax": null,
+ "tip": 7.38,
+ "total": null,
+ "raw_text": "| FRENCH CAFE & WINE BAR\n} o121a Table 3 #arty 2\n/) CHANDA R gurck: 8 1:56p 06/02/15\n2 SAUV BLANC JB 18.00\n11.00\n) 1 VEGGIE SANDWICH\n+ QUICHE LORATNE 12.00\nSub Total: 41.00\nOPEN SDISCOUNT *Discount®: 1) 00\nT 1,80\nSub Total: 31.80\nGRATUITY 18 7.38\n| 06/02 2:44pT OT AL ‘ 39.18\npears. aenillll\n| THANK YOU!\nPLEASE CONE AGAIN!\nWINE TASTING 1ST TUESDAY\nWE TAKE RESERVATO\nCALL US AT 954-565-\nwill SAGECAFE.NET\nWY",
+ "checksum": null,
+ "runtime_s": 0.4773321666289121,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "Chicken Tort",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Horchata",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Mb",
+   "qty": 1,
+   "price": 2.0
+  }
+ ],
+ "subtotal": 9.0,
+ "tax": 0.97,
+ "tip": null,
+ "total": 9.97,
+ "raw_text": "BRASAS RESTAURANT\nCashier: Tany\n02-Mar-2019 12\n1 Chicken Tort $6.50\n1 Horchata $0.00\nMb $2.00\n1 Custom Item 50.50\nSubtotal $9.00\nTax $0.97\nTotal $9.97\nOrder T237THOQOT7RC\nOnline: https://clover.com/1/T23. 7THOQOT7RC",
+ "checksum": false,
+ "runtime_s": 0.3535682500805706,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

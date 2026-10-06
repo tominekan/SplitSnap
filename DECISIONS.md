@@ -59,3 +59,35 @@ Decision and tradeoff report for the SplitSnap preliminary experiments. Entries 
 - Alternatives considered: (a) hand-labelling totals for all 193 (most accurate, about an hour of work); (b) last total-like line instead of largest (fails when tip suggestions or "total with tip" follow).
 - How to test it: hand-check 20 random derived totals against the images; I spot-checked about 20 while writing the rule (e.g. 1001 -> 69.25, 1072 -> 21.69, 1150 -> 80.45, 1102 correctly rejected: subtotal 29.85 > total 16.24).
 - Evidence: count printed by `python -c "from data import ..."` during development; the evaluation reports how many SRD test receipts had a usable total.
+
+## D08. Traditional pipeline (classic CV + Tesseract) instead of an LLM/VLM
+- Decision: every stage is hand-written classic CV or rules on top of Tesseract. No learned layout model, no LLM, no VLM, no paid API.
+- Why: the course asks for a traditional baseline we can measure and explain, and every stage can be switched off as an ablation. It runs offline on a laptop (~0.2-1 s per image), costs nothing, and gives a floor that later learned methods must beat.
+- Tradeoffs: much lower accuracy than modern document models on messy photos; rules are brittle across receipt formats (CORD vs US); lots of hand-tuned thresholds.
+- Alternatives considered: (a) **Donut** (OCR-free encoder-decoder fine-tuned on CORD; reported ~90 tree-edit accuracy on CORD) would beat us by a wide margin on CORD but needs a GPU to fine-tune and generalizes poorly to US receipts without new labels; (b) **LayoutLMv3** on top of OCR boxes (token classification into menu.nm / price / total) would replace our hand rules in task 6 and needs labelled boxes (CORD has them); (c) a **VLM** (GPT-4o, Claude, Qwen2-VL) prompted for JSON would likely be the most accurate on US receipts with zero training but costs per call, needs network, and is hard to ablate. We would switch once the classic baseline is documented, starting with LayoutLMv3 as a drop-in for the parser.
+- How to test it: run Donut (CORD fine-tuned checkpoint) and a VLM on the same CORD test / SRD test splits with our metrics.
+- Evidence: B0 scores in `results/logs/score_B0.txt` (CORD item F1 0.213, SRD CER 0.393) show how far a naive traditional pipeline is from usable.
+
+## D09. Tesseract configuration
+- Decision: Tesseract 5.5.3, LSTM engine (default `--oem`), language `eng` for both datasets, one `image_to_data` call per image (word boxes + text rebuilt from Tesseract's block/paragraph/line ids). B0 uses the default page segmentation `--psm 3` (fully automatic). The psm is then treated as a tunable option in iteration 2 (D13).
+- Why: psm 3 is what a naive user gets, which is the right baseline. One `image_to_data` call gives both the text (for regex/CER) and the boxes (for the layout parser) without running OCR twice.
+- Tradeoffs: `eng` lacks Indonesian words, so some CORD item names are misread. psm 3 often splits a receipt into a name column and a price column as separate blocks, which destroys "name ... price" lines (visible on CORD validation: `Subtota]:` followed by no number).
+- Alternatives considered: (a) `eng+ind` for CORD (better names, slower, and not the US use case); (b) `--psm 4` (single column of variable size text) or `--psm 6` (one uniform block), usually better for receipts; (c) a learned OCR (EasyOCR/PaddleOCR, task 8).
+- How to test it: psm sweep on the SRD validation split (done in task 5, see D13); `eng` vs `eng+ind` on CORD validation.
+- Evidence: `results/logs/score_B0.txt`; psm sweep in `results/preprocess_sweep.md`.
+
+## D10. Regex parsing rules (baseline parser)
+- Decision: per text line: (1) find a price at the end of the line (USD `d.dd` with optional `$` and thousands commas; IDR thousands-grouped or 4+ digit numbers), allowing a 1-2 letter tax flag after it; (2) if the line matches a keyword, fill that field, first occurrence wins, checked in the order subtotal (`sub total`, `subttl`, tolerant of `0` for `o`), tax (`tax`, `pb1`, `ppn`, `vat`, `pajak`), tip (`tip`, `gratuity`, `service`, `svc`), total (`total`, `jumlah`, `amount due`, `balance due`, `grand`); (3) skip payment/noise lines (`cash`, `change`, `card`, `visa`, `item`, `qty`, `%`, ...); (4) otherwise it is an item: optional leading 1-2 digit quantity (`2`, `2x`), the rest is the name, which must contain at least 2 letters. Rules were written up front and checked on CORD validation only.
+- Why: this is the simplest rule set that implements the task's B0 definition, and it is easy to explain on a slide.
+- Tradeoffs: depends entirely on Tesseract's line grouping; a name and its price split onto different lines is lost. "First occurrence wins" fails when a receipt prints a running subtotal twice (SRD 1001 prints "Sub Total" twice). Tip-suggestion lines are skipped via `%`, which also drops lines like "PB1 10%" unless they matched tax first (they do, since keywords are checked first).
+- Alternatives considered: (a) layout-aware rows from word boxes (task 6); (b) a CRF/LayoutLMv3 token classifier trained on CORD train (learns field types instead of keywords).
+- How to test it: compare regex vs layout parsing on identical OCR output (done in task 6/7).
+- Evidence: CORD validation B0: item P 0.474 / R 0.116 (development only). Test numbers in `results/summary.md`.
+
+## D11. Pipeline engineering: OCR cache and parallelism
+- Decision: run images in 8 worker processes; cache each image's OCR output (text, boxes, stage timings) in `data/cache/ocr/` keyed by (dataset, image, rectify mode, preprocessing options, psm). Runtime per image = rectify + preprocess + OCR + parse time measured when the OCR stage actually ran (stored in the cache entry), so cached reruns report the original timings.
+- Why: the ablation re-runs the same OCR many times (regex vs layout share OCR); caching makes `python src/evaluate.py` cheap to rerun. Timings stay honest because they are stored, not re-estimated.
+- Tradeoffs: timings are measured with 8 processes in parallel, so per-image wall time is somewhat higher than single-process. Stale cache is possible if you change rectify/preprocess code without changing options: use `python src/evaluate.py --no-cache` (wipes `data/cache/ocr`).
+- Alternatives considered: no cache (simplest, ~4x slower to rerun); caching only parser inputs in memory.
+- How to test it: run `--no-cache` and compare the table.
+- Evidence: `results/logs/pipeline_B0.txt` (298 receipts in 20 s).
