@@ -1,0 +1,14 @@
+numpy
+opencv-python-headless
+scikit-image
+pytesseract
+pandas
+matplotlib
+rapidfuzz
+jiwer
+datasets
+pillow
+shapely
+nbformat
+nbconvert
+ipykernel

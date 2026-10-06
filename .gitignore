@@ -1,0 +1,8 @@
+data/*
+!data/README.md
+tools/
+.venv/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
