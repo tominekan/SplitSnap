@@ -64,3 +64,8 @@ Chronological record of what was done, commands run, and what failed. Times are 
   - CORD oracle only exists for the 37/100 test receipts with a `roi`; the other 63 are unwarped, so on CORD the oracle row is mostly the no-rectify row.
   - On SRD, rectification helps the mean CER (0.265 -> 0.245) but not the median (0.192 -> 0.198): it rescues bad cases and slightly hurts some good ones.
   - Checksum pass rates are tiny (2-7%), and even ground truth passes only 54%, so the checksum is not yet a useful signal on CORD.
+
+## Task 9: Failure analysis
+- Wrote `src/failures.py`; `python src/failures.py` -> `results/failures.md`, `results/failures_cord.json`, `figures/rectify_failures/` (log `results/logs/failures.txt`).
+- Best non-oracle configuration by CORD F1: `+rectify+preprocess+layout`. **53 of 100 CORD test receipts have item F1 = 0**, so "8 worst" is a tie; I broke ties by the number of true items.
+- Automatic cause guesses (is the true price / name anywhere in the OCR text?) were then checked by looking at every image; I wrote a one-line note for each of the 12 cases (`MANUAL_NOTES`), which replaces the automatic guess. Main causes: digit misreads on faint/small/coloured print, two-line item formats, crumpled paper; for rectification, non-white paper, white-on-white backgrounds, and a plastic sleeve.

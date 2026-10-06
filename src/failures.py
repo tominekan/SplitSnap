@@ -16,8 +16,21 @@ from data import load_cord, load_srd, srd_split
 from metrics import match_items
 
 N_CORD, N_SRD = 8, 4
-# Hand-written notes after looking at the images (id -> cause). Filled in during review.
-MANUAL_NOTES = {}
+# Hand-written notes after looking at the images (id -> cause); they override the automatic guess.
+MANUAL_NOTES = {
+    "test_059": "faint low-contrast thermal print: lines are found but digits are misread (78,000 -> 78006, 47,500 -> 47540)",
+    "test_014": "small purple print: leading price digits dropped or misread (38,000 -> 3,000; 65,000 -> 43,000)",
+    "test_061": "two-line item format (name row, then '1x 6500' price row) with discount rows in between; prices also misread ('6 S00')",
+    "test_075": "very faded print: after Sauvola binarization almost no text survives, OCR returns ~nothing",
+    "test_020": "faded print held in hand: prices split by a space or misread ('64 200', '4? 500'), so no price token matches",
+    "test_045": "OCR reads the item names but drops the whole right-hand price column (crumpled paper, curved lines)",
+    "test_004": "heavily crumpled paper with faint print: OCR output is mostly garbage",
+    "test_024": "two-line item format with 'Rp.' prices on the row below the name, and 'Rp.56.000' misread as 'Ro esée000'",
+    "srd_1169": "pink receipt is not low-saturation 'paper', so the paper mask misses it; the edge mask then locks onto the checkered tablecloth beside it",
+    "srd_1104": "a glossy plastic sleeve and fold split the receipt; the paper mask finds only the header band above it",
+    "srd_1176": "white receipt on a white napkin: no contrast to the background, the detected quad spans the napkin and is implausible, so we crop a region much larger than the receipt",
+    "srd_1001": "crumpled receipt on a light grey table: the quad follows a table edge on the right, and the bounding-box crop clips the left side of the text",
+}
 
 
 def price_in_text(price, text):
@@ -66,11 +79,22 @@ def main():
     best = ours.loc[ours.CORD_item_F1.idxmax(), "config"]
     per = pd.read_csv(RESULTS / "cord_per_receipt_f1.csv", index_col="id")[best].dropna()
     cord = {r["id"]: r for r in load_cord("test")}
-    worst = per.sort_values(kind="stable").index[:N_CORD]
+    # ties (many receipts have F1 = 0) are broken by the number of true items: more items lost ranks worse
+    n_items = {i: len(cord[i]["gt"]["items"]) for i in per.index}
+    worst = sorted(per.index, key=lambda i: (per[i], -n_items[i], i))[:N_CORD]
     L = ["# Failure analysis", "",
          f"Best non-oracle configuration by CORD item F1: **{best}** (from `results/summary.csv`).",
-         "Cause guesses come from automatic checks against the OCR text (`src/failures.py`), reviewed by hand.", "",
-         f"## {N_CORD} worst CORD test receipts by item F1", ""]
+         "Causes: automatic checks against the OCR text (`src/failures.py`), then reviewed by hand by looking at "
+         "each image; the hand-written notes (MANUAL_NOTES in the script) replace the automatic guess.", "",
+         "**Patterns from the review** (8 CORD + 4 SRD cases): (1) OCR digit errors on faint, small or coloured "
+         "thermal print are the main CORD failure; one wrong digit makes an otherwise perfect item count as "
+         "wrong. (2) Two-line item formats (name row, then a qty x unit-price row, sometimes with discount rows) "
+         "are not handled by the row parser. (3) Crumpled or curved paper makes Tesseract drop whole columns. "
+         "(4) Rectification fails when the paper is not white (pink receipt), when the background is also white "
+         "(napkin), or when a sleeve or fold splits the receipt; the bounding-box crop can then clip text.", "",
+         f"## {N_CORD} worst CORD test receipts by item F1", "",
+         f"{int((per == 0).sum())} of {len(per)} CORD test receipts have item F1 = 0; ties are broken by the number "
+         "of true items (more items lost ranks worse).", ""]
     out = []
     for rid in worst:
         gt = cord[rid]["gt"]
