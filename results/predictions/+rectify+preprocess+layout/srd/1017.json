@@ -17,7 +17,7 @@
  "total": 11.04,
  "raw_text": "/\nJ UMIX\n4327 N. Expressway 77/83\n956-350-8686\nBrownsville, TX 78521\n956-543-5089\nTicket #215406 User : KRIST\nStation:1 Sales Rep KRIST\n4/24/2016 6:30:31 PH\nItem Qty Price Total\nDescription\n100027 1 5.25 5.25\nPARIS\n100026 1 4.95 4.95\nLE CLASSIQUE\nSubtotal 10. 20\nTax 0.84\nTotal 11.04\nTender:\nCASH 20. 00\nChange (CASH) -8.96\nNumber of items purchased:2",
  "checksum": true,
- "runtime_s": 1.8687667502090335,
+ "runtime_s": 1.8685810831452727,
  "rectify_info": {
   "fallback": false,
   "quad": [

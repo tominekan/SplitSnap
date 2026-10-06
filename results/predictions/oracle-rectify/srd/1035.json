@@ -47,7 +47,7 @@
  "total": null,
  "raw_text": "Argonaut DinerZzvuu ve Deliver\nPlease Pay at Cashier\n1084 Yonkers Avenue Yonkers, NY 10704\n(914) 237-5055\nCopy of Receipt\n1 Coffee $1.45\n1 Tea $1.45\n1 Waffle $5.50\n1 Old Fashion French Toast $4.50\n1 Side Home Fries $2.95\n1 Banana $2.95\n1 Whipped Cream $2.50\n1 W/ 2 EGGS $2.95\nSubtotal: $24.25\n12 Comments\n@ comment",
  "checksum": null,
- "runtime_s": 0.7264114581048489,
+ "runtime_s": 0.7263674581281521,
  "rectify_info": {
   "fallback": false,
   "quad": [

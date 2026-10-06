@@ -42,7 +42,7 @@
  "total": 1.61,
  "raw_text": "CARL'S JR\nRestaurant 1100580\n11961 Beach Bivd.\nStanton, CA 90680\n(714)895-5114\n9/27/2017 12:13:06 PH\nOrder 375719 Cashier: Alvaro I\n1 Box #1 0.00\n1 All Star Meal #1 1.00\nDb1 Chbgr 0.00\nHot Dog 0.00\nBaked Cookie 0.00\nLg Fries 3.00\nlg Bev Bar 3.00\nSubTotal 7.00\nTax 0.61\nTotal 1.61\nCash 8.00\nChange 0.39\nTo Go\nThank you for visiting!\nTicket #4)\nTtens in bag(s): 4",
  "checksum": false,
- "runtime_s": 2.3684710839297622,
+ "runtime_s": 2.3683885830096187,
  "rectify_info": {
   "fallback": false,
   "quad": [

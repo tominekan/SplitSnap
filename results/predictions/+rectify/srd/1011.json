@@ -37,7 +37,7 @@
  "total": 64.43,
  "raw_text": "19.50/bs\n$8.50\n‘Reg $0.00\nCreamed Corn{Small] $3.35\nghorn Mac & Cheese[sm] $4.20\nlate Cake[Slice] $3.95\ntain Soda $2.25\nEen een\nCA Sales Tax $5.32\nTotal $64.43\nWells Fargo $64.43\nChange $0.00\nThank You for Visiting\nPlease visit our website\nwww. smokecitymarket.com\nEnjoy our BBQ? 'Like' us on\nfacebook and Yelp\nPlease rate us on Zagat\nWw .Zagat com/r/smoke-city-market-van-nuy",
  "checksum": null,
- "runtime_s": 0.8118921658024192,
+ "runtime_s": 0.8118469588530388,
  "rectify_info": {
   "fallback": false,
   "quad": [

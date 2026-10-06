@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "HAWW/I ETHIOPIAN RESTAU\n1125 QUEEN ST\nALEXANDRIA, VA 22314 ‘\n7037179740\nORDER: Table 2\nDine In\nCashier: Mosa ane\n13-Jul-2018 8:53:47P.\nTransaction 000016\nGuest 1\n1 26.Fish Goulash\n7 30.Dullet\n1 34, Vegetarian Dish %\nSubtotal",
  "checksum": null,
- "runtime_s": 0.5868416659068316,
+ "runtime_s": 0.5868172079549367,
  "rectify_info": {
   "fallback": false,
   "quad": [

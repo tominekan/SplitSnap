@@ -62,7 +62,7 @@
  "total": null,
  "raw_text": "Gordon Ramsay Steak\nParis Las Vegas\nsay Steak\nCheck: 2042967 Table: T-35\nonberto Guests: 2\n2\nRegular\n1 Pina's Cup 14.00\n2 The Orifter 28.00\n14,00\n1 Kobe Beef Slider 18.00\n1 New York 63.00\nJ Aner Kobe Filet 79.00\n1 Lobster Tail 38.00\n1 Potato Puree 12.00\n1 Grlld Asparagus 13.00\n1 Peppercorn 6.00\n1 Pepsi 6.00\n1 Choc Pot De Crem 13.00\nSubtotal 290,00\n23.49\n313.49",
  "checksum": null,
- "runtime_s": 0.4400829579681158,
+ "runtime_s": 0.4395308749712967,
  "rectify_info": {
   "fallback": null,
   "quad": null

@@ -32,7 +32,7 @@
  "total": 118.46,
  "raw_text": "Bombay Grill House\n764 OTH AVE\nNEW YORK, NY 10019\n2129771010\nAny Special Offer will be at End of Receipt\nORDER: Table 2\nDine In\n30-Jun-2018 10:36:38P\nTransaction 104379\n1. Onion Bhaja $5.95\n1 Lamb Vindaloo $14.95\nmedium\n1 Konkan Fish Curry $16.95\nmedium\n1 Shrimp Briyani $16.95\nmedium\n1 Garlic Naan $4.00\n1 Hess Cabernet $50 00\nSubtotal “aN $108.80\nTax $9.66\nTotal $118.46\nCREDIT CARD AUTH $118 46\nMASTERCARD 0148\nTotal 154.00\n2\nPr-TAVLAaritnh AR STW ARICA OC KD",
  "checksum": false,
- "runtime_s": 2.4053297920618206,
+ "runtime_s": 2.4045599590954225,
  "rectify_info": {
   "fallback": false,
   "quad": [

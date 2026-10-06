@@ -27,7 +27,7 @@
  "total": 47.3,
  "raw_text": "E1 Charro Cafe Ventana\n6910 E SUNRISE DR\nServer: Ana 06/24/2018\nTable 24/1 8:00 PM\nGuests: 2\n#30076\nCoors Light 5.00\nIce Tea 3.25\nShrimp Fajita 18.95\nStuffed Chicken 17.95\nSubtotal 45.15\nTax 25\nTotal 47.30\nBalance Due A? .3C\nFOR FREE!!!",
  "checksum": false,
- "runtime_s": 0.40991625003516674,
+ "runtime_s": 0.4098812080405878,
  "rectify_info": {
   "fallback": false,
   "quad": [

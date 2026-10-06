@@ -17,7 +17,7 @@
  "total": null,
  "raw_text": "257 LIDIA H |\nYour Order: 1974\nhk 1924 Jun28'17 05:36P Gst 0\nDrive Thru\n1 Burrito Cmb 8.28\nChk Ranchero Bur\nADD\nAvo Slcs\nInd Chips\nSM DRINK\nCoke\n2 Bur-BRC @ 1,89 3.78 |\nCash 13.25 \\\nFood 12.06\nTax 1.06\nPayment 13.12\nChange Due 0.13\n257 Check Closed\nJun28' 17 05:38PM",
  "checksum": null,
- "runtime_s": 1.0323415829334408,
+ "runtime_s": 1.032305208879734,
  "rectify_info": {
   "fallback": false,
   "quad": [

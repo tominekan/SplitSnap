@@ -17,7 +17,7 @@
  "total": 40000.0,
  "raw_text": "i A apie Wilk Tea 620,000 20,000\nj ql EPeirendl Milk Tea 620,000 20,000\n100%\nTotal: 40,000\nCash: 40,000\nCHANGE 0",
  "checksum": null,
- "runtime_s": 0.5459641250781715,
+ "runtime_s": 0.545917000112695,
  "rectify_info": {
   "fallback": false,
   "quad": [

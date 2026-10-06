@@ -27,7 +27,7 @@
  "total": 21.76,
  "raw_text": "F) Gato Nogro\n300 Hart faon Ave\nNew Orleans, LA 70124\nPhone: (504) 480-0107\n1123 Daniel P\nTol 90/1 Chk 4650 Gst 1\nAug23'19 12:07PM\n*** Memo Check #**\n1 Fajita Vegetable 7.19\n1 Taco Shrimp Fresh Catch 3 12.00\n*DON'T MAKE\n1 Hater 0.00\nFood 19.75\nTax 2.01\nTotal 21.76",
  "checksum": null,
- "runtime_s": 1.8732045406941324,
+ "runtime_s": 1.8730352498068896,
  "rectify_info": {
   "fallback": false,
   "quad": [

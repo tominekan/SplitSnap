@@ -32,7 +32,7 @@
  "total": 69.25,
  "raw_text": "Roosevelt Field\nO480 TABLE 101 #Party 3\nSTEPHEN R SvrCk: 4 16:43 04/25/15\nCoffee 2.95\nChicken Parmesan 17.95\nPrime Top Sirloin 25.95\nThe Bacon-Cheese Burger 13.95\nCoffee 2.95\nSub Total: 63.75\nTax: 5.50\nSub Total: 69.25\n04/25 17:42 TOTAL: 69.25\nGratuity Not Included\nSuggested Gratuity:\n20% 13.85\n18% 12.47\n15% 10.39\nIt's been a pleasure to serve you.\nThank you for dining with us",
  "checksum": true,
- "runtime_s": 2.2128048739396036,
+ "runtime_s": 2.2122694579388735,
  "rectify_info": {
   "fallback": null,
   "quad": null

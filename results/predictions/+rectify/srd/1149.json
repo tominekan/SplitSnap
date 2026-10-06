@@ -22,7 +22,7 @@
  "total": 5.29,
  "raw_text": "pine In\npenny’s Restaurant #8129\n160 Eastern Boulevard\nCanandaigua, NY 14424\n(585) 394 4880\nfey Riots\n8/30/2018 11:00:11 PM\nOrde 429742 Server: Bethany F\nTable; 12 Gu ee\n1 No Beverage 0,00\n1 No Beverage 0.00\n1 Milk Shake 3.99\nShake Choc\nSubTotal 3.99\nTax 0.30\nGratuity 1.00\nTotal 5.29",
  "checksum": true,
- "runtime_s": 0.4112097090110183,
+ "runtime_s": 0.4111671680902873,
  "rectify_info": {
   "fallback": false,
   "quad": [

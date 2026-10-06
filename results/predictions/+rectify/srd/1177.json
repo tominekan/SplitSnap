@@ -27,7 +27,7 @@
  "total": 47.3,
  "raw_text": "El charro Cafe Ventana\n6910 E SUNRISE OR\n06/24/2018\nServer: Ana\nTable 24/1 8:00 PM\nguests: 2\nsee #30076\nCoors Light 5.00\nIce Tea 3.25\nShrimp Fajita 18.95\nStuffed Chicken 17.95\nSubtotal 45.15\nTax Gals\\\nTotal 47,30\nBalance Due 47.90\nJ FOR FREE!!!",
  "checksum": false,
- "runtime_s": 0.43309191707521677,
+ "runtime_s": 0.4326569170470975,
  "rectify_info": {
   "fallback": false,
   "quad": [

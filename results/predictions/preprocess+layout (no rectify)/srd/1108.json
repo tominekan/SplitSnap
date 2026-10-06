@@ -17,7 +17,7 @@
  "total": null,
  "raw_text": "Go Nongo BBQ\n6661 Stanford Ranch Rd.\nRocklin, CA 95677\n916-632-6828\nReceipt: mongo-042442\nDate: Jan 28, 2018 §:48:07 PN\nServed by: Manager\nIten Price Qty Value\nBBQ Dinner $10.99 x4 847.15\nbeverage $2.29 x2 $4.91\nItems count: 6\nSubtotal: $48 .54\nCA Tax 7.254%: $3.52\notal $5) 06\nCash\nTendered: $52.06\nChango: $0 00",
  "checksum": null,
- "runtime_s": 1.5519889581482857,
+ "runtime_s": 1.5509934160550074,
  "rectify_info": {
   "fallback": null,
   "quad": null

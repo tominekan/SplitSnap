@@ -17,7 +17,7 @@
  "total": null,
  "raw_text": "Bar\nor #hsBleu 13.95\n— rte Rcd 15.95\nPrivate Rooms\nAvailable for\nYour Next Party!",
  "checksum": null,
- "runtime_s": 0.34650374995544553,
+ "runtime_s": 0.34645883400798994,
  "rectify_info": {
   "fallback": false,
   "quad": [

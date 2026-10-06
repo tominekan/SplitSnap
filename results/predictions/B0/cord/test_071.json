@@ -12,7 +12,7 @@
  "total": null,
  "raw_text": "fg#000\nSub Total\n198000\nTuna\na 200200\nKernbalian 22000",
  "checksum": null,
- "runtime_s": 0.2581686261110008,
+ "runtime_s": 0.2581598749952718,
  "rectify_info": {
   "fallback": null,
   "quad": null

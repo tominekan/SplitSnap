@@ -47,7 +47,7 @@
  "total": null,
  "raw_text": "Jericho Turnpike\nFloral Park, NY 11001\nTel: 718.343-4816\nwon .pancysrestaurant .net\n106 Tom\nCheck \"Guests: 2\nTable: 34-1\n08/24/2018. 08:22PM\nDI NE IN\n1 g] Imp White 1.18\n1 Blue Hoon Tap 8.00\n1 MozzarellasTonato 9.95\n1 Pork Quesadilla 9.95\n1 Fren Onion Soup 5.95\n1 Pork Chop 21,95\n1 Hanger Sizzle 24.95\n‘SUBTOTAL 86.50\nTax 7,88\nTNTAL DUE $94.18",
  "checksum": null,
- "runtime_s": 0.3862946250010282,
+ "runtime_s": 0.38621295799021027,
  "rectify_info": {
   "fallback": false,
   "quad": [

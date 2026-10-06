@@ -26,6 +26,6 @@ Field accuracy denominators: subtotal n=65, tax n=41, total n=95 (receipts where
 | +rectify+preprocess+layout | **0.245** | 0.198 | 0.514 | 0.929 | 0.786 | 0.059 | 2.08 |
 | oracle-rectify | **0.320** | 0.251 | 0.336 | 1.000 | 1.000 | 0.000 | 0.59 |
 | oracle-rectify+preprocess+layout | **0.178** | 0.132 | 0.527 | 1.000 | 1.000 | 0.000 | 2.12 |
-| preprocess+layout (no rectify) | **0.265** | 0.192 | 0.459 | - | - | - | 3.16 |
+| preprocess+layout (no rectify) | **0.265** | 0.192 | 0.459 | - | - | - | 3.15 |
 
 CER is computed on lowercased text with whitespace collapsed and empty lines dropped (DECISIONS.md D17). Rectification corner error is normalized by the image diagonal. Runtimes are wall-clock per image with 8 images processed in parallel on an 8-core laptop.

@@ -17,7 +17,7 @@
  "total": 157.51,
  "raw_text": "316-2942922\nTable #2\nTrans #: 137017 Serv: Manager 2\n4/20/2018 8:29 PM 34\n1 Shrimp Scampi $27. 0\n2 Chicken Milanese $46.00\n1 Veal Milanese $27. 00\n3 Grey Goose $30. 00\n1 Pineapple Juice $3. 00\n1 Belvedere $12.00\n1 Becks Non Alcoholic $6. 00\n1 Corona $6. 00\nI\nNet Total: $145. 00\nTax $12.51\nAmount Due: $157.51",
  "checksum": null,
- "runtime_s": 0.7428672080859542,
+ "runtime_s": 0.7428309999868361,
  "rectify_info": {
   "fallback": false,
   "quad": [

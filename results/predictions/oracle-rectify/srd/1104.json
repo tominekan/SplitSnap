@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "Don Juan Mexican Restaurant\n124 East Park Ave\nLong Beach, NY 11561\n(516) 442-4944",
  "checksum": null,
- "runtime_s": 0.3961871259380132,
+ "runtime_s": 0.3961817499753124,
  "rectify_info": {
   "fallback": false,
   "quad": [

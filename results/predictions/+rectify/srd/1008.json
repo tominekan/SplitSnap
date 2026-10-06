@@ -32,7 +32,7 @@
  "total": 24.47,
  "raw_text": "Dona Mercedes Restaurant\n1030 1/2 San Fernando Rd\nSan Fernando CA 91341\nVero\nCENTERL\n1 CHicharon $2.25\n3 Pupusa Queso $6.75\n1 Platanos Orden $7.75\n1 Diet coke $1.50\n2 Quesadilla salvadorena $4.00\nSUBTOTAL: $22.25\nTAX: $2.22\nTOTAL: $24.47\nTIP SUGGESTIONS\n18%: $4.40\n20%: $4.89\n25%: $6.12\nThank You!",
  "checksum": true,
- "runtime_s": 0.5896186670288444,
+ "runtime_s": 0.5892482920871771,
  "rectify_info": {
   "fallback": false,
   "quad": [

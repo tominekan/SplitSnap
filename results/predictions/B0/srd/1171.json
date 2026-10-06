@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "DATE AND TIME PAX TABLE\n266 09/12/2012 4:14 PH SZ\nCASHIER :casHIER\nWATTER :waITER\nFRENCH FRIES\nOPEN Foop\nVAT NO\nASEATHANK",
  "checksum": null,
- "runtime_s": 0.2925731251016259,
+ "runtime_s": 0.2925700830774076,
  "rectify_info": {
   "fallback": null,
   "quad": null

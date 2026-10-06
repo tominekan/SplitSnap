@@ -12,7 +12,7 @@
  "total": 13.13,
  "raw_text": "The Shawarma Factory\n14817 S, Western Ave Apr 10, 2019\nGardena, CA 90249 12:34 PM\nVince\nes\nTicket: #29 Visa 7286\nAuthorization 173245\nReceipt O3WE\nVISA DEBIT\nAID Ad 00 00 00 03 10 10\n7 FOR HERE\nFlame Broiled Chicken $11.99\n1/2 Chicken, Hummus , House Salad\nSubtotal $11.99\nSales Tax $1.14\na\nTotal $13.13\nte. Ce eS ae Te ee mae as",
  "checksum": true,
- "runtime_s": 3.613851041998714,
+ "runtime_s": 3.613623749904491,
  "rectify_info": {
   "fallback": null,
   "quad": null

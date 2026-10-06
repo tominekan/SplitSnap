@@ -27,7 +27,7 @@
  "total": 43.3,
  "raw_text": "Kaiseki\nJapanese Cuisine\nt West Merrick Rd. Valley Steam, NY 11580\nTel. (516)561-3556\nDine_In\n07/28/18 03:42PM AS 20\nServer MANDY Guest 2\nSushi Dinner 18.95\nw.Miso Soup\nLady Gaga 13.95\nGinger Ale 2.00\nFried Cheese Cake 4.95\nSubtotal: 39.85\nTax: 3.45\nTotal: 43.30\nRecommended Tips:\n15%=$5.98\n18%=$7.17\n20%=$7.97\nThank You",
  "checksum": true,
- "runtime_s": 0.5662476250436157,
+ "runtime_s": 0.5660486249848873,
  "rectify_info": {
   "fallback": false,
   "quad": [

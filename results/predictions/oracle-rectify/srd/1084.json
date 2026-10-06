@@ -32,7 +32,7 @@
  "total": null,
  "raw_text": "Trattoria sapor ito\n328 WashingtonStreet\nHoboken\n201-533-1801\nTABLE # 4\nCHECK# 27273\nel 7/1/2018 5:53:48 PM\nSERVER: Gastone\nSTATION: 01\nItem Count: 4\n1 Piet ae $18.00\nK FETT AL PORCINI * $36.00\nGOSTOLETTE/AL Paps $42 .00\n1 oa OLI $10.50\nie i $3.75\n| LD ESPRESSOS i ae wien\nsubtoral) ee $117.75\nTax\nRAND TOTAL 1B. i\nNpened: 7/1/2018 5:53:48 PM",
  "checksum": null,
- "runtime_s": 0.7311769588850439,
+ "runtime_s": 0.7305659589351308,
  "rectify_info": {
   "fallback": false,
   "quad": [

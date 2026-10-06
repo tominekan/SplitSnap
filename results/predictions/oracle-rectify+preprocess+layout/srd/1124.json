@@ -47,7 +47,7 @@
  "total": 83.64,
  "raw_text": "Firefly American Bistro\n5525 New Albany Road West\nNew Albany, OH 43054\nServer: Harry M 12/28/18 7:54 PM\nCheck #140 . Table 24\nMalbec Trivento $8.00\nBlood Orange Marg $9.00\nCup-Italjan Wedding Soup_ $2.95\nSpaghetti Marinara $17.95\nAdd One Meatball\nAdd Two Meatball\nFettuccine Alfredo $23.95\nAdd Steak\nSmall Wedge Salad (Dinner) $4.95\nCreme Brulee $4.00\nBaileys $7.00\nSubtotal $77.80\nTax $5.84\nTotal $83.64\n\\ Come See Us Again!",
  "checksum": true,
- "runtime_s": 2.4539144169539213,
+ "runtime_s": 2.453173250085456,
  "rectify_info": {
   "fallback": false,
   "quad": [

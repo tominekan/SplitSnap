@@ -12,7 +12,7 @@
  "total": 39600.0,
  "raw_text": "1x 812.000 12.000\nArem Arem\n2x 812.000 24.000\nSubtotal Rp 36.000\nTax (10.0%) Rp 3.600\nTotal Rp 39.600\nOther Rp 39.600\ne\nfe)",
  "checksum": false,
- "runtime_s": 0.31740833376534283,
+ "runtime_s": 0.31736412596683294,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -47,7 +47,7 @@
  "total": 143.71,
  "raw_text": "o_o\nKatana Sushi\n2816 Hewitt Ave\nEverett, WA 96201\n425-512-9361\nKH AA THM\nServer: Michael C\n05/11/18 6:47 PK\nCheck #93 Table D2\nHamachi Collar $12.00\nMega Poke Bowl $17.00\nHamachi - Sashimi $12.00\nMaguro - Sashimi $11.00\nSalmon - Sashimi $10.00\n3 Sockeye Salmon - Sashimi\n$36.00\nHamachi Japapeno $12.00\nSalmon Collar $10.00\nEscolar - Sashimi $11.00\nSubtotal $131.00\nTax $12.71\nTotal $143.71\nThank You for your visit.",
  "checksum": false,
- "runtime_s": 1.0547147910110652,
+ "runtime_s": 1.0534464998804651,
  "rectify_info": {
   "fallback": false,
   "quad": [

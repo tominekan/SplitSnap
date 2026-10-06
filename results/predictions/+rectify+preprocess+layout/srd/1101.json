@@ -42,7 +42,7 @@
  "total": 14.06,
  "raw_text": "Sp Nene > RD ee AS Ws\nSS KAZ RAMEN\n] 22413 BARTON ROAD\nNY GRAND TERRACE, CA 92313\n. S 9094229532\n> ORDER: T4G1\nSN _DINEIN\nSN Cashier: Mickey\nS 04-Nov-2018 9:07:13P\n. Guest 1\nN 1 Tonkotsu $9.50\nWN Tofu $0.00\nS Egg $1.30\nCorn $0.50\nBamboo shoots $1.00\nN Naruto $0.75\nSpicy $0.00\n'} Subtotal $13.05\nTax $1.01\nTotal $14.06\nOrder 4AW465NFNMVRT",
  "checksum": true,
- "runtime_s": 2.067759540863335,
+ "runtime_s": 2.067281707884831,
  "rectify_info": {
   "fallback": false,
   "quad": [

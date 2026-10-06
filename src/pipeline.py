@@ -41,6 +41,23 @@ def get_configs():
         "oracle-rectify+preprocess+layout": dict(rectify="oracle", pre=pre, psm=psm, parser="layout"),
         # extra ablation: the final pipeline with rectification switched off
         "preprocess+layout (no rectify)": dict(rectify="none", pre=pre, psm=psm, parser="layout"),
+        **easyocr_configs(pre, psm),
+    }
+
+
+def easyocr_configs(pre, psm):
+    """Optional task 8: the best configuration with Tesseract swapped for EasyOCR. Opt-in with
+    SPLITSNAP_EASYOCR=1 (and easyocr installed); run it with --workers 1, each worker loads its own model."""
+    import os
+    if os.environ.get("SPLITSNAP_EASYOCR") != "1":
+        return {}
+    try:
+        import easyocr  # noqa: F401
+    except ImportError:
+        return {}
+    return {
+        "EasyOCR: +rectify+preprocess+layout": dict(rectify="ours", pre=pre, psm=psm, parser="layout", engine="easyocr"),
+        "EasyOCR: +rectify+layout (no preprocess)": dict(rectify="ours", pre=None, psm=psm, parser="layout", engine="easyocr"),
     }
 
 

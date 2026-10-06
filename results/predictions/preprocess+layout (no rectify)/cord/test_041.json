@@ -32,7 +32,7 @@
  "total": null,
  "raw_text": "ra\nChicken Maryland §7619.00\nCappucino (Hot/Iced) 30303 in\nNaga Lychee Juice 34632.\nCafe .atte 30303. GU\nHot Chocolate Marshmallo 30303 .G1»\nChicken Cesar Salad 43290 .00\nMineral Water 12987 , OF\nMineral Water 12987 .tn-\nLychee/Peach/Lemon/Mango 2° .74.00\nChicken Maryland 47619.00\nSubtotal] 316017 60\nService Charge 5% + 43982 .66\nTOTAL 365000 00",
  "checksum": null,
- "runtime_s": 9.143405875191092,
+ "runtime_s": 9.143197791093371,
  "rectify_info": {
   "fallback": null,
   "quad": null

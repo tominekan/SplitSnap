@@ -17,7 +17,7 @@
  "total": 29.96,
  "raw_text": "VY S‘a™\n\\\n14428 Ramona Blvd. #70\nBaldwin Park, CA 91706\nTel: 626-337-5666\nStation: 1 6/02/2018 04:18:31 PM\nCashier: 010\nInvoice #68554 T# hot food\nAdult Dinner 2 23.98\nSoda 2 3.38\nSubtotal 27.36\nTax 2.60\nGrand Total 29.96\nAmount Tendered 29.96\nDebit Card sale 29.96\nThank you very much.\nOrder # 152",
  "checksum": true,
- "runtime_s": 2.339860958047211,
+ "runtime_s": 2.3398187919760858,
  "rectify_info": {
   "fallback": false,
   "quad": [

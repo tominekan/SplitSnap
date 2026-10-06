@@ -22,7 +22,7 @@
  "total": null,
  "raw_text": "CHLOES1\n81 Ludiow St\nNew York, NY 10002\nTel 212 677-0067\nCheck Name: HHANG,HYUN\nServer: Bar\nDate: 08/03/18\nTable: Guests: 1\n—[Seat_ 1]———_—_—____---—_____—__\n2 HOUSE VODKA $24.00\n1 HOUSE TEQUILA $12.00\nSubtotal: $36.00\nTax:: $3.19\nSub w/Tax: $39.19\nGratuity: $7.20\nAnt Due: $46.40\nVisa EMV $46.40\nThank You\nchioces1 .com\nMeeaithineenanintaizs en ee a aaa",
  "checksum": null,
- "runtime_s": 1.395855458918959,
+ "runtime_s": 1.3946225420468181,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -27,7 +27,7 @@
  "total": null,
  "raw_text": "MOD Pizza\n26902 92nd Ave NW\nSuite A\nStanwood, WA.'98292\nPhone 360.205 9680\n5/19/2019 4:06:54 PH\nOrder Id: Be HNEACCH\n#77 - HER (\nDraft Beer (2 @ 4.97) $9.94\nFountain Drink (160z) $2.17\nMOD Pizza $8.67\nMini MOD $6.67\nSub Total $27 45\nSales Tax\n(rder Total Ri ag\ny'1se\n' $23. 99\nltp\n+t $3.5",
  "checksum": null,
- "runtime_s": 0.7112604160793126,
+ "runtime_s": 0.7107642500877773,
  "rectify_info": {
   "fallback": false,
   "quad": [

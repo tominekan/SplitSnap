@@ -22,7 +22,7 @@
  "total": 42.74,
  "raw_text": "Crisfield Seafood\nRestaurant\n8012 Georgia Ave.\nSilver Sing, 4020910\n(301) 589-1306\nDENIS\nORDER# 1a\nCarryout # 8\n12/28/2017 8:38:16 PM GUESTS 1\nTAKE OUT\nDinner Platters\n1 Crisfield Special Platter 27.00\nae COOK MEDIUM KK\nExtras\n1 Pint Bisque 11.50\nSUBTOTAL: 38.50\nCarry Out 1.93\n28 2.31\nRegister #0000144 ----------=\nTOTAL: $42.74\nThankyou!",
  "checksum": false,
- "runtime_s": 0.7078818341251463,
+ "runtime_s": 0.7078115831641298,
  "rectify_info": {
   "fallback": false,
   "quad": [

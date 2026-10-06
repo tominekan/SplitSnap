@@ -22,7 +22,7 @@
  "total": null,
  "raw_text": "GUST@\nThai Gusto Restaurant\n2011 Hewitt Ave\nEverett WA 98201\nel. 425-252-3525 Fax. 425-252-3525\nWelcome to Thai Gusto\njable 4\nDate: 6/16/2017 12:36 PM\nServer: PRACH (T.1)\nChang (2@$3.50) $7.00\n#114 Garlic Delight $10.24\n[Chicken] [5+#***] [Smal] Brown Rice]\n#128 Red Curry $10.24\n[Chicken] [5***#*+] [Smal] Brown Rice]\nTotal 4 item(s)\nSales Tax\nGrand Total\nTip Guide\n15%=$4.52, 18%=$5.43, 20%=$6.03\nThank you very much.\nCome back again.\n- GUEST CHECK -\nThis is not a receipt.",
  "checksum": null,
- "runtime_s": 0.7419431249145418,
+ "runtime_s": 0.7419123329113972,
  "rectify_info": {
   "fallback": false,
   "quad": [

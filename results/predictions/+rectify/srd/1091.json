@@ -37,7 +37,7 @@
  "total": 28.78,
  "raw_text": "CITY TAS\n00\n930 WAYNE\nSILVER ol\nTEL:301-585-1111\nae asi\nDine In\nDate: 05-11-2018 Time: 8:03PM ____ # 9\nServer: BOSS\nTAB#: A06\nNo. of Guest: 2\n1 Philadelphia Roll 4.85\n1 13. Shrimp Tempura Roll 4.25\n[Roll]\n1 Rich / Famous Roll 4.85\n1 16. Spicy Salmon Roll 4.25\n[Roll\n1 Veg / Tofu Pad Thai 8.95\nSpicy\nAmount; 27,15\nTAX(6%): 1.63\nTOTAL: 28.78\nTHANK YOU VERY MUCH.",
  "checksum": null,
- "runtime_s": 0.6821936669293791,
+ "runtime_s": 0.6821275009647252,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -27,7 +27,7 @@
  "total": 91000.0,
  "raw_text": "ata\nyo\nGoblin's Mace { 25,000\nMozarella Hot 2 38,000\nDog\nChili Pepper 1 14.000\nCroquette\nCheese 1 14.000\nCroquette\nPlastik Amook 1 0\nPlastik Putin 1 0\nTako Away\nSubtotal 91 000\nDiscount (0)\nTOTAL Rp. 91,000\nDebit 91 000\nOOOOOOXOOXOKKK",
  "checksum": null,
- "runtime_s": 2.8225490408949554,
+ "runtime_s": 2.822464956931526,
  "rectify_info": {
   "fallback": false,
   "quad": [

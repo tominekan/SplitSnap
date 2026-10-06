@@ -116,7 +116,7 @@ Decision and tradeoff report for the SplitSnap preliminary experiments. Entries 
 - Tradeoffs: assumes the receipt is roughly level after rectification. Skew greater than about half a line height across the receipt width merges or splits rows, which is why rectification and parsing interact. A greedy 1-D clustering cannot separate two lines that touch (tight line spacing). Names borrowed from the previous row can attach the wrong name when a modifier line sits in between. Precision drops a bit compared to regex because more rows look like items (e.g. phone numbers ending in 4+ digits on CORD).
 - Alternatives considered: (a) Tesseract's own line ids with psm 4/6 (simpler, but splits wide-gap lines); (b) DBSCAN on y centers, or fitting text-line baselines, which handles slight skew; (c) **LayoutLMv3** (or a GNN over word boxes) trained on CORD's labelled boxes to tag each word as name / count / price / total, which learns these rules instead of hand-coding them and handles multi-line items; this is the natural next step once we accept training on CORD train.
 - How to test it: regex vs layout on the same OCR output (the `+rectify+preprocess` vs `+rectify+preprocess+layout` rows); sweep the row tolerance on CORD validation.
-- Evidence: CORD validation, B0 OCR: regex F1 0.186 vs layout F1 0.250 (tolerance 0.3: 0.219, 0.5: 0.250, 0.7: 0.248; 0.5 was chosen before looking and is also the best). Test numbers in `results/summary.md`.
+- Evidence: CORD validation, B0 OCR: regex F1 0.186 vs layout F1 0.250 (tolerance 0.3: 0.219, 0.5: 0.250, 0.7: 0.248; 0.5 was chosen before looking and is also the best). **CORD test, identical OCR (`results/summary.md`): regex F1 0.339 (P 0.496, R 0.257) -> layout F1 0.451 (P 0.554, R 0.381); SRD test total accuracy 0.479 -> 0.514.** Layout parsing is the largest single gain on CORD. Remaining parser failures are two-line item formats (`results/failures.md`: test_061, test_024).
 
 ## D15. Item matching rule and thresholds
 - Decision: an extracted item matches a true item if the **prices are exactly equal** (after currency normalization, |diff| < 0.005) and the **normalized names** (lowercase, only letters/digits/spaces, collapsed whitespace) have rapidfuzz `ratio >= 0.8`. Matching is one-to-one, greedy by similarity. Precision = matches / predicted items, recall = matches / true items, both **micro-averaged** over all receipts (F1 from those). Quantity is extracted but not part of the match.
@@ -132,7 +132,7 @@ Decision and tradeoff report for the SplitSnap preliminary experiments. Entries 
 - Tradeoffs: real receipts have discounts, service charges, rounding and "inclusive tax" lines that break the identity. Even CORD ground truth fails it often (reported as a ceiling in `results/summary.md`). A false pass is possible when two errors cancel. On large rupiah totals, 0.5% is up to a few thousand rupiah.
 - Alternatives considered: (a) an absolute tolerance (e.g. 1 cent USD), stricter and currency-specific; (b) using the checksum to choose among parse hypotheses (e.g. try alternative digit readings until it passes), a cheap accuracy boost we have not implemented.
 - How to test it: compare checksum pass vs. actual exactness of items + total on CORD: precision of "pass" as a predictor of a fully correct receipt.
-- Evidence: `results/summary.md` (checksum column and ground-truth ceiling).
+- Evidence: `results/summary.md`: ground-truth labels pass on only 54% of CORD test receipts; our best configuration passes on 5-7%. With this data the checksum mostly measures how often all fields are found at once, so it is not yet useful as a runtime confidence signal on CORD. It should be re-checked on US receipts where tax/tip structure is simpler.
 
 ## D17. Choice of metrics
 - Decision: CORD: item P/R/F1 (D15), exact-match accuracy for subtotal/tax/total over receipts where the field exists, checksum pass rate. SRD: mean per-image **CER** of the full OCR text vs the transcription (both lowercased, whitespace collapsed, empty lines dropped; via `jiwer.cer`; an empty prediction counts as CER 1.0), median CER, total-amount accuracy on receipts with a derived total (D07), and the rectification metrics (detection rate, IoU, corner error / image diagonal). Both: mean runtime per image.
@@ -140,4 +140,41 @@ Decision and tradeoff report for the SplitSnap preliminary experiments. Entries 
 - Tradeoffs: CER is sensitive to reading order: if Tesseract reads a price column after the name column, CER is high even when every character is right. That penalizes psm 3 more than it would hurt a layout parser. Mean CER is pulled up by a few near-total failures, so the median is also reported. CER can exceed 1 when the OCR hallucinates a lot of text.
 - Alternatives considered: (a) bag-of-words F1 (order-free, so it separates recognition errors from reading-order errors); (b) WER; (c) a field-level metric for SRD after hand-labelling a few fields.
 - How to test it: compute order-free bag-of-characters/words F1 alongside CER and check whether configuration rankings agree.
-- Evidence: `results/summary.md`.
+- Evidence: `results/summary.md`. Mean and median CER disagree in one place: rectification improves mean CER (0.265 -> 0.245) but not median (0.192 -> 0.198), i.e. it rescues bad images and slightly hurts some good ones. Reporting both was worth it.
+
+## D18. Extra ablation row: the final pipeline without rectification
+- Decision: besides the cumulative rows the task asked for, report `preprocess+layout (no rectify)`.
+- Why: in cumulative ablations a stage's contribution depends on what comes after it. Rectification was nearly neutral at the B0 stage and harmful in development, so we needed to see whether it still helps once preprocessing and layout parsing are in place.
+- Tradeoffs: one more row in the table, one more OCR pass (~3 min).
+- Alternatives considered: a full factorial ablation (2^3 = 8 combinations of the three iterations), which is cleaner but needs 8 OCR passes per dataset.
+- How to test it: the full factorial ablation, if we need to attribute gains precisely in the final report.
+- Evidence: `results/summary.md`: with rectification vs without: CORD F1 0.451 vs 0.437, SRD CER 0.245 vs 0.265, SRD total accuracy 0.514 vs 0.459. Rectification helps, but modestly.
+
+## D19. Tie-breaking and manual review in the failure analysis
+- Decision: rank CORD failures by item F1, breaking ties by the number of true items (more items lost = worse); generate cause guesses automatically (is the true price / name present anywhere in the OCR text?) and then overwrite each with a one-line note written after looking at the image.
+- Why: 53 of 100 receipts have F1 = 0, so "the 8 worst" is otherwise arbitrary. Automatic causes were often vague ("whole line misread"); looking at the images gave specific, actionable causes (faint print, two-line item format, pink paper).
+- Tradeoffs: manual notes are subjective and cover only 12 cases; they are not statistics.
+- Alternatives considered: a small labelled error taxonomy over 30 random failures, counted per category (more representative; ~1 hour).
+- How to test it: label the cause for 30 random F1 = 0 receipts and count categories; the largest category is the next iteration.
+- Evidence: `results/failures.md`.
+
+## D20. Learned OCR (task 8): integrated, not evaluated
+- Decision: EasyOCR (CRAFT detector + CRNN recognizer, English model) was wired in as an alternative OCR engine but **not evaluated**; its rows are opt-in via `SPLITSNAP_EASYOCR=1`.
+- Why: the first run with 6 parallel workers (one model copy per process) used too much memory on the laptop and was stopped. The student chose to skip the optional task rather than rerun it single-process before the presentation.
+- Tradeoffs: we have no measured answer to "how much of the remaining error is Tesseract itself?", which is the most important open question from the failure analysis (digit misreads dominate).
+- Alternatives considered: (a) EasyOCR with `--workers 1` (~1 GB, ~20 min); (b) PaddleOCR (usually more accurate on receipts, heavier install); (c) Tesseract fine-tuned on receipt fonts (no new runtime dependency, needs line-level training data).
+- How to test it: `SPLITSNAP_EASYOCR=1 python src/evaluate.py --workers 1` adds two rows (best configuration with EasyOCR, and EasyOCR without binarization, since learned OCR is trained on natural images).
+- Evidence: smoke test only (SRD 1004 read correctly apart from `$1.95` -> `81.95`), noted in LOG.md. No numbers in `results/`.
+
+---
+
+## Top 5 iterations to try next
+Ranked by expected impact versus effort. Inputs: the ablation table (`results/summary.md`), the gap between our rectification and oracle rectification, and the failure analysis (`results/failures.md`).
+
+1. **Price-token repair and adaptive preprocessing fallback** (revisits D10/D14, D06, D13). Low effort, targets the largest failure class. Join thousands groups split by a space (`64 200`), map common digit confusions inside price-shaped tokens (`O`->0, `S`->5, `?`->7), and when the binarized image yields almost no text or no prices (test_075, test_020), re-run OCR on the non-binarized image and keep the output with more price tokens. Test: CORD validation F1, then the test table.
+2. **Better rectification so warps can be trusted** (revisits D12). Medium effort, the biggest measured headroom on SRD: oracle corners reduce SRD CER from **0.245 to 0.178** (-0.067, 27% relative) and raise total accuracy 0.514 -> 0.527. Our plausibility check currently refuses 73% of warps (122/168) and falls back to a crop. Try Hough-line quadrilaterals for receipts running off the frame, then a small learned corner regressor trained on SRD corners + CORD roi. Test: the oracle gap on SRD test, plus IoU. (On CORD the gap is small, 0.451 vs 0.457, but only 37/100 receipts have oracle corners.)
+3. **Learned OCR, run single-process** (revisits D09, D20). Low-medium effort, since it is already integrated. Digit misreads on faint or coloured thermal print are the main CORD failure (test_059, test_014); a learned recognizer is the most direct fix. Test: `SPLITSNAP_EASYOCR=1 python src/evaluate.py --workers 1`; switch engines if CORD F1 and SRD CER both improve at acceptable runtime.
+4. **Two-line item grammar, then LayoutLMv3** (revisits D14). Medium, then high effort. Handle "name row followed by `qty x unit price   line price` row (+ discount rows)", which the row parser misses (test_061, test_024). If rules keep growing, train LayoutLMv3 token classification on CORD train's labelled boxes. Test: regex vs layout vs LayoutLMv3 on identical OCR.
+5. **Checksum-guided correction and smarter field selection** (revisits D16, D10). Low-medium effort. Use the arithmetic identities to choose among alternative readings (e.g. a misread digit in one item, or which of several "total" lines to keep) instead of first-occurrence rules. Expected impact is limited on CORD (ground truth passes only 54%), likely larger on US receipts. Test: field accuracy and checksum pass rate on SRD/CORD test.
+
+Also worth doing before trusting any of the above: re-run the preprocessing selection with 3 validation seeds (D13), since the winner changed between two runs.

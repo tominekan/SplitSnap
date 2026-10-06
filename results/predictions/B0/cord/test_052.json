@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "1 620.000\nTHAI ICED TEA\n1 20.000\nSUB-TOTAL\nCASH\nCHANGED\nTHAT ICED TEA\n100.000\n60.000\nee",
  "checksum": null,
- "runtime_s": 0.4811674989759922,
+ "runtime_s": 0.4811532079183962,
  "rectify_info": {
   "fallback": null,
   "quad": null

@@ -22,7 +22,7 @@
  "total": null,
  "raw_text": "Go Kongo BBQ\n6662 Stanford Ranch Rd.\nRockiin, CA 95677\n916-632-8829\nReceipt: mongo-042441\nDate: Jan 28, 2018 $:48:07 PM\nServed by: Manager\nItea Price Qty Value\nBBQ Dinner $10.99 x4 $47.18\nbeverage $2.29 x2 64.91\nItems count: 6\nSubtotal: $48 54\nCA Tax 7.25%: $3 .52\nfotal $5? 06\nCash\nfendered: $52.06\nChange: $0 00",
  "checksum": null,
- "runtime_s": 1.2603625829797238,
+ "runtime_s": 1.2603217908276747,
  "rectify_info": {
   "fallback": false,
   "quad": [

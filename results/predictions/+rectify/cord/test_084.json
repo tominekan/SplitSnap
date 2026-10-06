@@ -17,7 +17,7 @@
  "total": null,
  "raw_text": "a\nKroket\nIx @12.000\nArem Arem\n2x 812.000\nSubtotal Rp 36.000\nTax (10.0%) Rp 3.600\nTotal\nOther Rp 39.600",
  "checksum": null,
- "runtime_s": 0.35007945890538394,
+ "runtime_s": 0.3500448760260042,
  "rectify_info": {
   "fallback": false,
   "quad": [

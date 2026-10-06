@@ -12,7 +12,7 @@
  "total": 10000.0,
  "raw_text": "KACANG HERAH 10,000\nSUBTOTAL 10,000\nTOTAL 10,000",
  "checksum": true,
- "runtime_s": 0.43396449997089803,
+ "runtime_s": 0.433952958876489,
  "rectify_info": {
   "fallback": false,
   "quad": [

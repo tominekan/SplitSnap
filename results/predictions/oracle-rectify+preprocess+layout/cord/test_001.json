@@ -22,7 +22,7 @@
  "total": 391000.0,
  "raw_text": "J.STB PROKO 17500\nY.B.BAT 46000\n¥.BASO PROX 27500\nTOTAL 391000\nCASH 91000\n( ¢?",
  "checksum": null,
- "runtime_s": 1.7826193762011826,
+ "runtime_s": 1.7825157921347454,
  "rectify_info": {
   "fallback": false,
   "quad": [

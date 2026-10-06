@@ -22,7 +22,7 @@
  "total": null,
  "raw_text": "Harrison Ave\nNew Orleans, LA 70124\nPhone: (504) 488-0107\n128 Daniel P\nTo? 90/1 Chk 4650 Gst 1\nAug23'19 12:07PM\n#k* Memo Check #*\nSeat: 1\n1 Fajita Vegetable TAS\n1 Taco Shrimp Fresh Catch 3 12.00\n*DON'T MAKE*\n1 Hater 0.00\nFood 19.75\nTax eat\nTotal el ¢6",
  "checksum": null,
- "runtime_s": 0.7072477489709854,
+ "runtime_s": 0.7070250828219287,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "CHANGED\n+> a) dem\na 7",
  "checksum": null,
- "runtime_s": 0.2708057491108775,
+ "runtime_s": 0.2708040829897982,
  "rectify_info": {
   "fallback": false,
   "quad": [

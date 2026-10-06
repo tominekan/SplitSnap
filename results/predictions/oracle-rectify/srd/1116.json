@@ -32,7 +32,7 @@
  "total": 34.12,
  "raw_text": "GRILLE\nVillaggio Grille\n4780 Wharf Parkway\nOrange Beach, AL 36561\n; PHONE: 251-224-6510\nOrder 9862 06/08/19 11:45 AM\njie 14 Cust 3 Server 156 JAMIE\n1 P-VILLAGIO BREEZE 0.01\n1 ADD SALAD 3.00\n] LUNGH SEAFOOD PASTA 14.00\n| KID’ PEPERONI PIZZA 7.00\n] , ALFREDO 7.00\n| Pee\nSub-total : 31.01\nTax: 3.11\nTotal ae. 34.12",
  "checksum": true,
- "runtime_s": 0.8345655840821564,
+ "runtime_s": 0.834495334028361,
  "rectify_info": {
   "fallback": false,
   "quad": [

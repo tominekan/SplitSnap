@@ -22,7 +22,7 @@
  "total": 5.29,
  "raw_text": "pine In\nDenny’s Restaur ant #8129\n160 Fastern Boulevard\nCanandaigua, NY 14424\n(585) 394-4880\n(ue)\n8/30/2015 11:00:11 PM\nOrder: 429742 Server: Bethany F\nTable: 12 Guests: 2\n1 No Beverage 0.00\n1 No Beverage 0.00\n1 Milk Shake 3.99\nShake Choc 9\nSubTotal\nTax\nGratuity\n‘\nTotal 5.29",
  "checksum": null,
- "runtime_s": 0.44460583408363163,
+ "runtime_s": 0.44456166711188416,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "901016 -TICKET. CP\n60,000 240.000\n4\nAERA\nTOTAL CQty=4.00)240.000\n250.000\n10.000\n- CASH a\nCHANGE",
  "checksum": null,
- "runtime_s": 0.32223091600462794,
+ "runtime_s": 0.3222016660884037,
  "rectify_info": {
   "fallback": true,
   "quad": null,

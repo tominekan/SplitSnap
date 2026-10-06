@@ -32,7 +32,7 @@
  "total": 10.99,
  "raw_text": "Trattoria sap0r tg\n328 Washingtonstreet\nHoboken 0\n201-533-1801\nTABLE # 4\nCHECK# 27273\nMale Md 7/1/2018 5:53:48 PM\nSEI\nRVER: Gastone\nSTATION: 01\n1 STUFFED ARTICHOKE* $18.00\n1 BK FETT AL PORCINI * $36 .00\n1 COSTOLETTE/ALLA/PAP* $42.00\n1 BROCCOLI RABE W/ GA* $10.50\n1 ESPRESSO* $3.75\n1 DBLD ESPRESSO* $7.50\nGRAND TOTAL $10.99\nOpened: 7/1/2018 5:53:48 PM",
  "checksum": null,
- "runtime_s": 0.6706559581216425,
+ "runtime_s": 0.6705975410400242,
  "rectify_info": {
   "fallback": false,
   "quad": [

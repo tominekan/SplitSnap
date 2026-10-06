@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "cara Here\npet\nCOMMAN\n1 25/ CP, UP\n1 25/COSMO up\n4 sour 3\n1 TURTLE\n1 CATFISH\n1 TOSTADA\nGIN, up\nAY, Ue\npach",
  "checksum": null,
- "runtime_s": 0.4422193339560181,
+ "runtime_s": 0.4422138760673988,
  "rectify_info": {
   "fallback": false,
   "quad": [

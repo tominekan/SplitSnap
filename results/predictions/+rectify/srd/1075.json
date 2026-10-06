@@ -6,7 +6,7 @@
  "total": 14.36,
  "raw_text": "SmokeBoxBBQ\n2361 Whitney Ave\nHamden, CT 06518\n203 909 6545\nSUBTOTAL :\nTAX:\nSERVER T#0000074\nTOTAL : $14.36\nCash\nChange\nCLOSED",
  "checksum": null,
- "runtime_s": 0.4448283326346427,
+ "runtime_s": 0.44481745780467463,
  "rectify_info": {
   "fallback": false,
   "quad": [

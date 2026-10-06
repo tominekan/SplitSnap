@@ -32,7 +32,7 @@
  "total": 334000.0,
  "raw_text": "trai\nCuston\n(TA) NASI ORG TERT 4 165,460\nM\n(TA) BIHUN GORENG 1 40,456\nSEAFOGD\n(TA) KWETIAW SEAFOOD. 1 42,274\nSIRAM\n(TA} NAST GORENG 2: 55,456\nTTEMS:8 303,646\nPit 10% 30,365\n12 Rounding 334,011\nRounding dd\nTotal 334,000\nDEBIT 8CA 334,000.\nA yYungan",
  "checksum": null,
- "runtime_s": 0.49881583312526345,
+ "runtime_s": 0.4955892919983853,
  "rectify_info": {
   "fallback": false,
   "quad": [

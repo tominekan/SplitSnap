@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "Rosebud on Rush\n720 North Rush Street\nChicago, IL\n312-266-6444\nDate: Juli5’17 04:07PM\nCard tyof Visa\nAcct #: XXXXXXXXXXXX3426\nCard Entry: SWIPED\nTrans Type: PURCHASE\nTrans Key: G1IG005625257729\nAuth Code: 190275\nCheck: 1738\nTable: 81/1\nServer: 228 Chelsea\nSubtotal: 7939.17\nTIP",
  "checksum": null,
- "runtime_s": 1.9548703331965953,
+ "runtime_s": 1.9529179580545133,
  "rectify_info": {
   "fallback": false,
   "quad": [

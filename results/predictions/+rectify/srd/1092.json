@@ -6,7 +6,7 @@
  "total": 43.3,
  "raw_text": "Dine_In\nA3 20\nSushi Dinner\nw.Miso Soup\nLady Gaga\nGinger Ale\nFried Cheese Cake\nSubtotal: 39.85\nTax 3.45\nTotal: 43.30\nRecommended Tips:\n15%=$5.98\n18%=$7.17\n20%=$7.97\nThank You",
  "checksum": null,
- "runtime_s": 0.5441296249628067,
+ "runtime_s": 0.5441086670398363,
  "rectify_info": {
   "fallback": false,
   "quad": [

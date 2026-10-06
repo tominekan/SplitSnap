@@ -27,7 +27,7 @@
  "total": null,
  "raw_text": "Order 217510\n02/18/17 10:20 PM Check 101244\nTable 15 Cust. 2 Server 21 Kelly Bowe\nBAKO ISCO CO OOOO OO OOOO OOOO IORI IIR\n1 Quesadilla 11.00\n1 Pot Roast 18.00\n1 Fish An Chips 16.00\n1 Side Salad 4.00\n1 Dft Shock top 5. 50\n2 Dft Guiness 15, 00\ntaxable:\nSub-total:\nTax:\nTotal Due:",
  "checksum": null,
- "runtime_s": 2.369554416043684,
+ "runtime_s": 2.3695162499889193,
  "rectify_info": {
   "fallback": false,
   "quad": [

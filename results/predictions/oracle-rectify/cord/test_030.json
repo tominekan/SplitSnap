@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "Cash 50, O00\nChange ‘ 18, 500",
  "checksum": null,
- "runtime_s": 0.40471245907247066,
+ "runtime_s": 0.4047079589213354,
  "rectify_info": {
   "fallback": true,
   "quad": null,

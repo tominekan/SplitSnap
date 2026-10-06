@@ -22,7 +22,7 @@
  "total": null,
  "raw_text": "CHLOES1\n81 Ludlow St\nNew York, NY 10002\nTel 212 677-0067\nCheck Name: HWANG, KYUN\nServer: Bar\nDate: 08/03/18\nTable: Guests: 1\n—[Seat_ 1] ———_\n2 HOUSE VODKA $24.00\n1 HOUSE TEQUILA $12.00\nSubtotal: $36.00\nTax:: $3.19\nSub w/Tax: $39.19\nGratuity: $7.20\nAnt Due: $46.40\nVisa EMV $46.40\n\"Tha mints Coca",
  "checksum": null,
- "runtime_s": 1.5060234158299863,
+ "runtime_s": 1.5058268329485145,
  "rectify_info": {
   "fallback": false,
   "quad": [

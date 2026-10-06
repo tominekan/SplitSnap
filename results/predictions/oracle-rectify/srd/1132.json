@@ -22,7 +22,7 @@
  "total": 61.8,
  "raw_text": "VIA EMILIA 9\n1120 18TH ST\nMIAMI BEACH, FL 33139\n7862167150\nORDER: Table 11\nCashier: V.\n27-Apr-2017 6:21:59P\n1 Tagliatella al Ragu’ $14.90\n1 Cappellacci Di Zucca $18.90\n1 Stufato Al Latte Di Ravenna $22.90\n‘Subtotal $56.70\n‘Tax $5.10\nTotal $61.80\nOrder QGVRTH3NM28YC\n‘your review on TripAdvisor or Yelp",
  "checksum": true,
- "runtime_s": 0.4018600839190185,
+ "runtime_s": 0.40169512494003357,
  "rectify_info": {
   "fallback": false,
   "quad": [

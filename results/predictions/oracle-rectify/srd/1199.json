@@ -27,7 +27,7 @@
  "total": null,
  "raw_text": "le\nv\n1 Tartare di Tomo\n1 Linguine Scare BO\n1 Branzino 28.00\n1} Pizza Aeericane 14:00\nJ Carrot coke 12.00\n161 Sangiovese 12.00\nV6) Herlot 13.00\nJ Misc Food 2.0128\nTaxable: 118,00\nsub-total\nTaxes:\n———",
  "checksum": null,
- "runtime_s": 0.2770584160462022,
+ "runtime_s": 0.2770185419763038,
  "rectify_info": {
   "fallback": false,
   "quad": [

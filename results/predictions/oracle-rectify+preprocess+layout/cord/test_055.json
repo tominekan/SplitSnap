@@ -6,7 +6,7 @@
  "total": 2000.0,
  "raw_text": "FO reese ART $2,000\nTOTAL 2 ,000\nCARD dé ,000\n:\nve\nwe",
  "checksum": null,
- "runtime_s": 3.231838459149003,
+ "runtime_s": 3.231765084142353,
  "rectify_info": {
   "fallback": true,
   "quad": null,

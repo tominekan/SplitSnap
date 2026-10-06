@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "Micros Demo System\nAelcone to Yogurt land\n12502 North Kendall Drive\nigmi, FL 33186\n(305) 279-3478\nDate: Sep07'18 09:28PM\nCard Typ; VISA\nAcct #: XXXXXXXXXXXXIBHZ\nCard Entry; SWIPED\nTrans Type: PURCHASE ,\nTrans Key; I11008007193348 —\nAuth Toda: 071410 4\nChecl:: 1082\nServar: 1041 melanie\nTota 17.8S0u\nKN SIGNATURE REQUIRED\nFOR PURCHASES UNDER $20. 00%%",
  "checksum": null,
- "runtime_s": 0.5028698341920972,
+ "runtime_s": 0.5028599590241356,
  "rectify_info": {
   "fallback": null,
   "quad": null

@@ -6,7 +6,7 @@
  "total": 240000.0,
  "raw_text": "01016 -TICREL EP >\n4 40.000, 240,000\n7 <A\nTOTAL catf=4.00)240.000\nreo bg\n~ CASH © 250.000\nCHANGE F 10.000\nwe we wn weer eenneee Te FP eee mw em enw enn een",
  "checksum": null,
- "runtime_s": 4.226607291027904,
+ "runtime_s": 4.226584041133719,
  "rectify_info": {
   "fallback": false,
   "quad": [

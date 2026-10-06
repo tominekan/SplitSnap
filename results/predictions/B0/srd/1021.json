@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "HAWWI ETHIOPIAN RESTAU\n1125 QUEEN ST\nALEXANDRIA, VA 22314 ra\n7037179740\nPisa ORDER: Table 2\n. Dine In\nCashier: Mosa sae\n13-Jul-2018 8:53:47P\nTransaction 000016\nGuest 1\n1 26.Fish Goulash\n7 30.Dullet\n1 34. Vegetarian Dish ,\nSubtotal",
  "checksum": null,
- "runtime_s": 0.5508426669985056,
+ "runtime_s": 0.5508319579889758,
  "rectify_info": {
   "fallback": null,
   "quad": null

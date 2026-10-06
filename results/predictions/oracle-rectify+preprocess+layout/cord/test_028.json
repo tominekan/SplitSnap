@@ -22,7 +22,7 @@
  "total": null,
  "raw_text": "194,000\n* SAMGYOPSAL\nSUL LUNG TANG 1 75,000\nMAKOLI 1 100,000\nSubTotal 369,000\nService 18,450\nVAT\nDiscount",
  "checksum": null,
- "runtime_s": 3.1402814590837806,
+ "runtime_s": 3.1400607510936425,
  "rectify_info": {
   "fallback": true,
   "quad": null,

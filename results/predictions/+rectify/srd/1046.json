@@ -22,7 +22,7 @@
  "total": null,
  "raw_text": "Araxi Burger Aventura\n17861 BISCAYNE BLVD\nAventura, FL 33160\nServer: Valerie P 03/17/19 5:39 PM\nCheck #33 Table 12\n2 Vanilla Bean $12.00\nClassic Burger 40z $8.00\nRoute 66 Burger 802 $14.00\n10% (10.00%) - $3.40\nSubtotal $30.60\nService Charge (18.00%) $6.12\n$2.14\n$38.86\nPowered by ja , \" . |",
  "checksum": null,
- "runtime_s": 0.5604349998757243,
+ "runtime_s": 0.5602871668834268,
  "rectify_info": {
   "fallback": false,
   "quad": [

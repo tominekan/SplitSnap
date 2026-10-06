@@ -35,7 +35,11 @@ def run_easyocr(img):
     global _EASY
     import easyocr
     if _EASY is None:
-        _EASY = easyocr.Reader(["en"], gpu=False, verbose=False)
+        from common import ROOT
+        d = ROOT / "tools" / "easyocr"  # keep model downloads inside the project (default is ~/.EasyOCR)
+        d.mkdir(parents=True, exist_ok=True)
+        _EASY = easyocr.Reader(["en"], gpu=False, verbose=False, model_storage_directory=str(d / "model"),
+                               user_network_directory=str(d / "user_network"))
     words = []
     for box, t, conf in _EASY.readtext(img):
         xs, ys = [p[0] for p in box], [p[1] for p in box]

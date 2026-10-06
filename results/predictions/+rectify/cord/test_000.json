@@ -12,7 +12,7 @@
  "total": 0.0,
  "raw_text": "901016 -TICKET CP\n2 60.009 £0,000\nTOTAL DISC $ ~h0.000\nTAX 5,455\nSubtotal 430.000\nTOTAL (Qty 2.00 60,000\n= EDC CINB NIAGA No: xx7730 60,000\nSS an",
  "checksum": false,
- "runtime_s": 0.42254287493415177,
+ "runtime_s": 0.4223755829593756,
  "rectify_info": {
   "fallback": false,
   "quad": [

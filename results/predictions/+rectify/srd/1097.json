@@ -22,7 +22,7 @@
  "total": null,
  "raw_text": "257 LIDIA H we 4\nDrive Thru\n1 Burrito Cmb 8.28\nChk Ranchero Bur\nADD\nAvo Slcs\nInd Chips\nSM_DRINK\nCoke\n2 Bur-BRC @ 1.89 3.18\nCash 13825\nFood 12.06\nTax 1.06\nPayment ese\nChange Due als\n0.\n------=--- 257 Check Closed-----------\neae Jun28' 17° 05:38PM--------",
  "checksum": null,
- "runtime_s": 0.4969568750821054,
+ "runtime_s": 0.4969045421921692,
  "rectify_info": {
   "fallback": false,
   "quad": [

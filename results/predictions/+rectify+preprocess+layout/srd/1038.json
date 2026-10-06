@@ -17,7 +17,7 @@
  "total": null,
  "raw_text": "x\n“oe oa ee mes a,\nMicros Demo System\nAelcome to Yogurtland\n12502 North Kendall Drive\nMiemi, FL 33186\n(05) 279-3478\nDate: Sep07'18 09:28PM\nCard Typ: VISA\nAcct #: XXXXXXXXXXXX3862\nCard Entry: SWIPED\nTrans Type: PURCHASE\nTrans Key: I111008007193348\nAuth Coda: 071410\nCheck: : 1082\nServer: 1041 melanie\nTota 17.80\n*4NO SIGNATURE REQUIRED\nFOR PURCHASES UNDER $20 .00++",
  "checksum": null,
- "runtime_s": 1.6364629161544144,
+ "runtime_s": 1.6362621661101002,
  "rectify_info": {
   "fallback": false,
   "quad": [

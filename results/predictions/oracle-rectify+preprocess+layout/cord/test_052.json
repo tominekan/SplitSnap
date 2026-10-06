@@ -17,7 +17,7 @@
  "total": null,
  "raw_text": "TEA\n._ 1 @20,000\nTHAI ICED TEA\n1 620,000\nCASH 100.000\nCHANGED 60.000",
  "checksum": null,
- "runtime_s": 4.857915875036269,
+ "runtime_s": 4.857739959150422,
  "rectify_info": {
   "fallback": true,
   "quad": null,
