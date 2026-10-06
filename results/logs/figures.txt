@@ -1,0 +1,1 @@
+figures: ['ablation_cord_f1.png', 'failure_1_test_059.png', 'failure_2_test_014.png', 'failure_3_test_061.png', 'pipeline.png', 'preprocess_example.png', 'srd_cer.png']

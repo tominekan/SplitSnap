@@ -45,9 +45,9 @@ def bar(df, col, title, ylabel, path, lower_better=False):
     ax.set_ylim(0, df[col].max() * 1.15)
     ax.yaxis.grid(True, color="#ecebe8"); ax.set_axisbelow(True)
     ax.set_title(title + ("  (lower is better)" if lower_better else "  (higher is better)"),
-                 loc="left", color=INK, fontsize=12)
-    ax.text(1.0, 1.01, "blue = our pipeline, gray = oracle rectification (labelled corners)",
-            transform=ax.transAxes, ha="right", va="bottom", fontsize=8, color=MUTED)
+                 loc="left", color=INK, fontsize=12, pad=22)
+    ax.text(0.0, 1.02, "blue = our pipeline, gray = oracle rectification (labelled corners)",
+            transform=ax.transAxes, ha="left", va="bottom", fontsize=8.5, color=MUTED)
     fig.tight_layout(); fig.savefig(path, dpi=150); plt.close(fig)
 
 

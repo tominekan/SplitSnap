@@ -69,3 +69,7 @@ Chronological record of what was done, commands run, and what failed. Times are 
 - Wrote `src/failures.py`; `python src/failures.py` -> `results/failures.md`, `results/failures_cord.json`, `figures/rectify_failures/` (log `results/logs/failures.txt`).
 - Best non-oracle configuration by CORD F1: `+rectify+preprocess+layout`. **53 of 100 CORD test receipts have item F1 = 0**, so "8 worst" is a tie; I broke ties by the number of true items.
 - Automatic cause guesses (is the true price / name anywhere in the OCR text?) were then checked by looking at every image; I wrote a one-line note for each of the 12 cases (`MANUAL_NOTES`), which replaces the automatic guess. Main causes: digit misreads on faint/small/coloured print, two-line item formats, crumpled paper; for rectification, non-white paper, white-on-white backgrounds, and a plastic sleeve.
+
+## Task 10: Figures
+- Wrote `src/figures.py`; `python src/figures.py` -> `figures/ablation_cord_f1.png`, `figures/srd_cer.png`, `figures/pipeline.png`, `figures/preprocess_example.png` (SRD 1004), `figures/failure_1_test_059.png`, `figures/failure_2_test_014.png`, `figures/failure_3_test_061.png` (first 3 of the 8 CORD failures, with OCR word boxes coloured by grouped row and true vs predicted items). Rectification figures are in `figures/rectify/` (task 4) and `figures/rectify_failures/` (task 9).
+- Looked at every figure; fixed one overlap (chart title vs legend note).
