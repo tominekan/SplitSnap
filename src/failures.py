@@ -101,13 +101,13 @@ def main():
     figdir.mkdir(parents=True, exist_ok=True)
     L += [f"## {N_SRD} worst SRD test rectifications by IoU", "",
           "| image | IoU | corner err | fell back | likely cause | figure |", "|---|---|---|---|---|---|"]
-    from rectify import detect_quad
+    from rectify import find_receipt
     for r in rows:
         rec = srd[r["id"]]
         img = load_image(rec["path"])
         area = img.shape[0] * img.shape[1]
         gt_frac = Polygon(order_corners(rec["corners"])).area / area
-        q, _ = detect_quad(img)
+        q, _ = find_receipt(img)
         pred_frac = Polygon(q if q is not None else full_quad(img)).area / area
         cause = MANUAL_NOTES.get("srd_" + r["id"], guess_rect_cause(r, gt_frac, pred_frac))
         fig = figdir / f"srd_{r['id']}.png"

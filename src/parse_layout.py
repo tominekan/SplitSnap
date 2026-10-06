@@ -43,6 +43,8 @@ def group_rows(words, tol=ROW_TOL):
 def find_price(tokens, currency):
     """Return (amount, index of first price token) for the right-most price in the row, or (None, None)."""
     pat = re.compile(rf"^(?:{PRICE[currency]})$")
+    # strip OCR junk glued to a price, e.g. '«$1.40' or '$9.39)'
+    tokens = [re.sub(r"^[^\w$.,-]+|[^\w.,]+$", "", t) or t for t in tokens]
     end = len(tokens)
     if end and FLAG_TOKEN.match(tokens[-1]) and end > 1:
         end -= 1  # trailing tax flag like 'T' or 'F'

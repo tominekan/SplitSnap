@@ -7,8 +7,13 @@ Method: downscale -> blur -> three candidate masks, tried in order:
   2. "otsu": Otsu threshold on grayscale (bright receipt on a darker background),
   3. "edges": Canny edges thickened with a dilation,
 -> 5 largest contours -> convex hull -> polygon approximation -> first convex 4-point polygon
-covering 15-97% of the image. If none is found we fall back to the original image.
-The order and the hull were chosen on the SRD validation split (src/dev/rectify_variants.py).
+covering 15-97% of the image. The quad must then pass a plausibility check (every corner angle within
+85-95 deg, opposite sides within 10% in length), otherwise a wrong corner would shear the receipt and
+push prices onto the wrong text row; an implausible quad is replaced by its axis-aligned bounding box
+(a plain crop, no shear). The quad is expanded outward by 6% first so no text is clipped.
+If no quad is found at all we fall back to the original image.
+Mask order and hull: src/dev/rectify_variants.py (SRD validation). Check and margin:
+src/dev/rectify_margin.py (SRD validation CER and CORD validation item F1).
 """
 import json
 
@@ -21,6 +26,8 @@ from common import FIGURES, RESULTS
 WORK_H = 800          # detection runs on a downscaled copy
 MIN_AREA, MAX_AREA = 0.15, 0.97
 EPS = [0.02, 0.03, 0.05]
+MIN_ANGLE, MIN_SIDE_RATIO = 85, 0.9   # plausibility check, see plausible_quad
+MARGIN = 0.06                          # expand the detected quad outward before warping
 
 
 def order_corners(pts):
@@ -64,6 +71,31 @@ def detect_quad(img):
     return None, "fallback"
 
 
+def plausible_quad(quad, min_angle=MIN_ANGLE, min_side_ratio=MIN_SIDE_RATIO):
+    """Reject quads that would shear the receipt: every corner angle within [min_angle, 180 - min_angle]
+    and each pair of opposite sides with length ratio >= min_side_ratio."""
+    q = np.asarray(quad, dtype=np.float64)
+    for i in range(4):
+        a, b = q[i - 1] - q[i], q[(i + 1) % 4] - q[i]
+        ang = np.degrees(np.arccos(np.clip(a @ b / (np.linalg.norm(a) * np.linalg.norm(b) + 1e-9), -1, 1)))
+        if not (min_angle <= ang <= 180 - min_angle):
+            return False
+    side = [np.linalg.norm(q[(i + 1) % 4] - q[i]) for i in range(4)]
+    return min(side[0], side[2]) / max(side[0], side[2]) >= min_side_ratio and \
+        min(side[1], side[3]) / max(side[1], side[3]) >= min_side_ratio
+
+
+def expand_quad(quad, margin, shape):
+    """Push each corner away from the centroid by `margin` x (corner-centroid distance), clipped to the image.
+    Clipping text off the receipt costs far more than keeping a little background (D12)."""
+    c = quad.mean(axis=0)
+    q = c + (quad - c) * (1 + margin)
+    h, w = shape[:2]
+    q[:, 0] = np.clip(q[:, 0], 0, w - 1)
+    q[:, 1] = np.clip(q[:, 1], 0, h - 1)
+    return q.astype(np.float32)
+
+
 def warp(img, quad):
     """Perspective-warp the quadrilateral (TL, TR, BR, BL) to an upright rectangle."""
     tl, tr, br, bl = quad
@@ -74,6 +106,21 @@ def warp(img, quad):
     return cv2.warpPerspective(img, M, (W, H), flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
 
 
+def find_receipt(img):
+    """Full detection used by the pipeline: detect -> expand by MARGIN -> plausibility check.
+    Returns (quad or None, method). method is the mask name ('paper'/'otsu'/'edges') for a perspective
+    warp, '<mask>+crop' when the quad was implausible and replaced by its bounding box, or 'fallback'."""
+    quad, method = detect_quad(img)
+    if quad is None:
+        return None, method
+    plausible = plausible_quad(quad)
+    quad = expand_quad(quad, MARGIN, img.shape)
+    if plausible:
+        return quad, method
+    (x0, y0), (x1, y1) = quad.min(0), quad.max(0)
+    return np.array([[x0, y0], [x1, y0], [x1, y1], [x0, y1]], dtype=np.float32), method + "+crop"
+
+
 def rectify_image(img, mode="ours", oracle_quad=None):
     """mode 'ours' detects the receipt; 'oracle' uses the labelled corners (if available).
     Returns (image, info) where info records the quad and whether we fell back."""
@@ -81,7 +128,7 @@ def rectify_image(img, mode="ours", oracle_quad=None):
         quad = order_corners(oracle_quad) if oracle_quad is not None else None
         method = "oracle" if quad is not None else "fallback"
     else:
-        quad, method = detect_quad(img)
+        quad, method = find_receipt(img)
     if quad is None:
         return img, {"fallback": True, "quad": None, "method": method}
     return warp(img, quad), {"fallback": False, "quad": quad.tolist(), "method": method}
@@ -108,7 +155,8 @@ def corner_error(a, b, img):
 
 
 def score_rectification(recs):
-    """Per image: detected?, IoU and normalized corner error vs the labelled corners.
+    """Per image: detected?, IoU and normalized corner error vs the labelled corners, for the quad the
+    pipeline actually uses (after check and margin) and for the raw detector output ('raw_' keys).
     When we fall back, the 'prediction' is the full image frame."""
     from data import load_image
     rows = []
@@ -116,11 +164,15 @@ def score_rectification(recs):
         if r["corners"] is None:
             continue
         img = load_image(r["path"])
-        quad, method = detect_quad(img)
-        pred = quad if quad is not None else full_quad(img)
         gt = order_corners(r["corners"])
+        raw, _ = detect_quad(img)
+        raw_pred = raw if raw is not None else full_quad(img)
+        quad, method = find_receipt(img)
+        pred = quad if quad is not None else full_quad(img)
         rows.append({"id": r["id"], "detected": quad is not None, "method": method,
                      "iou": quad_iou(pred, gt), "corner_err": corner_error(pred, gt, img),
+                     "raw_detected": raw is not None, "raw_iou": quad_iou(raw_pred, gt),
+                     "raw_corner_err": corner_error(raw_pred, gt, img),
                      "iou_fullframe": quad_iou(full_quad(img), gt)})
     return rows
 
@@ -136,6 +188,11 @@ def summarize(rows):
         "corner_err_mean_detected": float(np.mean([r["corner_err"] for r in det])) if det else float("nan"),
         "good_rate_iou90": float(np.mean([r["iou"] >= 0.9 for r in rows])),
         "iou_mean_fullframe": float(np.mean([r["iou_fullframe"] for r in rows])),
+        "raw_detection_rate": float(np.mean([r["raw_detected"] for r in rows])),
+        "raw_iou_mean_all": float(np.mean([r["raw_iou"] for r in rows])),
+        "raw_corner_err_mean_all": float(np.mean([r["raw_corner_err"] for r in rows])),
+        "raw_good_rate_iou90": float(np.mean([r["raw_iou"] >= 0.9 for r in rows])),
+        "implausible_cropped": int(sum(r["method"].endswith("+crop") for r in rows)),
     }
 
 
@@ -147,18 +204,23 @@ def draw_figure(r, row, path):
     from data import load_image
     img = load_image(r["path"])
     gt = order_corners(r["corners"])
-    quad, _ = detect_quad(img)
+    quad, method = find_receipt(img)
+    raw, _ = detect_quad(img)
     ours = warp(img, quad) if quad is not None else img
     oracle = warp(img, gt)
     fig, ax = plt.subplots(1, 3, figsize=(12, 5.5))
     ax[0].imshow(img[..., ::-1])
     ax[0].plot(*np.vstack([gt, gt[:1]]).T, "g-o", lw=2, ms=5, label="labelled")
+    if raw is not None:
+        ax[0].plot(*np.vstack([raw, raw[:1]]).T, "r--o", lw=2, ms=5, label="detected" +
+                   (" (implausible)" if method.endswith("+crop") else ""))
     if quad is not None:
-        ax[0].plot(*np.vstack([quad, quad[:1]]).T, "r--o", lw=2, ms=5, label="predicted")
+        ax[0].plot(*np.vstack([quad, quad[:1]]).T, ":", color="orange", lw=2,
+                   label="used: " + ("bounding-box crop" if method.endswith("+crop") else "warp") + " (+6% margin)")
     ax[0].legend(loc="lower right", fontsize=8)
     ax[0].set_title(f"SRD {r['id']}: IoU {row['iou']:.2f}, corner err {row['corner_err']:.3f}"
                     + ("" if quad is not None else " (fallback)"), fontsize=9)
-    ax[1].imshow(ours[..., ::-1]); ax[1].set_title("our rectification", fontsize=9)
+    ax[1].imshow(ours[..., ::-1]); ax[1].set_title(f"our rectification ({method})", fontsize=9)
     ax[2].imshow(oracle[..., ::-1]); ax[2].set_title("oracle (labelled corners)", fontsize=9)
     for a in ax:
         a.axis("off")
@@ -178,7 +240,9 @@ def main():
     (RESULTS / "rectify_per_image.json").write_text(json.dumps(rows, indent=1))
     (RESULTS / "rectify_summary.json").write_text(json.dumps(summ, indent=1))
     print("SRD rectification (val = used to choose the method, test = reported):", json.dumps(summ, indent=1))
-    print("fell back (no quadrilateral found):", [r["id"] for r in rows if not r["detected"]])
+    print("fell back, no quadrilateral found:", [r["id"] for r in rows if r["method"] == "fallback"])
+    print("implausible quad, cropped to its bounding box instead of warping:",
+          [r["id"] for r in rows if r["method"].endswith("+crop")])
     by_id = {r["id"]: r for r in recs}
     # 6 figures: 2 best, 2 median, 2 worst by IoU (among images where the receipt is not the full frame)
     ranked = sorted([r for r in rows if r["iou_fullframe"] < 0.9], key=lambda r: r["iou"])

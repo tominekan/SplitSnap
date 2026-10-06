@@ -3,11 +3,11 @@
   "upscale": true,
   "clahe": true,
   "denoise": true,
-  "deskew": false,
+  "deskew": true,
   "binarize": "sauvola"
  },
- "psm": 6,
- "val_CER": 0.231124384069253,
- "description": "denoise+upscale+clahe+sauvola",
+ "psm": 4,
+ "val_CER": 0.20804049227861948,
+ "description": "denoise+upscale+clahe+deskew+sauvola",
  "chosen_on": "SRD validation split (30 images), after our rectification"
 }

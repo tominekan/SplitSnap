@@ -39,11 +39,13 @@ def get_configs():
         "+rectify+preprocess+layout": dict(rectify="ours", pre=pre, psm=psm, parser="layout"),
         "oracle-rectify": dict(rectify="oracle", pre=None, psm=3, parser="regex"),
         "oracle-rectify+preprocess+layout": dict(rectify="oracle", pre=pre, psm=psm, parser="layout"),
+        # extra ablation: the final pipeline with rectification switched off
+        "preprocess+layout (no rectify)": dict(rectify="none", pre=pre, psm=psm, parser="layout"),
     }
 
 
 def checksum(r, rel_tol=0.005):
-    """Items sum to subtotal, and subtotal + tax (+ tip) = total, within 0.5% of total (D15).
+    """Items sum to subtotal, and subtotal + tax (+ tip) = total, within 0.5% of total (D16).
     Returns None when the fields needed are missing."""
     if r["total"] is None or r["subtotal"] is None or not r["items"]:
         return None
@@ -53,9 +55,10 @@ def checksum(r, rel_tol=0.005):
     return bool(items_ok and total_ok)
 
 
-def _ocr_stage(rec, rectify, pre, psm):
+def _ocr_stage(rec, rectify, pre, psm, engine="tesseract"):
     """rectify -> preprocess -> OCR for one image, cached on disk."""
-    key = json.dumps([rec["dataset"], rec["id"], rectify, pre, psm], sort_keys=True)
+    parts = [rec["dataset"], rec["id"], rectify, pre, psm] + ([engine] if engine != "tesseract" else [])
+    key = json.dumps(parts, sort_keys=True)
     path = CACHE / "ocr" / (hashlib.md5(key.encode()).hexdigest() + ".json")
     if path.exists():
         return json.loads(path.read_text())
@@ -70,7 +73,11 @@ def _ocr_stage(rec, rectify, pre, psm):
         from preprocess import preprocess
         img = preprocess(img, pre)
     t2 = time.perf_counter()
-    text, words = run_tesseract(img, psm=psm)
+    if engine == "easyocr":
+        from ocr import run_easyocr
+        text, words = run_easyocr(img)
+    else:
+        text, words = run_tesseract(img, psm=psm)
     t3 = time.perf_counter()
     out = {"text": text, "words": words, "rectify_info": info, "shape": list(img.shape[:2]),
            "t_rectify": t1 - t0, "t_pre": t2 - t1, "t_ocr": t3 - t2}
@@ -81,7 +88,7 @@ def _ocr_stage(rec, rectify, pre, psm):
 
 def _run_one(args):
     rec, cfg = args
-    o = _ocr_stage(rec, cfg["rectify"], cfg["pre"], cfg["psm"])
+    o = _ocr_stage(rec, cfg["rectify"], cfg["pre"], cfg["psm"], cfg.get("engine", "tesseract"))
     t0 = time.perf_counter()
     if cfg["parser"] == "regex":
         res = parse_regex(o["text"], rec["currency"])

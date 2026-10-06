@@ -36,5 +36,31 @@ Chronological record of what was done, commands run, and what failed. Times are 
 ## Task 5: Preprocessing
 - Wrote `src/preprocess.py` (5 options + sweep). First attempt estimated character height and skew from a global Otsu mask, which failed on unevenly lit receipts (1001: 5 px characters, 5 deg skew). Switched to an adaptive-threshold text mask; estimates became plausible (~20 px characters, < 1 deg skew on rectified receipts).
 - `python src/preprocess.py` -> `results/logs/preprocess_sweep.txt`, `results/preprocess_sweep.md/.csv`, `results/preprocess_best.json`. Grid: 3 psm x 48 option combinations on the 30 SRD validation images after our rectification, ~11.5 min.
-- Result: psm 6 alone takes validation CER from 0.463 (psm 3) to 0.333; the best combination **psm 6 + denoise + upscale + CLAHE + Sauvola** reaches 0.231. Runner-up `denoise+upscale+adaptive` at 0.232, so the choice between them is noise.
+- First result (with the first rectification): psm 6 + denoise + upscale + CLAHE + Sauvola, CER 0.231. **Superseded**: after rectification was revised (see "Task 4, revised"), I cleared the cache and re-ran the sweep. Final: **psm 4 + denoise + upscale + CLAHE + deskew + Sauvola**, validation CER 0.208 (psm 3 with no preprocessing: 0.342; psm 6 with no preprocessing: 0.270). The winner changing between runs shows the exact combination is fragile; denoise + upscale + Sauvola is the stable part.
 - While the sweep ran, I ran a parse-only check (no OCR) of the layout parser on cached CORD validation OCR, which may have slightly perturbed the sweep's runtime column (not the CER).
+
+## Incident: disk full (during task 6 development)
+- `OSError: [Errno 28] No space left on device` while running `src/dev/rectify_margin.py`; the volume had 130 MB free.
+- Freed space **only inside the project**: deleted `data/hf/` (6.5 GB Hugging Face cache, mostly the unused CORD train split; test/validation are already exported to `data/cord/`) and `.cache/uv/` (uv download cache). Free space went to 6.7 GB. Nothing outside the folder was touched. To re-download CORD, delete `data/cord/*/index.json` and run `python src/data.py`.
+- Free space on this machine is tight; the OCR cache in `data/cache/ocr/` is a few hundred MB and can be deleted at any time.
+
+## Task 4, revised during task 6
+- When I ran the full configurations on CORD **validation**, rectification made results worse (layout parser, psm 6: F1 0.349 without rectification, 0.186 with). Viewed before/after pairs: clipped price columns and sheared warps from a wrong corner (receipt running off the frame, shadows).
+- Added a 6% outward margin, a plausibility check (corner angles 85-95 deg, opposite sides within 10%) and a bounding-box crop when the check fails. Compared 11 variants on CORD validation + SRD validation (`python src/dev/rectify_margin.py` -> `results/logs/rectify_margin_val.txt`). Chosen: margin 0.06, check (85, 0.9), else crop: CORD val F1 0.365, SRD val CER 0.273 (vs 0.349 / 0.312 with no rectification).
+- Cleared the OCR cache, re-ran `python src/rectify.py` (figures regenerated; they now show the detected quad in red and the region used in orange) and re-ran the preprocessing sweep with the new rectification (the earlier sweep's numbers are superseded).
+
+## Task 6: Layout-aware parsing
+- Wrote `src/parse_layout.py` (row grouping by y-center with tolerance 0.5 x median word height, right-most price per row, leading quantity, name borrowed from the previous text row for name-less price rows).
+- Development on CORD validation only: on B0 OCR, regex F1 0.186 vs layout 0.250 (row tolerance 0.3 / 0.5 / 0.7 -> 0.219 / 0.250 / 0.248).
+- After the demo notebook (task 11) showed `TAX «$1.40` being missed, added stripping of stray symbols glued to price tokens (generic rule; applied before the final test evaluation).
+- Test comparison on identical OCR (CORD test, from `results/summary.md`): `+rectify+preprocess` (regex) F1 0.339 vs `+rectify+preprocess+layout` F1 0.451; precision 0.496 -> 0.554, recall 0.257 -> 0.381. SRD total accuracy 0.479 -> 0.514 (CER is identical by construction: same OCR).
+
+## Task 7: Evaluation
+- Wrote `src/evaluate.py` (all configurations, CORD test + SRD test, writes `results/summary.csv`, `results/summary.md`, `results/cord_per_receipt_f1.csv`, log `results/logs/evaluate.txt`).
+- Added an extra row beyond the task's list: `preprocess+layout (no rectify)`, the final pipeline with rectification switched off, to measure rectification's contribution directly.
+- Cold run (empty OCR cache): about 8 minutes in total (22 s for B0, 121-164 s for the configurations with preprocessing; CORD images up to 4096x2304 make denoising slow). I then re-ran it from the cache after fixing decision-number references in the markdown text; `results/logs/evaluate.txt` is from that cached rerun. Its numbers are identical, and the runtimes are the ones stored by the cold run.
+- Headline (CORD test item F1 / SRD test CER): B0 0.213 / 0.393; +rectify 0.233 / 0.379; +rectify+preprocess 0.339 / 0.245; +rectify+preprocess+layout **0.451** / 0.245; oracle-rectify 0.237 / 0.320; oracle-rectify+preprocess+layout 0.457 / **0.178**; preprocess+layout without rectify 0.437 / 0.265.
+- Things to be careful about when presenting:
+  - CORD oracle only exists for the 37/100 test receipts with a `roi`; the other 63 are unwarped, so on CORD the oracle row is mostly the no-rectify row.
+  - On SRD, rectification helps the mean CER (0.265 -> 0.245) but not the median (0.192 -> 0.198): it rescues bad cases and slightly hurts some good ones.
+  - Checksum pass rates are tiny (2-7%), and even ground truth passes only 54%, so the checksum is not yet a useful signal on CORD.

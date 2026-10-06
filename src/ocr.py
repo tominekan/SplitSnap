@@ -22,3 +22,31 @@ def run_tesseract(img, psm=3, lang="eng"):
         lines.setdefault((w["block_num"], w["par_num"], w["line_num"]), []).append(t)
     text = "\n".join(" ".join(ws) for ws in lines.values())
     return text, words
+
+
+_EASY = None
+
+
+def run_easyocr(img):
+    """Optional learned OCR (task 8). Returns (text, words) in the same format as run_tesseract.
+    EasyOCR returns text boxes that often hold several words; each box is split on spaces into words
+    whose x-extent is proportional to their character count. Text lines are rebuilt by grouping
+    words into rows, like the layout parser does."""
+    global _EASY
+    import easyocr
+    if _EASY is None:
+        _EASY = easyocr.Reader(["en"], gpu=False, verbose=False)
+    words = []
+    for box, t, conf in _EASY.readtext(img):
+        xs, ys = [p[0] for p in box], [p[1] for p in box]
+        x0, width, n = min(xs), max(xs) - min(xs), max(len(t), 1)
+        pos = 0
+        for part in t.split(" "):
+            if part:
+                words.append({"text": part, "conf": float(conf) * 100, "left": int(x0 + width * pos / n),
+                              "top": int(min(ys)), "width": max(1, int(width * len(part) / n)),
+                              "height": int(max(ys) - min(ys)), "block_num": 0, "par_num": 0, "line_num": 0})
+            pos += len(part) + 1
+    from parse_layout import group_rows
+    text = "\n".join(" ".join(w["text"] for w in row) for row in group_rows(words))
+    return text, words

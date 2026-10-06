@@ -1,0 +1,11 @@
+no rectify                                           CORD val item F1 0.349 (P 0.478 R 0.275)  SRD val CER 0.3117
+rectify, margin 0.00, check None                     CORD val item F1 0.186 (P 0.256 R 0.146)  SRD val CER 0.3398
+rectify, margin 0.03, check None                     CORD val item F1 0.225 (P 0.289 R 0.185)  SRD val CER 0.3022
+rectify, margin 0.06, check None                     CORD val item F1 0.276 (P 0.361 R 0.223)  SRD val CER 0.2879
+rectify, margin 0.10, check None                     CORD val item F1 0.226 (P 0.293 R 0.185)  SRD val CER 0.2801
+rectify, margin 0.00, check (80, 0.9)                CORD val item F1 0.301 (P 0.390 R 0.245)  SRD val CER 0.3224
+rectify, margin 0.06, check (80, 0.9)                CORD val item F1 0.348 (P 0.452 R 0.283)  SRD val CER 0.2938
+rectify, margin 0.06, check (85, 0.9)                CORD val item F1 0.379 (P 0.500 R 0.305)  SRD val CER 0.2847
+rectify, margin 0.06, check (75, 0.8)                CORD val item F1 0.324 (P 0.427 R 0.262)  SRD val CER 0.2892
+rectify, margin 0.06, check (85, 0.9), else crop     CORD val item F1 0.365 (P 0.464 R 0.300)  SRD val CER 0.2728
+rectify, margin 0.06, check (80, 0.9), else crop     CORD val item F1 0.339 (P 0.430 R 0.279)  SRD val CER 0.2830
