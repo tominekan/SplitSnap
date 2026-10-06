@@ -32,3 +32,9 @@ Chronological record of what was done, commands run, and what failed. Times are 
   - Test (168): detection 0.929, mean IoU 0.832, IoU>=0.9 48%, corner error 0.050.
   - Fell back on 15 images: 1012 1013 1014 1033 1076 1135 1147 1162 1170 1175 1183 1184 1188 1191 1197 (several of them are receipts that fill the frame, where falling back is the right answer).
 - Unsure: the SRD corner labels sometimes hug the printed text rather than the paper (1004), so IoU understates detection quality there.
+
+## Task 5: Preprocessing
+- Wrote `src/preprocess.py` (5 options + sweep). First attempt estimated character height and skew from a global Otsu mask, which failed on unevenly lit receipts (1001: 5 px characters, 5 deg skew). Switched to an adaptive-threshold text mask; estimates became plausible (~20 px characters, < 1 deg skew on rectified receipts).
+- `python src/preprocess.py` -> `results/logs/preprocess_sweep.txt`, `results/preprocess_sweep.md/.csv`, `results/preprocess_best.json`. Grid: 3 psm x 48 option combinations on the 30 SRD validation images after our rectification, ~11.5 min.
+- Result: psm 6 alone takes validation CER from 0.463 (psm 3) to 0.333; the best combination **psm 6 + denoise + upscale + CLAHE + Sauvola** reaches 0.231. Runner-up `denoise+upscale+adaptive` at 0.232, so the choice between them is noise.
+- While the sweep ran, I ran a parse-only check (no OCR) of the layout parser on cached CORD validation OCR, which may have slightly perturbed the sweep's runtime column (not the CER).
