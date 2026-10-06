@@ -11,3 +11,8 @@ Chronological record of what was done, commands run, and what failed. Times are 
   - `UV_CACHE_DIR=$PWD/.cache/uv uv venv -p 3.12 .venv && uv pip install -p .venv/bin/python -r requirements.txt`
   - Note: this pulled OpenCV 5.0.0 and scikit-image 0.26.0.
 - Created folders `src/ data/ results/ figures/ notebooks/`, plus README.md, requirements.txt, .gitignore, LOG.md, DECISIONS.md.
+
+## Task 2: Data
+- Downloaded SRD: `curl -L -o data/srd/Dataset.zip https://zenodo.org/records/13688441/files/Dataset.zip?download=1` (18,998,248 bytes), unzipped. Inspected contents by hand before writing the loader (see `data/README.md`). Surprises: (1) corner order in `homography.csv` is TL, TR, BL, BR, not clockwise; (2) corners are in the EXIF-rotated frame (5 images have an EXIF orientation tag); (3) 198 images but 195 label files, 5 images have no text and 2 labels have no image.
+- Downloaded CORD v2 via `datasets` (HF cache redirected to `data/hf/`). Saved test + validation as PNG + JSON.
+- `python src/data.py` -> `results/logs/data.txt`: CORD test 100 receipts (266 priced items), 37 with roi corners; SRD 198 images, 193 with text, 198 with corners, val 30 / test 168, reliable totals 171 of 193 (after widening the keyword list from 153).
