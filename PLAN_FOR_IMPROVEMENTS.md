@@ -19,7 +19,7 @@ The goal is a receipt the user only has to *confirm*, not retype. A realistic ne
 
 ---
 
-## Phase 0: make measurements trustworthy (half a day)
+## Phase 0: make measurements trustworthy
 
 Do this first, because several conclusions so far rest on 30 validation images.
 
@@ -74,20 +74,3 @@ When the rules in Phase 1 stop paying off:
 4. **Speed.** Preprocessing on large CORD images costs ~5 s/image; downscale before denoising, and profile before moving to a phone.
 
 ---
-
-## Order and effort at a glance
-
-| Step | Effort | Expected impact | Revisits |
-|---|---|---|---|
-| Phase 0: stable validation, error taxonomy | 0.5 day | makes every later decision trustworthy | D13, D19 |
-| 1.1-1.4 rule fixes | 1-2 days | medium | D06, D10, D14 |
-| 2.1 price-column re-OCR | 1 day | high | D09 |
-| 2.2 adaptive preprocessing fallback | 0.5 day | medium | D13 |
-| 2.3 learned OCR, single process | 1 day | high (unmeasured) | D09, D20 |
-| 3.1-3.2 Hough + candidate scoring | 2 days | medium (bounded by oracle gap) | D12 |
-| 3.3 learned corner model | 3-5 days | medium-high on SRD | D12 |
-| 4.1 LayoutLMv3 on CORD train | 1 week | high on CORD | D14 |
-| 5.1 US item labels | 1-2 days of labelling | essential for real evaluation | D03 |
-| 5.2-5.3 confidence + checksum correction | 2-3 days | high for the user experience | D16 |
-
-**Rules for every experiment:** change one thing at a time; tune on CORD validation / SRD validation only; run the test splits once per phase; keep the oracle rows in the table; log the command and result in LOG.md and the decision in DECISIONS.md.
