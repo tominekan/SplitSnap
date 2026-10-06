@@ -1,0 +1,7 @@
+A edges,otsu first               det 0.77  meanIoU 0.798  IoU>=.9 0.37
+B otsu,edges first               det 0.77  meanIoU 0.791  IoU>=.9 0.37
+C hsv,otsu,edges first           det 0.90  meanIoU 0.869  IoU>=.9 0.50
+D all fill-select                det 0.90  meanIoU 0.848  IoU>=.9 0.47
+E hsv,otsu,edges first hull      det 0.90  meanIoU 0.885  IoU>=.9 0.60
+F all fill-select hull           det 0.90  meanIoU 0.817  IoU>=.9 0.53
+G A maxarea .90                  det 0.70  meanIoU 0.795  IoU>=.9 0.37

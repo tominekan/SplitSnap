@@ -23,3 +23,12 @@ Chronological record of what was done, commands run, and what failed. Times are 
 - `python src/pipeline.py --config B0` -> `results/logs/pipeline_B0.txt` (298 receipts, 20 s). Predictions in `results/predictions/B0/`.
 - Scored -> `results/logs/score_B0.txt`: CORD test item F1 0.213 (P 0.514, R 0.134), total acc 0.126; SRD test CER 0.393, total acc 0.240 (n=146).
 - Note: on 6 SRD images Tesseract psm 3 returns no text at all on the raw photo (e.g. 1001, small text on a 645x1000 photo). Verified by calling Tesseract directly.
+
+## Task 4: Rectification
+- Wrote `src/rectify.py` (detect, warp, oracle warp, IoU via shapely, corner error / image diagonal, figures).
+- First version (Canny then Otsu, first 4-gon): SRD validation mean IoU 0.798, detection 77%. Looked at failures (1107: receipt runs off the bottom edge; 1024: white tray and a credit card on the receipt).
+- Compared 7 variants on the 30-image validation split only (`python src/dev/rectify_variants.py` -> `results/logs/rectify_variants_val.txt`). Chose "paper mask (bright + low saturation), then Otsu, then edges, convex hull": IoU 0.885, detection 90%.
+- `python src/rectify.py` -> `results/logs/rectify.txt`, `results/rectify_summary.json`, `results/rectify_per_image.json`, 6 figures in `figures/rectify/` (2 best, 2 median, 2 worst by IoU among images where the receipt does not fill the frame).
+  - Test (168): detection 0.929, mean IoU 0.832, IoU>=0.9 48%, corner error 0.050.
+  - Fell back on 15 images: 1012 1013 1014 1033 1076 1135 1147 1162 1170 1175 1183 1184 1188 1191 1197 (several of them are receipts that fill the frame, where falling back is the right answer).
+- Unsure: the SRD corner labels sometimes hug the printed text rather than the paper (1004), so IoU understates detection quality there.

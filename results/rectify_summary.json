@@ -1,0 +1,32 @@
+{
+ "all": {
+  "n": 198,
+  "detection_rate": 0.9242424242424242,
+  "iou_mean_all": 0.839868574677706,
+  "iou_mean_detected": 0.8405454426024651,
+  "corner_err_mean_all": 0.04781094196443662,
+  "corner_err_mean_detected": 0.047613225481704165,
+  "good_rate_iou90": 0.5,
+  "iou_mean_fullframe": 0.6834190897928037
+ },
+ "val": {
+  "n": 30,
+  "detection_rate": 0.9,
+  "iou_mean_all": 0.8851036997751607,
+  "iou_mean_detected": 0.8757300803667376,
+  "corner_err_mean_all": 0.032810091342342716,
+  "corner_err_mean_detected": 0.03560555269461162,
+  "good_rate_iou90": 0.6,
+  "iou_mean_fullframe": 0.6566178435630284
+ },
+ "test": {
+  "n": 168,
+  "detection_rate": 0.9285714285714286,
+  "iou_mean_all": 0.8317908737674461,
+  "iou_mean_detected": 0.8344557937586486,
+  "corner_err_mean_all": 0.05048966528981055,
+  "corner_err_mean_detected": 0.04969147654100865,
+  "good_rate_iou90": 0.48214285714285715,
+  "iou_mean_fullframe": 0.6882050266195494
+ }
+}

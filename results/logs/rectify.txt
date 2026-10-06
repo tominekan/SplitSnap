@@ -1,0 +1,34 @@
+SRD rectification (val = used to choose the method, test = reported): {
+ "all": {
+  "n": 198,
+  "detection_rate": 0.9242424242424242,
+  "iou_mean_all": 0.839868574677706,
+  "iou_mean_detected": 0.8405454426024651,
+  "corner_err_mean_all": 0.04781094196443662,
+  "corner_err_mean_detected": 0.047613225481704165,
+  "good_rate_iou90": 0.5,
+  "iou_mean_fullframe": 0.6834190897928037
+ },
+ "val": {
+  "n": 30,
+  "detection_rate": 0.9,
+  "iou_mean_all": 0.8851036997751607,
+  "iou_mean_detected": 0.8757300803667376,
+  "corner_err_mean_all": 0.032810091342342716,
+  "corner_err_mean_detected": 0.03560555269461162,
+  "good_rate_iou90": 0.6,
+  "iou_mean_fullframe": 0.6566178435630284
+ },
+ "test": {
+  "n": 168,
+  "detection_rate": 0.9285714285714286,
+  "iou_mean_all": 0.8317908737674461,
+  "iou_mean_detected": 0.8344557937586486,
+  "corner_err_mean_all": 0.05048966528981055,
+  "corner_err_mean_detected": 0.04969147654100865,
+  "good_rate_iou90": 0.48214285714285715,
+  "iou_mean_fullframe": 0.6882050266195494
+ }
+}
+fell back (no quadrilateral found): ['1012', '1013', '1014', '1033', '1076', '1135', '1147', '1162', '1170', '1175', '1183', '1184', '1188', '1191', '1197']
+figures: ['srd_best1_1136.png', 'srd_best2_1148.png', 'srd_median1_1004.png', 'srd_median2_1068.png', 'srd_worst1_1169.png', 'srd_worst2_1104.png']
