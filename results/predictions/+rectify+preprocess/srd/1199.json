@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "fartare di Tonno",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "Branz ino",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Pizza Americana",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "Carrot Cake",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "GI Sangiovese",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Gl Harlot",
+   "qty": 1,
+   "price": 13.0
+  }
+ ],
+ "subtotal": 118.0,
+ "tax": 118.0,
+ "tip": null,
+ "total": 128.33,
+ "raw_text": "se ev evaceeessoseoeososaoessdeeeceksrrs”\nwore\n28 Me el th!\nwet Het yaa a RRS\nta? Wye zi @ast\nNy te 4 to On\nwaran\n12\n! fartare di Tonno 17.00\nIf inguine Scaap! ope\n' Branz ino 28.00\n1 Pizza Americana 14.00\n' Carrot Cake 12,00\n' GI Sangiovese 12.00\n1 Gl Harlot 13.00\n' MIse Food 2.00 2.\n=e\nTaxable 118.00\nSub-total 118.00\ntaxes (0.33)\nTotal Due: 128.33",
+ "checksum": false,
+ "runtime_s": 0.786139499861747,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    31.637542724609375,
+    3.7279510498046875
+   ],
+   [
+    317.0584411621094,
+    3.7279510498046875
+   ],
+   [
+    317.0584411621094,
+    347.0
+   ],
+   [
+    31.637542724609375,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "water",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.74,
+ "tip": null,
+ "total": 10.0,
+ "raw_text": "a uP W.\n512-205 4019 HF Fees. -3950\nCheck 94 fable e 6\n) 5\nMG\nwater 0.00\nCaldo de Camaro, ==\" GaP Se\nSales Tax 0.74\nProcessing Fee aan\nTOTAL 10.00\nBALANCE DUE 10.00\n~~ Processing fee will be removed\nif the check is paid in cash.\nee TULA VAlI FAR ALANS",
+ "checksum": null,
+ "runtime_s": 1.0878353752195835,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    335.0,
+    1.0
+   ],
+   [
+    335.0,
+    448.0
+   ],
+   [
+    1.0,
+    447.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

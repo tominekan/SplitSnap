@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "7\n|\n|\nrsi)\n1x 1.250 1.250 |\nBola Ubi Mini Original «14 Pes |\n2X 12.500 25,680 |\nsubtotal 26 250\nPajak -\nTotal 26.250 |\nt\nPembayaran GO-PAY\nb\noonae ath Aan lon Ye Van oalata tone, < Wi caiiaie © Sot iene Tote Oe ate Cosme }",
+ "checksum": null,
+ "runtime_s": 2.490167833864689,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    50.320037841796875,
+    132.23202514648438
+   ],
+   [
+    719.0,
+    132.23202514648438
+   ],
+   [
+    719.0,
+    1161.703857421875
+   ],
+   [
+    50.320037841796875,
+    1161.703857421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

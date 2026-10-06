@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "G] Karma Cab Sauy",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "G] Douglass Green SB",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "PKLI Green Curry Scallops",
+   "qty": 1,
+   "price": 21.95
+  },
+  {
+   "name": "PKLI Piri Piri Chicken",
+   "qty": 1,
+   "price": 23.75
+  }
+ ],
+ "subtotal": 74.7,
+ "tax": 6.0,
+ "tip": null,
+ "total": 83.5,
+ "raw_text": "Table 24/1\nGuests: 2 20018\nG] Karma Cab Sauy 12.00\nG] Douglass Green SB 11.00\nPKLI Green Curry Scallops 21.95\nPKLI Piri Piri Chicken 23.75\nSubtotal 74.70\nTax 6.00\nSurcharge 3.75% SC* 2.80\nTotal 83.50\nBalance Due 83.50\n*3.75% SC - In support\nof the increases to min wage\nTo find out why, visit\nwaW.wnlhosp.com/rttd",
+ "checksum": false,
+ "runtime_s": 0.6898600410204381,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    61.0,
+    27.0
+   ],
+   [
+    701.0,
+    5.0
+   ],
+   [
+    740.0,
+    987.0
+   ],
+   [
+    43.0,
+    990.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

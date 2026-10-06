@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Draft Beer",
+   "qty": 1,
+   "price": 9.94
+  },
+  {
+   "name": "Fountain Drink",
+   "qty": 1,
+   "price": 2.17
+  },
+  {
+   "name": "MOD Pizza",
+   "qty": 1,
+   "price": 8.67
+  },
+  {
+   "name": "Mini MOD",
+   "qty": 1,
+   "price": 6.67
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "MOD Pizza\n26902 92nd Ave NW\nSuite A\nStanwood, WA.'98292\nPhone 360.205 9680\n5/19/2019 4:06:54 PH\nOrder Id: Be HNEACCH\n#77 - HER (\nDraft Beer (2 @ 4.97) $9.94\nFountain Drink (160z) $2.17\nMOD Pizza $8.67\nMini MOD $6.67\nSub Total $27 45\nSales Tax\n(rder Total Ri ag\ny'1se\n' $23. 99\nltp\n+t $3.5",
+ "checksum": null,
+ "runtime_s": 0.7112604160793126,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    1.0,
+    1.0
+   ],
+   [
+    312.0,
+    3.0
+   ],
+   [
+    326.0,
+    447.0
+   ],
+   [
+    7.0,
+    446.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

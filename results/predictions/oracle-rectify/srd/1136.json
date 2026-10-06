@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Flame Broiled Chicken",
+   "qty": 1,
+   "price": 11.99
+  }
+ ],
+ "subtotal": 11.99,
+ "tax": 1.14,
+ "tip": null,
+ "total": 13.13,
+ "raw_text": "The Shawarma Factory\n14817 S. Western Ave Apr 10, 2019\nGardena, CA 90249 12:34 PM\nVince\n= ee ee\nTicket: #29 Visa 7286\nAuthorization 173245\nReceipt O3WE\nVISA DEBIT\nAID AO 00 00 00 03 10 10\nas \"FOR HERE\nFlame Broiled Chicken $11.99\n1/2 Chicken, Hummus , House Salad\nSubtotal $11.99\nSales Tax $1.14\na eee\nTotal $13.13\nat a",
+ "checksum": true,
+ "runtime_s": 0.7904695840552449,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    103.0,
+    143.0
+   ],
+   [
+    648.0,
+    135.0
+   ],
+   [
+    708.0,
+    998.0
+   ],
+   [
+    65.0,
+    996.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

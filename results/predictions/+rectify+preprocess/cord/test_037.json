@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Popcorn Salt (S",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 20000.0,
+ "raw_text": "lm ew es ¢\n’- @ «2\n~* Pa ’\n1 Popcorn Salt (S) 20,000\nTOTAL 20.000\nCASH 60.000\nCHANGED 30.000\nOe @ we § 6 00 -e @ CHed\n@% v ood",
+ "checksum": null,
+ "runtime_s": 1.363127416698262,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    95.57461547851562
+   ],
+   [
+    575.0,
+    95.57461547851562
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    863.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

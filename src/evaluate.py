@@ -135,7 +135,7 @@ def write_markdown(df, gt_check, n_text, n_total):
                  f"{f(r.get('SRD_rect_detect'))} | {f(r.get('SRD_rect_IoU'))} | {f(r.get('SRD_rect_corner_err'))} | "
                  f"{f(r.SRD_runtime_s, 2)} |")
     L += ["", "CER is computed on lowercased text with whitespace collapsed and empty lines dropped "
-          "(DECISIONS.md D16). Rectification corner error is normalized by the image diagonal. "
+          "(DECISIONS.md D17). Rectification corner error is normalized by the image diagonal. "
           "Runtimes are wall-clock per image with 8 images processed in parallel on an 8-core laptop."]
     (RESULTS / "summary.md").write_text("\n".join(L) + "\n")
 

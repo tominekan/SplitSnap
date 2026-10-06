@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "APPLE CINNAMON PASTRY",
+   "qty": 1,
+   "price": 22000.0
+  },
+  {
+   "name": "ROYAL CHEESE TART",
+   "qty": 2,
+   "price": 32000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 54000.0,
+ "raw_text": "| Verde a A\ni\" Wu\n'\n1 APPLE CINNAMON PASTRY 22,000\n2 ROYAL CHEESE TART 32,000\nTOTAL ‘54,000\nCARD = 5e , 000\npwewe\n+ ~~\noeeiitie —F gation\na alia",
+ "checksum": null,
+ "runtime_s": 0.6527728328946978,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

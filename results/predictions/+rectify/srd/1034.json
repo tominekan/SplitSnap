@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "A\nlacSfource",
+ "checksum": null,
+ "runtime_s": 0.15900412504561245,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    246.19374084472656,
+    0.0
+   ],
+   [
+    226.31874084472656,
+    249.0
+   ],
+   [
+    0.0,
+    249.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

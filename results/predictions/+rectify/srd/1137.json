@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Naui Teriyaki\n27000 Marine Ave #103\nRedondo Beach, CA 90278\n(310) 973-3500\n: Annie Station: 1\n168479 Phone Order\nCustomer Name:\nLEANNE",
+ "checksum": null,
+ "runtime_s": 0.4650461252313107,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    74.69375610351562,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    74.69375610351562,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

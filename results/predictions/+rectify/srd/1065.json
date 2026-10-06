@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Taco Maria\n3313 Hyland Ave. Ste C21\nCosta Mesa, CA 92626\n714 538 8444\nwuw, tacomaria.c\nOrder# 118888\nServer: Jesa R\nTable: Bar 7\nDate: 1/23/18, 12:16 PM\nChicken\nPescado\nArrachera solo\nSubtotal:\nTotal Tax:\nOrder Balance due:\nSuggested Gratuity\n% Tip\n18.00% of sale: $7,65 =\n20.00% of sale: $8.50 =\n22.00% of sale: $9.35 =",
+ "checksum": null,
+ "runtime_s": 0.6254647090099752,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    80.94375610351562,
+    0.0
+   ],
+   [
+    665.2687377929688,
+    0.0
+   ],
+   [
+    665.2687377929688,
+    999.0
+   ],
+   [
+    80.94375610351562,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

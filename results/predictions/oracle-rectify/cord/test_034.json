@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "total\nPatek (108)\ntal",
+ "checksum": null,
+ "runtime_s": 0.20304708322510123,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    -15.0,
+    19.0
+   ],
+   [
+    306.0,
+    7.0
+   ],
+   [
+    350.0,
+    626.0
+   ],
+   [
+    1.0,
+    627.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

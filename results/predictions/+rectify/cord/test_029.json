@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "COLD OCHA\nBCA FROMO\n‘-ABURA UDON SPICY\n!-KAKE UDON\nSKEWERED SHUMAI\nSKEWERED TOFU ROLL\nPURA\nUDON (KIDS)\nPRPBRHPHPHHEE",
+ "checksum": null,
+ "runtime_s": 0.5804733750410378,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    839.111328125,
+    0.0
+   ],
+   [
+    839.111328125,
+    999.9854736328125
+   ],
+   [
+    0.0,
+    999.9854736328125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

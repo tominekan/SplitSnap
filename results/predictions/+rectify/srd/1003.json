@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "E] Gran Har de Plata\n10325 Hanmocks 81 vd\nMiami, FL a3i76”\n(305) 366-6633\nServer: Kayra _ Station: p\nOrder #: g262\nBar Tab: Bar Tab\n2D SHTLD «\nDine ‘In\n1 Miler Lit\nSUB TOTAL:\nSales Tax:\nTOTAL:\nCash Tendered:\nBalance:\n») Tioket #: 35 «\neated: 4/20/2017 10:13:17 PM\nalia 4/20/2017 10:13:25 PM\nTHANK YOU!\n‘a\nSyse ee,\nsag Le = oh",
+ "checksum": null,
+ "runtime_s": 0.5722080408595502,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    167.73751831054688,
+    36.45001220703125
+   ],
+   [
+    611.6124877929688,
+    15.250030517578125
+   ],
+   [
+    599.6875,
+    999.0
+   ],
+   [
+    158.46250915527344,
+    995.75
+   ]
+  ],
+  "method": "paper"
+ }
+}

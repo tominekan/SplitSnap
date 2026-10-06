@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "196 $11.93 soy 2 Flow",
+   "qty": 1,
+   "price": 11.58
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "SubnayE463-0 than 626-585-9559\n625 § Fair Oke. Ave\nPasatend, Ok 91105\nServed bys 4 5/1/2019 2\nTer 10-Transa V/a-27ez4\n7\n8 Pre\n196 $11.93 soy 2 Flow 11,58\nTeak & Oe Sb\nse: Otc.\nsaz\natin USE\nA: es,\nMe: cnr",
+ "checksum": null,
+ "runtime_s": 0.3341716250870377,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    13.517501831054688,
+    0.0
+   ],
+   [
+    272.1575012207031,
+    0.0
+   ],
+   [
+    272.1575012207031,
+    399.0
+   ],
+   [
+    13.517501831054688,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

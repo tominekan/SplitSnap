@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "‘Sy #845690 Phorm 625-885-999\n5 far Ol, he\nServed A091 oa\nTerm 10-Tranat WA zanees\nOty Size Tten Proce",
+ "checksum": null,
+ "runtime_s": 0.2651248329784721,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    69.0,
+    8.0
+   ],
+   [
+    263.0,
+    11.0
+   ],
+   [
+    260.0,
+    397.0
+   ],
+   [
+    72.0,
+    390.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Bohemia",
+   "qty": 2,
+   "price": 16.0
+  },
+  {
+   "name": "Albondigas",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Mole",
+   "qty": 1,
+   "price": 16.95
+  }
+ ],
+ "subtotal": 42.9,
+ "tax": 4.08,
+ "tip": null,
+ "total": 46.98,
+ "raw_text": "Mf 223 N. Citrus Ave\nCovina, CA 91723\n(626) 339-9496\nheck :208/74\nab le :BARY\n2tver :Ryan\n3/25/18 08 344m\nea a a aT TE REL iy\n(Seat 1] -- ~\n2 Bohemia $16.00\nTall\n1 Albondigas $9.95\n1 Mole $16.95\nSubtotal: $42.90\nTax:: $4.08\nSub w/Tax: $46.98\nTotal: $46.98\n“Thank-You! .\nWe Jook forward to seeing you again.",
+ "checksum": true,
+ "runtime_s": 2.4319067909382284,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    57.0,
+    86.0
+   ],
+   [
+    646.0,
+    50.0
+   ],
+   [
+    748.0,
+    985.0
+   ],
+   [
+    1.0,
+    990.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

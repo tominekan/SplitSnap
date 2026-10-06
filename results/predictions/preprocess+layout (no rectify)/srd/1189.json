@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "WATER",
+   "qty": 2,
+   "price": 0.0
+  },
+  {
+   "name": "ENCH VERDE",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "ERCH HANUEL",
+   "qty": 1,
+   "price": 12.8
+  },
+  {
+   "name": "Jax",
+   "qty": 1,
+   "price": 1.78
+  }
+ ],
+ "subtotal": 25.3,
+ "tax": null,
+ "tip": null,
+ "total": 27.08,
+ "raw_text": "MIGUELS MEXICAN\n3035 NW. KENNEDY BLYD\nTAMPA ,\n(813) 876 - 2587\n187 MEGAN F\nTb} 42/1 = Chk 3923 st 2\nJu105'17 05: sory\nDINE IN\n2 WATER 0.00\n1 ENCH VERDE 12.50\n1 ERCH HANUEL 12.80\nSubtotal 25.30\nJax 1.78\n06:11PM Total 27.08\nPLEASE PAY YOUR SERVER\nTHANK YOU\nFOR CHOOSING MIGUELS CAFE\nEno: MEGAN F Table: 42 Check#: 3\nDate: 7-5-17",
+ "checksum": false,
+ "runtime_s": 1.6568719169590622,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

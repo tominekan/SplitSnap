@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "RED & HOT II\n349 7 AVE. (CORNER OF If\nBROOKLYN, NY 11215\nTEL(718)309-257\nPEL(718)309-8897\nDine In\nDate: 10-20-2018 Time: 12:37PM\nServer: WAITER\n1 Wenctable Roll\nEgg Roll\n2 135.Sesame chicken\n1 WR\n1 FR\n1 (L)Veg Spare Ribs BBS\nW/R\nAmount :\nTAX(8.875%) :\nTO TAL: :\nThagiey you very much.\n0.00\n13.90\n7.65\nDl\n1.91\n23. 46",
+ "checksum": null,
+ "runtime_s": 0.7110140828881413,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    706.856201171875,
+    0.0
+   ],
+   [
+    706.856201171875,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

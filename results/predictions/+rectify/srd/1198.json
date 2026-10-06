@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "TAL OUE",
+   "qty": 1,
+   "price": 154.78
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": 25.56,
+ "total": null,
+ "raw_text": "stk Wise) Beech\nCollins Ave\nwiast, FL 93140\n100 SERVER\n7103/1 1959\n8:03PM\n25AUG'17\nDining\nTAvion Stiver RX 18.1\nrgarita rx\n4] Staub 0\nVAvion Silver @X 16.\nmargerita ry\nFDA Deleonico 14 52.\n} Truffle Fries 13\n1 Mac/Cheese 12\n1 Asparagus 3\n1 BAKED COOKIE 10.\nSUBTOTAL 1421\nAdd-On Tax Food = T\nad-On Tax Bev 2\nResort Tax\nFor your convenience\nsuggested gratuities\n‘are shown below\n18x gratuity $25.56\n20% gratuity $28.40\n22k gratuity $31.24\n2\nTAL OUE $154.78\n00\n00\n08\noo\n00\n00\n00\n00\n00\n70\n28",
+ "checksum": null,
+ "runtime_s": 0.4795749168843031,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    226.9293670654297,
+    0.0
+   ],
+   [
+    240.046875,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "otsu"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "Tartare d+ Tonno",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "Branzino",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Pizza Americana",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "Carrot Cake",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "G6) Sangiovese",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "1G) Merlot",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Misc Food",
+   "qty": 1,
+   "price": 2.0
+  }
+ ],
+ "subtotal": 118.0,
+ "tax": 118.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "cere vcevccccccccccsgeceseeeeeeeessessell\nfWrrs\n7 et geet Hed\nme ¢ ty Dyed (A Wal s\n‘et 7A aad8\nSelgte 9 SO OM\nsarah\n12\n1 Tartare d+ Tonno 11.00 2.\nt tinguine Scasn) .\n! Branzino 28 .00\n1 Pizza Americana 14.00\n) Carrot Cake 12.00\n' G6) Sangiovese 12.00\n1G) Merlot 13.00\n' Misc Food 2.00 2.\nTaxable 118.00\nSub-total 118.00\nTota) Due: 1278.33",
+ "checksum": null,
+ "runtime_s": 0.8165988340042531,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    69.0,
+    1.0
+   ],
+   [
+    278.0,
+    3.0
+   ],
+   [
+    309.0,
+    344.0
+   ],
+   [
+    35.0,
+    341.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

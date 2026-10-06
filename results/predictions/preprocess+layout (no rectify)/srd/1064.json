@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "Counter-Eat In",
+   "qty": 1,
+   "price": 3.3
+  },
+  {
+   "name": "WO KM",
+   "qty": 1,
+   "price": 4.35
+  },
+  {
+   "name": "Fr",
+   "qty": 1,
+   "price": 1.6
+  }
+ ],
+ "subtotal": null,
+ "tax": 8.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "13-06-10 L1 12 , 3:04 PM\nzones YOUR GUEST NUMBER IS\n25\nIN-N-QUT BURGER ESCONDIDO 3\n13-08-1 :02 PM\n3019-08-10 47 2 480 2152\nCastier: ADAM EL\nCrack =: 25\nCounter-Eat In\n0b10b1 3.30\nWO KM\na3 4.35\n> GRS only\nFr 1.60\nFF Animal 3°50\nlg Coke 1°70\nMed Coke 150\n#8 C Shk t 2°05\nCounter-Eat In 18-09\nTAX 8.00% 44\nAmount Due $1 q. AA",
+ "checksum": null,
+ "runtime_s": 2.6195363332517445,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

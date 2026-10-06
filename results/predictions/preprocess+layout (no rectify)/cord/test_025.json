@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "TWIST STRANBERRY DONUT",
+   "qty": 1,
+   "price": 10000.0
+  },
+  {
+   "name": "TLd CROQUETTE",
+   "qty": 1,
+   "price": 17000.0
+  },
+  {
+   "name": "POTATO PEPPER BAGEL",
+   "qty": 1,
+   "price": 16000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 43000.0,
+ "raw_text": "aR\n18 hes clas\nCaer tam ©\n@@se\n2 ee ee)\ntw ww\n¢ &\nFY ore en 4%\n1 TWIST STRANBERRY DONUT 10,000\n1 TLd CROQUETTE 17,000\n1 POTATO PEPPER BAGEL 16,000\nTOTAL 43,000\nCHANGE 7,000\n= “fw\noe? «we imam mw tw",
+ "checksum": null,
+ "runtime_s": 2.6979861250147223,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

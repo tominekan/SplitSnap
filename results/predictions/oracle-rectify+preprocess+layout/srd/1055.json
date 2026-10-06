@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "2PC R&B NEAL",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "SWING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "SWING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "ICED TEA",
+   "qty": 1,
+   "price": 6.99
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "WINGS & THINGS\n519 FULTON AVE. HEMPSTEAD NY\nTHANKS CALL AGAIN 516-483-0936\n#195 IN\n187 2PC R&B NEAL 5.99\nICED TEA\nSUB CORNBREAD\n1 #3 SWING MEAL 6.99\nSTERRA\n1 SUB FIXN\nMACRCHZ\n1 #3 SWING MEAL\nICED TEA\n1 SUB FIXN\n+ agit RICE\n3 SWING MEAL\nICED TEA 6.99\n1 SUB FIXN\nMACRCHZ\n1 COLL RN sway\n6.99",
+ "checksum": null,
+ "runtime_s": 1.821665917057544,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    164.0,
+    170.0
+   ],
+   [
+    659.0,
+    177.0
+   ],
+   [
+    681.0,
+    992.0
+   ],
+   [
+    112.0,
+    992.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

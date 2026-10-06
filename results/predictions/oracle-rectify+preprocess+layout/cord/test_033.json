@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "BABY POTATO (R",
+   "qty": 1,
+   "price": 50500.0
+  },
+  {
+   "name": "HOT TUNA N",
+   "qty": 1,
+   "price": 67000.0
+  },
+  {
+   "name": "HOT TUNA",
+   "qty": 1,
+   "price": 87000.0
+  }
+ ],
+ "subtotal": 117500.0,
+ "tax": null,
+ "tip": 11070.0,
+ "total": 148127.0,
+ "raw_text": "oN ; Na\n1 i BABY POTATO (R 50,500\nN\n| HOT TUNA 67,000\n1 HOT TUNA 87 ,000\nDisc ~100%(ITMOB) -67,000\nSUBTTL 117,500\nSVC CHG 8% 11,070\nPBY 10% 19,557\nTOTAL 148.127",
+ "checksum": false,
+ "runtime_s": 2.208002084167674,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

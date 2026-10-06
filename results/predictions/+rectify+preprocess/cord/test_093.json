@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Xx",
+   "qty": 1,
+   "price": 14343.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Le Lem beredene farcnanh an} entumbentnntondurehaabentondenetenSradardeatenderdorknabestenedent’\nee een\nTHAI ICED TEA (L)\n1 Xx 14,343\nett ree ~\n2 oe eee cs opt eee eas to tee,\nee ee ee oy a eee\n15,343\nCh eet bakerLuubendestendembunta-dmakuatnsd-erdenteetotesdePendand\n(Cate as PO a EE EE SO AEE GS eS SO: SD SE ON Om om SE OR SO OnE\nJumlah Item 1\nSut Total\nPajak Resto\nGrand Total\n14,343\n1,434\n17,999",
+ "checksum": null,
+ "runtime_s": 11.141490624751896,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    70.42953491210938,
+    35.737213134765625
+   ],
+   [
+    807.1082763671875,
+    35.737213134765625
+   ],
+   [
+    807.1082763671875,
+    1146.765625
+   ],
+   [
+    70.42953491210938,
+    1146.765625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

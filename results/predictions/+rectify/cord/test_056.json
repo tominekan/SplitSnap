@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "AIR MINERAL no. 1S\nSUBTOTAL Gh, Gt\noper ome\nTD",
+ "checksum": null,
+ "runtime_s": 0.5251966672949493,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    190.868408203125,
+    534.9996337890625
+   ],
+   [
+    1001.3868408203125,
+    534.9996337890625
+   ],
+   [
+    1001.3868408203125,
+    1542.423583984375
+   ],
+   [
+    190.868408203125,
+    1542.423583984375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "BEEFEATER-MARTINI",
+   "qty": 1,
+   "price": 11.5
+  },
+  {
+   "name": "ROSEMARY CAIPIRINHA",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "CRABCAKES",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "BLACK PEPPER BACON",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Millenium",
+   "qty": 1,
+   "price": 52.0
+  },
+  {
+   "name": "NY SIRLOIN",
+   "qty": 1,
+   "price": 46.0
+  },
+  {
+   "name": "BRUSSEL SPROUTS",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "ESPRESSO",
+   "qty": 1,
+   "price": 4.5
+  }
+ ],
+ "subtotal": 176.0,
+ "tax": null,
+ "tip": null,
+ "total": 193.35,
+ "raw_text": "TET EEEPRERERAREEKEKEREE EELS EEE EES ESSERE OO\n0193 Table 54 #Party 2\nWILLIAM L SvrCk: 10 B:07p 03/22/13\nDINING ROOM\nTS MAIN DINING\n1 BEEFEATER-MARTINI 11,50\n1 ROSEMARY CAIPIRINHA 13.00\n1 CRABCAKES 17.00\n1 BLACK PEPPER BACON 12.00\n1 Millenium 2# 52.00\n1 NY SIRLOIN 46 .00\n1 BRUSSEL SPROUTS 13.00\n1 ESPRESSO 4,50\n1 LAUREN’S HAZELNUT TORTE §.00\nSub Total: 176.00\nTax : 15.935\nSub Total: 193.35\n03/22 9:53p> TOTAL : 193.35",
+ "checksum": false,
+ "runtime_s": 2.128299833042547,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    5.0,
+    5.0
+   ],
+   [
+    1168.0,
+    5.0
+   ],
+   [
+    1163.0,
+    1382.0
+   ],
+   [
+    32.0,
+    1377.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

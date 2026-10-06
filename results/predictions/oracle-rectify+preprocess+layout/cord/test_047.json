@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "COPIA /GB",
+   "qty": 1,
+   "price": 45000.0
+  },
+  {
+   "name": "PLASTIC BAG REO CENTRAL ST",
+   "qty": 1,
+   "price": 9100544260074.0
+  },
+  {
+   "name": "COPIA /GB t",
+   "qty": 1,
+   "price": 18000.0
+  },
+  {
+   "name": "we at. oe",
+   "qty": 1,
+   "price": 63000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 63000.0,
+ "raw_text": "—perenp a twp lH ee! en\nor a ce re\now 8 @&> J\nVY\n'\n5 OP\no¢ td 4+\ns 7 ae >\neo Sd - . ¢\n-—- & ww a\nCOPIA 1 /GB 1 45,000.00\n2100252000358 45,000.00\nPLASTIC BAG REO CENTRAL ST 1 0.00\n9100544260074 0.00\nCOPIA 1 /GB t 18,000.00\n2100252000358 18,000.00\nTotal 63,000.00\nTotal discount 0.00\nTotal quantity 3\nCard Payment DEBIT CARO\nwe at. oe 63,000.00",
+ "checksum": null,
+ "runtime_s": 3.575299374992028,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "PLARIER Sa",
+   "qty": 1,
+   "price": 65.8
+  },
+  {
+   "name": "a COCA-COAA",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "a ORANGE",
+   "qty": 1,
+   "price": 4.4
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 17.0,
+ "raw_text": "lacSfou rce\n@e Acain ver’ ~\nPath qr anis\nons seen 7 iy Oa At\nNOTE\n1 PLARIER Sa 65.80\na COCA-COAA 5.00 9-05.89\na 65 ORANGE 5 4 4.40\nTOTAL EURO *17 .00\n4.7 TvA 10% os. 4s\nDONT TvA 10% 01.55\nTota, VIC 10% 037.00\nfer 0148.28.44.)\nMERC] DE VOTRE VISITE",
+ "checksum": null,
+ "runtime_s": 1.296198375057429,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    53.0,
+    5.0
+   ],
+   [
+    187.0,
+    7.0
+   ],
+   [
+    218.0,
+    248.0
+   ],
+   [
+    27.0,
+    248.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

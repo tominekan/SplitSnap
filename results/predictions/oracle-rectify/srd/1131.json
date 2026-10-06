@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "MISC",
+   "qty": 1,
+   "price": 0.01
+  },
+  {
+   "name": "B CHZ B SPC",
+   "qty": 1,
+   "price": 8.8
+  },
+  {
+   "name": "F FRIES - LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "F FRIES - LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "PREM MED DRINK",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "CHZ_ BURGERSSPEC",
+   "qty": 1,
+   "price": 7.57
+  },
+  {
+   "name": "TL",
+   "qty": 1,
+   "price": 28.31
+  },
+  {
+   "name": "CG",
+   "qty": 1,
+   "price": 11.69
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.46,
+ "tip": null,
+ "total": null,
+ "raw_text": "CHRIS\nHAMBURGERS\n3950 © SLAUSON MAYWOOD, CA 90270\nPHONE 323-588-1607\nMC #01\nREG CASHIER 11-24-2017 12:13 PM 000072\nMISC $0.01\nB CHZ B SPC $8.80\nho pickles\nF FRIES - LRG $3.66\nCRISPY\nCRISPY\nF FRIES - LRG $3.66\nCRISPY\nPREM MED DRINK $2.15\nhorchata ~_ oe\nCHZ_ BURGERSSPEC $7.57\nnid onions\nEAT—-IN\nTAXABLE SALES $25.85,\nTAX $2.46\nTL $28.31\nCASH $40.00\nCG $11.69\nORDER # oo000000052\nPLEASE HELP US SERVE YOU BETTER\nSERVICE WAS VERY GOOD [J\nGood Cal\nPOOR (eal",
+ "checksum": null,
+ "runtime_s": 0.6728539171162993,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    97.0,
+    197.0
+   ],
+   [
+    449.0,
+    197.0
+   ],
+   [
+    494.0,
+    985.0
+   ],
+   [
+    19.0,
+    978.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

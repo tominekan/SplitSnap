@@ -1,0 +1,15 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "| ‘BANBERRY FR FRESH CREAN C cK 20, 00\nTOTAL 230. ,000\na CHA NGE 0",
+ "checksum": null,
+ "runtime_s": 2.082405832828954,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

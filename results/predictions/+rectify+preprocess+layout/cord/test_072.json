@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "c\n{ Choco Devil 15,905. |\naialatetan _™~",
+ "checksum": null,
+ "runtime_s": 19.11545095895417,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    849.41455078125
+   ],
+   [
+    0.0,
+    849.41455078125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

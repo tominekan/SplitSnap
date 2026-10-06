@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "TA) NASI ORG TERI 4",
+   "qty": 1,
+   "price": 165460.0
+  },
+  {
+   "name": "TA) BIHUN GORENG 1",
+   "qty": 1,
+   "price": 40456.0
+  },
+  {
+   "name": "TA) KWETIAW SEAFOOD 1",
+   "qty": 1,
+   "price": 42274.0
+  },
+  {
+   "name": "1A) NAST GORENG 2",
+   "qty": 1,
+   "price": 55456.0
+  },
+  {
+   "name": "TTEMS:8",
+   "qty": 1,
+   "price": 303646.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 334000.0,
+ "raw_text": "Ne\ntal:\nCuston\n(TA) NASI ORG TERI 4 165,460\nMEDAN\n(TA) BIHUN GORENG 1 40,456\nSEAFOOD\n(TA) KWETIAW SEAFOOD 1 42.274\nSIRAM\n(1A) NAST GORENG 2 55,456\nTTEMS:8 303,646\nENT 10% 30,365\n12 Rounding 334,011\nRounding ne\nTotal 334,000\nDEBIT 8CA 334\nA Yungan",
+ "checksum": null,
+ "runtime_s": 0.5558159181382507,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    85.82400512695312,
+    89.92803955078125
+   ],
+   [
+    606.4959716796875,
+    84.84002685546875
+   ],
+   [
+    606.4959716796875,
+    1138.0560302734375
+   ],
+   [
+    102.78401184082031,
+    1171.97607421875
+   ]
+  ],
+  "method": "paper"
+ }
+}

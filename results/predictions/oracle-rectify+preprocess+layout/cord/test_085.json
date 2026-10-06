@@ -1,0 +1,88 @@
+{
+ "items": [
+  {
+   "name": "Nasi Putih",
+   "qty": 3,
+   "price": 30000.0
+  },
+  {
+   "name": "Nasi Tambah",
+   "qty": 1,
+   "price": 7000.0
+  },
+  {
+   "name": "Ayam Pop",
+   "qty": 2,
+   "price": 40000.0
+  },
+  {
+   "name": "Samabal SP",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "Sambal Gabus ASin Cb",
+   "qty": 14,
+   "price": 18000.0
+  },
+  {
+   "name": "KerupUK KUah",
+   "qty": 4,
+   "price": 15000.0
+  },
+  {
+   "name": "IKan BaWat Besa",
+   "qty": 1,
+   "price": 28500.0
+  },
+  {
+   "name": "Telur Dadar",
+   "qty": 4,
+   "price": 10000.0
+  },
+  {
+   "name": "Teh ES",
+   "qty": 1,
+   "price": 7000.0
+  },
+  {
+   "name": "Teh Manis",
+   "qty": 4,
+   "price": 9000.0
+  },
+  {
+   "name": "Es Batu",
+   "qty": 1,
+   "price": 4000.0
+  }
+ ],
+ "subtotal": 179500.0,
+ "tax": 9590.0,
+ "tip": null,
+ "total": 187450.0,
+ "raw_text": "SOI GIOIA IIE\n3 Nasi Putih 30.000\n1 Nasi Tambah 7.000\n2 Ayam Pop 40.000\n1 Samabal SP 11.000\n14 Sambal Gabus ASin Cb\n18.000\n4 KerupUK KUah 15.000\n1 IKan BaWat Besa 28.500\n4 Telur Dadar 10.000\n1 Teh ES 7.000\n4 Teh Manis 9.000\n1 Es Batu 4.000\nSubtotal 179.500\nPajak Rest. 10+ 1°. 9590\n14 Total 187.450\nTLL Makanan 159.5\nTtl Minumar 20° d00\nCash 197.450\nge A, t",
+ "checksum": false,
+ "runtime_s": 5.638236167142168,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    657.0,
+    74.0
+   ],
+   [
+    1757.0,
+    182.0
+   ],
+   [
+    1562.0,
+    2367.0
+   ],
+   [
+    556.0,
+    2372.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": ".\nPrimo\nFamily Restaurant\nms\n00",
+ "checksum": null,
+ "runtime_s": 0.20092129218392074,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    35.0,
+    6.0
+   ],
+   [
+    222.0,
+    3.0
+   ],
+   [
+    242.0,
+    393.0
+   ],
+   [
+    22.0,
+    388.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

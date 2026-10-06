@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "California Tropic And Miso",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "Add Two Tostones",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Sprite",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "uf Perrier Sparkling Water",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "SU Sits u HAI\nSUKHOTHAI SUSHI + ASIAN\nFUSION\n11 435°SW V47 AVE UNiT 36\nMIAML FL 33196\n(865774888\nNUpi//Www.sukhothaius.com\n**Order online WwWwW-Sukhothaius.comsss«\nORDER: 0003\nDINE-IN\nCashier: Sergio\n19-Apr-2019 2:02:26P\nTransaction 211209\n1\nChicken Fried Rice And Egg\n$7.99\nLunch\n1 California Tropic And Miso $7.99\nLunch\n1 Add Two Tostones $1.00\n1 Sprite $2.50\nuf Perrier Sparkling Water $3.50\nSubtotal\n$22.98\nTax oe 4\nServi :",
+ "checksum": null,
+ "runtime_s": 0.7837626249529421,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    192.0,
+    103.0
+   ],
+   [
+    563.0,
+    65.0
+   ],
+   [
+    652.0,
+    996.0
+   ],
+   [
+    52.0,
+    994.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

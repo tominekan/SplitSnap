@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 3.65
+  },
+  {
+   "name": "Short Rib",
+   "qty": 1,
+   "price": 27.95
+  },
+  {
+   "name": "Diet Coke",
+   "qty": 1,
+   "price": 3.65
+  },
+  {
+   "name": "Crispy Naked Wings",
+   "qty": 1,
+   "price": 11.95
+  },
+  {
+   "name": "Rib Eye Steak",
+   "qty": 1,
+   "price": 35.75
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 91.45
+  }
+ ],
+ "subtotal": 82.95,
+ "tax": 8.5,
+ "tip": null,
+ "total": 91.45,
+ "raw_text": "DAILY GRILL\nEXCELLENCE SERVED DAILY\nDaily Grill\n#20027\n| 2501 Colorado Ave\nsae Santa Monica, CA 90404\n; Server: Dana 11/01/2018\n\"a Table 54/1 7:30 PM\noe Guests: 2\nCoke 3.65\nShort Rib 27.95\nDiet Coke 3.65\nCrispy Naked Wings 11.95\nRib Eye Steak 35.75\nBroccoli\nBecome a fan or write a review.\nFind us on Facebook, Twitter & Yelp.\nSubtotal 82.95\nTax 8.50\nTota] 91.45\nBalance Due 91.45\nSign up 8 DailyGrill.com\nto Receive Exclusive\nOffers & Promotions.",
+ "checksum": false,
+ "runtime_s": 5.623103625141084,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    133.8062744140625,
+    0.0
+   ],
+   [
+    727.40625,
+    0.0
+   ],
+   [
+    727.40625,
+    999.0
+   ],
+   [
+    133.8062744140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

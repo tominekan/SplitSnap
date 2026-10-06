@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "u TIKKA tat",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "P, PALAK el SPINA Mey",
+   "qty": 1,
+   "price": 18.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "4\nNAME: CHARES\nah\nSe CHECKS 71128.)\noes\nwoe he\n2 IX\nnes\nsee] ets\nClosed HH credit Card\nae 12/31/2018 6:06:02 PH\nSTATION: bY\nSo happy about your visit!\nItem Count: 8\neee eo es wa ee ee ee eee\nSsesssass:\nSSssecaasssssssrssasasss:\nu TIKKA tat\nP, SPINA\n1 PALAK el Mey\n1 VEGAN BENGAN BHARTA®\n————\n$20.00\n$18.00\nwee ew wee were we ee se resee esses ees seee\nTax\nTotal before tip:\nTip amount:",
+ "checksum": null,
+ "runtime_s": 1.8113773751538247,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

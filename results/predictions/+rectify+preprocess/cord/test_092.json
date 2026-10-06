@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 240000.0,
+ "raw_text": "01016 -TICREL EP >\n4 40.000, 240,000\n7 <A\nTOTAL catf=4.00)240.000\nreo bg\n~ CASH © 250.000\nCHANGE F 10.000\nwe we wn weer eenneee Te FP eee mw em enw enn een",
+ "checksum": null,
+ "runtime_s": 4.226607291027904,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    738.3636474609375
+   ],
+   [
+    0.0,
+    738.3636474609375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

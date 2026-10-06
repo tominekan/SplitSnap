@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "WINGS & THINGS\n519 FULTON AVE. HEMPSTEAD NY\nTHANKS CALL AGAIN 516-483-0936\nIN",
+ "checksum": null,
+ "runtime_s": 0.36978749884292483,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    164.0,
+    170.0
+   ],
+   [
+    659.0,
+    177.0
+   ],
+   [
+    681.0,
+    992.0
+   ],
+   [
+    112.0,
+    992.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "MISC",
+   "qty": 1,
+   "price": 0.01
+  },
+  {
+   "name": "F FRIES - LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "F FRIES - LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "PREM MED DRINK",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "CH BURGERSSPEC",
+   "qty": 1,
+   "price": 7.57
+  }
+ ],
+ "subtotal": null,
+ "tax": 25.85,
+ "tip": null,
+ "total": null,
+ "raw_text": "HAMBUR =}\n3950 © SLAUSON MAYWOOD, GA 90270\nPHONE 329-588-1607\n#01\nREG CASHIER 11-24-2017 12; 3 PM 000072\nMISC $0.01\nB CHZ B SPC $8.80.\nho pickles\nF FRIES - LRG $3.66\nCRISPY\nCRISPY\nF FRIES - LRG $3.66\nCRISPY\nPREM MED DRINK $2.15\nhorchata a\nCH BURGERSSPEC $7.57\nnid onions\nEAT-IN\nTAXABLE SALES $25.85\n; $2.46\n$28.31\n$40.00\n$11.69\nORDER # Q000000052\nPLEASE HELP US SERVE YOU BETTER\nSERVICE WAS VERY GOOD [ ]\nGood [J\nPOOR []",
+ "checksum": null,
+ "runtime_s": 0.6458627919200808,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    171.0562744140625
+   ],
+   [
+    507.7562255859375,
+    171.0562744140625
+   ],
+   [
+    507.7562255859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

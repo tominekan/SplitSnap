@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Cmca)\nIKEA F000.\nTKEA MILTON KEYNES 185\nVAT: GB 527773320\n‘Address4\nMeatballs 10\nFish & Chips Adult 4\nPetit Pain - White 0\nWine rose: 2\nWine red 2",
+ "checksum": null,
+ "runtime_s": 0.3091825421433896,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    1.0,
+    2.0
+   ],
+   [
+    306.0,
+    3.0
+   ],
+   [
+    308.0,
+    518.0
+   ],
+   [
+    2.0,
+    525.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

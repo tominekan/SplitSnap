@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Shrimp Scampi",
+   "qty": 4,
+   "price": 27.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 12.51,
+ "tip": null,
+ "total": null,
+ "raw_text": "516-2942922\nTable #2\nTrans #: 137017 Serv: Manager 2\nyoyoe 29 PH st:\n“Gan Bescripe Cost —\n4 Shrimp Scampi $27.00\n2 Chicken Milanese $46. 00\n1 Veal Milanese $27. 00\n3 Grey Goose $30. 00\n1 Pineapple Juice $3. 00\n1 Belvedere $12. 00\n1 Becks Non Alcoholic $6. 00\n1 Corona $6. 00\n1 Comp Item ($12, 00)\n$145. 00\nTax $12.51\nTOTAL: $157.5\nAmount Due: $157. 51",
+ "checksum": null,
+ "runtime_s": 0.8022358750458807,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    61.0,
+    3.0
+   ],
+   [
+    558.0,
+    5.0
+   ],
+   [
+    625.0,
+    990.0
+   ],
+   [
+    3.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

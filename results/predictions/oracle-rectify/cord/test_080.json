@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Viet Milk Coffee",
+   "qty": 1,
+   "price": 25000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1 Viet Milk Coffee 25.000\n+Ice\na\nSubtotal\nTotal",
+ "checksum": null,
+ "runtime_s": 0.21985274902544916,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    48.0,
+    59.0
+   ],
+   [
+    405.0,
+    24.0
+   ],
+   [
+    412.0,
+    559.0
+   ],
+   [
+    48.0,
+    558.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

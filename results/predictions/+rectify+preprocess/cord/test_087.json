@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "~-a 0 ww nor ETT Hh TT eT re 7\noo\n3 wht 5 tint j\na nm ‘ ; “ee tn ‘sowe wi a . ;\n~ :\n| i “4 ~, . . .\noT Mia er or ee ~ te te\n| petra a .\nr Meo we 4 ° . “ 7\n. ~~ ‘te ee - : I\nA oad ' eee ¢\n[ ied Sheet See | me, ge\ntow) on 4 iL. ‘ as\nen, «\ntf, i , [. .\nat pial “wee “we” iy oe\nSi se . | :\nLu ae\n: wl iw Fy Ske oT\ne es\no gu fe\nww\nre eae CEE\nPp ff O",
+ "checksum": null,
+ "runtime_s": 20.31009470904246,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    782.4194946289062,
+    0.0
+   ],
+   [
+    825.3494873046875,
+    1098.538330078125
+   ],
+   [
+    61.195526123046875,
+    1174.094970703125
+   ]
+  ],
+  "method": "paper"
+ }
+}

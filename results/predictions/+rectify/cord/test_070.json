@@ -1,0 +1,88 @@
+{
+ "items": [
+  {
+   "name": "UDANG RE 216,000",
+   "qty": 1,
+   "price": 432000.0
+  },
+  {
+   "name": "AYM GR JUN NJAN",
+   "qty": 1,
+   "price": 108000.0
+  },
+  {
+   "name": "SAPO TH SEAFOOD",
+   "qty": 1,
+   "price": 172000.0
+  },
+  {
+   "name": "POCAI 3 111,000",
+   "qty": 2,
+   "price": 222000.0
+  },
+  {
+   "name": "GURAME FILLET M",
+   "qty": 1,
+   "price": 143000.0
+  },
+  {
+   "name": "1. BIHUN GORENG JJ",
+   "qty": 1,
+   "price": 114000.0
+  },
+  {
+   "name": "ICED TEA §2,000",
+   "qty": 5,
+   "price": 40000.0
+  },
+  {
+   "name": "NASI PUTIH 110,000",
+   "qty": 7,
+   "price": 70000.0
+  },
+  {
+   "name": "BEVERAGES",
+   "qty": 1,
+   "price": 60000.0
+  },
+  {
+   "name": "OTHERS",
+   "qty": 1,
+   "price": 70000.0
+  },
+  {
+   "name": "DU",
+   "qty": 1,
+   "price": 1565938.0
+  }
+ ],
+ "subtotal": 1343000.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "UDANG RE 216,000 432,000\n=%LARGES==\n1 AYM GR JUN NJAN . 108,000\n=#MEDIUM= ie ;\n1 SAPO TH SEAFOOD 172,000\n=ELARGEX== He\n2 POCAI 3 111,000 222,000\n2 =kMEDIUMK=\n1 GURAME FILLET M 143,000\n\"SAM MANIS\n1. BIHUN GORENG JJ 114,000\n=¥LARGEX==\n5 ICED TEA §2,000 40,000\n7 NASI PUTIH 110,000 70,000\nFooD 1,213, 000\nBEVERAGES ~ \"60,000\nOTHERS ‘ 70,000\nSUBTOTAL 1,343,000\nSERVICE CHARGE 80, 580\nTax 10% 142,358.\nDU 1,565,938",
+ "checksum": null,
+ "runtime_s": 1.0710160008165985,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    229.36712646484375,
+    21.6619873046875
+   ],
+   [
+    828.6221923828125,
+    23.62030029296875
+   ],
+   [
+    809.0386962890625,
+    1474.757568359375
+   ],
+   [
+    205.86691284179688,
+    1474.757568359375
+   ]
+  ],
+  "method": "paper"
+ }
+}

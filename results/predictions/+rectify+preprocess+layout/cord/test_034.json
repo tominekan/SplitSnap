@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "sasur Goreng",
+   "qty": 1,
+   "price": 10006.0
+  }
+ ],
+ "subtotal": 65900.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Ash Chick Sambal Mata> 5 75 .XC\nsasur Goreng 2 10.006\nSubtotal 65.900\nPajak (10%) 8 500\nTotal §3 500\nTunas IN xX\ncemba V4 & Soc",
+ "checksum": null,
+ "runtime_s": 1.5495974579825997,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    319.0,
+    0.0
+   ],
+   [
+    319.0,
+    623.0
+   ],
+   [
+    0.0,
+    623.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

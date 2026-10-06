@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "tonded hachos",
+   "qty": 1,
+   "price": 2.95
+  },
+  {
+   "name": "Fint Boston Lager",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Pint Yeungling",
+   "qty": 2,
+   "price": 12.0
+  },
+  {
+   "name": "Yona Longboard",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Quesad‘ Ila",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "food",
+   "qty": 1,
+   "price": 58.8
+  },
+  {
+   "name": "liquor",
+   "qty": 1,
+   "price": 24.0
+  }
+ ],
+ "subtotal": null,
+ "tax": -3.98,
+ "tip": null,
+ "total": 84.78,
+ "raw_text": "core ee—e—\nBar\n\\ Artrur's Burger sChsBleu 13. 95\n‘Our’ Burger **Avocado ° 95\n+ tonded hachos 2.95\n1 Fint Boston Lager 6.00\n2 Pint Yeungling 12.00\n1 Yona Longboard 6.00\n1 Quesad‘ Ila 13.95\nfood . 58.80\nliquor 24.00\nTax - 3.98\n02:25F4 Total Que 84.78\n20% added to parties 8 or more\nTrank You for Dining with Us!\nPrivate Rooms\nAvailable for\nYour Next Party!",
+ "checksum": null,
+ "runtime_s": 1.6341750000137836,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    147.98751831054688,
+    306.5000305175781
+   ],
+   [
+    666.0625,
+    306.5000305175781
+   ],
+   [
+    666.0625,
+    999.0
+   ],
+   [
+    147.98751831054688,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

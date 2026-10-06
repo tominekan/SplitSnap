@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": 25000.0,
+ "tax": null,
+ "tip": null,
+ "total": 25000.0,
+ "raw_text": "1 Viet Milk Coffee\n+Ice\n+H\nSubtotal 25.000\nTotal 25.000\nCASH\nKesbal ian & 0",
+ "checksum": null,
+ "runtime_s": 1.8600164169911295,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    12.676513671875
+   ],
+   [
+    431.0,
+    12.676513671875
+   ],
+   [
+    431.0,
+    647.0
+   ],
+   [
+    0.0,
+    647.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

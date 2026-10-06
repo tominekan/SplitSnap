@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 94.78,
+ "raw_text": "servers Jer)\n3\nwe 38\ncoffee 3:\n| Gass ase wee as\n| gumbo octal? Sorie0 ee\neae 0\n1 veal 2\n> 1 puckting ale Arencto ce)\n: 81.5\n| 9B TOTAL:\nTex 1 Uses\n| TOTAL: $94.78\n» Ticket #2 7 <«\n12/8/2017 4:44:05 PM\nThank you for dining at Ville D'Este\nPlease cone again soon.",
+ "checksum": null,
+ "runtime_s": 0.4313252507708967,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    299.0,
+    0.0
+   ],
+   [
+    299.0,
+    399.0
+   ],
+   [
+    0.0,
+    399.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

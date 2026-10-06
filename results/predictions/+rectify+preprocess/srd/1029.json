@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Si\n|\n—— =\n— -\nRINCON MExicaNo\n99 BROADWAY\nSOMERVILLE, MA 02145\n6179661387\nORDER: 45\nDine In\nCashier: LORENZO REYES\n09-May-201 7 7:19:46pP\n2. Arroz\n2 TacoDe Pescado\n2 Taco Tuesday Pollo\n1 Taco D Carne Asada\n1 Taco D Chorizo\n1 Taco Tuesday Pastor\n1 Horchata\n1 Taco Tuesday Pollo\n1 Taco D Cochinita\n1 Taco D Carnitas\nSubtotal\nTax\nTotal\nOrder 7JTOG77X6ANR8\n&\n$3.00 WA\n$7.00\n$2.00\n$2.99\n$2.99\n$1.00\n$2.99\n$1.00\n$2.99\n$2.99\n$28.95\n$2.03\n$30.98\n\\",
+ "checksum": null,
+ "runtime_s": 2.612381957937032,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    4.6500244140625,
+    13.34375
+   ],
+   [
+    730.75,
+    13.34375
+   ],
+   [
+    730.75,
+    999.0
+   ],
+   [
+    4.6500244140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

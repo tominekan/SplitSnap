@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "re ue",
+   "qty": 1,
+   "price": 28000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "7 Ore ae on ae oe\nwane Ore some meee\n— as ‘dues soe ON eniep. GERD Wet ccm pies fete Cen ere Smee sam Sonn aime ene SES eS SD: SIRE\nChoco Mochi\nre ue 28,000\n1001-Choce Bun\n— en",
+ "checksum": null,
+ "runtime_s": 2.149966040858999,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

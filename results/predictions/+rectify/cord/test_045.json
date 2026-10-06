@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1 Lemon Tea (L)\n1 Mike & Ike Original\n1 Mike & Berry\n1 Roti Keju Manis\nCASH\nCHANGED",
+ "checksum": null,
+ "runtime_s": 0.5540264588780701,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    84.555908203125,
+    30.4884033203125
+   ],
+   [
+    831.537841796875,
+    30.4884033203125
+   ],
+   [
+    831.537841796875,
+    1282.3271484375
+   ],
+   [
+    84.555908203125,
+    1282.3271484375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Food Pa",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "i Le",
+   "qty": 1,
+   "price": 0.57
+  },
+  {
+   "name": "PAYVENT",
+   "qty": 1,
+   "price": 6.56
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "~\nAK SURATI FARSAN MART\n11814 186TH STREET\nARTESIA, CA 90701\n562-860-2310\n- HWW sSURATIFARSAN. COM\n16 Daksh D\nao Se-en-----~-----2L____ |g fi wap - eee\nChk 45 10 ~peheeelst 9)\n7 Chole Samosa **=70°GO *** 5,99\nXXXXXXXKXXXXB4OZ\nVISA 6.56\nFood Pa \\' 5.99\ni Le 0.57\nPAYVENT 6.56\nwoenennene-- 16 Check Ciased--~-------___\n- ap ae Aug08'19 07:34PM--~------___\nThank You\" ‘fer your business\nFree ground Siesting onyorders\nof ny or more..",
+ "checksum": null,
+ "runtime_s": 0.9090408331248909,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    662.6937255859375,
+    0.0
+   ],
+   [
+    662.6937255859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

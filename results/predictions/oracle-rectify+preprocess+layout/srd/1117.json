@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 158.07
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "iad ——\nJAPANESE, STEAK\nKone 8 HIGHWAY 13 aaa\nyo HIRAGEs CA, 92278-\nRANCHO M7 69-324-1717\nServer 1D: 4\nSale\nrenennoooocxtT\ntS Entry Hethod: Chip\n‘Amount:$ 158.07\nTip: \\9 00\nTotal } _ OT\nyuna ' a\n\\errvd: hie Ned sl\n~ VISA BIT |\nNigagaa (|\n' o\nTBI: 68 . t\neS",
+ "checksum": null,
+ "runtime_s": 2.390872416784987,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    170.0,
+    67.0
+   ],
+   [
+    650.0,
+    83.0
+   ],
+   [
+    664.0,
+    994.0
+   ],
+   [
+    148.0,
+    996.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

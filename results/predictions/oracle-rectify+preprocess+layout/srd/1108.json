@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "BBQ Dinner x4",
+   "qty": 1,
+   "price": 47.15
+  },
+  {
+   "name": "beverage x2",
+   "qty": 1,
+   "price": 4.91
+  }
+ ],
+ "subtotal": 48.54,
+ "tax": null,
+ "tip": null,
+ "total": 52.06,
+ "raw_text": "Go Kongo BBQ\n6661 Stanford Ranch Rd.\nRocklin, CA 95677\n916-632-8828\nReceipt: mongo-042441\nDate: Jan 28, 2038 $:48:07 PM\nServed by: Manager\nItea Price Qty Value\nBBQ Dinner $10.99 x4 $47.15\nbeverage $2.29 x2 $4.91\nItems count: 6\nSubtotal: $48 .54\nCA Tax 7.25%: $3 .§2\nTotal $52.06\nCash\nTendered: $52.06\nChange: $0 00",
+ "checksum": false,
+ "runtime_s": 1.5029931259341538,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    5.0,
+    1.0
+   ],
+   [
+    268.0,
+    2.0
+   ],
+   [
+    289.0,
+    395.0
+   ],
+   [
+    8.0,
+    396.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

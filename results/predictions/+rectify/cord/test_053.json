@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "FICC OOOO IOI\n1 Pecel Komplit + Nasi 42 ant\nfT ouo KUDUS 4? 006\n2 Mineral Water 18. 001\nSubtotal 107. 001\nServi Charge 94 ‘ Sel\nPajak Rest 10% 23!",
+ "checksum": null,
+ "runtime_s": 0.7081754170358181,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    80.676025390625,
+    54.31048583984375
+   ],
+   [
+    815.6375732421875,
+    54.31048583984375
+   ],
+   [
+    815.6375732421875,
+    1247.764404296875
+   ],
+   [
+    80.676025390625,
+    1247.764404296875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

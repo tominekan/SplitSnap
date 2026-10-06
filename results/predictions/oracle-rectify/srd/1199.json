@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Branzino",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "J Carrot coke",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "161 Sangiovese",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "V6) Herlot",
+   "qty": 1,
+   "price": 13.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 118.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "le\nv\n1 Tartare di Tomo\n1 Linguine Scare BO\n1 Branzino 28.00\n1} Pizza Aeericane 14:00\nJ Carrot coke 12.00\n161 Sangiovese 12.00\nV6) Herlot 13.00\nJ Misc Food 2.0128\nTaxable: 118,00\nsub-total\nTaxes:\n———",
+ "checksum": null,
+ "runtime_s": 0.2770584160462022,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    69.0,
+    1.0
+   ],
+   [
+    278.0,
+    3.0
+   ],
+   [
+    309.0,
+    344.0
+   ],
+   [
+    35.0,
+    341.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

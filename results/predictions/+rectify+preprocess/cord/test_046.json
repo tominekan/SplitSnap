@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "S-Bubb Te HIT Tea €20,000",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "Carame? Milk Teh €20,000",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 40000.0,
+ "raw_text": "1 S-Bubb Te HIT Tea €20,000 20,000\n0%\n1X $-Carame? Milk Teh €20,000 20,000\n100%\n~ Total: 40,000\nCash: 40,000\nCHANGE / 0\nenews oweenorrne >\n(A\nween",
+ "checksum": null,
+ "runtime_s": 4.1382729997858405,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

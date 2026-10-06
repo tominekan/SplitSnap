@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Crisfield Special] Platter",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Pint Bisque",
+   "qty": 1,
+   "price": 11.5
+  },
+  {
+   "name": "Carry Out",
+   "qty": 1,
+   "price": 1.93
+  }
+ ],
+ "subtotal": 38.5,
+ "tax": 2.31,
+ "tip": null,
+ "total": 42.74,
+ "raw_text": "Crisfield Seafood\nRestaurant\n8012 Georgia Ave,\nSilver Seing, MD20910\n(301) 589-1306\nA ee a a ee\nORDER# 134\n4arryou\nt\n12/29/2017 8:38:16 PM\nTN ee ne ee\nDinner Platters\n1 Crisfield Special] Platter 27.00\nadhd COOK MEDIUM ex\nExtras\n1 Pint Bisque 11.50\nSUBTOTAL: 38.50\nCarry Out 1.93\nTAX: 2.31\nRegister T#0000144 --~--------\nTOTAL: $42.74\nThankayYou!\n™~",
+ "checksum": false,
+ "runtime_s": 2.4106582500971854,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    125.0,
+    25.0
+   ],
+   [
+    639.0,
+    9.0
+   ],
+   [
+    695.0,
+    971.0
+   ],
+   [
+    103.0,
+    956.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "1 25/COSMO, up",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "SOUP Dy",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "TURTLE",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "TOSTADA",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "1 25/GIN, up",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "1 25/ RAY, up",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "SOUFFLE/ALA",
+   "qty": 1,
+   "price": 9.5
+  }
+ ],
+ "subtotal": 50.5,
+ "tax": 5.45,
+ "tip": null,
+ "total": null,
+ "raw_text": "COMMANDER'S PALACE\n1427 WASHINGTON AVE,, NEW ORLEANS, LA.\nOOOS9 Table 522 #Party 2\nLAURA D SvrCk: 1 11:23a 03/12/19\n25/ CP, up\n1 0.25\n1 25/COSMO, up 0.25\n1 SOUP Dy 0.00\n1 TURTLE 0.00\n1 CATFISH 22 .00\n1 TOSTADA 18.00\n1 25/GIN, up 0.25\n1 25/ RAY, up 0.25\n1 SOUFFLE/ALA 9.50\nSub Total: 50.50\nTax 5.45\n03/12 12:31pPTOTAL : S55 .95\nThank You\nNow streaming on NETFLIX!\nElla Brennan: Commanding the Table\nAsk your server for details.",
+ "checksum": null,
+ "runtime_s": 0.8795483750291169,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    41.0,
+    157.0
+   ],
+   [
+    501.0,
+    110.0
+   ],
+   [
+    744.0,
+    807.0
+   ],
+   [
+    159.0,
+    996.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

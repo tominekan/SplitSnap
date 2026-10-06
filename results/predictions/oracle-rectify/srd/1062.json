@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "PREM WHITE",
+   "qty": 1,
+   "price": 10.75
+  },
+  {
+   "name": "YONG RIPIENE",
+   "qty": 1,
+   "price": 9.75
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ABLE 403 CHECK | 37\nRoe wes «rea ten? 10H\nPREM WHITE 10.75\nPREN RED © 1027S\nbier SDA 3:75\naur 3las\nYONG RIPIENE 9.75\n(Chicken Parm2i-75\nSEQuPE naLANaS. 75",
+ "checksum": null,
+ "runtime_s": 0.3564448331017047,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    52.0,
+    74.0
+   ],
+   [
+    244.0,
+    78.0
+   ],
+   [
+    244.0,
+    389.0
+   ],
+   [
+    45.0,
+    396.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

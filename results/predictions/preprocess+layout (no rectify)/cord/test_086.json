@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "Creezemania",
+   "qty": 1,
+   "price": 9900.0
+  },
+  {
+   "name": "Mamamia",
+   "qty": 1,
+   "price": 12500.0
+  },
+  {
+   "name": "DUE",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": 22000.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Pm Ge ake yun ND Sek Ma NOH eh SENT SEN SO SOLAS COPIR ANOD Cer SN FAAS OPEN LOR SEED SET TEND OOTT GON tra ee nt GOD ce Ga GE\n[eee meer SA aE TT EERE lew Mr Slay MALE KbED fuRIL CrmD CO SUN HUEEE SOON ERED LEO GEE SEOHY GFLLD Stee COIR TRON SURE GEIR MEAG EEEED Owen GaDEE samED\n1 Creezemania 9,900\n1 Mamamia 12,500\nSUBTOTAL 22,000\nDUE 22,000\nCASH m2 000\nCHANGE 70,000\nTOTAL QTY 2 ITEM 2 PCS",
+ "checksum": null,
+ "runtime_s": 3.565392915857956,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

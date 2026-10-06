@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "Wonton or Egg Drop or",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "Wonton Soup",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "101 Egg Roll",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Juice Chinesse Chop",
+   "qty": 23,
+   "price": 8.99
+  },
+  {
+   "name": "Tropical",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Tamal De Pollo",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 24.24,
+ "tax": 1.7,
+ "tip": null,
+ "total": 25.94,
+ "raw_text": "CASA CHAN RESTAURANT\nWonton or Egg Drop or $3.75\nced Dinner\nWonton Soup $0.00\n101 Egg Roll $3.00\n23 Juice Chinesse Chop $8.99\nSuey Honduran Style\nDinner\n1 Tropical $5.00\n2 @$2.50/12 oz\n1 Tamal De Pollo $3.50\n1 @ $3.50/each\nSubtotal $24.24\nTax $1.70\nTotal $25.94\nOrder DMHGRRF9JPM70\nBring back this receipt for 10% off your next\nvisit! :)\nOnline: https://clover.com/t/\nDMHGRRFSJPM70\nPULL",
+ "checksum": true,
+ "runtime_s": 0.5858260008972138,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    108.05001831054688,
+    175.83126831054688
+   ],
+   [
+    561.0,
+    175.83126831054688
+   ],
+   [
+    561.0,
+    999.0
+   ],
+   [
+    108.05001831054688,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

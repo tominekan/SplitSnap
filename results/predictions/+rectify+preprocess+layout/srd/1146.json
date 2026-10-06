@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": 12.25,
+ "tax": 1.07,
+ "tip": null,
+ "total": 13.26,
+ "raw_text": "a\nRihanna's Caribbean Restaurant\n12709 BEECHNUT ST STE100\nHOUSTON, TX 77072\n8328902382\nORDER: 12\nCashier. LeeLee\n12 Aug: 2018 3:01-40P\n1 Curry Chicken $1\n1 Beef Pattie $2 28\nSubtotal $12.25\nTax $1.07\nTotal $13.26\nOrder CVrenrolmaern Sf",
+ "checksum": null,
+ "runtime_s": 0.8026467908639461,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    333.7015380859375,
+    0.0
+   ],
+   [
+    333.7015380859375,
+    347.0
+   ],
+   [
+    0.0,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

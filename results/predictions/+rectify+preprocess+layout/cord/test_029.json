@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "COLD OCHA",
+   "qty": 1,
+   "price": 10949.0
+  },
+  {
+   "name": "BCA FROMO",
+   "qty": 1,
+   "price": 54455.0
+  },
+  {
+   "name": "SKEWERED SHUMAI",
+   "qty": 1,
+   "price": 12727.0
+  },
+  {
+   "name": "SKEWERED TOFU ROLL",
+   "qty": 1,
+   "price": 12727.0
+  },
+  {
+   "name": "EBI TEMPURA",
+   "qty": 1,
+   "price": 13636.0
+  },
+  {
+   "name": "KITSUNE UDON (KIDS",
+   "qty": 1,
+   "price": 28182.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "| Mee 4\nt\nee ee eee c ? eee eee ee\nCOLD OCHA 1 10,949\nBCA FROMO 1 54,455\n1-A4BURA UDON SPICY 1 0\n!-KAKE UDON 1 0\nSKEWERED SHUMAI 1 12,727\nSKEWERED TOFU ROLL 1 12,727\nEBI TEMPURA 1 13,636\nKITSUNE UDON (KIDS) 1 28,182",
+ "checksum": null,
+ "runtime_s": 2.727345666149631,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    839.111328125,
+    0.0
+   ],
+   [
+    839.111328125,
+    999.9854736328125
+   ],
+   [
+    0.0,
+    999.9854736328125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

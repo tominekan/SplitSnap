@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "GUACAMOLE DIP",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "OLET COKE",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "LUNCH FASLTAS",
+   "qty": 1,
+   "price": 7.75
+  },
+  {
+   "name": "TORTILCAS",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "SOUR GREAM",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "Jax tf",
+   "qty": 1,
+   "price": 1.36
+  },
+  {
+   "name": "TOL",
+   "qty": 1,
+   "price": 11.15
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 16.39,
+ "raw_text": "Hexican Restaurant\nSt.\n305 Wl\nMatthews 105)\nme) 7 4 \\\nServer: ccovthurt Station: 10\n2 ae : —_\nOrder ¥. 403593 ~ Dine In\nTable: 9 Qests: 1\n1 GUACAMOLE DIP 3.99\n1 OLET COKE 2,15\n«1 LUNCH FASLTAS , 7.75\n- 1 TORTILCAS (3) 1.25\n\"1 SOUR GREAM 1.25\nSus TOTAL. 16.39\nJax tf: 1.36\n12/2/2017 11:48:\nTHAIX YOY!\nA yp\nTOL: $11.15\n)) tet ((",
+ "checksum": null,
+ "runtime_s": 1.8370907919015735,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

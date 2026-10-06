@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "Plate",
+   "qty": 1,
+   "price": 9.2
+  },
+  {
+   "name": "BEIJING",
+   "qty": 1,
+   "price": 9.1
+  },
+  {
+   "name": "iy",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "PEPSI ae see ths cH",
+   "qty": 1,
+   "price": 2.0
+  }
+ ],
+ "subtotal": 25.2,
+ "tax": 2.24,
+ "tip": null,
+ "total": null,
+ "raw_text": "; A DURCHASE ax\nPanda Express #2614\n2 Brooklyn, NY\nf acaeeeecroeees*— (718) 246-3898\n12/22/2017 4:58:01 PM -T0 G0-\nOrder: 196812 Server: Cheryfie m\n9.20\nPlate\nCHOW MEIN-1/2\nCHOW MEIN-1/2\nBROCCOLI BEEF\ncr\nBEIJING BEEF\n. 1 Plat 9.10\naa CHOW MEIN-1/2\nCHOW MEIN 1/2\nE\nCAN eae KN a\n1 XTRA Fim 4 CKN Co\n. iy! see ths cH 1.50\n1 PEPSI 2.00\ni PEPSI ae 02,7 oN\n4\nSubTotal 25.20\n‘ TAX 2.24\nTotal 27.44\nVisa 1744\nAcct: « XXXXXXXXOLOS\nAuthCode: :02776A\npean KKKEKERAK KAKA EKER\none it",
+ "checksum": null,
+ "runtime_s": 4.23819312476553,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

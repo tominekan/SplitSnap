@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Vanilla Bean",
+   "qty": 2,
+   "price": 12.0
+  },
+  {
+   "name": "Classic Burger 4o0z",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Route 66 Burger 80z",
+   "qty": 1,
+   "price": 14.0
+  }
+ ],
+ "subtotal": 30.6,
+ "tax": null,
+ "tip": 6.12,
+ "total": null,
+ "raw_text": "ae\nAraxi Burger Aventura\n17861 BISCAYNE BLVD\nAventura, FL 33160\nServer: Valerie P 03/17/19 5:39 PM\nCheck #33 Table 12\n2 Vanilla Bean $12.00\nClassic Burger 4o0z $8.00\nRoute 66 Burger 80z $14.00\n10% (10.00%) - $3.40\nSubtotal $30.60\nService Charge (18.00%) $6.12\n$2.14\n$38.86",
+ "checksum": null,
+ "runtime_s": 0.6225204579532146,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    54.0,
+    277.0
+   ],
+   [
+    664.0,
+    306.0
+   ],
+   [
+    666.0,
+    976.0
+   ],
+   [
+    18.0,
+    972.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

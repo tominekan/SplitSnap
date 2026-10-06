@@ -1,0 +1,15 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "MOD Pizza\n6902 Sand Ave NH\nsuite A\n‘Stanwood, WA 98292\nPhone 360, 205.9680\n5/19/2019 4:06:54 PM\nOrder Te sraneico\nDraft Beer (2 @ 4.97)\nuntain Drink (1602)\nPizza",
+ "checksum": null,
+ "runtime_s": 0.29297162499278784,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

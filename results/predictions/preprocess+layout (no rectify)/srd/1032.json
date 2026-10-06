@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "T’MAC&CHZ",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "COLL GRN SM L",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "WINGS",
+   "qty": 9,
+   "price": 3.75
+  },
+  {
+   "name": "TOTL",
+   "qty": 1,
+   "price": 9.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "WINGS & THINGS\n1717 DUTCH BROY ELMONT, NY 11003\nTHANKS CALL AGAIN 516-341-7075\nN\\ #1 68 OUT\nT’MAC&CHZ - an 1.19\nL\n1 COLL GRN - SM 1.19\n“i CORN BREAD 62\n9 WINGS 3.75\nSPCY FRY\nTXTL 15\nTOTL 9.50\nCASH 3.50\nCHNG\nTHANK YOU COME AGAIN\nPM #1\n0168 20:14 #04 MAR.19'17 REGOOOT\nWO",
+ "checksum": null,
+ "runtime_s": 2.5632334172260016,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Please Pay at Cashier\n1084 Yonkers Avenue Yonkers, NY 10704\n(914) 237-5055\nCopy of Receipt\n1 Coffee\n1 Tea\n1 Waffle\n1 Old Fashion French Toast\n1 Side Home Fries\n1 Banana\n1 Whipped Cream\n1 W/ 2 EGGS\ntotal:",
+ "checksum": null,
+ "runtime_s": 0.4732313340064138,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    82.41876220703125
+   ],
+   [
+    542.1312255859375,
+    82.41876220703125
+   ],
+   [
+    542.1312255859375,
+    797.918701171875
+   ],
+   [
+    0.0,
+    797.918701171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

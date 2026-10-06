@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Spicy , mild",
+   "qty": 1,
+   "price": 56.78
+  },
+  {
+   "name": "Eraisec Beef flee/Noodle",
+   "qty": 1,
+   "price": 56.28
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 25.34
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.26,
+ "tip": null,
+ "total": null,
+ "raw_text": "Var *\nHacienda Height® 685\nTel(6\n1( 26,937\nTable: A2 Guests: 2\nServer: linda\nDine In#:137\nDate: 06/14/2017 49:38:46 _\nSOH 10088 ee <6\n[A] eh RS\n(3% , mild )\nFopcom Chicken\n| (Spicy , mild ) 56.78\nWF AR\nEraisec Beef flee/Noodle 56.28\nAd re\n\" Cold Noodle with Chicken 51 -\n(AF AH\nf Noodles\n: - Amount: $25.34\n: Tax Rate.(9.00%): $2.26\n} Sub-Total: $27 Gz\nones TIP GUIDE-----\n45% = $3.80\n48% = $4.56\n20% = $5.07",
+ "checksum": null,
+ "runtime_s": 2.1183380419388413,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    110.73751831054688,
+    159.13125610351562
+   ],
+   [
+    587.7374877929688,
+    182.98126220703125
+   ],
+   [
+    587.7374877929688,
+    886.5562744140625
+   ],
+   [
+    76.28750610351562,
+    882.5812377929688
+   ]
+  ],
+  "method": "paper"
+ }
+}

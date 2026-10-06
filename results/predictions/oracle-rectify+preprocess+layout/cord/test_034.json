@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": 85090.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Ash Cnick Samba! Matar = 75. XO\nJapur Goreng 2 10.20\nsubtotal 85.090\nPalak (108) 8 500\nTotal $3 500\nTuna! 10).00\n<enba lt 6 50\nS",
+ "checksum": null,
+ "runtime_s": 3.6310137077234685,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    -15.0,
+    19.0
+   ],
+   [
+    306.0,
+    7.0
+   ],
+   [
+    350.0,
+    626.0
+   ],
+   [
+    1.0,
+    627.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

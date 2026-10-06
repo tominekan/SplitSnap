@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "> - ‘ nan \\\nv .\n- ~ - . — _ P \\. af\n” : -. — Xo\n5 «\nf ~! , j + ~—-— 2) * men 9 ~ 77 ‘.\n. & e\\",
+ "checksum": null,
+ "runtime_s": 2.9542312091216445,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    67.03561401367188,
+    0.0
+   ],
+   [
+    943.952392578125,
+    0.0
+   ],
+   [
+    943.952392578125,
+    1506.513671875
+   ],
+   [
+    67.03561401367188,
+    1506.513671875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

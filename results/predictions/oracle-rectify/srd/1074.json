@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Weekend Buffet",
+   "qty": 2,
+   "price": 27.18
+  },
+  {
+   "name": "Drink",
+   "qty": 2,
+   "price": 3.98
+  },
+  {
+   "name": "Vise",
+   "qty": 1,
+   "price": 33.73
+  },
+  {
+   "name": "deverages",
+   "qty": 1,
+   "price": 3.98
+  }
+ ],
+ "subtotal": 31.16,
+ "tax": 2.57,
+ "tip": null,
+ "total": null,
+ "raw_text": "ao\nHy O270\nLin Buffet\n2988 N. Expressway\nBrownsville, TX\nPhone (956 )544-6600\nDate: Fet 24, 2019 Time: 03:22PM\nServer: Kenya Judith # Guest: 1\nBill: 0270\n2 Weekend Buffet 27.18\n2 Drink 3.98\nSubtotal 31.16\n: a Tax 2.57\nTotal ~\nVise 33.73\nee\ndeverages 3.98\nFood OF: 18\nOpen Time : Feb 24, 2019 03:22PM",
+ "checksum": null,
+ "runtime_s": 0.7093773342203349,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    94.0,
+    57.0
+   ],
+   [
+    619.0,
+    61.0
+   ],
+   [
+    686.0,
+    956.0
+   ],
+   [
+    7.0,
+    965.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

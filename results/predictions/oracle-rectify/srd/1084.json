@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Piet ae",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "K FETT AL PORCINI",
+   "qty": 1,
+   "price": 36.0
+  },
+  {
+   "name": "oa OLI",
+   "qty": 1,
+   "price": 10.5
+  },
+  {
+   "name": "ie i",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "subtoral) ee",
+   "qty": 1,
+   "price": 117.75
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Trattoria sapor ito\n328 WashingtonStreet\nHoboken\n201-533-1801\nTABLE # 4\nCHECK# 27273\nel 7/1/2018 5:53:48 PM\nSERVER: Gastone\nSTATION: 01\nItem Count: 4\n1 Piet ae $18.00\nK FETT AL PORCINI * $36.00\nGOSTOLETTE/AL Paps $42 .00\n1 oa OLI $10.50\nie i $3.75\n| LD ESPRESSOS i ae wien\nsubtoral) ee $117.75\nTax\nRAND TOTAL 1B. i\nNpened: 7/1/2018 5:53:48 PM",
+ "checksum": null,
+ "runtime_s": 0.7311769588850439,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    27.0,
+    9.0
+   ],
+   [
+    726.0,
+    7.0
+   ],
+   [
+    740.0,
+    980.0
+   ],
+   [
+    27.0,
+    983.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

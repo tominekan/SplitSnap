@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "SAUV BLANC JB",
+   "qty": 2,
+   "price": 18.0
+  },
+  {
+   "name": "VEGGIE SANDWICH",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "QUICHE LORAINE",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 41.0,
+ "tax": 1.8,
+ "tip": 7.38,
+ "total": 39.18,
+ "raw_text": "an\nSAGE\nFRENCH CAFE & WINE BAR\nO121a Table 3 #arty 2\nCHANDA R = SvrCk: 8 1:S6p 06/02/15\n2 SAUV BLANC JB 18.00\n1 VEGGIE SANDWICH 11.00\n1 QUICHE LORAINE 12.00\nSub Total: 41.00\nOPEN $DISCOUNT *Discount#: 11.00\nTax : 1.80\nSub Total: 31.80\nGRATUITY 18 7.38\n06/02 2:447TOTAL: 39.18\nfe oc 2 2 EK I IE EK EE 3 KE OK oi EK oe\n- THANK YOU!\nPLEASE COME AGAIN!\nWINE TASTING 1ST TUESDAY\nWE TAKE RESERVATONS\nCALL US AT 954-565-2299\nWWW. SAGECAFE.. NET\nN.\n‘",
+ "checksum": false,
+ "runtime_s": 1.9402108329813927,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    167.89376831054688,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    167.89376831054688,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

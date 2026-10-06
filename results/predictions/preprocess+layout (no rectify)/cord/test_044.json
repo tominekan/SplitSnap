@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "",
+ "checksum": null,
+ "runtime_s": 10.958849124843255,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

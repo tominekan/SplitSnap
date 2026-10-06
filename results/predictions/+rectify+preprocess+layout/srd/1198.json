@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": 2.86,
+ "tip": null,
+ "total": null,
+ "raw_text": "anne.\nte Miaget Reach\nciting ave\nWega § 1344\n~eRit®\n103 1959 a\nZsavy t: 8 Hu sPM\nDining\na oa Stlyer Ry UK\n@argerita o«\nStaut |\navion Si ve: @ 6\nmargarita rx\nDa Celeontco °4 62 01\n‘ruffle Feles 13° an\nMac/Cheese 12 OU\nAsparagus 53°00\nBAKED COOKIE UD\nSUBTOTAc 482 Ov\nAdd-Qn ‘ax Fuog 7 70\nadd-On Tax Bev 2 24\nResort Tax\n2.86\narate DUE BIS4.78\nFor your conventence\nsuggested gratu'ties\nare shown below\n'8X gratutty $25 56\n20% gratulty $28 40\n22% gratulty $3! 24",
+ "checksum": null,
+ "runtime_s": 1.5479192077182233,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    226.9293670654297,
+    0.0
+   ],
+   [
+    240.046875,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "otsu"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "600 E Grand Ave\nLalo's Mexican at Navy Pier\nTable OT\nTrans #: Serv: Claudia\n8/24/2017 # Cust’\niter\nPollo Taco\nCarnitas Taco",
+ "checksum": null,
+ "runtime_s": 0.3155065409373492,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    88.0,
+    217.0
+   ],
+   [
+    485.0,
+    208.0
+   ],
+   [
+    514.0,
+    990.0
+   ],
+   [
+    58.0,
+    996.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

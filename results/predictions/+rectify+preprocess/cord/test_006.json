@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "GG TAR",
+   "qty": 1,
+   "price": 13000.0
+  },
+  {
+   "name": "1 2EDBEAN BEAD",
+   "qty": 1,
+   "price": 9000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1 GG TAR 13,000\n2 SHocD GUS\"ARD PASTRY 24'S\n1 2EDBEAN BEAD 9,000\nTOTAL 46 ,000\nCHANGE 4, 000\n————e\n—_—_—\na ee\noe + 7 ee ee\ned",
+ "checksum": null,
+ "runtime_s": 2.734899417264387,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

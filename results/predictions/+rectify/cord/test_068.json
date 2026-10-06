@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "m2 0.0009\n£0, 00¢\nate oO\n34000\n30.009\n1ceo TT\nTOTAL\ncASH\nCHANGE",
+ "checksum": null,
+ "runtime_s": 0.324806708144024,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    151.12982177734375
+   ],
+   [
+    541.81982421875,
+    151.12982177734375
+   ],
+   [
+    541.81982421875,
+    787.6386108398438
+   ],
+   [
+    0.0,
+    787.6386108398438
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

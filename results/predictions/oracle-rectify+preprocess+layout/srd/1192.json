@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "CHIC TEN WP",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "RIBS ST",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "BRO OFLU",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "K TIMING",
+   "qty": 1,
+   "price": 9.55
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 3.39,
+ "raw_text": "Th PR Aae CD's\nVAIO SOUIMCENTER PARA\nTULA, WA 98188\n206.575.7454\n28120 Janel) M\nfo) 27/1 Ok 365s 3\n$0030°17 07:26M\n¥ CHIC TEN WP 9.95\n1 RIBS 1/2 ST 18.95\n1 BRO OFLU 14,95\nK TIMING 9.55-\nS.BTOTAL 93.90\n3.39\nALO «© BT.BO\nRAPPY HOUR\nMONDAY TO SATURDAY\n3 pa to 6 pa and 9 pw to clase\nSUNCAY HAPPY HOUR ALL DAY\nJoin our EAT CRING & EAON CIud\nto earn reaarcs while dining\nLee ae Rete reer tibemees-\nig\n|",
+ "checksum": null,
+ "runtime_s": 1.6287265841383487,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    82.0,
+    55.0
+   ],
+   [
+    240.0,
+    54.0
+   ],
+   [
+    253.0,
+    401.0
+   ],
+   [
+    71.0,
+    401.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

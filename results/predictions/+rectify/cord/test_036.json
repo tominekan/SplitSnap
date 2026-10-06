@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "TEMS",
+   "qty": 1,
+   "price": 40000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Rav ae\nIM HI pamme\nbee\no~ =\n1 XXL Cnrspy Chicken 40 006\n1 -Sedang 0\n090 008 Ont 090 a40 ORY OP OFF OTE SRY FAD SEN ORS Son Hed BRO OND Hee Hee oad oe ane Oem\nTEMS 40000\nITEMS :1 40°008\nLatal--+°400,000 change ‘60,000\nsecemnen meena exes meee oTOES SISO aaa gy\naa **\n: s oe",
+ "checksum": null,
+ "runtime_s": 5.261608165921643,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    68.3009033203125
+   ],
+   [
+    2303.0,
+    68.3009033203125
+   ],
+   [
+    2303.0,
+    3606.835205078125
+   ],
+   [
+    0.0,
+    3606.835205078125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

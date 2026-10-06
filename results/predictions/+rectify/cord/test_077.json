@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "a eae | ee er sane nas",
+   "qty": 1,
+   "price": 47000.0
+  },
+  {
+   "name": "Bieuee oUF",
+   "qty": 1,
+   "price": 5000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "TRIPPLE CHEESE\n1 x 17,000 —\na eae | ee er sane nas 47,000\nGRAND TOTAL oe\n- 22,000\nBieuee oUF 5,000",
+ "checksum": null,
+ "runtime_s": 2.5202675410546362,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    2303.0,
+    0.0
+   ],
+   [
+    2303.0,
+    3655.14208984375
+   ],
+   [
+    0.0,
+    3519.46240234375
+   ]
+  ],
+  "method": "paper"
+ }
+}

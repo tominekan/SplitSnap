@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "T Bottied oa",
+   "qty": 1,
+   "price": 2.45
+  },
+  {
+   "name": "Add Pollo Taco",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Add Carnitas Taco",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Sour Crean",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "Chihuahua Cheese",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "IL Sales",
+   "qty": 1,
+   "price": 1.52
+  },
+  {
+   "name": "Restaurant",
+   "qty": 1,
+   "price": 0.04
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.15,
+ "tip": null,
+ "total": 14.85,
+ "raw_text": "ae ee ee a |\nos Mew ar at Metey Fort\nTable a1 _ claws\n“\"T Bottied oa - $2.45\n1 Add Pollo Taco $4.95\n1 Add Carnitas Taco $4,95\n1 Sour Crean $1.25\n1 Chihuahua Cheese $1.25\nNet Total: $14.85\nIL Sales $1.52\nMPEA Tax $0.15\nRestaurant $0.04\nn\nA Robinson Hill Company\nIt s The ExpefHience That Counts!\nTell us about your visit!\nWW. rob nsonhl | lusa.com/guest -survey",
+ "checksum": null,
+ "runtime_s": 1.7734788339585066,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    75.17500305175781,
+    184.31253051757812
+   ],
+   [
+    499.17498779296875,
+    184.31253051757812
+   ],
+   [
+    499.17498779296875,
+    954.137451171875
+   ],
+   [
+    75.17500305175781,
+    954.137451171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "esar",
+   "qty": 1,
+   "price": 5000.0
+  },
+  {
+   "name": "Teh Tawar",
+   "qty": 2,
+   "price": 4000000.0
+  },
+  {
+   "name": "Fu Yung Hal",
+   "qty": 1,
+   "price": 65000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 138000.0,
+ "raw_text": "a¢\nnoms 16am we\nwere mn fe\ntC tpete we Oem\nCap Cay\nNasi Cap Cay Pors! B\nesar\n1 65.000 5.000\nMi numan\nTeh Tawar\n2 4.000 .000\nLaln-lain\nFu Yung Hal\n} 65.000 65.000\n_. Sudtotal Rp 138.000\n= Total Rp 138.000\nCash Rp 138.000\nJ Change kp 0",
+ "checksum": null,
+ "runtime_s": 3.070678166113794,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    719.0,
+    0.0
+   ],
+   [
+    719.0,
+    1279.0
+   ],
+   [
+    0.0,
+    1279.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

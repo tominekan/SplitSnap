@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "al 1 ' {i\n-- ou: olacttawsd\nrn s %& / me\nloans | aw a\nve “a5 7 ow PF 7 re.\ntligt. We dbo wi and\nTau\nC. |\nsb pe Pah emh bad & pA rrAsn aa AARRARA DR AAA ah\nVhoofy\n{j\n«2 ‘d O02\n{ ' ro ,\nChey vl)\nr\nA 1\na\n“ i vy ’\nI\n. vy",
+ "checksum": null,
+ "runtime_s": 12.705511707812548,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    42.306304931640625,
+    0.0
+   ],
+   [
+    775.5506591796875,
+    0.0
+   ],
+   [
+    775.5506591796875,
+    1295.0
+   ],
+   [
+    42.306304931640625,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

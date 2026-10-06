@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": 0.74,
+ "tip": null,
+ "total": 10.0,
+ "raw_text": "24 uP, i W.\n512-208-4810 65-3950\nCheck 94 0=~OSSCs Table.6\nWOE 5/18/2013\nee i 1] Mf AH\nSales Tax 0.74\nProcessing Fee cue\nTOTAL 4 10.00\nBALANCE DUE 10.00\nProcessing fee will be removed\nif the check is paid in cash.",
+ "checksum": null,
+ "runtime_s": 0.36403825087472796,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    335.0,
+    1.0
+   ],
+   [
+    335.0,
+    448.0
+   ],
+   [
+    1.0,
+    447.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

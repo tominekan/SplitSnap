@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "Makers Mark (2 @11.50",
+   "qty": 1,
+   "price": 23.0
+  },
+  {
+   "name": "Side Caesar",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Chicken & Rib Combo",
+   "qty": 1,
+   "price": 29.0
+  },
+  {
+   "name": "Woodford Reserve (2 @12. 00",
+   "qty": 1,
+   "price": 24.0
+  },
+  {
+   "name": "Poached Shrimp Cocktail",
+   "qty": 1,
+   "price": 17.5
+  },
+  {
+   "name": "NY Stip 80z",
+   "qty": 1,
+   "price": 28.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 5.43,
+ "tip": null,
+ "total": 142.93,
+ "raw_text": "12/07/2016\n6:53 PM\n#90024\nReprint #: 1\nOrder Type: Send\nArea: Dining\nMakers Mark (2 @11.50) 23.00\nAs Old Fashioned\nSide Caesar 6.00\nChicken & Rib Combo 29.00\nWoodford Reserve (2 @12. 00) 24.00\nOn the Rocks\nFrisee Salad 10. 00\nPoached Shrimp Cocktail 17.50\nNY Stip 80z 28.00\nComplete Subtotal 137. 50\n137.50\nSubtotal\nTotal Tax 5.43\nTotal 142.93\n142. 93\nBalance Due\nTHANK YOU\nVisit us Online at\nwww FirepointGril].com",
+ "checksum": null,
+ "runtime_s": 0.7864721668884158,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    796.5187377929688,
+    0.0
+   ],
+   [
+    796.5187377929688,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

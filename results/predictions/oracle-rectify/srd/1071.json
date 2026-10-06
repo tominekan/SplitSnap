@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Quesadilla",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "Fish An Chips",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "Side Salad",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Dft Shock top",
+   "qty": 1,
+   "price": 5.5
+  }
+ ],
+ "subtotal": 69.5,
+ "tax": 6.0,
+ "tip": null,
+ "total": 75.5,
+ "raw_text": "NY 11001\n. (516) 368-5584\nOrder 217510\n02/18/17 10:20 PM Check 101244\nTable 15 Cust. 2 Server 21 Kelly Bowe\nSEOOOOOO OOOO OOO OOOO OOOO OR AA K\n1 Quesadilla 11.00\n1 Pot Roast 18. 00\n1 Fish An Chips 16.00\n1 Side Salad 4.00\n1 Dft Shock top 5.50\n2 Dft Guiness 15. 00\nTaxable: 69. 50\nSub-total: 69.50\nTax? 6.00\nTotal Due: 75.50",
+ "checksum": false,
+ "runtime_s": 0.6121684580575675,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    34.0,
+    32.0
+   ],
+   [
+    460.0,
+    21.0
+   ],
+   [
+    520.0,
+    721.0
+   ],
+   [
+    48.0,
+    731.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

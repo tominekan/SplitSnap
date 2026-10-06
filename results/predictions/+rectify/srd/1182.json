@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "SOBE HOJITO'S",
+   "qty": 4,
+   "price": 40.0
+  },
+  {
+   "name": "tal",
+   "qty": 1,
+   "price": 50.8
+  }
+ ],
+ "subtotal": 40.0,
+ "tax": 40.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "Sd\naveverenansnenseeesenseeenttnts Hr FT\nFinnegan’s Way Check 822619\n1344 Ocean Drive\nMiami Beach Florida 33199\nTel. 305-672-7747\n08/21/17 8:38 PH\nTable 18 Cust 1\nWaiter 98 IRYNA P\nArn\n4 SOBE HOJITO'S 40.00\nBACAROI LIGHT\nTaxable: 40.00\nSub-total: 40.00\n-Sales Tax 7: 2.80\nResort fax 2%; 6.80,\nTotal:\nVoluntary wax Tip; 4.\nfeel free to adjust or remove\nip anont at your discretion\ntal 50.80",
+ "checksum": null,
+ "runtime_s": 0.5689441671129316,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

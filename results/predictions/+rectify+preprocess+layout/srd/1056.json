@@ -1,0 +1,98 @@
+{
+ "items": [
+  {
+   "name": "Table: Guests",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Flying Dog Numero Uno BTL",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "House Recipe",
+   "qty": 1,
+   "price": 26.0
+  },
+  {
+   "name": "Sandia Margarita (613.00/ea",
+   "qty": 2,
+   "price": 11.0
+  },
+  {
+   "name": "Queso Fresco Guacamole",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Queso Fundido Mexican Street Corn Dip",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Salsa De Molcajete",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Taquitos Carne Asada (@15.00/ea",
+   "qty": 2,
+   "price": 30.0
+  },
+  {
+   "name": "Taquitos Baja California Shrimp",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "Mole Enchilada",
+   "qty": 1,
+   "price": 19.0
+  },
+  {
+   "name": "Quesadilla Chicken",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Queso Fundido Mexican Street Corn Dip",
+   "qty": 1,
+   "price": -12.0
+  },
+  {
+   "name": "Sub-tota]) (iti(i‘i‘(st",
+   "qty": 1,
+   "price": 152.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "RESTAURANT\n98 EARFIELD PARKWAY\nBETHANY BEACH, DE 19930\n302) 616-2120\nWWH.ZOCA. RESTAURANT\nCheck #: 5033 Te ty\nServer: Madt B a 15\nTable: 31/2 _ Guests: 9\n1 Flying Dog Numero Uno BTL 8,00\n1 House Recipe 12,00\n2 Sandia Margarita (613.00/ea) 26.00\n1 Totem Honey Bee 11.00\n12.00\n1 Queso Fresco Guacamole\n1 Queso Fundido Mexican Street Corn Dip 12.00\n1 Salsa De Molcajete 8.00\n2 Taquitos Carne Asada (@15.00/ea) 30.00\n1 Taquitos Baja California Shrimp 14,00\n1 Mole Enchilada 19.00\n1 Quesadilla Chicken 12.00\nCOMPLIMENTARY\nITEM COMPS:\n1 Queso Fundido Mexican Street Corn Dip\noececeeeeeeeee -12,00\nSub-tota]) = (iti(i‘i‘(st!”!”!\nSales Tax 152.00\nTOTAL 0.00",
+ "checksum": null,
+ "runtime_s": 2.902835624990985,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

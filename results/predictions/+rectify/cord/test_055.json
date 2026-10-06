@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "APPLE CINNAMON PASTRY",
+   "qty": 1,
+   "price": 22000.0
+  },
+  {
+   "name": "ROYAL CHEESE TART",
+   "qty": 2,
+   "price": 32000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Mia -— se\n\" Ci ‘\nhah\na |\n| APPLE CINNAMON PASTRY 22,000\n2 ROYAL CHEESE TART 32,000\nTOTAL 2 ,000\nCARD dé ,000\npeer e eer oer ee\nol ” a\ney ee\nFl ee, TNR rte tape\na",
+ "checksum": null,
+ "runtime_s": 0.8574298329185694,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

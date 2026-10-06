@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "12:44PM Amount Oue",
+   "qty": 1,
+   "price": 9.7
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "COLLEGE OF SOUTHERN NEVADA\nRUSSELL’S RESTAURANT\n108 SERV 7\nbl 55/1 Chk 4488 Gst |\nOctO8'14 12: 10PN\nV LATTE 175\n#NO FLAVOR\n1 SALMON 795\n12:44PM Amount Oue 9.70\nSOLLEGE OF SOUTHERN NEVADA\nWHERE HOSPITALITY EDUCATION\nTAKES LIFE\nPLEASE PAY CASHIER\nThank You /",
+ "checksum": null,
+ "runtime_s": 1.6266891658306122,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    82.27590942382812,
+    0.0
+   ],
+   [
+    332.6531982421875,
+    0.0
+   ],
+   [
+    332.6531982421875,
+    347.0
+   ],
+   [
+    82.27590942382812,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

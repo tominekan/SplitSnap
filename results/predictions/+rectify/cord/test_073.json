@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "+ FP) ca Geer\nsca -\nae +4. oer bm\n1001-Choco Bun\n400i-Plastic Bag Small i\nTotsl Item:\nTotal.\nCash\nTendered:\nChange+",
+ "checksum": null,
+ "runtime_s": 0.632925916928798,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1264.7987060546875
+   ],
+   [
+    0.0,
+    1264.7987060546875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

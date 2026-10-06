@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "name": "Meatbal Is",
+   "qty": 1,
+   "price": 3.8
+  },
+  {
+   "name": "Fish Chips Adult",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Petit Pain White",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "Wine rose",
+   "qty": 1,
+   "price": 2.86
+  },
+  {
+   "name": "Wine fed",
+   "qty": 1,
+   "price": 2.8
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 14.85,
+ "raw_text": "<p)\nTKEA Food\nTKEA MILTON KEYNES 185\nVAT GB 527773320\nAddress4\nQty Name Price Total £\n1 ‘Meatbal Is 10 3.80 3.80\n1 Fish & Chips Adult 4,95 4.95\n1 Petit Pain - White 0.50 0.50\n1 Wine rose 2.80 2.86\n1 Wine fed 2.80 2.80\nNet SubTotal - 12 37\nTax:\n2O%VAT - 2 48\nTotal to Pay: 14.85\nReceived:\nVISA 14.85\nVisa Credit .\nBREKKAKERKKRIHDG\nStart uxswe\nGre\nBH’NA/2O1G Ae 12) or 1890\n2",
+ "checksum": null,
+ "runtime_s": 3.488208165857941,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

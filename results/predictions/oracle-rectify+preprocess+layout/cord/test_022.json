@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "TWD] SOFT STEAMED CHEESEC",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "MD] SOFT STEAMED CHOCCCA",
+   "qty": 2,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "\"2 TWD] SOFT STEAMED CHEESEC 20,000\n2 [MD] SOFT STEAMED CHOCCCA 20,000\nTOTAL 40 , 000\nCASH G 009\nCHANGE 60,000\nmca eer rn A LET ST",
+ "checksum": null,
+ "runtime_s": 1.954525416949764,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

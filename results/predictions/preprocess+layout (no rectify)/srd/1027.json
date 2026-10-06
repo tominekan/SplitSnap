@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "name": "Green Salad",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Wagyu Cheeseburger",
+   "qty": 1,
+   "price": 19.0
+  },
+  {
+   "name": "Garlic Fries",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Drink of the Day",
+   "qty": 1,
+   "price": 9.75
+  },
+  {
+   "name": "Tea",
+   "qty": 1,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 42.75,
+ "tax": null,
+ "tip": null,
+ "total": 41.31,
+ "raw_text": "WAU, HAWAII\nLongboards\n92-161 Waipahe Place\n4° Kapolei, HI 96707\na 4s (808) 679-4700\npee\nye Server: Elijah J 01/11/2019\ny Check: 24016 12:46 PM\n. Table: 44/0 Dine In\n. Ttem Price\nGreen Salad 8.00\nRanch\nWagyu Cheeseburger 19.00\nMedium Well\nGarlic Fries 2.00\nADD RAW ONTONS& BACON PLZ\nDrink of the Day 9,75\nTea 4.00\nSubtotal $42.75\nOhana Discount Breakfast -3,30\nHI HNLKO 4.712% GET 1.86\nTotal $41.31\nGratuity\nTota]",
+ "checksum": false,
+ "runtime_s": 3.4409435000270605,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

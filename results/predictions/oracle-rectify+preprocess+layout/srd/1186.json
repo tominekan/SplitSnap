@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "RED Veggte",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Sales ee",
+   "qty": 1,
+   "price": 2.57
+  },
+  {
+   "name": "rarereaRO",
+   "qty": 1,
+   "price": 52.47
+  }
+ ],
+ "subtotal": 49.59,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "alg Ne\nFamily Restaurant\n/3/19 8:14 PH\nGARMIN. Table:10 checks 137\n3 Pres Glass 07.50 $22 50.\n\"RED Veggte €27.000 £27.00\nSub-Total $49.59\nSales ee _ 2.57\nTotal bia\nrarereaRO ##86170 ; $52.47\nArount Due $).00\nCharge Receipt\nServer NO.\nTahlia hin in\n1",
+ "checksum": null,
+ "runtime_s": 1.0687402088660747,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    36.0,
+    0.0
+   ],
+   [
+    264.0,
+    0.0
+   ],
+   [
+    279.0,
+    346.0
+   ],
+   [
+    25.0,
+    345.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Short Stack",
+   "qty": 1,
+   "price": 8.59
+  },
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Breakfast Quesadi]la",
+   "qty": 1,
+   "price": 13.99
+  },
+  {
+   "name": "Southern Comfort",
+   "qty": 1,
+   "price": 10.99
+  }
+ ],
+ "subtotal": null,
+ "tax": 3.84,
+ "tip": null,
+ "total": 50.38,
+ "raw_text": "Spiral Diner « Bakery\n608 E Hickory St\nDenton, TX 76205\nOrders 195736\nEat In Order\nServer; Sarah e\nReal Smooth\n$7.99\nShort Stack $8.59\nCoffee $2.99\nBreakfast Quesadi]la $13.99\nNO Sausage +$0 .00\nGrilled Spinach +$1 99\nSouthern Comfort $10.99\nSubtotal; te ae nee\nTotal Tax: $3.84\nTotal: $50.38\nOrder Balance due: $50.38\niraldiner .com",
+ "checksum": null,
+ "runtime_s": 0.9615870418492705,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    1023.0,
+    0.0
+   ],
+   [
+    1023.0,
+    1293.482421875
+   ],
+   [
+    0.0,
+    1293.482421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Goz Fil Au Po",
+   "qty": 1,
+   "price": 35.95
+  },
+  {
+   "name": "Onion Ring",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Haricots Vert",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Choc Truf Cake",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "Lunta",
+   "qty": 1,
+   "price": 39.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 129.75,
+ "raw_text": "Marco Plerre mite\nSteakhase @ Grill\nDawson Street\nVAT: 6573308?\nTel:0) 6771159\nearcoolerreuhite te/Darxson\n40006 Charlte\nTp) 15/1 CK ison ti(‘<‘«é«wSt«C\nStation 1 16Feb 19 23:31\n1802 FilBean = tCtt~*~*~*~*~«S «SS\n1 Goz Fil Au Po 35.95\n1 Onion Ring 4.95\n1 Haricots Vert 4.95\n1 Choc Truf Cake 8.95\n1 Lunta 39.00\n22:57 Balance Due 129.75\nThank you for your custom\nPlease call again\nVisit us online at\nearcooierrewmite ‘'e/dawsor",
+ "checksum": null,
+ "runtime_s": 1.7640935410745442,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    58.0,
+    13.0
+   ],
+   [
+    260.0,
+    11.0
+   ],
+   [
+    304.0,
+    447.0
+   ],
+   [
+    13.0,
+    448.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

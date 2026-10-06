@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "aera oe\nSTelatty\n» Tidet t: 18. «\n5/12/2017 7:48:12 PH\nTHANK You!",
+ "checksum": null,
+ "runtime_s": 0.20339004206471145,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    84.10508728027344,
+    0.0
+   ],
+   [
+    292.0611877441406,
+    0.0
+   ],
+   [
+    311.8884582519531,
+    347.0
+   ],
+   [
+    98.86028289794922,
+    347.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

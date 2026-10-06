@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Delmonico’s\nvat Htplan, Sein,\n1953 CENTRAL AVE.\nALBANY, NY 12205\n(518) 456-6656\nServer: Sarah 08/22/2015\nTable 57/1 SAM\nGuests? 1\n#70056\nNo Bev (2 80.00)\nMozzarella Fritta\nDelmonico Steak\nAsparagus\nBaked Potato\nseuin}imited\npesBvc\nSssess",
+ "checksum": null,
+ "runtime_s": 0.3311587078496814,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    15.0,
+    1.0
+   ],
+   [
+    253.0,
+    2.0
+   ],
+   [
+    283.0,
+    447.0
+   ],
+   [
+    1.0,
+    445.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

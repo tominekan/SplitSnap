@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "Beef w. Broccoli",
+   "qty": 1,
+   "price": 8.25
+  },
+  {
+   "name": "w. Chickén Fried Rice",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Sweet Sour Chicken",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 24.95
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.01,
+ "tip": null,
+ "total": 26.96,
+ "raw_text": "New China\n1130 North Higley’ Rd Suite# 7-102\nMasa, AZ 85205\nTel, (4801218-9888/9892'\nWalk In\nDuta; 03 - 12-2016 Time: 4:02PM # 23\nServer BOSS\n1 Beef w. Broccoli 8.25\nw. Chickén Fried Rice 2,00\n1 Sweet / Sour Chicken 7.95\n1 Chicken Chow Mein 675\nAmount: 24.95\nTAX(8.05%}: 2.01\nTOTAL: 26.96\nThank you very much.\nae",
+ "checksum": null,
+ "runtime_s": 1.709328540833667,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

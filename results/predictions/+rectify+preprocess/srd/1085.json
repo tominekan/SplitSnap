@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Mixed Meat Lunch",
+   "qty": 20,
+   "price": 180.0
+  },
+  {
+   "name": "Reg 12pce Falafel",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Reg 12pc Falafel",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Miscelanceous",
+   "qty": 1,
+   "price": 20.0
+  }
+ ],
+ "subtotal": 213.0,
+ "tax": 15.92,
+ "tip": null,
+ "total": 228.92,
+ "raw_text": "Pita Pita - Lonbard\n211 E Roosevelt Rd\nLombard, IL 60148\nPhone:\nhttp://eatpitapita.com/default/\nOrd #78\nTo Go\nEmp} :Mohammad H. 5/4/2017 4:10 PM\n20 Mixed Meat Lunch 180.00\n1 Reg 12pce Falafel 6.50\n1 Reg 12pc Falafel 6.50\n1 Miscelanceous 20.00\nSubtotal 213.00\nTax 15.92\nTotal 228.92\nVisa 8414 Payment 228.92\nTip\nTotal __\nspied Guest Copy *#+* eo\nJennifer P-~",
+ "checksum": true,
+ "runtime_s": 1.7096573340240866,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    630.0,
+    0.0
+   ],
+   [
+    630.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

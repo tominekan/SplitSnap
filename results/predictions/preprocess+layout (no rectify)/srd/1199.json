@@ -1,0 +1,50 @@
+{
+ "items": [
+  {
+   "name": "fartare Tonno",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "Branz tno",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Pizza Americana",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "t Carrot Cake",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "GI Sangiovese",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "1G) Merlot",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Nisc Food",
+   "qty": 1,
+   "price": 2.0
+  }
+ ],
+ "subtotal": 118.0,
+ "tax": 118.0,
+ "tip": null,
+ "total": 128.33,
+ "raw_text": "1908 099000080000 00 5062 OSSOOOOOOOOOOSOO SS\n& eve\niS) Me nee att eo\nwt Hd lye eet AR\ntH? Wy 77 aad®\nKeog'ta be 4 4: OM\nran\n12\nCdoovcsscccoreccorcneessssseeesesssssee\n! fartare 31 Tonno 17.00\n1 ft tnguine Scaso1 wae\n' Branz tno 28.00\n) Pizza Americana 14.00\nt Carrot Cake 12,00\n(GI Sangiovese 12.00\n1G) Merlot 13.00\n' Nisc Food 2.00 2.\nTaxable 118.00\nSub-total. 118.00\nTaxes\nTotal Due: 128 .33",
+ "checksum": false,
+ "runtime_s": 1.188103374792263,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

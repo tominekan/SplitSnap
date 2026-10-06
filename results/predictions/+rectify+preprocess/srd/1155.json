@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Goz F1) Bearn",
+   "qty": 1,
+   "price": 95.95
+  },
+  {
+   "name": "Soz Fil Au Po",
+   "qty": 1,
+   "price": 3.95
+  },
+  {
+   "name": "Choe Truf Cake",
+   "qty": 1,
+   "price": 8.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 129.75,
+ "raw_text": "Marco Plerre mite\nSteaknose 6 Gell!\nDawson Street\nVAT: 65733307\nTeh:01 6771159\nBarcoplerrewmhite. 1e/Deson\n40008 Chartte\ntb] a Chk rN) Gst 2 nm -\nStation 1 16Feb 19 21:3! at\n1 Goz F1) Bearn 95.95\n1 Soz Fil Au Po 3.95\n1 Onion Ring 4.8\n1 Haricots Vert 4.8\n1 Choe Truf Cake 8.95\n| Lunta\n22:57 Balance Due 129.75\nThank you for your custca.\nPlease call again\nVisit us online at\nearcopterrewhite 'e/dawsor",
+ "checksum": null,
+ "runtime_s": 1.897542251041159,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.5850067138671875,
+    0.0
+   ],
+   [
+    316.001220703125,
+    0.0
+   ],
+   [
+    316.001220703125,
+    449.0
+   ],
+   [
+    0.5850067138671875,
+    449.0
+   ]
+  ],
+  "method": "edges+crop"
+ }
+}

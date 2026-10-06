@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "TMAC&CHZ - SHALL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "COLL GRN - SMALL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "T'5 WINGS",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "TOTL",
+   "qty": 1,
+   "price": 9.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "WINGS & THINGS\n1717 DUTCH BROY ELMONT, NY 11003\nTHANKS CALL AGAIN 516-341-7075\n\\ #168 OUT\nTMAC&CHZ - SHALL 1.19\n1 COLL GRN - SMALL 1.19\nwae} CORN BREAD 62\n““T'5 WINGS 3.75\nSPCY FRY\nTXTL 15\nTOTL 9.50\nCASH 9.50\nCHNG\nTHANK YOU COME AGAIN\nPH #1\n0168 20:14 #04 MAR.19'17 REGOOO1",
+ "checksum": null,
+ "runtime_s": 1.3991893748752773,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    957.731201171875
+   ],
+   [
+    0.0,
+    969.65625
+   ]
+  ],
+  "method": "paper"
+ }
+}

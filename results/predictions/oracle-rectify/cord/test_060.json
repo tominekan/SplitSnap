@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 26250.0,
+ "raw_text": "Topping Milo Sparkle (untuk 1 Po\nrsi)\n1x |. 250 1.256\nBola Ubi Nini Original (14 Pes\n)\n2X 12.508 25,060\nSubtota] 26 250\nPajak a\nTotal 26.250\nGO-PAY",
+ "checksum": null,
+ "runtime_s": 0.5413442489225417,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    85.0,
+    172.0
+   ],
+   [
+    636.0,
+    160.0
+   ],
+   [
+    709.0,
+    1137.0
+   ],
+   [
+    61.0,
+    1142.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

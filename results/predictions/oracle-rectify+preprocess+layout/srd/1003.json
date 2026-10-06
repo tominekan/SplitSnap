@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Miller Lite",
+   "qty": 1,
+   "price": 5.0
+  }
+ ],
+ "subtotal": 5.0,
+ "tax": 0.35,
+ "tip": null,
+ "total": null,
+ "raw_text": "i Gran Kar de Plata\n10325 Hammocks Blvd\nMiami, FL 33176\n(305) 386-6638\nServer: Kayra Station: 10\nOrder #: 8262=~O*é<“‘i«:*W Dine In\nBar Tab: Bar Tab .\n>» SETTLED «\n1 Miller Lite 5.00\nSUB TOTAL: 5.00\nSales Tax: 0.35\nTOTAL: $5.3\nCash Tendered: 5.35\nWie ST\n>» Ticket #: 35 «\nCreated: 4/20/2017 10:13:17 PH\nSETTLED: 4/20/2017 10:13:25 PM\nTHANK YOU!\ncn\nTals\nov: .\n32.¢ ar Ati) LW g | a Ove",
+ "checksum": null,
+ "runtime_s": 1.8416149171534926,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    177.0,
+    92.0
+   ],
+   [
+    596.0,
+    92.0
+   ],
+   [
+    594.0,
+    932.0
+   ],
+   [
+    159.0,
+    943.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

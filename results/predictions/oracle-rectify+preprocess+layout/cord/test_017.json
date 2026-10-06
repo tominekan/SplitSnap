@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Goblin's Mace",
+   "qty": 1,
+   "price": 35000.0
+  },
+  {
+   "name": "Mozarella Flot",
+   "qty": 1,
+   "price": 38000.0
+  },
+  {
+   "name": "Chill Pepper",
+   "qty": 1,
+   "price": 14000.0
+  },
+  {
+   "name": "Cheese",
+   "qty": 1,
+   "price": 14000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 91000.0,
+ "raw_text": "t\nGoblin's Mace 1 35,000\nMozarella Flot 2 38,000\nDog\nChill Pepper 1 14.000\nCroquette\nCheese 1 14.000\nCroquatte\nPlastik Amook 1 0\nPlastik Putity 1 9)\nTako Away\nSubtotal 91 000\nDiscount (0)\nTOTAL Rp. 91,000\nDebit 91.000\nOOOO OOOKK",
+ "checksum": null,
+ "runtime_s": 3.3798087500035763,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    274.0,
+    224.0
+   ],
+   [
+    651.0,
+    224.0
+   ],
+   [
+    651.0,
+    1096.0
+   ],
+   [
+    263.0,
+    1096.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

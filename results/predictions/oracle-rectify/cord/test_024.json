@@ -1,0 +1,15 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 118000.0,
+ "raw_text": "Total. Rp.118.000\nDehet Card 142,000\nper ee",
+ "checksum": null,
+ "runtime_s": 0.29227620805613697,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

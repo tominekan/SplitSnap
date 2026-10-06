@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "J Haricots Vert",
+   "qty": 1,
+   "price": 4.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Narco Pierre mite\nSteakhouse Gel)\n20) 6771155\nmarcopterravhtte; te/Danson\n40006 Char}\nTb) 15/1\nStation 1\n1802 FHL Ae Po\nAu Po\n1 Onion Ring ies\nJ Haricots Vert 4.95\n8.95\n33,00\n1501 Gst 2\n1 Ghoc Truf Cake\n1 Lunta\n‘87 Balance Due",
+ "checksum": null,
+ "runtime_s": 0.3153982919175178,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    58.0,
+    13.0
+   ],
+   [
+    260.0,
+    11.0
+   ],
+   [
+    304.0,
+    447.0
+   ],
+   [
+    13.0,
+    448.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

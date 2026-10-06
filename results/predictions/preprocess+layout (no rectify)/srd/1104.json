@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "Red Sangria Glass",
+   "qty": 2,
+   "price": 14.0
+  },
+  {
+   "name": "4-COMBO FAJITAS",
+   "qty": 1,
+   "price": 22.95
+  },
+  {
+   "name": "34-BURRITO SUPREME",
+   "qty": 1,
+   "price": 14.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Don Juan Hexican Restaurant\n124 East Park Ave\nLong Beach, NY 11561\n(516) 442-4944\nServer: Regina Station: 4\nOrder #: 28731 Dine In\nTable: 1 Guests: 2\n2 Red Sangria Glass 14,00\n1 #4-COMBO FAJITAS 22,95\nFlour Tortilla\nChicken\nShr imp\nSteak\n1 #34-BURRITO SUPREME 14,95\nw/ Beef\n» Ticket #: 23 «\n11/6/2013 8:14:53 P\nTHANK YOU! fy",
+ "checksum": null,
+ "runtime_s": 1.9972677920013666,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

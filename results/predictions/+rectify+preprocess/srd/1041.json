@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "—\nZ4\nlacSurce\nLx] se begs, sad\n(eae.\nous alee + i O8 AS\nNOTE\n1 PLMTIE® 2.8 5.6\n1 coca-COA 5.09 96 #5. 60\n1 15 aN avr new Y,)\nTOTAL EURO *17 .00\nH.T TVA 10x #\\S.85\nDONT TVA 10% 155\nTOTAL VIC 0% 17.\nTei. 01,48.28.44.8)\nPRIX NET\nMERC] CE VOTRE VISIR",
+ "checksum": null,
+ "runtime_s": 0.982161374995485,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    246.19374084472656,
+    0.0
+   ],
+   [
+    226.31874084472656,
+    249.0
+   ],
+   [
+    0.0,
+    249.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

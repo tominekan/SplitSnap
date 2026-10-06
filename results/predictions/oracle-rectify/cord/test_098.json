@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "B\nTRUFFLE CREAM\n7 EARL GREY MILK WES\nSUBTTL\nservices Charge 6%\nTAX 10%\nTOTAL\nLACK PEPPER MEATBALL PAS\n9,000\n{7,000\n215,000\n12,300\n225, (90\n25O ,690",
+ "checksum": null,
+ "runtime_s": 0.8985442088451236,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    433.0,
+    423.0
+   ],
+   [
+    1523.0,
+    293.0
+   ],
+   [
+    1819.0,
+    1807.0
+   ],
+   [
+    446.0,
+    1939.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

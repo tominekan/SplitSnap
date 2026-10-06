@@ -1,0 +1,60 @@
+{
+ "items": [
+  {
+   "name": "s(hsBleu",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "Qur Burger **Avocado",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Loaded kachos",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "Fint Boston Lager",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Pint Yeungl ing",
+   "qty": 2,
+   "price": 12.0
+  },
+  {
+   "name": "fona Longboard",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Quesad‘ lla",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "food",
+   "qty": 1,
+   "price": 58.8
+  },
+  {
+   "name": "Viquor",
+   "qty": 1,
+   "price": 24.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 3.98,
+ "tip": null,
+ "total": 84.78,
+ "raw_text": "Arthurs\n231 washington\nHobcken, NJ 07030\n(201) 656-5009\n1U58 Alesandr __\nEst 3\nCrx 1244 TAB/62 Gst\nOct01'17 01:44PH _\nBar\n1 értnur § Burger s(hsBleu 13.95\n1 Qur Burger **Avocado 15.95\n1 Loaded kachos 12.95\n1 Fint Boston Lager 6.00\n2 Pint Yeungl ing 12.00\n1 fona Longboard 6.00\n1 Quesad‘ lla 13.95\nfood - 58.80\nViquor 24.00\nTax ~, 3.98\n02:25PM Total Due 84.78\n26% added to parties 8 or more\nTrank You for Dining with Us!\nPrivate Rooms\nAvailable for\nYour Next Party!",
+ "checksum": null,
+ "runtime_s": 2.149023750098422,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

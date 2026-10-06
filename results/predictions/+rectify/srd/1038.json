@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Micros Demo System\ndelcone to Yogurt land\n122502 North Kendal] Drive\nMiemi, FL 33186\n(305) 279-3478\nDate: $ep07'18 09:28PM\nCard Typ2; VISA\nAcct #: XXXXXXXXXXXXIBHZ\nCard Entry; SWIPED\nTrans Tye: PURCHASE\nTrans Key: 111008007193248.\nAuth Toda: 071410 ‘\nCheck: 1082\nServer: 1041 melanie\nTota\n*KNO SIGYATURE REQUIRED\nFOR PURCHASES UNDER $20.00%«",
+ "checksum": null,
+ "runtime_s": 0.6319399999920279,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    63.562530517578125,
+    55.375030517578125
+   ],
+   [
+    749.0,
+    55.375030517578125
+   ],
+   [
+    749.0,
+    937.824951171875
+   ],
+   [
+    63.562530517578125,
+    937.824951171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

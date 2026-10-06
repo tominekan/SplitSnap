@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Meatballs 10 3.80",
+   "qty": 1,
+   "price": 9.8
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "IKEA F000.\nTKEA MILTON KEYNES 185\nVAT: GB 527773320\nAddress4\nOty Name Price Total &\n1 Meatballs 10 3.80 9.80\n1 Fish & Chips Adult 4.95 4.95)\n1 Petit Pain White 0.50 0.\n1 Wine rose 2.80 2.\n1 Wine red 202\nNet SubTotal",
+ "checksum": null,
+ "runtime_s": 0.3734226261731237,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    308.0,
+    0.0
+   ],
+   [
+    308.0,
+    515.28466796875
+   ],
+   [
+    0.0,
+    515.28466796875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

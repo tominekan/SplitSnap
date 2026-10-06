@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "1..6 Oysters",
+   "qty": 1,
+   "price": 19.0
+  },
+  {
+   "name": "1..Fish and Chips",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "3. .MONSTAH roTl",
+   "qty": 1,
+   "price": 114.0
+  },
+  {
+   "name": "1, Chicken Wings",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "3..#Patron",
+   "qty": 1,
+   "price": 28.5
+  },
+  {
+   "name": "2..*Sparkling Wine",
+   "qty": 1,
+   "price": 22.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "FALMOUTH RAW BAR\nFalmouth, Wa 02540\n(508) 548-7729\nCheck 5738/1 07/02/18-A 6 :28pm\nGuests 5 Abby Table\n1..6 Oysters 19.00\n1..Fish and Chips 22.00\n3. .MONSTAH roTl 114.00\n1, Chicken Wings 12.00\n3..#Patron 28.50\n2..*Sparkling Wine 22.00\n1..%0pen Liquor 6.00\n{| patron double\n(#Item shown with tax included)\nItems 219.81\ntown/MA tax 15,38. -\nTOTAL 239.19 | «\nZ ry\ns»",
+ "checksum": null,
+ "runtime_s": 2.122564042219892,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

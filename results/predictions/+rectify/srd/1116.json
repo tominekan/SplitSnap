@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "P-VILLAGIO BREEZE",
+   "qty": 1,
+   "price": 0.01
+  },
+  {
+   "name": "ADD SALAD",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "LUNCH SEAFOOD PASTA",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "KID PEPERONI PIZZA",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "J go ALFREDO",
+   "qty": 1,
+   "price": 7.0
+  }
+ ],
+ "subtotal": 31.01,
+ "tax": null,
+ "tip": null,
+ "total": 34.12,
+ "raw_text": "Villaggio Grille\n4780 Wharf Parkway\nOrange Beach, AL 36561\nPHONE: 251-224-6510\nrder 9862 06/08/19 11:45 AM\nfei. 14 eas 3 Server 156 ie\n| P-VILLAGIO BREEZE 0.01\n| ADD SALAD 3.00\n| LUNCH SEAFOOD PASTA 14,00\n| KID PEPERONI PIZZA 7.00\nJ go ALFREDO 7.00\nSub-total : 31.01\nTax: Salli!\nTotal te 34.12",
+ "checksum": false,
+ "runtime_s": 0.7104736668989062,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

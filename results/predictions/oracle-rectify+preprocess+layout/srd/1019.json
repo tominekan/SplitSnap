@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "Ultra",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Bells Draty",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "reese Bread",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "rs OUT",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Caprese",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "SALAD OUT Fest",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Reg Carnivore",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "Reg Margherita (s",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 43.0,
+ "tax": 2.58,
+ "tip": null,
+ "total": null,
+ "raw_text": "Nlty Pizeria § Tae\n1 Yan Horm\nVeenton wn] 49183\nVe (73442-4300\n, Cs Winity Station: 2\nTder 9. --\nTable. ; Dine In\nQble: 4 ,22%037 tnt.\n\\ Ultra\n2.50\n\\ Bells Draty 5.00\n1 reese Bread 6.00\n1 rs OUT FIRS} 0.00\n1 Caprese 7.00\n1 SALAD OUT Fest 0.00\nReg Carnivore (s) 12.50\nPepper Rings (s\n1 Reg Margherita (s) 10.00\nSUB TOTAL: 43.00\nTax 1; 2.58\n») Ticket #: 128 «\n5/12/2017 7:48:12 PH\nTHANK YOU!",
+ "checksum": null,
+ "runtime_s": 1.896251083118841,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    92.0,
+    1.0
+   ],
+   [
+    284.0,
+    2.0
+   ],
+   [
+    303.0,
+    346.0
+   ],
+   [
+    58.0,
+    345.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

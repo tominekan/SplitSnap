@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Taco Shrimp Fresh Catch 3",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Food fe",
+   "qty": 1,
+   "price": 19.75
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "E) Gato Negro\n300 Harrison Ave\nNew Orleans, LA 70124\nPhone: (504) 488-0107\n1128 Daniel P\nTo? 90/1 Chk 4650 piGet. 1\nAug23'19 12:07PM\n*** Memo Check #*#\nDine n\nt Seat:1\ni Fajita Vegetable AS\n1 Taco Shrimp Fresh Catch 3 12.00\n*DON'T MAKEX\n1 Water ; 0.00-\nFood fe 19.75\nTax of oN ae a? 01\npi ’ 2i.f6",
+ "checksum": null,
+ "runtime_s": 0.7900850418955088,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    52.0,
+    9.0
+   ],
+   [
+    681.0,
+    12.0
+   ],
+   [
+    740.0,
+    985.0
+   ],
+   [
+    5.0,
+    983.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "sale",
+   "qty": 1,
+   "price": 16.77
+  }
+ ],
+ "subtotal": 12.95,
+ "tax": 1.23,
+ "tip": null,
+ "total": 14.18,
+ "raw_text": "yy \\f\note\nTay H Oakland\nElegant Vietnamese Cuisine __\nFollow us on Instagram & Facebook\n@tayhooak land #tayhooak land\nPlease help us going Green & Save our\nresources! .\nPlease ask for Credit Card Receipt\nif you'd like one printed for your\nrecord...\nTable: Table - 7\nDate: 2/19/19, 1:20 PM\nSubtotal: $12.95\nTotal Tax: $1.23\nOrder# 142750\nOrder Balance due: $14.18\nSuggested Gratuity\nTi T\n18.00% of sale: 92.33 = seat\nsale: $2.59 = $16.77",
+ "checksum": false,
+ "runtime_s": 3.5632063751108944,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

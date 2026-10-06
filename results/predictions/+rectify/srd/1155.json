@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1b) 15/1\nStation 1\n1 802 Fi Bearn\n1 802 FAT Au Po\n1 Onton Ring\n1 Hartcots Vert\n1 Choc Truf Cake\n1 Lunta\n22:51 Balance Due",
+ "checksum": null,
+ "runtime_s": 0.2909204999450594,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.5850067138671875,
+    0.0
+   ],
+   [
+    316.001220703125,
+    0.0
+   ],
+   [
+    316.001220703125,
+    449.0
+   ],
+   [
+    0.5850067138671875,
+    449.0
+   ]
+  ],
+  "method": "edges+crop"
+ }
+}

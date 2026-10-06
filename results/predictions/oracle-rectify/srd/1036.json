@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Lump Crab & Spinach Dip",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Cajun Combo",
+   "qty": 1,
+   "price": 18.95
+  }
+ ],
+ "subtotal": 48.85,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "PAPPADEAU X\nSEAFOOD KITCHEN\n(030)\nPappadeaux Seafood Kitchen\nTX 76011\n1304 Copeland Rd, Arlington,\n(817) 543-0544\nwww. Pappadeaux . com\n0035 Table 72 #Party eB)\nSARAH H Svrck; 2 12:11 11/18/17\nDINE IN\n1 Lump Crab & Spinach Dip 15.95\n1 Cajun Combo 18.95\n1 Lunch Shrimp & Andouil le isjet2)3)\nSub Total: 48.85\nTax: Seo\nSub Total: 52.76\n11/18 12:45 TOTAL: S20 7S\nThank you for dining at Pappadeaux.\nTip Not Included\n15% Wei\n18% 9750)\n20% 10.55\ne-Gift Card Payment (19 Digits)\nPresent e-Gift Card for validation.",
+ "checksum": null,
+ "runtime_s": 0.8164495432283729,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    197.0,
+    72.0
+   ],
+   [
+    557.0,
+    74.0
+   ],
+   [
+    688.0,
+    992.0
+   ],
+   [
+    146.0,
+    992.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Chole Samosa eb xe",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "wie WA",
+   "qty": 1,
+   "price": 0.57
+  },
+  {
+   "name": "sn",
+   "qty": 4,
+   "price": 6.56
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "all\ntom\nVey we SURATI FARSAN MART\nCo Atet4 tgeTH STREET 7”\nAY ~ ARTESIA, CA 90701 / ye\nAY om “60-2310 a\n~S iv SURATIFARSAN. mw\n16 bags D -\n\\ Adg08 ‘19, 07 eon\nwee age ene ee aS Ox La het fn memo n\n>} Chole Samosa #4 eb xe# 5,99\nKROOROEKBAD\nff “\n- *VISA'\". , ay ~ 6. 5 ;\nial\no\n4,\neo\nFOOD ry 4 £88\nWA / 0.57\nwie 4 sn? 6.56\nwanennnenee 16 Check (Yosed----.------__\n~~ se-m=-4ug08' 19 “O7:34PM--~~--—~- ‘\na\n-\nL jrank vot for your business a\nfree ggaune svipsThg of erders\nor more. 4\nan ig coyn7 “\nH | an",
+ "checksum": null,
+ "runtime_s": 2.740051583154127,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    7.0,
+    7.0
+   ],
+   [
+    632.0,
+    10.0
+   ],
+   [
+    637.0,
+    983.0
+   ],
+   [
+    19.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

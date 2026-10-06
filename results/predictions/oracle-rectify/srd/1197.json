@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Insalata Negombo",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Pomodor ini",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Nat 1/2 It",
+   "qty": 1,
+   "price": 1.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "BAR RISTORANTE\nSTABTLIMENTO MARINO E TERHALE\nSAN HONTANO S.R.L\nVIR S.HONTANO - LACCO AHENO CHAD\nPARTITA Tua 00200430635\nEURO\n2 x 0,50\nUassoi_e Stoviglie 1-00\n2x 5,00\nMacedonia 10-00\nInsalata Negombo 10,00\nBufala 8-00\nPomodor ini 4.00\nNat 1/2 It 1.00\nCONTANTE\nREG. 001 OPER. 1\n28-08-2018 12:41 ft\nSCONTRINO FISCALE N82\nmn 0 a 11 a",
+ "checksum": null,
+ "runtime_s": 0.3585684997960925,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    25.0,
+    116.0
+   ],
+   [
+    287.0,
+    101.0
+   ],
+   [
+    308.0,
+    445.0
+   ],
+   [
+    19.0,
+    437.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

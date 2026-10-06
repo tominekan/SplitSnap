@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "Delivery",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "McNusgets EVM",
+   "qty": 1,
+   "price": 16.29
+  },
+  {
+   "name": "L Coke",
+   "qty": 1,
+   "price": 0.4
+  },
+  {
+   "name": "HM GrChs S-Fry Yos",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "HM Apple Juice",
+   "qty": 1,
+   "price": 2.89
+  },
+  {
+   "name": "Baked Apple Pie",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "L French Fries",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "L Iced Tea",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": 1.11,
+ "tax": null,
+ "tip": null,
+ "total": 26.15,
+ "raw_text": "we”\nbaad Phos 4\n18728'S Stony Plain Rd é\nEdmonton AB TSP 4A93 2\nStore®: 3859 Tel#: 780-414-8362\nWelcome to all day breakfast\n@ Hc Donald’s\nKS# 1 03/10/2018 07:39:12 PH\nQTY ITEM TOTAL\n1 Delivery 0.00\n1 10 McNusgets EVM. 16.29\n1 Barbeque Sauce\n1 Barbeque Sauce\n1 L Coke 0.40\n1 M French Fries\n1 HM GrChs S-Fry Yos 3.99\n1 Snoopy\n1 HM Apple Juice\n1 6 Cookies 2.89\n6 Choc Chip Cookie\n1 Baked Apple Pie 1.19\n1 L French Fries 3.29\n1 L Iced Tea 2.99\nSubtotal 25.04\nGST 1.11\nTake-Out Total 26.15\nCREDIT SALES - McDelivery 26.15\nChange 0.00\nGST #: 120907092\nSALE #04kdfw9532 /",
+ "checksum": false,
+ "runtime_s": 2.6246539580170065,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    217.0,
+    3.0
+   ],
+   [
+    514.0,
+    5.0
+   ],
+   [
+    525.0,
+    994.0
+   ],
+   [
+    157.0,
+    990.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

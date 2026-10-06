@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "22.000 xi",
+   "qty": 1,
+   "price": 22000.0
+  },
+  {
+   "name": "otal",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "+ ees\n‘Sign\n«\nW1-Choco Bun\n™ 22.000 xi 22.000\n001-Plasti- Bag Small\n= 0 x1 ii]\nafotal Item: 2\n~ otal, 22.000\n= sh",
+ "checksum": null,
+ "runtime_s": 0.4158509576227516,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    -9.0,
+    0.0
+   ],
+   [
+    565.0,
+    -24.0
+   ],
+   [
+    609.0,
+    840.0
+   ],
+   [
+    -30.0,
+    856.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Mega f\nx 3500\nTALAM UNGU\nOIse ITE\nAMOUNT\n\\K 3000\nAREH - AREH\nDISC 1TEH\nAMOUNT\n2x 3000\nDISC ITEK\nAHOUNT\n1K “)\nHIKA SEDANG\n1x 0\nPLASTIK KECIL\n1X 5000\nTEH KOTAK\n7.00) TTEHS\nSUBTOTAL\nTOTAL\nCARD\n8,00\n40 .000\n24,506\n24,500\n24,500",
+ "checksum": null,
+ "runtime_s": 0.41182824969291687,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    153.0,
+    42.0
+   ],
+   [
+    440.0,
+    42.0
+   ],
+   [
+    440.0,
+    833.0
+   ],
+   [
+    117.0,
+    826.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

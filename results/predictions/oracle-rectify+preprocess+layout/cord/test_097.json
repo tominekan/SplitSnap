@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "BIiCTaths \"MBF",
+   "qty": 23,
+   "price": 620000.0
+  },
+  {
+   "name": "BUBUR GO",
+   "qty": 1,
+   "price": 40000.0
+  },
+  {
+   "name": "PUYUH GO",
+   "qty": 1,
+   "price": 6000.0
+  },
+  {
+   "name": "SATECATIZQ0",
+   "qty": 1,
+   "price": 9000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 55000.0,
+ "raw_text": "be ce ht AVA\npagan Ja ANW\nBIiCTaths \"MBF\n23 620.000\nBUBUR GO 40.000\nPUYUH GO 6.000\n3 €3.000\nSATECATIZQ0 9.000\n6.00xITEMS\nTOTAL 55.000\nCASH 55.000\n“es ata fn\nwe ah Y die\n(a @ i” a\nOCORINT +*\neer canbmennne nnateshie a",
+ "checksum": null,
+ "runtime_s": 1.5472977918107063,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    7.0,
+    1.0
+   ],
+   [
+    474.0,
+    1.0
+   ],
+   [
+    477.0,
+    613.0
+   ],
+   [
+    0.0,
+    608.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

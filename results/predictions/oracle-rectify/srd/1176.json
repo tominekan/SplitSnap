@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "AMOUNT",
+   "qty": 1,
+   "price": 41.45
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "HEDLEYS\n640 N ROBERTSON BLVD\nWEST HOLLYWOOD CA 9@069\n310-659-2009\nTerminal ID; 01528251\n8/5/17\n| CREDIT SALE\nUID: 715615506682\nREF #: 9395\nBATCH #: 554\nAUTH #: 065231\nAMOUNT $41.45\nTIP\nTOTAL a\nAPPROVED\nTC - CO347EEBBF2C362B\nCUSTOMER COPY",
+ "checksum": null,
+ "runtime_s": 0.4367822911590338,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    166.0,
+    213.0
+   ],
+   [
+    489.0,
+    173.0
+   ],
+   [
+    534.0,
+    788.0
+   ],
+   [
+    181.0,
+    813.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

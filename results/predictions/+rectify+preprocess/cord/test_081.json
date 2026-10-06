@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "14.000 ve",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "fe.000 a",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 0.0,
+ "raw_text": "~™ on we on on om oe\nA RS SO MUR ee mak eae Sn Mm wee se SD OE Grd toms team tome Eng ores seco woud Snen nm SNS ab SOND KON KOE Ca GENE SND NE\n2002-Kyoto Choco Kochi\n14.000 ve 28,000\n100it-Choce Bun\nfe.000 a 22,000\né001-Plastic Bag Small\nif wi 0\nTotal Jteu: 4\nTotal, 00.000\n_\n~—",
+ "checksum": null,
+ "runtime_s": 10.7382621250581,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    157.90081787109375,
+    44.3392333984375
+   ],
+   [
+    2252.800048828125,
+    44.3392333984375
+   ],
+   [
+    2252.800048828125,
+    3615.4365234375
+   ],
+   [
+    157.90081787109375,
+    3615.4365234375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

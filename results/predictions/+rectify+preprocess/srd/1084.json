@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "STUFFED ARTICHOKES",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "COSTOLETTE/ALLA/PAPs",
+   "qty": 1,
+   "price": 42.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Trattoria sapor tg\n328 Washingtonstreet\nHoboken, NJ 07030\n201-533-1801\nTABLE # 4\nCHECK# 27273\nDATE (TIME 7/1/2018 5:53:48 PM\nSERVER: Gastone\nSTATION: 01\nItem Count: 4\n1 STUFFED ARTICHOKES $18.00\n1 BK FETT AL PORCINI + $36 .00\n| COSTOLETTE/ALLA/PAPs $42.00\n| BROUCOLL RABE W/ GA 10:50\n3.75\n1 BALD ESpressos 38\nSubtotal St” s17. i\nTax\nGRAND TOTAL vid a\nOpened: 7/1/2018 5:53:48 PM",
+ "checksum": null,
+ "runtime_s": 1.5077287501189858,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    29.081268310546875,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    722.0562744140625,
+    999.0
+   ],
+   [
+    2.581268310546875,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

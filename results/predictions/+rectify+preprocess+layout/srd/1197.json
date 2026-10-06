@@ -1,0 +1,56 @@
+{
+ "items": [
+  {
+   "name": "EURO",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "cancel e Stoviglie",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Hacedouca",
+   "qty": 1,
+   "price": 10.6
+  },
+  {
+   "name": "Insalata Negombo",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Bufala",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Pomodor ini",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Nat It",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "IOTALE",
+   "qty": 1,
+   "price": 34.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "BAR RISTORANTE\nSTABILIHENTO HARINO E TERMALE\nSAN HONTANO S.R.L a\nVIA S.HONTANO - LACCO AHENO\nPARTITA IVA 00200430635\nEURO\n0.50\ncancel e Stoviglie 1.00\n2x 5S, ,\nHacedouca 10.60\nInsalata Negombo 10.00\nBufala 8.00\nPomodor ini 4.00\nNat 1/2 It 1.00\nIOTALE € 34,00\nCONTANTE\nREG. 001 OPER. 1\n28-08-2018 12:41 .\nSCONTRINO FISCALE N. 52\nfF TV 48400314",
+ "checksum": null,
+ "runtime_s": 1.0574251259677112,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

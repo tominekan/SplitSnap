@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ROS@bud on Rush\n720 North Rush Street\nmee Chicago, IL\n312-266-6444\nUti] Seale 04:07PM\nVisa\nXXXXXXKXXXAK34 26\nCmae ; SWIPED\nTrans Type: PURCHASE\nTrans Key: G1G005625257/29\nAuth Code: 190275\nCheck: 1738\nTable: 61/1\nServer: 226 Chelsea\nSubtotal: FD | eG\nTee F ce. oe! ae\nFTO TAS ee ee a oi,\n€ 1§ ROSEBUD’S COPY",
+ "checksum": null,
+ "runtime_s": 0.8021448340732604,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    1.0,
+    1.0
+   ],
+   [
+    605.0,
+    1.0
+   ],
+   [
+    646.0,
+    994.0
+   ],
+   [
+    1.0,
+    994.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

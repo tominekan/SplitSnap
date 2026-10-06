@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Lan Sheng\n209 Paterson Ave.\nWallington Nov\nee 07057\nTel 973.798 7105 Fax : 973 973.710!\n[Bj\nDine In # 1011\nServer: Mary 06/13/17\n2 Person\n0:\n1 Sp\n© Soy v.\nHif- Peking Duck\nStir Beef Fillet w. Tofu\nPork w. Spicy Capsicum\nWhite Rice (S)\nPork w. Spicy Tofu & Cayen\nne Chili\ny Chicken w. s picy Garli $\n8PM - 09:17P\n7.95\n$18.95\n$15.95\n$12.95\n$1.50\n$12.95",
+ "checksum": null,
+ "runtime_s": 0.6200846249703318,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    117.0,
+    106.0
+   ],
+   [
+    478.0,
+    50.0
+   ],
+   [
+    579.0,
+    914.0
+   ],
+   [
+    61.0,
+    922.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "wiles SHA",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Bar Rua\n32 Claredon Street\nTable #520\nTranst: 201605, Serv: Siecn\nNT/08/2018 OF:40:22 PH souk\n6.00\n1 wiles SHA 3.00\n1 FRESH COO 30\n1 SHELLEISH POT 2D\n1 FISH OAKES cm)\n1 PORTION BREAD LAGE\nFacebook : BAR RUA\nTwitter : @BARRUADUB\nREVIEW / TRIPADVISOR\n<-REPRINTED->\n_",
+ "checksum": null,
+ "runtime_s": 0.38928825012408197,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    22.0,
+    44.0
+   ],
+   [
+    194.0,
+    53.0
+   ],
+   [
+    251.0,
+    419.0
+   ],
+   [
+    13.0,
+    445.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Open Food",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "Ossobuco",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Diet Coke",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "1G Hands Cab",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 62.5,
+ "tax": 5.39,
+ "tip": null,
+ "total": null,
+ "raw_text": "*s Tuscan Grill\nNt049 Mineola Blvd\nMineola NY 11501\n516-747-2545\nwww .nickstuscangri1].com\nMinimum Credit/Debit Payment $20\n907 Victor V\nee ee ee _—— ee ewe\nBar\nFUSSILLI SP\n1 Open Food 22.00\n1 Ossobuco 28.00\n1 Diet Coke 2.50\n1G 14 Hands Cab 10.00\nSubtotal 62.50\nTax 5.39\nTotal G67 .8s89ga\nMinimum Credit/Debit Payment $20\nThank you for joining us today.",
+ "checksum": null,
+ "runtime_s": 2.102234542137012,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    164.0,
+    211.0
+   ],
+   [
+    610.0,
+    172.0
+   ],
+   [
+    731.0,
+    992.0
+   ],
+   [
+    7.0,
+    990.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

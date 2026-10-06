@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "REG CASIILER PM",
+   "qty": 1,
+   "price": 9.01
+  },
+  {
+   "name": "B CH2Z B SPC",
+   "qty": 1,
+   "price": 8.8
+  },
+  {
+   "name": "F FRIES LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "F RIES LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "PFzM MED DRINK",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "CH BURGER SPEC",
+   "qty": 1,
+   "price": 7.57
+  },
+  {
+   "name": "TAA",
+   "qty": 1,
+   "price": 2.46
+  },
+  {
+   "name": "TL",
+   "qty": 1,
+   "price": 28.31
+  },
+  {
+   "name": "CCi",
+   "qty": 1,
+   "price": 11.69
+  }
+ ],
+ "subtotal": null,
+ "tax": 25.85,
+ "tip": null,
+ "total": null,
+ "raw_text": "CHRIS 7S\nHAMBURGERS\n3950 = SLAUSON MAYWOOD, CA 90270\nPHONE 323-588-1607\nMC #01\nREG CASIILER 11-24-2017 12:13 PM 000072\nM13C $9.01\nB CH2Z B SPC $8.80\nmw pickles\nF FRIES - LRG $3.66\nCRISPY\nCRISPY\nF RIES - LRG $3.66\nCRISPY\nPFzM MED DRINK $2.15\nhorchata .-~\nCH BURGER SPEC $7.57\nno ontons\n=EAT—-IN\nTAXABLE SALES $25.85\nTAA $2.46\nTL $28 .31\nCASH $40.00\nCCi $11.69\nORDER # oo000000052\nPLEASE HELP US SERVE YOU BETTER\nSERVICE WAS VERY GOOD {]\nGOOD {]\nPOOR {]",
+ "checksum": null,
+ "runtime_s": 2.3247917499393225,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    97.0,
+    197.0
+   ],
+   [
+    449.0,
+    197.0
+   ],
+   [
+    494.0,
+    985.0
+   ],
+   [
+    19.0,
+    978.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

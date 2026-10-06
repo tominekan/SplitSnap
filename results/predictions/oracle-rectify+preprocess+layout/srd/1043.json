@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "ter ol",
+   "qty": 1,
+   "price": 2.11
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "oe\noo a a\nWG\neX Sou FOOD & cnet\nL131B YONKERS AY\nYONKERS, NY 38\n814-237-5083\nJune 23, 2019 at 2:33 PM\nhitaen\nWINGS (5) | -\nWAC & CHEESE |\nYAMS\n“ES, ens 12. 0¢\nYAMS\nMAC & CHEESE\nCOLLARD GREENS\nter 24,5\nol 2.11\nret 0. 0¢\nTota! 0:0\nne\nA",
+ "checksum": null,
+ "runtime_s": 2.571390249300748,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    119.0,
+    45.0
+   ],
+   [
+    543.0,
+    3.0
+   ],
+   [
+    659.0,
+    983.0
+   ],
+   [
+    67.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

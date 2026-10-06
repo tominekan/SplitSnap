@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "ASo TA",
+   "qty": 1,
+   "price": 435181.0
+  },
+  {
+   "name": "CS Jw",
+   "qty": 1,
+   "price": 13000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ASo TA? 1 43,161 435.181\nCS Jw. 1 15,059 13.000\nTOTEL M5181 >\nTAX 100.0 ' 5.118 &\nRYO TOT WIN\nTUNAI (> GN\n= ea",
+ "checksum": null,
+ "runtime_s": 13.983834542101249,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

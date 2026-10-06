@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "",
+ "checksum": null,
+ "runtime_s": 0.391604624921456,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    19.0,
+    163.0
+   ],
+   [
+    845.0,
+    158.0
+   ],
+   [
+    776.0,
+    1293.0
+   ],
+   [
+    51.0,
+    1300.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

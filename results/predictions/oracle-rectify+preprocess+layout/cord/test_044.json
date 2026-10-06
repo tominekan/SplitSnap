@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "eee ee en er carta r n t em SSS\nsee cee men exw uy ers rs cas mcs So Od AY NY HS OD eS EN Ct en a od we St rag ears ee arg =D OB OD EE SN\nof af at of HS Oe\nED GD GEE ES 2S tee whe Wes ORE Oty OND Ene OE 198 bam Ot Ed GED Ott Oni Ol Gee Ene OG) 8 Wek ee ee\naay Gp ane ee ee ou\nCASH\nCHANGED 20. 000",
+ "checksum": null,
+ "runtime_s": 9.132184124784544,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    61.0,
+    -28.0
+   ],
+   [
+    783.0,
+    154.0
+   ],
+   [
+    808.0,
+    1181.0
+   ],
+   [
+    67.0,
+    1181.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "BASO TAHU",
+   "qty": 1,
+   "price": 46000.0
+  },
+  {
+   "name": "NASI PUTIH",
+   "qty": 1,
+   "price": 6000.0
+  },
+  {
+   "name": "BASO TAHU",
+   "qty": 1,
+   "price": 46000.0
+  },
+  {
+   "name": "NAST PUITH",
+   "qty": 1,
+   "price": 12000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "mane\nee\nr)\n4 4\ntb\n+ ta\now) EL 6\nra\nBASO TAHU\nNASI PUTIH\nBASO TAHU\n<x 6000\nNAST PUITH\n™\nTENS\n*\nt. :\nit. 6\n#46000\n*6000\n*46000\n*12000\n5a~\n—G,\n11 ON 0.\nes ee\not\n‘m al ‘",
+ "checksum": null,
+ "runtime_s": 2.276107208104804,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

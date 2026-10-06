@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Nan-O-Sabzi",
+   "qty": 1,
+   "price": 8.95
+  }
+ ],
+ "subtotal": 146.85,
+ "tax": 13.22,
+ "tip": 22.4,
+ "total": 160.07,
+ "raw_text": "Chelokababi\n1236 S Wolfe Rd Aug 18, 2018\nSunnyvale, CA 94086 6:35 PM\n(408) 737-1222 Server\nchelokababi.com\n—_—————\nTicket: D2\nFOR HERE\nKoobideh x 7\n($16.50 each)\nWell Done\nVery well done\nNan-O-Sabzi $8.95\n18% Gratuity (yar ks ) $22.40\n= E\nSubtotal $146.85\nSales Tax $13.22\nTotal $160.07",
+ "checksum": false,
+ "runtime_s": 0.5812154589220881,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    120.21250915527344,
+    67.21878051757812
+   ],
+   [
+    585.2874755859375,
+    69.8687744140625
+   ],
+   [
+    611.7874755859375,
+    872.8187255859375
+   ],
+   [
+    120.21250915527344,
+    868.84375
+   ]
+  ],
+  "method": "otsu"
+ }
+}

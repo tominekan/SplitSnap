@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "TA) NASI ORG TERT 4",
+   "qty": 1,
+   "price": 165460.0
+  },
+  {
+   "name": "TA) BIHUN GORENG 1",
+   "qty": 1,
+   "price": 40456.0
+  },
+  {
+   "name": "TA) KWETIAW SEAFOOD. 1",
+   "qty": 1,
+   "price": 42274.0
+  },
+  {
+   "name": "TA} NAST GORENG 2",
+   "qty": 1,
+   "price": 55456.0
+  },
+  {
+   "name": "TTEMS:8",
+   "qty": 1,
+   "price": 303646.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 334000.0,
+ "raw_text": "trai\nCuston\n(TA) NASI ORG TERT 4 165,460\nM\n(TA) BIHUN GORENG 1 40,456\nSEAFOGD\n(TA) KWETIAW SEAFOOD. 1 42,274\nSIRAM\n(TA} NAST GORENG 2: 55,456\nTTEMS:8 303,646\nPit 10% 30,365\n12 Rounding 334,011\nRounding dd\nTotal 334,000\nDEBIT 8CA 334,000.\nA yYungan",
+ "checksum": null,
+ "runtime_s": 0.49881583312526345,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    95.0,
+    120.0
+   ],
+   [
+    598.0,
+    114.0
+   ],
+   [
+    613.0,
+    1139.0
+   ],
+   [
+    102.0,
+    1169.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

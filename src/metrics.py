@@ -1,4 +1,4 @@
-"""Scoring functions (DECISIONS.md D14-D16)."""
+"""Scoring functions (DECISIONS.md D15 item matching, D17 metrics)."""
 import jiwer
 import numpy as np
 from rapidfuzz import fuzz

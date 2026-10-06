@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "GRS only",
+   "qty": 1,
+   "price": 4.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "2013-06-10 L1 12 13:04 PM\nYOUR GUEST NUMBER IS ~\n25 ;\nIN-N-OUT BURGER ESCONDIDO\n2013-08-10 »3;02 PM\n247 2 480 2152\nCashier: ADAM EL\nCheck :\nCounter-Eat In\nOb1Db1\noe KM\n3 7\n> GRS only 4.95\nFE\nFF Animal\nlg Coke\nMed Coke\n#* C Shk\nane To Eat In",
+ "checksum": null,
+ "runtime_s": 0.6929191248491406,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    46.5875244140625,
+    0.0
+   ],
+   [
+    712.0,
+    0.0
+   ],
+   [
+    712.0,
+    999.0
+   ],
+   [
+    0.0,
+    997.3624877929688
+   ]
+  ],
+  "method": "paper"
+ }
+}

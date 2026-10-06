@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Coors Light",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Ice Tea",
+   "qty": 1,
+   "price": 3.25
+  },
+  {
+   "name": "Shrimp Fajita",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Stuffed Chicken",
+   "qty": 1,
+   "price": 17.95
+  }
+ ],
+ "subtotal": 45.15,
+ "tax": null,
+ "tip": null,
+ "total": 47.3,
+ "raw_text": "E1 Charro Cafe Ventana\n6910 E SUNRISE DR\nServer: Ana 06/24/2018\nTable 24/1 8:00 PM\nGuests: 2\n#30076\nCoors Light 5.00\nIce Tea 3.25\nShrimp Fajita 18.95\nStuffed Chicken 17.95\nSubtotal 45.15\nTax 25\nTotal 47.30\nBalance Due A? .3C\nFOR FREE!!!",
+ "checksum": false,
+ "runtime_s": 0.40991625003516674,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    55.0,
+    4.0
+   ],
+   [
+    401.0,
+    1.0
+   ],
+   [
+    447.0,
+    445.0
+   ],
+   [
+    1.0,
+    444.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

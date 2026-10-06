@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "TL",
+   "qty": 1,
+   "price": 21006.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "tenan\n1 BAKSO BNGKS - 18. 600\n8 GORENGAN 6, 000\nTL *21,006\nCASH -30,.000\ncs »@,000",
+ "checksum": null,
+ "runtime_s": 0.19503204198554158,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    227.0,
+    0.0
+   ],
+   [
+    227.0,
+    276.8345947265625
+   ],
+   [
+    0.0,
+    276.8345947265625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

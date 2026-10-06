@@ -1,0 +1,45 @@
+{
+ "items": [
+  {
+   "name": "Table: Table",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Margarita",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Daiquiri",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Strawberry",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Add Vodca",
+   "qty": 1,
+   "price": 54.0
+  },
+  {
+   "name": "Snow Comba",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 3.49,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "KICKIN KAJUN KAPOLEI\nKa Makana Ali‘i\n91-5431 Kapolei Parkway, Suite 426\nKapolei, HI 96707\n(808) 628-4771\nServer: Chenay B\nTable: Table 2\nSubtotal:\nTotal Tax: $3.49\nMargarita $6.00\nAdd Tequila +$4.00\nStrawberry Daiquiri $6.00\nAdd Vodca +$4.00\nSnow Comba $54.00\n+$0.00\nKickin Sauce\nTotal:\nReceipt Total:\nSuggested Gratuity",
+ "checksum": null,
+ "runtime_s": 3.786491666920483,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

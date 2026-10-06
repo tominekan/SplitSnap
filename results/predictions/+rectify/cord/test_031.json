@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "SALMON PESTO\nSALMON PESTO\nDisc -100%(1TM06)\nSUBTTL\nSVC CHG 6%\nPB1 10%",
+ "checksum": null,
+ "runtime_s": 1.4357182080857456,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    233.343994140625,
+    314.342529296875
+   ],
+   [
+    2192.563232421875,
+    314.342529296875
+   ],
+   [
+    2192.563232421875,
+    2740.30078125
+   ],
+   [
+    233.343994140625,
+    2740.30078125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

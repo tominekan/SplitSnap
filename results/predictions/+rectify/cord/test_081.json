@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "S002-Kyoto Choco Mochi\n14.000 Ke\n100i-Choco Bun\n22.000 xi\n6001-Plastic Bag Small\name eee 90a One amis anne meet tame een wite SED 4000 SUN SEER SOME GRD SOND ChE SUED SED SiON SEED LE AOS SEAS Oe SEND SNS soem meme GEN SE: GS: SE\nTotal Item: 4\nTotal.",
+ "checksum": null,
+ "runtime_s": 2.0443767921533436,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    157.90081787109375,
+    44.3392333984375
+   ],
+   [
+    2252.800048828125,
+    44.3392333984375
+   ],
+   [
+    2252.800048828125,
+    3615.4365234375
+   ],
+   [
+    157.90081787109375,
+    3615.4365234375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

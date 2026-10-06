@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "of sale: $2.33",
+   "qty": 1,
+   "price": 16.51
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Follow us on Instagram &\n@tayhooakland #tayhooak lan\nPlease help us going Green & Save our\nresources! ;\nPlease ask for Credit Card RecetPt\nif you'd like one printed for your\nrecord...\nOrder# 142750\nTable: Table - 7\nDate: 2/19/19, 1:20 PM\n- Special Combo Pho\nOrder Balance due:\nSuggested Gratuity\nTip Total\nof sale: $2.33 = $16.51\nH $2,59 = $16.77",
+ "checksum": null,
+ "runtime_s": 0.5848852498456836,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    95.26251220703125
+   ],
+   [
+    594.9749755859375,
+    95.26251220703125
+   ],
+   [
+    594.9749755859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

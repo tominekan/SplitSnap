@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "SS PARADISE\nAndhra Style Famlaly Restaurant\nVadyaranyapura SANGALORE-560097\nContact 9148436557/58\nBILutu\nGST-29A0DFSO760B1ES\nBall No 00027 Ball Date C6 07 201°\nBall Time 22:06 Persons 023\nTable No P Wtr No SD\na\nItem Name Rate~ Oty Amount\nTANDOORI CHICKEN 179 1 00 179 aC\nMUTTON RAGON JOSH 209 2 09 209 OC\nFISH BIRIYANI 229 1 00 229 Ce\nBS\n617 00\n[Eee\nTotal 617 6d\nwi Grand Total Rs 617 00",
+ "checksum": null,
+ "runtime_s": 2.006222707917914,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    111.0,
+    1.0
+   ],
+   [
+    433.0,
+    3.0
+   ],
+   [
+    458.0,
+    494.0
+   ],
+   [
+    112.0,
+    506.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

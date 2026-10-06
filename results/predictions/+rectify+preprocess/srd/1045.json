@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Stesk Chaepe tay ttatty (2",
+   "qty": 1,
+   "price": 4.49
+  },
+  {
+   "name": "Bev Sudtetal",
+   "qty": 1,
+   "price": 0.6
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.0,
+ "tip": null,
+ "total": 22.03,
+ "raw_text": "wIM'S RES TAURAN\nee\n‘s WMG,\nGrog, Walk_In\nSe “Oty o. 1986p\nYours\nStesk Chaepe tay ttatty (2) 4.49\n4 Wing we Rte tees 720\nMumbo s ©\n4 Winge vw [ os fe kee 7 20\nPhangs «\ntit seme ¢\nhonnemace habeas 189\nFood Subtoiat: 20..'8\n, Bev Sudtetal 0.60\nFood Tax 125\nAN Bc « Tax 0.00\nTotal: 22.03\nRecewed 2203\nChanys 0.0)\nPAID Cash\nI leaet, Yoon",
+ "checksum": null,
+ "runtime_s": 1.4652884998358786,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    13.042510986328125,
+    0.0
+   ],
+   [
+    283.87249755859375,
+    0.0
+   ],
+   [
+    283.87249755859375,
+    374.00750732421875
+   ],
+   [
+    13.042510986328125,
+    374.00750732421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

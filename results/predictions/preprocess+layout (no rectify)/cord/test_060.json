@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "rsi",
+   "qty": 1,
+   "price": 1250.0
+  },
+  {
+   "name": "Bola Ubi Mini Ortyinal Pes",
+   "qty": 2,
+   "price": 25868.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 26258.0,
+ "raw_text": "Topping Milo Sparkle (untuk Po |\nrsi)\n1x 1.250 1.250 |\nBola Ubi Mini = Ortyinal 114 Pes |\n)\n2X 12.500 25.868\nsubtotal 06 250\nPajak -\nTotal 26.258 |\n'\nPembayaran GO-PAY\nPARRA ARREARS OM MRAM MORAN AO MAN AR ren ae Mm Og, :",
+ "checksum": null,
+ "runtime_s": 2.5777529580518603,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

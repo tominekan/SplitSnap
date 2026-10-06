@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "CHKN PLATE",
+   "qty": 1,
+   "price": 9.39
+  },
+  {
+   "name": "AVOCADO",
+   "qty": 1,
+   "price": 1.95
+  },
+  {
+   "name": "MD, DRINK",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "CG",
+   "qty": 1,
+   "price": 4.97
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.4,
+ "tip": null,
+ "total": 15.03,
+ "raw_text": "BO SN, BOWL TERIYAKI\n5008 OQ GARFIELD AVE.\nou H GATE, CA. 90280\nL: (882) 928-8999\nREG 05-18-2019 11:19 AM\nManager1 Mc #01 000141\nORDER o00141\n1 #1 CHKN PLATE $9.39\n1 + AVOCADO $1.95\n1 MD, DRINK $2.29\n*KHERE:\nTAX’ $1.40\nTOTAL $15.03\nCASH $20.00\nCG $4.97",
+ "checksum": null,
+ "runtime_s": 2.037604499841109,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    29.38751220703125,
+    40.63751220703125
+   ],
+   [
+    682.6124877929688,
+    40.63751220703125
+   ],
+   [
+    682.6124877929688,
+    952.2374877929688
+   ],
+   [
+    29.38751220703125,
+    952.2374877929688
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

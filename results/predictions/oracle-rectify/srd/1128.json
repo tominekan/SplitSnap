@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Classic Michelada",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Classic Michelada",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "1. Don Julio Anejo",
+   "qty": 1,
+   "price": 15.0
+  },
+  {
+   "name": "Classic Michelada",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Balam Madurado",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "KAAVERAS\nMEXICAN CUISINE & BAR\nKALAVERAS - BELLFLOWER\n16530 BELLFLOWER BLVD.\nBELLFLOWER, CA 90706\n5624610599\nhttp://www. kalaveras.com/\nORDER: Bar B11\nCashier: BAR PM\n30-Aug-2019 3:24:10P\n1 Classic Michelada $12.00\n1 Classic Michelada $12.00\n1. Don Julio Anejo $15.00\n1 Classic Michelada $12.00\n1 Balam Madurado $12.00\nSubtotal\nTax\nTotal\nThank you for your vis\n1 MULAN\n83V4Q)\n. # 83V40QC31PI",
+ "checksum": null,
+ "runtime_s": 0.7590132921468467,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    135.0,
+    14.0
+   ],
+   [
+    574.0,
+    7.0
+   ],
+   [
+    655.0,
+    987.0
+   ],
+   [
+    97.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

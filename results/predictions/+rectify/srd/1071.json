@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Quesadilla",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "Fish An Chips",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "Side Salad",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Dft Shock top",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "Dft Guiness",
+   "qty": 2,
+   "price": 15.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 6.0,
+ "tip": null,
+ "total": 75.5,
+ "raw_text": "02/18/17 10:20 PM Check 101244\nTable 15 Cust. 2 Server 21 Kelly Bowe\nERI OOOOOO OOO OOO OOO OO OOOO IOI\n1 Quesadilla 11.00\n1 Pot Roast 18. 00\n1 Fish An Chips 16.00\n1 Side Salad 4.00\n1 Dft Shock top 5.50\n2 Dft Guiness 15.00\ne:\nSub-total: 69. 50\nTax? 6.00\nTotal Due: 75.50",
+ "checksum": null,
+ "runtime_s": 0.45560737466439605,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    18.268768310546875,
+    239.93125915527344
+   ],
+   [
+    492.6187438964844,
+    212.10626220703125
+   ],
+   [
+    531.043701171875,
+    735.481201171875
+   ],
+   [
+    36.818756103515625,
+    748.731201171875
+   ]
+  ],
+  "method": "paper"
+ }
+}

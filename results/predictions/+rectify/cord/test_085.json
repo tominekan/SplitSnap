@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Nasi Putih",
+   "qty": 3,
+   "price": 30000.0
+  },
+  {
+   "name": "Ayam Pop",
+   "qty": 2,
+   "price": 40000.0
+  },
+  {
+   "name": "Samabal sp",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "KeruPUK Kuah",
+   "qty": 1,
+   "price": 13000.0
+  },
+  {
+   "name": "IKan Bawal Begg",
+   "qty": 1,
+   "price": 28500.0
+  },
+  {
+   "name": "Telur Dadar",
+   "qty": 1,
+   "price": 10000.0
+  },
+  {
+   "name": "Teh ES",
+   "qty": 1,
+   "price": 2000.0
+  },
+  {
+   "name": "Teh Manis",
+   "qty": 1,
+   "price": 3000.0
+  },
+  {
+   "name": "A otal",
+   "qty": 1,
+   "price": 173500.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "3 Nasi Putih 30.000\n1 Nasi Tamban ¢.000\n2 Ayam Pop 40.000\n1 Samabal sp 11.000\n1 Sambal Gabus ASiN Cb\n18.000\n1 KeruPUK Kuah 13.000\n1 IKan Bawal Begg 28.500\n1 Telur Dadar 10.000\n1 Teh ES 2.000\n1 Teh Manis 3.000\nA otal 173.500\nSerMeost 100 12. 959\n14 Total 197. 450\nTtl Makanan 159. S00\nTel Minuman 20.000\nCash 197, 450",
+ "checksum": null,
+ "runtime_s": 1.7046079998835921,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    537.4553833007812,
+    15.9718017578125
+   ],
+   [
+    1772.0,
+    15.9718017578125
+   ],
+   [
+    1772.0,
+    2363.0
+   ],
+   [
+    537.4553833007812,
+    2363.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

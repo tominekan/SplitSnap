@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "name": "2PC R&B MEAL",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "SWING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "SWING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "SWING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "COLL GRN SMALL",
+   "qty": 1,
+   "price": 1.19
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ba\nWINGS & THING\n519 FULTON AVE. HEMPSTEAD M8\nTHANKS CALL AGAIN 516-483-093\n#195 IN\n1 #7 2PC R&B MEAL 5.99\nICED TEA\nSUB CORNBREAD\n1 #3 SWING MEAL 6.99\nSIERRA\n1 SUB FIXN\nMAC&CHZ °\n1 #3 SWING MEAL 6.99\nICED TEA\n1 SUB FIXN\nSP RICE\n1 #3 SWING MEAL 6.99\nICED TEA\n1 SUB FIXN\nMACRCHZ\n1 COLL GRN - SMALL 1.19\nNe ee Oe eo ee\nTe ee a ey",
+ "checksum": null,
+ "runtime_s": 2.724240249954164,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

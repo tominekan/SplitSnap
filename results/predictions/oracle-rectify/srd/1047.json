@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Kitchen to\nra) A grt cn mon ick\n730 ass 4\ni 2139- 3308\ncambr 966-8800\n; Megan Ce\n3/1\niB: 2\nint #1\nattan (3 @16.00)\n(3)Makers Mark\nprey Goose (3 49. 50)\nRocks (3 @1.00)\nubtota]\nax\nital\n85.0",
+ "checksum": null,
+ "runtime_s": 0.4878183747641742,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    119.0,
+    27.0
+   ],
+   [
+    596.0,
+    28.0
+   ],
+   [
+    639.0,
+    811.0
+   ],
+   [
+    101.0,
+    846.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Firepoint Grill\n3739 West Chester\nNewtown Square. PA\n484-428-3093\nServer: Will\n§3/1\nGuests: 2\nReprint #: 1\nOrder Type: Send\nArea: Dining\nMakers Mark (2 @11.50)\nAs Old Fashioned\nSide Caesar\nChicken & Rib Combo\nWoodford Reserve (2 @12. 00)\nOn the Rocks\nFrisee Salad\nPoached Shrimp Cocktail\nNY Stip 80z\nComplete Subtotal\nSubtotal\nTotal Tax\nTotal\nBalance Due\nTHANK YOU\nVisit us Online\nPike\n19013\n12/07/2016\n6:53\nPM\n#90024\n23.\n6.\n29;\n24.\n10.\nWe\n28.\n137.\n137.\n5:\n142.\n00\noo\n00\nLele}\nrole)\n50\nLoja)\n50.\n50\n43\n93\n142. 93\nat\nee a ee pow es oe ee |",
+ "checksum": null,
+ "runtime_s": 0.9879190840292722,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    297.0,
+    12.0
+   ],
+   [
+    666.0,
+    12.0
+   ],
+   [
+    773.0,
+    994.0
+   ],
+   [
+    155.0,
+    996.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

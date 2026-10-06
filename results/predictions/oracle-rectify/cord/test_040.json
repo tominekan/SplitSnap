@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "54,009\nBa, yoko, Mar\ni.",
+ "checksum": null,
+ "runtime_s": 0.2665323738474399,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    1.0,
+    0.0
+   ],
+   [
+    449.0,
+    -1.0
+   ],
+   [
+    453.0,
+    642.0
+   ],
+   [
+    0.0,
+    638.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

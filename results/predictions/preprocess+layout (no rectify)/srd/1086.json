@@ -1,0 +1,55 @@
+{
+ "items": [
+  {
+   "name": "Shrimp Scampi",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Chicken Milanese",
+   "qty": 2,
+   "price": 46.0
+  },
+  {
+   "name": "Veal Milanese",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Grey Goose",
+   "qty": 3,
+   "price": 30.0
+  },
+  {
+   "name": "Pineapple Julce",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Belvedere",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Becks Non Alcoholic",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Corona",
+   "qty": 1,
+   "price": 6.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 12.51,
+ "tip": null,
+ "total": 145.0,
+ "raw_text": "Calagero’ s\nCalogero’s\n919 Franklin Ave.\nGarden City, NY 11530\n516-29429\nTable #2\nTrans @: 137017 Serv: Manager 2\n4/20/2018 8:29 PM # Cust:4\nQuan Descr ipt Cost\n1 Shrimp Scampi $27. 00\n2 Chicken Milanese $46. 00\n1 Veal Milanese $27. 00\n3 Grey Goose $30. 00\n1 Pineapple Julce $3. 00\n1 Belvedere $12.00\n1 Becks Non Alcoholic $6.00\n1 Corona $6. 00\n1 Comp Item ($12. 00)\nNet Total: $145.00\nTax $12.51\nTOTAL: $157.51\nAmount Due: $157.51\nFOLLOW US ON\nFACEBOOK AND INSTAGRAM\nRealannar nana",
+ "checksum": null,
+ "runtime_s": 2.6286305831745267,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

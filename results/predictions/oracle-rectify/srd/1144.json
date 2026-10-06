@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "HOUSE VODKA",
+   "qty": 2,
+   "price": 24.0
+  },
+  {
+   "name": "HOUSE TEQUILA",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 36.0,
+ "tax": 3.19,
+ "tip": 7.2,
+ "total": 46.4,
+ "raw_text": "CHLOE81\n81 Ludlow St\nNew York, NY 10002\nTel 212 677-0067\nCheck Name: HWANG,HYUN\nServer: Bar\nDate: 08/03/18\nTable: Guests: 1\n[seat 1]————___-_—\n2 HOUSE VODKA $24.00\n1 HOUSE TEQUILA $12.00\nSubtotal: $36.00\nTax:: $3.19\nSub w/Tax: $39.19\nGratuity: $7.20\nAmt Due: $46.40\nVisa EMV",
+ "checksum": true,
+ "runtime_s": 0.5492608749773353,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    77.0,
+    134.0
+   ],
+   [
+    583.0,
+    139.0
+   ],
+   [
+    594.0,
+    994.0
+   ],
+   [
+    47.0,
+    971.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

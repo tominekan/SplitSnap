@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "4 1 Side Craw Etouffee 4oz",
+   "qty": 1,
+   "price": 10.98
+  },
+  {
+   "name": "Ae ; Pan Seared Tilapia",
+   "qty": 1,
+   "price": 21.99
+  },
+  {
+   "name": "Tea",
+   "qty": 1,
+   "price": 5.98
+  }
+ ],
+ "subtotal": 38.95,
+ "tax": 3.21,
+ "tip": null,
+ "total": 42.16,
+ "raw_text": "PAPPADEAUY\nSEAFOOD KITCHEN\nPappadeaux Seafood Kitchen (612)\n7800 Airport Blvd (HOU)\nHouston, Tx 77061\n(713) 847-7622\n4 0089 Table 7 #Party\nDANIEL O = SvrCk: 7 12:46 O/OT/t7\nDINE IN\n4 1 Side Craw Etouffee 4oz 10.98\nAe ; Pan Seared Tilapia 21.99\nTea 5.98\nSub Total: 38.95\nTax: 3.21\n. Sub Total: 42.16\n01/07 13:29 TOTAL: 42.16\nThank you for dining at Pappadeaux!\nTip Not Included\n15% 6.32\n18% 7,59\n20% 8.43",
+ "checksum": true,
+ "runtime_s": 2.6527352081611753,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    727.2874755859375,
+    0.0
+   ],
+   [
+    727.2874755859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Saal] Fries",
+   "qty": 1,
+   "price": 1.83
+  },
+  {
+   "name": "Balance Que",
+   "qty": 1,
+   "price": 4.99
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 4.33,
+ "raw_text": "3\nwn\nwendy 's Restaurant #0000375\n401 Bergan St “\nHarrison, KJ 07029 2\n(973) 483-8704 e\nf-\n#3264 =\nx\nHost: JULIANA 03/18/2937\n83264 8243224\nOrder Type: PUN 2\nveogle Sandwich 0xs3\nNO American Cheese 2\nNO Kayo “\nSaal] Fries 1.83\nPlain Potato 1979\nADD Chives\n3\nTotal Itess 3 6087\nTax Os2\nnm\nPUW Total 4. 33\nBalance Que $4.99\nHow was your visit? 3\nCall us at 888-624-8140 =",
+ "checksum": null,
+ "runtime_s": 1.6221269581001252,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    50.0,
+    2.0
+   ],
+   [
+    243.0,
+    2.0
+   ],
+   [
+    262.0,
+    381.0
+   ],
+   [
+    39.0,
+    377.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

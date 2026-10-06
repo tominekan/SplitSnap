@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 64.0,
+ "raw_text": "EL CHICO MEXICAN RESTAURANT\nJBR\nTEL : 04-7059660\n1050 Hone Oe)\nil iol BR ee\nNov12\"16 05:41PM\nSere mene wee a woes esesasaseseeceseer= =”\nHome Oelivry\n1 Ts Guac :\n1 Grande Chicken 64.00\nBuritto\n1 Delivery Charge\nAmount Due 117.00\n##4Thank You For Comingt##\nHome Delivery No:600561112",
+ "checksum": null,
+ "runtime_s": 1.5375934999901801,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    110.43081665039062,
+    0.0
+   ],
+   [
+    406.8544921875,
+    0.0
+   ],
+   [
+    406.8544921875,
+    269.42291259765625
+   ],
+   [
+    110.43081665039062,
+    269.42291259765625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

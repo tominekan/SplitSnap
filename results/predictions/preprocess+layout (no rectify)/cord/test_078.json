@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "Lemon Tea (L",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Extra Jally Lychee",
+   "qty": 1,
+   "price": 5000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 0.0,
+ "raw_text": "1 Lemon Tea (L) 25. 000\n1 Extra Jally Lychee 5. 000\nTOTAL 0, 000\nCASH 30. 000\nCHANGED 0\nme",
+ "checksum": null,
+ "runtime_s": 13.8662414168939,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

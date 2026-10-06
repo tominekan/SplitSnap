@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Enchi Omelete",
+   "qty": 1,
+   "price": 25.98
+  },
+  {
+   "name": "Hashbrowns Side",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Hashbrowns Side",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Loaded Cafe\n15700 Bellflower Blvd\nBellflower, CA 90706\n135 Nathalie\nTb] 34/1 Chk 2763 St ez\nFeb23'19 10:23AM\nDine In\nEnchi Omelete 25.98\nSHREDDED BEEF\nQpen Food S219\nSHREDDED BEEG\nOpen Food refers)\nHashbrowns Side 2.99\nHashbrowns Side 2.99\nCoffee Hot 2-99\nj ns]\n44.32\n4.21",
+ "checksum": null,
+ "runtime_s": 0.6430837498046458,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    86.0,
+    181.0
+   ],
+   [
+    606.0,
+    168.0
+   ],
+   [
+    673.0,
+    846.0
+   ],
+   [
+    5.0,
+    827.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

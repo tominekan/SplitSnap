@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Dbl Qtr Chees",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "ADD Mac Sauce",
+   "qty": 1,
+   "price": 0.4
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 6.64
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.63,
+ "tip": null,
+ "total": null,
+ "raw_text": "McDonald’: YescaLract #3100\n1617 N ESSTSAN AVE\nLOS ANGELES, 04 2023-1253\nTEL 223) 264 730\nK3# 2 fe 7/2019 03:08 PM\nSidel Order 97\n1 Dbl Qtr Chees: 5.99\nSpecial Requis: t\nADD Leaf Lettic» G25\nADD Mac Sauce 0.40\nSubtota | 6.64\nTax 0.63\nTake-Out Total To!\nCashle3s et\nChange 0.00\nMER# 499206\nCARD ISSUER DHT\nBOW DEBIT CARD : A... i\nTRANSACTION AMI. ht eat\nCHIP READ\nAUTHORIZATION CC.\nSEQ# 039988\nAID: ADOOO00004: 2.1:\n~ H1ESM\nMcDonald’s now avai ai 2 orl JbarEATS",
+ "checksum": null,
+ "runtime_s": 0.7424651661422104,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    90.0,
+    5.0
+   ],
+   [
+    638.0,
+    7.0
+   ],
+   [
+    667.0,
+    990.0
+   ],
+   [
+    50.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Coka-caa",
+   "qty": 1,
+   "price": 25.6
+  },
+  {
+   "name": "QBS GUNS oar vt) we",
+   "qty": 2,
+   "price": 17.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "lacSurce\nBe Aiain Umrah\nrere tr\nPaiih\nIle 000 7 (re Of 025\nNOTE\n} PEER 9.00 0% 60\nCoka-caa 5.80 25.60\n2 QBS GUNS oar vt) we .40\n*17 .00\nH.T TvA 10% 015.45\nDONT TVA 10% 01.55\nTOTAL TIC 10% °17 0\nte 0148.26.44 8)\nMERCI DE VOTRE VISLIt",
+ "checksum": null,
+ "runtime_s": 1.0772527921944857,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    53.0,
+    2.0
+   ],
+   [
+    185.0,
+    2.0
+   ],
+   [
+    218.0,
+    248.0
+   ],
+   [
+    26.0,
+    247.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

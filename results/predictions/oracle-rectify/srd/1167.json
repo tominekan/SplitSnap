@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "25:17 Astona ova 21.2019\nAston, NY 1108 GsoPm\n(929) 328-0030",
+ "checksum": null,
+ "runtime_s": 0.1920524570159614,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    105.0,
+    132.0
+   ],
+   [
+    277.0,
+    110.0
+   ],
+   [
+    309.0,
+    355.0
+   ],
+   [
+    75.0,
+    361.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Cb10b",
+   "qty": 1,
+   "price": 3.3
+  },
+  {
+   "name": "sX3",
+   "qty": 1,
+   "price": 4.35
+  },
+  {
+   "name": "Fr",
+   "qty": 1,
+   "price": 1.6
+  }
+ ],
+ "subtotal": null,
+ "tax": 8.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "*Ot3-CS-1\n\\\n0 L1 T2 , 3:04 PM\nYOUR GUEST NUMBER IS\n: 25\n\\ IN-N-OUT BURGER ESCONDIDO 4:02 PA\n/ 3093-08-10 oa 2 480 2152 ,\nCasmier: ADAM EL\nCreck oo: 25\nCounter-Eat In\nCb10b} 3.30\nWO KM\nsX3 4.35\n> GS only\nFr 1.60\nFF Animal 3150\nlg Coke 170\nted Coke 1'50\n## C Shk { 205\nCounter—-Eat In 18-00\nTAX 8.00% 44\nAmount Due $1 qi. 44",
+ "checksum": null,
+ "runtime_s": 1.9949440420605242,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    46.5875244140625,
+    0.0
+   ],
+   [
+    712.0,
+    0.0
+   ],
+   [
+    712.0,
+    999.0
+   ],
+   [
+    0.0,
+    997.3624877929688
+   ]
+  ],
+  "method": "paper"
+ }
+}

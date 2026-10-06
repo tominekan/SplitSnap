@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "r\nSpLrr ice Caubure y\n° a ome one one oD ome\n, oe ad 6 be\nJULIIUCILS\nrolls\nTotals\nLabtls\nUhariye a\no0.g00\nhy \\",
+ "checksum": null,
+ "runtime_s": 7.656190666370094,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    862.8282470703125,
+    0.0
+   ],
+   [
+    863.0,
+    1217.640625
+   ],
+   [
+    55.744232177734375,
+    1248.5501708984375
+   ]
+  ],
+  "method": "paper"
+ }
+}

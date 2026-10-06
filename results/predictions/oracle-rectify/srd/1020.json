@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Paneer Butter Masala",
+   "qty": 1,
+   "price": 12.99
+  },
+  {
+   "name": "rice",
+   "qty": 2,
+   "price": 3.98
+  },
+  {
+   "name": "Deccan Special Biryani",
+   "qty": 1,
+   "price": 14.99
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 47.02,
+ "raw_text": "Deccan Spice\n771 Newark Avenue\nJersey City Local, NJ 07306\n(201) 804-1772\nServer: Com Station: 6\nPremio | Dine In\nDine In\nTable Guests: 6\nry\n1 Paneer Butter Masala 12.99\n2 rice 3.98\n1 Deccan Special Biryani 14.99\nSUB TOTAL:\nTax 1:\n18% TIPS:\n8\nTOTAL: $47.02\n7/28/2019 10:56:49 PM\nSERRE HSE Rp RSE DESEO EEA\nNo returns or cancellations accepted once order\nis placed. Exchange only for faulty items ONLY.\nJEP HCP BEER DSP\nvu",
+ "checksum": null,
+ "runtime_s": 0.7155823330394924,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    92.0,
+    5.0
+   ],
+   [
+    557.0,
+    19.0
+   ],
+   [
+    556.0,
+    985.0
+   ],
+   [
+    101.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

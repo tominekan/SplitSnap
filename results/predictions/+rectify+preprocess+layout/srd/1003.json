@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Miller",
+   "qty": 1,
+   "price": 5.0
+  }
+ ],
+ "subtotal": 5.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "E] Gr\ncat at de Pata\nMiami, FL 33176\n(305) 386-6638\nServer: Kayra Station: 10\nOrder #: 822° Dine In\nweneeeeeeees Bar Tab: Bar Tab.\n«\n1 Miller te. SEIT 5.00\nSUB TOTAL: 5.00\nSales Tax; __ 0%\nTOTAL: $5.3\nCash Tendered: 5.38\nlance: se $1) (I)\n>> Ticket #: 35 «\nCreated: 4/20/2017 10:13:17 PM\nSETTLED: 4/20/2017 10:13:25 PM\nTHANK YOU!\nin\novk AY ue,\nal LNs of wrth ty",
+ "checksum": null,
+ "runtime_s": 3.576749708969146,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    167.73751831054688,
+    36.45001220703125
+   ],
+   [
+    611.6124877929688,
+    15.250030517578125
+   ],
+   [
+    599.6875,
+    999.0
+   ],
+   [
+    158.46250915527344,
+    995.75
+   ]
+  ],
+  "method": "paper"
+ }
+}

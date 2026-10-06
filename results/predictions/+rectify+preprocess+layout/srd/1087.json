@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "res",
+   "qty": 8,
+   "price": 9.95
+  },
+  {
+   "name": "hat Que",
+   "qty": 1,
+   "price": 10.81
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "8 res\n7 $9.95\n7 ne\nSpr w/Tax: $10.8!\nhat Que: $10.81\n—_———\nwan Pett",
+ "checksum": null,
+ "runtime_s": 0.8867269589100033,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    9.655654907226562
+   ],
+   [
+    257.0,
+    9.655654907226562
+   ],
+   [
+    257.0,
+    257.0
+   ],
+   [
+    0.0,
+    257.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

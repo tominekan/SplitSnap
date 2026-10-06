@@ -1,4 +1,4 @@
-"""Baseline parser: regular expressions over Tesseract's text lines (DECISIONS.md D09).
+"""Baseline parser: regular expressions over Tesseract's text lines (DECISIONS.md D10).
 
 A line ending in a price is an item, unless it contains a keyword. Keyword lines fill
 subtotal / tax / tip / total (first occurrence wins). Payment and noise lines are skipped.

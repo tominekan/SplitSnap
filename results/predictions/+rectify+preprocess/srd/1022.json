@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "WEEKDAY uM $29 $20.88",
+   "qty": 1,
+   "price": 29.88
+  },
+  {
+   "name": "me",
+   "qty": 1,
+   "price": 87.37
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Moonstar Restaurant\n383 Gellert Blvd., Daly City, CA 94915\n(650) 992-2888\nPAID REPRINT 1\nTabi332 el #2406\nawe - a” ee\nWEEKDAY uM $29 $20.88 _ 29.88\nFe 28\nme \\_ 87.37\nmri .\n10/29/2018 19:51\n| THANK YOU\n{",
+ "checksum": null,
+ "runtime_s": 1.5545240009669214,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    144.41250610351562,
+    139.23126220703125
+   ],
+   [
+    592.262451171875,
+    140.5562744140625
+   ],
+   [
+    613.4625244140625,
+    952.78125
+   ],
+   [
+    152.36251831054688,
+    968.6812133789062
+   ]
+  ],
+  "method": "paper"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "CROISSANT AUX RAISINS",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Cappucino",
+   "qty": 1,
+   "price": 4.75
+  }
+ ],
+ "subtotal": 8.75,
+ "tax": 0.83,
+ "tip": null,
+ "total": 9.58,
+ "raw_text": "CAFE PARISIEN LARCHMONT LLC\n242. N LARCHMONT BLVD\nLOS ANGELES, CA 90004\n(310) 815-8222\nDine In\nServer: Kimberly L. Jan 24,2019\nReceipt: YWGS 10:29 AM\nTable: 36\nItem(s)\nCROISSANT AUX RAISINS $4.00\nCappucino $4.75\nSubtotal $8.75\nSales Tax (9.5%) $0.83\nTotal $9.58\nCustomer Copy",
+ "checksum": true,
+ "runtime_s": 0.547476374078542,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    47.756256103515625,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    47.756256103515625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

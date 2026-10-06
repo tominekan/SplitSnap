@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Draft Blackhouse",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "Cowboy” 160z Ribeye",
+   "qty": 1,
+   "price": 45.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": ", SASKA'S\n‘ 3768 Mission Blvd\nSan Diego CA 92109\n(858) 488-7311\nServer: Sue 08/15/2017\nTable 103/1 5:51 PM\nGuests: 2 10005\nReprint #: 2\nDraft Blackhouse 7.00\n“Cowboy” 160z Ribeye 45.00\nMake It Blue\nAdd Lobster\nCK Manhattan (2 @5.00)\nWhistle Pig Rye 10yr (2 @20.00)\n(2)BMOD Up\n“Duke” 1602 Top Sirloin\nMake It Blue\nSubtotal\nTax\nTotal\nBalance Due",
+ "checksum": null,
+ "runtime_s": 0.5192600409500301,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    193.0,
+    213.0
+   ],
+   [
+    539.0,
+    208.0
+   ],
+   [
+    565.0,
+    923.0
+   ],
+   [
+    126.0,
+    916.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "i\n. - , an a ‘ rer\nok pre\n77 fl. 43 4 ‘\n—_ oe\n, !\ne ' wt 5 a\n-- / ee / 7. [7\n. all ad , a Pa le -\n,\n/- _ yt \") ‘C9\nfed ,\n4 Ossba\ned { al\nwt é",
+ "checksum": null,
+ "runtime_s": 3.273274583974853,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

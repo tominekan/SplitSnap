@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "REG] BLACK SAKURA",
+   "qty": 1,
+   "price": 45455.0
+  }
+ ],
+ "subtotal": 45455.0,
+ "tax": 4545.0,
+ "tip": null,
+ "total": 50000.0,
+ "raw_text": "e® out: . ad\n* 4 ¢ ro. *\n™@\n1 [REG] BLACK SAKURA 45,455\n1 COOKIE DOH SAUCES 0\n1 NATA DE COCO 0\nSub Total 45,455\nPB1 (16%) 4545\nRounding 0\nTotal 50,000\noo\n« 7 4\nCard Payment 50,000",
+ "checksum": true,
+ "runtime_s": 3.395552041940391,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

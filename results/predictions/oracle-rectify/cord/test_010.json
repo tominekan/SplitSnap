@@ -1,0 +1,15 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": ") Sen retie Asay,\nCINNAMON SUGAR\n4a DOO\nSUB TOTAL\nGRAND TOTAL\nCASH IDR\nCHANGE DUE\n17,000\n17,000\n17,000\n20,000\n3,000",
+ "checksum": null,
+ "runtime_s": 0.5662654591724277,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

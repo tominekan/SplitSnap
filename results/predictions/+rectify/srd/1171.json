@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "DATE AND TIKE PAX TABLE\noma 09/12/2012 6:14 PH 52\n2 FRENCH FRIES\n1 OPEN FOOD\n1.00 HANESH — SAUS\n4 PANEER TIKKA\nTotal\nSERVICE TAX @ 4\nGrand Total\nVAT NO : 27840289613\nSASSTHANK YOU & VIS)",
+ "checksum": null,
+ "runtime_s": 0.3472572499886155,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    24.49200439453125,
+    120.74801635742188
+   ],
+   [
+    432.3799743652344,
+    120.74801635742188
+   ],
+   [
+    432.3799743652344,
+    639.0
+   ],
+   [
+    24.49200439453125,
+    639.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "owSeIPE MT CL",
+   "qty": 1,
+   "price": 24006.0
+  },
+  {
+   "name": "NCONUT JELLY CL",
+   "qty": 1,
+   "price": 4000.0
+  },
+  {
+   "name": "SUB TOA",
+   "qty": 1,
+   "price": 28000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 40008.0,
+ "raw_text": "1 owSeIPE MT CL) 24,006\nNCONUT JELLY CL 4,000\n: a - e - oe -t\nSUB TOA 28,000\nTOTAL SA +3 40.008\nTOTAL 1Nist8\nCASH 100,000\né\nCHANGE 72,000\nTs | rr",
+ "checksum": null,
+ "runtime_s": 3.0008943758439273,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    241.08038330078125
+   ],
+   [
+    863.0,
+    241.08038330078125
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

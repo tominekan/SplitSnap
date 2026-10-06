@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Pho Ga (Smal",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Pho Ga (Large",
+   "qty": 1,
+   "price": 9.0
+  },
+  {
+   "name": "Goi Cuon",
+   "qty": 1,
+   "price": 5.25
+  }
+ ],
+ "subtotal": 22.25,
+ "tax": 2.11,
+ "tip": 8.9,
+ "total": 24.36,
+ "raw_text": "#14\nHP Pho Ga\n8930 Mission Dr. #102\nRosemead ,CA 91770\nPhone (626)288-9999\nDate: Apr O1, 2019 ‘Time: 05:12PM\nServer: Admin\nBill: 59980 Table : 14\n1 Pho Ga (Smal)) 8.00\n1 Pho Ga (Large) 9.00\n1 Goi Cuon 5.25\nSubtotal 22.25\nTAX 2.11\nTotal 24.36\n§. Service Charge 40% 8.90\nTotal $33.26\nSuggested Tip : 15% (3.65)\n18% (4.38)\n20K (4.87)\nOpen Time : Apr 01, 2019 04:39PM\nPrinted By : Admin\nThank you for Coming !",
+ "checksum": false,
+ "runtime_s": 2.4295797920785844,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    7.0,
+    12.0
+   ],
+   [
+    567.0,
+    19.0
+   ],
+   [
+    563.0,
+    956.0
+   ],
+   [
+    12.0,
+    958.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

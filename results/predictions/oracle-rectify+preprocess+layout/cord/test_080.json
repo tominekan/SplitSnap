@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "- ey\neen ween ewer\n1 Viet Milk Coffee\n+Ice\n+H\nSubtotal\nTotal\nCk\nKerbalian",
+ "checksum": null,
+ "runtime_s": 7.041545418091118,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    48.0,
+    59.0
+   ],
+   [
+    405.0,
+    24.0
+   ],
+   [
+    412.0,
+    559.0
+   ],
+   [
+    48.0,
+    558.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "DONAT GULA",
+   "qty": 1,
+   "price": 11000.0
+  }
+ ],
+ "subtotal": 11000.0,
+ "tax": null,
+ "tip": null,
+ "total": 11000.0,
+ "raw_text": "Bt\n1K @11000\nDONAT GULA 11,000\n1.00xITENs\nSUBTOTAL 11,000\nTOTAL 11,000\n11,000",
+ "checksum": true,
+ "runtime_s": 1.8685415419749916,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    69.684326171875,
+    62.10272216796875
+   ],
+   [
+    693.0279541015625,
+    32.91033935546875
+   ],
+   [
+    766.8674926757812,
+    1180.0
+   ],
+   [
+    121.2003173828125,
+    1224.647216796875
+   ]
+  ],
+  "method": "paper"
+ }
+}

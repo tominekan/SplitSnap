@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "y\nUm's RESTAURANY\nWalk_in\n347\n20:78\n000\n22.03\n2203\n9.09\nPAID Cash\n— Thank You",
+ "checksum": null,
+ "runtime_s": 0.22006899979896843,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    13.042510986328125,
+    0.0
+   ],
+   [
+    283.87249755859375,
+    0.0
+   ],
+   [
+    283.87249755859375,
+    374.00750732421875
+   ],
+   [
+    13.042510986328125,
+    374.00750732421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

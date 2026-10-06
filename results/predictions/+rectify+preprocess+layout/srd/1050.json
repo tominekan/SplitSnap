@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "eee Mate",
+   "qty": 1,
+   "price": 2.49
+  },
+  {
+   "name": "SODA",
+   "qty": 1,
+   "price": 10.49
+  },
+  {
+   "name": "AMERICAN CHS",
+   "qty": 1,
+   "price": 0.75
+  },
+  {
+   "name": "Chix Cheesesteak ae",
+   "qty": 1,
+   "price": 25.22
+  }
+ ],
+ "subtotal": 1.74,
+ "tax": 0.0,
+ "tip": null,
+ "total": null,
+ "raw_text": ": \\\nHOLLYWOOD CAFE\nAM Dining Rf\"\novers: 2 Person#: 1\nerver #: 346 Opened: 12: 13: oo PH _oeeer\neee Mate 2.49\nSODA 10.49\nCHEESE STEAK 100\n+AMERICAN CHS 0,75\n+FRD ONION 1 & 19\nChix Cheesesteak ae\nSUB-TOTAL 25.22\nFood Tax 1.74\nLiquor Tax 0.00\nOther Taxes 0.00\nTotal Tax a 1.74\nTHANK you!",
+ "checksum": null,
+ "runtime_s": 1.5659937500022352,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    22.956268310546875,
+    70.9625244140625
+   ],
+   [
+    749.0,
+    70.9625244140625
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    22.956268310546875,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

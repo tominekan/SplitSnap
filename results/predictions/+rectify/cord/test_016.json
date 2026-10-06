@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "4 [LG] BLACK SAKURA\n1 LONGAN\n1 ROASTED ALMOND\n1 VANGGO\n1 WINERAL WATER (bundling) 5k\nSub Total\nPB1 (10%)\nRounding\nTotal\nCash Payment 100,000\n30,000",
+ "checksum": null,
+ "runtime_s": 0.6243873750790954,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    52.990234375,
+    186.9642333984375
+   ],
+   [
+    782.8001708984375,
+    186.9642333984375
+   ],
+   [
+    782.8001708984375,
+    1141.7274169921875
+   ],
+   [
+    52.990234375,
+    1141.7274169921875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

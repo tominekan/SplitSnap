@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "SO TAY 193.481",
+   "qty": 1,
+   "price": 93181.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "SO TAY 193.481 93,181\nCS IU. 115.009 13, 00 A\nTOTAL : BABL >\n|\nTAX 10.0 * 5 ENB 5\narte i Gf)\n—_ = ©.) =\noar ewe b a",
+ "checksum": null,
+ "runtime_s": 5.507112624822184,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    830.1365966796875,
+    0.0
+   ],
+   [
+    863.0,
+    1175.6339111328125
+   ],
+   [
+    0.0,
+    1227.1500244140625
+   ]
+  ],
+  "method": "paper"
+ }
+}

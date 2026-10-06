@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "PKT AYAM",
+   "qty": 1,
+   "price": 33000.0
+  },
+  {
+   "name": "GULAI OTAK",
+   "qty": 1,
+   "price": 23000.0
+  },
+  {
+   "name": "CHARGES",
+   "qty": 1,
+   "price": 61600.0
+  }
+ ],
+ "subtotal": 56000.0,
+ "tax": 5600.0,
+ "tip": null,
+ "total": 61600.0,
+ "raw_text": "PKT AYAM 33,000\nGULAI OTAK 23,000\n2.00: ITEMS\nSUBTOTAL 56,000\nTAX 10% 5,600\nTOTAL 61,600\nCHARGES 61,600\nED > Seed 9.) '\nOW Om 1-8 maby\nCor ars)",
+ "checksum": false,
+ "runtime_s": 2.772322667064145,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    31.0,
+    -7.0
+   ],
+   [
+    813.0,
+    62.0
+   ],
+   [
+    797.0,
+    1025.0
+   ],
+   [
+    -37.0,
+    1056.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

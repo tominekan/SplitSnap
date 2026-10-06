@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "TRIPLE DIPPER",
+   "qty": 1,
+   "price": 12.19
+  },
+  {
+   "name": "CHICKEN WAFFLES4",
+   "qty": 1,
+   "price": 11.89
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.29,
+ "tip": null,
+ "total": 24.08,
+ "raw_text": "Chili's Gritl @ Bar\nPuente Hills #23\n_ 17588 Castleton 3t\nCity of Industry,Ca 31748\nServer: Jose § 5/2018\n33/1 09/1955 PM\nGuests: 2 2060012\nOrder Type: Dine In\nTRIPLE DIPPER 12.19\nCHICKEN WAFFLES4 11.89\nSuatotal 24.08\nTotal Tax 2.29\nTotal 26.37\nBalance Due 26.37\n* 3Zratuity Guide\n15% = $3.96\n18% = $4.75\n20% = $5.27\n22% = $5.80\nWant free Chips and Salsa\nor a drink, every visit?\nChilis.com/Rewards\nGif* Card activation is\ndelayed by 4 hours.\nFF EEERESESEAAEASS SE EAEEEEEEE ESE\nTELL US HOW WE'RE DOINGS!",
+ "checksum": null,
+ "runtime_s": 3.023838415974751,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    87.0,
+    54.0
+   ],
+   [
+    455.0,
+    39.0
+   ],
+   [
+    538.0,
+    992.0
+   ],
+   [
+    61.0,
+    994.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

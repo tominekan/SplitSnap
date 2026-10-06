@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "SFT TACO BF",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "oe",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "HE",
+   "qty": 1,
+   "price": 3.41
+  }
+ ],
+ "subtotal": 5.99,
+ "tax": null,
+ "tip": null,
+ "total": 6.59,
+ "raw_text": "= Kensore\nes) 480-4472\nfas Ne 181TH ST\nKENWORE WA 98028\nDT>248\n04/24/2018\n7:08 PH\n30126\nOrder Type: Orive Thru\nSFT TACO BF 5.99\nSubtotal 5.99\nTex 360\nDrive Thru Total 6.59\noe. $10.00\nChange\nHE $3.41\nThank you,\nPlesei ania accenn",
+ "checksum": false,
+ "runtime_s": 0.34761779103428125,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    26.0,
+    2.0
+   ],
+   [
+    239.0,
+    5.0
+   ],
+   [
+    267.0,
+    397.0
+   ],
+   [
+    4.0,
+    397.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "P-VILLAGIO BREEZE",
+   "qty": 1,
+   "price": 0.01
+  },
+  {
+   "name": "ADD SALAD",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "LUNCH SEAFOOD PASTA",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "KID PEPERONI PIZZA",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "KID ALFREDO",
+   "qty": 1,
+   "price": 7.0
+  }
+ ],
+ "subtotal": 31.01,
+ "tax": 3.11,
+ "tip": null,
+ "total": null,
+ "raw_text": "Vlog\nGRILLE\nVillaggio Grille\n4780 Wharf Parkway\nOrange Beach, AL 36561\n’ | PHONE: 251-224-6510\n\\ __ bust 3 Server 156 JAMIE\n, Total Due: 34_12\nsony 9862 06/08/19 11:45 AM\n1 P-VILLAGIO BREEZE 0.01\n| ADD SALAD 3.00\n1 LUNCH SEAFOOD PASTA 14.00\n1 KID PEPERONI PIZZA 7.00\n1 KID ALFREDO 7.00\n4 woe\n\\ Sub-total: 31.01\nv Tax: 3.11",
+ "checksum": null,
+ "runtime_s": 1.6614502079319209,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    123.0,
+    5.0
+   ],
+   [
+    686.0,
+    5.0
+   ],
+   [
+    742.0,
+    974.0
+   ],
+   [
+    3.0,
+    972.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

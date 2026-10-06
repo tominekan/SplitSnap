@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Mies 1 TIKKA MASALA",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "pr 1. PALAK {$F",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "Sar 1 VEGAN BENGAN GHARTAR",
+   "qty": 1,
+   "price": 17.0
+  }
+ ],
+ "subtotal": 55.0,
+ "tax": 3.3,
+ "tip": null,
+ "total": null,
+ "raw_text": "x SSS ESS\n7 NAME: CHARES\nAy\nSS Checks 71128.1\n4%, Closed to Credit Card\nDATE/TIME: 12/31/2018 6:06:\nDATE/TIME: 12/31/2018 6:06:02 PX\nSTATION: 01\nSo happy about your visit!\nae, Itea Count: 8\nae Stress sacssssssssssssssssssssssessssssss2\nMies 1 TIKKA MASALA $20.00\neas CHICKEN (MURGH)\npr 1. PALAK {$F ) $18.00\nwb, PANEER (CHEESE)\nSar 1 VEGAN BENGAN GHARTAR $17.00\n3 Subtotal $55.00\nTax 3.30\n\"2 Total before tip: 130\nzr Tip anount:",
+ "checksum": null,
+ "runtime_s": 1.1395384999923408,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    3.664886474609375
+   ],
+   [
+    298.37518310546875,
+    0.0
+   ],
+   [
+    300.2196044921875,
+    347.0
+   ],
+   [
+    0.0,
+    347.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

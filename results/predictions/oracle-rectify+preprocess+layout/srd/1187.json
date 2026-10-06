@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Short Stack",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "not",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "NO Sausage",
+   "qty": 1,
+   "price": 13.99
+  },
+  {
+   "name": "Led SP nach",
+   "qty": 1,
+   "price": 80.0
+  },
+  {
+   "name": "Southern Comfort",
+   "qty": 1,
+   "price": 10.99
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 50.38,
+ "raw_text": "Spiral Diner & 6\n608 E Hickory st”\nDenton, TX 76205\nOrder# 185736\nat In Order\nServer: Sarah A\nte oe oe\neee\nwm me ee\nReal Smooth\nwee nw\na\nShort Stack $7.99\nnot fee $8 59\nreakfast Q $2.99\nNO Sausage | $13.99\nsous Led SP nach 80.00\nSouthern Comfort $10.99\nSubtotal: __. TT aes\nTatal Tax: Pe\nTotal: §59 38\nIrder Balance due: $50.38\nwww.spiraldiner.com\nFollow Us On\nfacebook.com/spiraldiner\ninstagram.com/spiraldiner\nThanks for your business!\nnnn",
+ "checksum": null,
+ "runtime_s": 2.054930208949372,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    131.0,
+    4.0
+   ],
+   [
+    784.0,
+    4.0
+   ],
+   [
+    944.0,
+    1335.0
+   ],
+   [
+    2.0,
+    1318.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

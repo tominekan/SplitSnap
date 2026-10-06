@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "wavrurat",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "DONAT GULA",
+   "qty": 1,
+   "price": 11000.0
+  }
+ ],
+ "subtotal": 11000.0,
+ "tax": null,
+ "tip": null,
+ "total": 11000.0,
+ "raw_text": "@11000\nCC we Ste el\n——— wavrurat\n1\nDONAT GULA 11,000\n1. 00xITEHs\nSUBTOTAL 11,000\nTOTAL 11,000\n11,000",
+ "checksum": false,
+ "runtime_s": 3.855895707849413,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

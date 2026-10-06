@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "t\nMore.\nLee\nShee\npola\nTOT,\na\n1»\nve",
+ "checksum": null,
+ "runtime_s": 0.9188864999450743,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    431.0,
+    -3.0
+   ],
+   [
+    431.0,
+    646.0
+   ],
+   [
+    0.0,
+    646.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "WATER",
+   "qty": 2,
+   "price": 0.0
+  },
+  {
+   "name": "jax",
+   "qty": 1,
+   "price": 3.37
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "BEN’S BAYSIDE\n211-37 26th Avenue\nBayside, NY 11360\nPhone: (718)229-2967\nEmail: BaysideBensDel inet\nOO32 Table 45 #Party 3\nVESSICA M SvrCk: 1 12:05 03/05/17\nDINING ROOM\n2 DOUBL 1 tky, bow) barley\n1 past, bow] barley\n1 KNISH\n1 ROUND\n1) KASHE SIDE\n1 COFFEE\n2 WATER 0.00\nSub Total iF 95\njax 3.37\n03/05 12:41 TOTAL: ole 32\nSuggested Gratuity\nGRAT 15% §.69\nPOAT 1eMC(‘ézRCD",
+ "checksum": null,
+ "runtime_s": 0.48615975002758205,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    332.04656982421875,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    10.667816162109375,
+    449.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

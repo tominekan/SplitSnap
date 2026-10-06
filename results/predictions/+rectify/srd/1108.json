@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Ge wongo 880\n‘6661 stanford Ranch Rd.\nRocklin, CA 95677\n916-632-0028\nsongo-042441\n‘Jan 20, 2018 5:49:07 PH\nManager\nteas count: 6\nSubtotal:\n(A Max 7.25%:\nTotal",
+ "checksum": null,
+ "runtime_s": 0.2722116250079125,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    8.580001831054688,
+    0.0
+   ],
+   [
+    294.25,
+    0.0
+   ],
+   [
+    294.25,
+    399.0
+   ],
+   [
+    8.580001831054688,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

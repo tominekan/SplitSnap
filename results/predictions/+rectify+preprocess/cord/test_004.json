@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "| (\n(\nfan ee 8 ne eee eee —\n_~— to So! ™ sec oem em ee ee - ,\nto7 Tieac : . oT |\nKe TE ACKQU OF. & . dL\nedi nil] le: oF : Tere\nan {: Nw rAd “Pr t - ne _\noUo UTA. . oy\nt Gop allt oy\n| TO £3 4\n——o c sy a :\n| cite “Sr",
+ "checksum": null,
+ "runtime_s": 6.277725083986297,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    855.6029663085938,
+    0.0
+   ],
+   [
+    855.6029663085938,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

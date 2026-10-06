@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "BONELESS WINGS SPEC",
+   "qty": 40,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 10.0,
+ "tax": 0.7,
+ "tip": null,
+ "total": 10.7,
+ "raw_text": "GENERAL. POOR’S\nTAVERN\n45 MAIN STREET\nHACKENSACK, NJ 07601\n(201)487-5882\nCheck#: 555149 Guests: 0\nDate:04/10/16 Time: 12:30pm\nTable: Server : VERONIQUE\nSRST EE TL\n40 BONELESS WINGS SPEC $10.00\nTENET NEE I 2 I,\nSubtotal: $10.00\nTax:: $0.70\nSbt] w/Tax: $10.70\nAmt Due: $10.70\n_ THANK YoU\nFOR CHOOSING\nGENERAL POOR’S11\nTIM",
+ "checksum": true,
+ "runtime_s": 0.8998129579704255,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    23.10003662109375
+   ],
+   [
+    711.0875244140625,
+    23.10003662109375
+   ],
+   [
+    711.0875244140625,
+    965.1749877929688
+   ],
+   [
+    0.0,
+    965.1749877929688
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

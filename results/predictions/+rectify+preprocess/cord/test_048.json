@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "A ey tazelnut KOI Cafe @25,000",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "PBI",
+   "qty": 1,
+   "price": 2212.0
+  }
+ ],
+ "subtotal": 22128.0,
+ "tax": null,
+ "tip": null,
+ "total": 25000.0,
+ "raw_text": "A ey tazelnut KOI Cafe @25,000 25,000\nCHANGE : 75,000\nLess Ice\nPBI: 2,212\nSubtotal: 22,128\nTotal: 25,000\nCash: 100 ,000",
+ "checksum": false,
+ "runtime_s": 1.8463752921670675,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1181.6279296875
+   ],
+   [
+    0.0,
+    1181.6279296875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

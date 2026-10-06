@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "River Village Fami)\n22825 Huron Ri\nRockwood, MI 48\n(734)236-40.\nServer: Jasmine G\nCheck #7\nApple French Toast\nCoffee\nSubtotal\nTax\nTotal\n2.99 early bird breakfast spec\nMonday- Friday 7am - 8am\nRiver village kayaking now open)\nThursday 7:00an-B:00e\"\nay/Saturday 7:00an-9:00P8\nthe cash register",
+ "checksum": null,
+ "runtime_s": 0.47380875004455447,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    202.0,
+    206.0
+   ],
+   [
+    527.0,
+    195.0
+   ],
+   [
+    592.0,
+    931.0
+   ],
+   [
+    206.0,
+    929.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

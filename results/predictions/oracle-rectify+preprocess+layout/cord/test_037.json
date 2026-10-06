@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Popcorn Salt (S",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "@eiwes = &.\n*® ® “+ ®\n-_> 6 ee\n“eos 2\n1 Popcorn Salt (S) 20.000\nTOTAL 20,00\nCASH 50.000\nCHANGED 30.000\nO @ at 1 6. Ce-w-«e Cewd\n@% v aod\n_ rn ©",
+ "checksum": null,
+ "runtime_s": 1.164402708876878,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    114.0
+   ],
+   [
+    575.0,
+    114.0
+   ],
+   [
+    575.0,
+    849.0
+   ],
+   [
+    0.0,
+    849.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

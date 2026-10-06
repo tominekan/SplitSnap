@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "name": "Dine in",
+   "qty": 1,
+   "price": 19.95
+  },
+  {
+   "name": "Dine in",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "White Glass Pinot Gr",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "Dine in",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Dine in",
+   "qty": 1,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 50.49,
+ "tax": 2.74,
+ "tip": 6.59,
+ "total": 63.23,
+ "raw_text": "nq Restaurant\n§1 292-3700\na\nParty of 2\nole ain a Tenet 12005\n) -EUFLAIA Vv\n38 PN , ‘ Oate 11/10/18\nSeat (>> --eneee ere cee\n1 B8tstec Palomitla Enc\n* W/Moro Gandules\nHab Rojas : Red Bean\nDine in 19.95\n1 Spaghetti Con Pollo\nW/Moro Gandules\nHab Rojas . Red Bean\nDine in 14.95\n1 Copa Vino\nWhite Glass Pinot Gr 5.50\n1 Lemonada\nDine in 3.50\n1 Jugo de Chinola\nDine in 160z 4.00 .\n1 Gratuity. 6.59 iS\nSub Total : 50.49\nSales Tax: 2.74\nCheck Total $§ 63,23 -\ndita ip, |\nTota’ Charge: |\n15% tip is 7.57 1\n188 tip is 9,09 . ('\n+ 204 tip is 10.10\n22k tip is 11.11 \\)\nThank you for Coming a.\n: _ Gracias por sy Visita i",
+ "checksum": false,
+ "runtime_s": 5.409956624964252,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

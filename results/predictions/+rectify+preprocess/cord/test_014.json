@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "RedVelvet Cheese Slo",
+   "qty": 1,
+   "price": 3000.0
+  },
+  {
+   "name": "Fish nm Chips",
+   "qty": 1,
+   "price": 43000.0
+  },
+  {
+   "name": "fushroom Soup",
+   "qty": 1,
+   "price": 33000.0
+  },
+  {
+   "name": "Iced Tea",
+   "qty": 1,
+   "price": 9000.0
+  },
+  {
+   "name": "Coupon",
+   "qty": 1,
+   "price": 100000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": 17820.0,
+ "total": null,
+ "raw_text": "a g\n1 RedVelvet Cheese Slo 3,000\n1 Chicken Baked Rice vd 000\n1 Fish nm Chips 43,000\n1 fushroom Soup 33,000\n1 Chanamile ou 000\n1 Iced Tea £9,000\nSUBTOTAL 238 , 000\nService 17,820\nPRI 2 guad\nTOTAL sod, 445\nCoupon 100,000\nCAS 200 , 000\nChange 18,065\nRe Gee CE Ome EET ey EET OD CED EE OE CEES Oe oD SnD SER Cake SOND SUNY GEES GEE GERD HEED SEES ANG ORD DE COGh SUDO GET OES STEN Gut Fu GED eee CUED GEER OtED\ney Ohm SUE Oty hase NE OED OUD Utne Camp bom ote te Ww coe pen Ge OOP 9D OE Om OTe",
+ "checksum": null,
+ "runtime_s": 7.422381957992911,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    372.4632568359375,
+    130.152099609375
+   ],
+   [
+    1561.783203125,
+    130.152099609375
+   ],
+   [
+    1561.783203125,
+    2595.2880859375
+   ],
+   [
+    372.4632568359375,
+    2595.2880859375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

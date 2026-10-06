@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "6 Pcs Cheese Tart 162000,6'\nfox of 6\nPP Carrier vo eeeeee ee cence eee\nitaly non\nrota Tax Included: Rp1S000.ug\nRp 165000. Ou\nRp206060 U4\nmer Paid Cash: SPAN 6,\nemer Change: RO35500 49\nea“ «= oe -— ow om ow\nw~waonnwwn-\n-\nae\n-",
+ "checksum": null,
+ "runtime_s": 13.311456166906282,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    511.82086181640625,
+    627.840087890625
+   ],
+   [
+    1825.203125,
+    676.6849365234375
+   ],
+   [
+    1760.07666015625,
+    3379.43017578125
+   ],
+   [
+    495.53924560546875,
+    3390.28466796875
+   ]
+  ],
+  "method": "paper"
+ }
+}

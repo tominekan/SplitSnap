@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "yeq99",
+   "qty": 1,
+   "price": 36000.0
+  },
+  {
+   "name": "Tunal",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 36000.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "——\nBumbu KalduAyam1 — yeq99\n36000\nSub Total 36000\nDiscount (0 %)\nTunal ©0000\nKembalian 14000\n——oesaananannypanoua9g»g»g gE:\noe aren\nDAA MAB ARRA ADE ARH,",
+ "checksum": null,
+ "runtime_s": 2.30522433295846,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

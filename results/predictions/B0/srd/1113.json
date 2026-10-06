@@ -17,7 +17,7 @@
  "total": 29.96,
  "raw_text": "_, Golden Panda Buffet\n14428 Ramona Blvd. #70\nBaldwin Park, CA 91706\nTel: 626-337-5666\nStation: 1 6/02/2018 04:18:31 PM\nCashier: 010\nInvoice #68554 T# hot food\nAdult Dinner 2 23.98\nSoda 2 3.38\npee\nSubtotal 21736\nTax 2.60\nGrand Total 29.96\nAmount Tendered 29.96\nDebit Card sale 29.96\na\nThank you very much.\nOrder # 152",
  "checksum": null,
- "runtime_s": 0.49535749992355704,
+ "runtime_s": 0.7081568751018494,
  "rectify_info": {
   "fallback": null,
   "quad": null

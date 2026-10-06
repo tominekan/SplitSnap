@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "WONUT JELLY CL",
+   "qty": 1,
+   "price": 4000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "13° NET SD\nWONUT JELLY CL 4,000\nSUB [UT\nTOTAL SASS\nTOTAL TEMS\nCASH\nCHANGE &",
+ "checksum": null,
+ "runtime_s": 0.5462337911594659,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    241.08038330078125
+   ],
+   [
+    863.0,
+    241.08038330078125
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

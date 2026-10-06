@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "ShackBurger",
+   "qty": 1,
+   "price": 5.13
+  },
+  {
+   "name": "Smoke Shack",
+   "qty": 1,
+   "price": 9.53
+  },
+  {
+   "name": "cheese fries",
+   "qty": 1,
+   "price": 3.25
+  },
+  {
+   "name": "REG Soda",
+   "qty": 1,
+   "price": 5.59
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.53,
+ "tip": null,
+ "total": 25.47,
+ "raw_text": "CHAKE SHACK\n1450 S. Dixie Histusy\nHost: Nelson CN SSLIN\n12 Ae ad\nBt\nShackBurger 5.13\nSmoke Shack 9.53\ncheese fries 3.25\nREG Soda (2 @2.75) 5.59\n(2)REG Rootbeer\nREG Iced Tea 2-25\nSubtotal Z3.53\nTax 1.53\nTo Stay Total 25.47\nVisa #XXXXXXXXXXXXS197 2.47\nAuth: 130960\nWe Tweet.\nYou Tweet.\nWe ATI Tweet.\n> aShakeShack",
+ "checksum": null,
+ "runtime_s": 1.9670350840315223,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    92.0,
+    8.0
+   ],
+   [
+    851.0,
+    8.0
+   ],
+   [
+    1039.0,
+    1413.0
+   ],
+   [
+    2.0,
+    1470.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

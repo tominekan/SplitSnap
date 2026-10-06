@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "ot aid",
+   "qty": 1,
+   "price": 35000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "anti hintaan\nCrm vetee me sh\n@ Hee WT 8\nmm ther Seo ae ee\not . aid 4\nT 35.000 Rp35. 000\nNASI GOR SFD TLR\n1 3.000 Re3. 000\nES TEH TAWAR\neT0TAL Re3Be. 030\nCASH Re50. 000\nCHANGE Ret2. 000\n1: 0 ae\ntt «© @& @-»\nFaq: tee 8H\nAt A pare Att AAD AD Atlee” ~",
+ "checksum": null,
+ "runtime_s": 4.422323832986876,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    175.0,
+    175.0
+   ],
+   [
+    730.0,
+    183.0
+   ],
+   [
+    769.0,
+    1261.0
+   ],
+   [
+    132.0,
+    1265.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

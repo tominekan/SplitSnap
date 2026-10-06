@@ -1,0 +1,50 @@
+{
+ "items": [
+  {
+   "name": "COLD OCHA",
+   "qty": 1,
+   "price": 10949.0
+  },
+  {
+   "name": "BCA FROMO",
+   "qty": 1,
+   "price": 54455.0
+  },
+  {
+   "name": "SKEWERED SHUMAI",
+   "qty": 1,
+   "price": 12727.0
+  },
+  {
+   "name": "SKEWERED TOFU ROLL",
+   "qty": 1,
+   "price": 12727.0
+  },
+  {
+   "name": "EBI TEMPURS",
+   "qty": 1,
+   "price": 13636.0
+  },
+  {
+   "name": "KITSUNE UDON (KIDS",
+   "qty": 1,
+   "price": 28182.0
+  },
+  {
+   "name": "BCA EDC",
+   "qty": 1,
+   "price": 145900.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 13264.0,
+ "tip": null,
+ "total": 132636.0,
+ "raw_text": "dD 22 = i\n‘\n------------ Cr poccccscc ctr\né il al\nCOLD OCHA 1 10,949\nBCA FROMO 1 54,455\n'-4BURA UDON SPICY i 0\n'-KAKE UDON 1 0\nSKEWERED SHUMAI 1 12,727\nSKEWERED TOFU ROLL 1 12,727\nEBI TEMPURS 1 13,636\nKITSUNE UDON (KIDS) 1 28,182\nSUB, TOTAL 132,636\nRESTAURANT TAX 13,264\nGRANDTOTAL.\n~BCA EDC [145,900] 145,900",
+ "checksum": null,
+ "runtime_s": 3.94759791623801,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "SPRIS",
+   "qty": 1,
+   "price": 7.09
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 80.46,
+ "raw_text": "SPRIS 7.09\nAWOUNT 0 80:45\n74.49\n3.36\nAMOUNT DUE $80.46\nFKEASE CONTACT 1-877-672-pagy\nOR CUSTOMERSERVICESHNSHOST CoM\n10 SHARE YouR EXPERTENcE\nSTOREIO: swerecns",
+ "checksum": null,
+ "runtime_s": 0.36141216685064137,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    274.0303039550781,
+    0.0
+   ],
+   [
+    274.0303039550781,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

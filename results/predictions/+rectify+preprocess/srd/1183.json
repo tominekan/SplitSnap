@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Water",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Processing Fee",
+   "qty": 1,
+   "price": 0.27
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.74,
+ "tip": null,
+ "total": 10.0,
+ "raw_text": "24 Hiatus\n512-285-4048\nnik\nBO\nor\nCheck 94S Table.6\n} NOENT HE\nGuests 1\nWater 0.00\nCaldo de Camaron, “8 De\nSubtotal «=SSSStS*S~S~S~ CD\nSales Tax 0.74\nProcessing Fee 0.27\nTOTAL 10.00\nBALANCE DUE 10.00\nProcessing fee will be removed\nif the check is paid in cash.\nS+tTUANl VAIL COD CHANCTED LlOse",
+ "checksum": null,
+ "runtime_s": 1.1440667088609189,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

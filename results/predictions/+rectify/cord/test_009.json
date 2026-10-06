@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Bumbu Kaldu Ayam 4\n36000\nSub Total\n* Discount (0 %)\nTunai\nKembalian",
+ "checksum": null,
+ "runtime_s": 0.3593063340522349,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    796.456787109375
+   ],
+   [
+    0.0,
+    796.456787109375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

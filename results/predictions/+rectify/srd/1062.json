@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "oor\nsusror\nTax\nTora\nRIPIENE\nChicken\nSCampr MILAN\nLING vonG\n172 PASTA\nOrer son\n132-25\na 78\nadler",
+ "checksum": null,
+ "runtime_s": 0.26071812491863966,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    32.19500732421875,
+    0.0
+   ],
+   [
+    292.9549865722656,
+    0.0
+   ],
+   [
+    292.9549865722656,
+    391.82000732421875
+   ],
+   [
+    32.19500732421875,
+    391.82000732421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

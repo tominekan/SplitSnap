@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Crisfield Special Platter",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Pint Bisque",
+   "qty": 1,
+   "price": 11.5
+  },
+  {
+   "name": "Carry Out",
+   "qty": 1,
+   "price": 1.93
+  }
+ ],
+ "subtotal": 38.5,
+ "tax": 2.31,
+ "tip": null,
+ "total": 42.74,
+ "raw_text": "Cristftield seafood\nRestaurant\n8012 Georgia Ave.\nSilver S#ing, ™D20910\n(301) 589-1306\nDENIS\nORDER# 134\nCarryout # 3\n12/29/2017 8:38:16 PM GUESTS 4\nTAKE OUT\nDinner Platters\n1 Crisfield Special Platter 27.00\nKKK COOK MEDIUM *KEX\nExtras\n1 Pint Bisque 11,50\nSUBTOTAL: 38.50\nCarry Out 1.93\nTAX: 2.31\nRegister T#0000144 ----------~\nTOTAL : $42.74\nThankw You!\n~“",
+ "checksum": false,
+ "runtime_s": 1.7493625001516193,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    72.09378051757812,
+    0.0
+   ],
+   [
+    723.9937744140625,
+    0.0
+   ],
+   [
+    723.9937744140625,
+    999.0
+   ],
+   [
+    72.09378051757812,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

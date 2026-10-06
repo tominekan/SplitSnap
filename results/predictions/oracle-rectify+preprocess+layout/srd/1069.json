@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Apple French Toast",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "Pof fee",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "ax",
+   "qty": 1,
+   "price": 0.62
+  },
+  {
+   "name": "otal",
+   "qty": 1,
+   "price": 10.9
+  }
+ ],
+ "subtotal": 10.28,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "River Village raat} Restaurant\n22825 Huron River Or\nRockwood,MI 48173\n(734)236-4033\nServer: Jasmine G \\on2/19 8:02 AM\nCheck #7 Table 23\nApple French Toast $7.99\nPof fee $2.29\nsubtotal $10.28\n‘ax $0.62\notal $10.90\n2.99 early bird breakfast special\nMonday- Friday 7am - 8am \\\nRiver village kayaking now open\nSunday-Thursday 7:00am-8:00pm\nFriday/Saturday 7:00am-9:00pm\nPay at the cash register\nThank you! !",
+ "checksum": null,
+ "runtime_s": 2.7148538751062006,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    202.0,
+    206.0
+   ],
+   [
+    527.0,
+    195.0
+   ],
+   [
+    592.0,
+    931.0
+   ],
+   [
+    206.0,
+    929.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Ghicharron",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "hat Que",
+   "qty": 1,
+   "price": 10.81
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "204 ete Coloabia\nTURNPIKE\n“™— KINECUA, NY 11501\n(516)747-9664+——\nCheck 500552 Guests: 0\nOate:07/039/19 Tiee:09:22e8\nTable: Server :Esely\nOO egwwd\n1 Ghicharron $6.00\n1 Raduros $3.9\nROtotal: $9.9\nTax: - $0.6\nSt? w/Tax: $10.8)\nhat Que: $10.81",
+ "checksum": null,
+ "runtime_s": 0.8310017080511898,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    56.0
+   ],
+   [
+    207.0,
+    17.0
+   ],
+   [
+    256.0,
+    248.0
+   ],
+   [
+    21.0,
+    255.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

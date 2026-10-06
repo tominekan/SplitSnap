@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 158.87
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "toot) |\nms Entry Hethod: Chip\nAmount:$ |. 158.87\nTip:\n( __\\9°?\nTotal ROT\n= ae | » 3h\nre Inv bs 0000006, il B3se\norvd: Online .\nI ysiter |\n~ aD; aecosyo |\nse\nSoC\nCu » Obey. ui |",
+ "checksum": null,
+ "runtime_s": 2.1164435411337763,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

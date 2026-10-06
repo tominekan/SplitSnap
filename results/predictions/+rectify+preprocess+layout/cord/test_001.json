@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "J.STB PROKO",
+   "qty": 1,
+   "price": 17500.0
+  },
+  {
+   "name": "Y.B.BAT",
+   "qty": 1,
+   "price": 46000.0
+  },
+  {
+   "name": "Y.BASO PRO",
+   "qty": 1,
+   "price": 27500.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 91000.0,
+ "raw_text": "- ae 2\nt a\ng\n€\nJ.STB PROKO 17500\nY.B.BAT 46000\nY.BASO PRO 27500\nTOTAL 91000\nCASH 91000",
+ "checksum": null,
+ "runtime_s": 1.3258410829585046,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    85.904052734375,
+    99.92803955078125
+   ],
+   [
+    893.2000122070312,
+    140.63201904296875
+   ],
+   [
+    898.2879638671875,
+    1168.407958984375
+   ],
+   [
+    84.2080078125,
+    1200.6319580078125
+   ]
+  ],
+  "method": "paper"
+ }
+}

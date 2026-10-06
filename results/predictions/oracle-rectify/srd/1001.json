@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "thicken Parmesan",
+   "qty": 1,
+   "price": 17.95
+  },
+  {
+   "name": "rime Top Sirloin",
+   "qty": 1,
+   "price": 25.99
+  },
+  {
+   "name": "The Bacon-Cheese Burger",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 2.95
+  }
+ ],
+ "subtotal": 63.75,
+ "tax": 5.5,
+ "tip": null,
+ "total": null,
+ "raw_text": "GRAND LUX SAFE\nRoosevelt Field\nJ480 TABLE 101 #Party 3\nTEPHEN R SvrCk; 4 16:43 04/25/15\nof fee fe)\nthicken Parmesan 17.95\nrime Top Sirloin 25,99\nThe Bacon-Cheese Burger 13.95\nCoffee 2.95\nSub Total: 63.75\nTax: 5.50\nSub Total: 69.25\n04/25 17:42 TOTAL: Saas.\nGratuity Not Included\nSuggested Gratuity:\n20% 13.85\n18% 12.47\n15% 10.39\nIt's been a pleasure to serve you.\nThank you for dining with us",
+ "checksum": null,
+ "runtime_s": 0.631677876226604,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    83.0,
+    77.0
+   ],
+   [
+    545.0,
+    90.0
+   ],
+   [
+    576.0,
+    788.0
+   ],
+   [
+    72.0,
+    824.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

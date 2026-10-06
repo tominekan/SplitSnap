@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Flautas Chicken",
+   "qty": 1,
+   "price": 9.95
+  }
+ ],
+ "subtotal": 50.05,
+ "tax": 5.46,
+ "tip": 9.01,
+ "total": 64.52,
+ "raw_text": "Mexican Restaurant & Bar\n25 West San Fernando St.\nSan Jose, CA 95113\n(408) 283-9595\nServer: Pablo 12/29/2017\nTable 40/1 1:17 PM\nGuests: 3 30001\nReprint #: 1\nCoffee 21723)\nEnmoladas with Meat wr 14595\npollo i!\nChicken Tenders 5555\nFlautas Chicken 9.95\nColoradito 5295\nSubtotal 50.05\nTax 5.46\nTotal Bassi!\nGratuity 18.00% 9.01\nTotal 64.52\n64.52\nBalance Due\n11 Become a friend of us on\nFACEBOOK to receive news of\nevents & special offers !!\n11 THANK YOU FOR COMING !!",
+ "checksum": false,
+ "runtime_s": 0.7728929580189288,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    584.6312255859375,
+    0.0
+   ],
+   [
+    636.3062744140625,
+    999.0
+   ],
+   [
+    13.5562744140625,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Chitken Fingers 8.00",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "1! Spley Shrimp 20.00",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "Steamed Fish tg 28.00",
+   "qty": 1,
+   "price": 25.0
+  },
+  {
+   "name": "Bottled Water 2.00",
+   "qty": 2,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 7.0,
+ "tax": null,
+ "tip": 8.7,
+ "total": 62.7,
+ "raw_text": "KALOOKI'S\nbe2 03/14/2015 8:12 PM\nQ cta $300\nDine in Denise\n# «Item Unit Price\n1 Chitken Fingers 8.00 8.00\n1! Spley Shrimp 20.00 20.00\n$ = Steamed Fish tg 28.00 25.00\n2 = Bottled Water 2.00 4.00\nSubtotal $7.00\nService Charge 10% 8.70\nTotal $ 62.70\nThank You\nKalooki's\nBay Rood, Blue Hills\n01649 Providenciales\n©493323388",
+ "checksum": false,
+ "runtime_s": 1.0183187907095999,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    10.968765258789062,
+    69.20439147949219
+   ],
+   [
+    327.5774841308594,
+    69.20439147949219
+   ],
+   [
+    327.5774841308594,
+    423.9731140136719
+   ],
+   [
+    10.968765258789062,
+    423.9731140136719
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

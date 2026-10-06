@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Tagliatella al Ragu",
+   "qty": 1,
+   "price": 14.9
+  },
+  {
+   "name": "Cappellacci Di Zucca",
+   "qty": 1,
+   "price": 18.9
+  },
+  {
+   "name": "Stufato Al Latte Di Ravenna",
+   "qty": 1,
+   "price": 22.9
+  }
+ ],
+ "subtotal": 56.7,
+ "tax": 5.1,
+ "tip": null,
+ "total": 61.8,
+ "raw_text": "VIA EMILIA 9\n1120 18TH ST\nMIAMI BEACH, FL 33139\n7862167150\nORDER: Table 11\nCashier: V.\n27-Apr-2017 6:21:59P\n1 Tagliatella al Ragu’ $14.90\n1 Cappellacci Di Zucca $18.90\n1 Stufato Al Latte Di Ravenna $22.90\n‘Subtotal $56.70\n‘Tax $5.10\nTotal $61.80\nOrder QGVRTH3NM28YC\n‘your review on TripAdvisor or Yelp",
+ "checksum": true,
+ "runtime_s": 0.4018600839190185,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    32.0,
+    1.0
+   ],
+   [
+    327.0,
+    1.0
+   ],
+   [
+    341.0,
+    347.0
+   ],
+   [
+    17.0,
+    343.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

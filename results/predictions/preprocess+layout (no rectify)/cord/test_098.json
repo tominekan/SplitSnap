@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "Friendlin",
+   "qty": 1,
+   "price": 2300.0
+  },
+  {
+   "name": "of Attentiv ee ween ee cee",
+   "qty": 1,
+   "price": 250690.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "FOOD\nHe Us i (Ppa Ver MM 4\nmrt\nPresenta{/ | “did u Me li a i ae | ul 7 i 7. mae >\n. BEVERA\n~, | Quality/\n” | Presenta\n| - Taste/Ra weer PEED SE ESET SES SSE SESS\na 1 BLACK PEPPER MEATBALL PAS 7Q ,000\n1 TRUFFLE CREAM q {800\nSERVIC 1 EARL GREY MILK TEA 59 ,O00\nFriendlin SUBTTL 215 , DOU\nServies Charge 6% \\2,300\nof Prompt TAX 10% 22,190\n| Attentiv ee ween ee cee\nTime/W TOTAL 250, 690\nie, OTHERS \"\n| Cleanline\n. Ambiance\nValue for!\nee",
+ "checksum": null,
+ "runtime_s": 12.759038500254974,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

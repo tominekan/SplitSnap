@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "a yo\nTal 310-270-485\nCoed\nSarah\n12\nTotal Due:",
+ "checksum": null,
+ "runtime_s": 0.18566345889121294,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    31.637542724609375,
+    3.7279510498046875
+   ],
+   [
+    317.0584411621094,
+    3.7279510498046875
+   ],
+   [
+    317.0584411621094,
+    347.0
+   ],
+   [
+    31.637542724609375,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

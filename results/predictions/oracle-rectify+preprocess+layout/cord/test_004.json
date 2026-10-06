@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "le ye est” —,\nA\nWU! A. a a - ined TMLee! It re\nfw —- wes TPL —- +o om aw =” et el -\n(os TERT KUOR. = - Gd\nAVG NU LOS? =P Oe\nYER pda Se 72 - 8\nbe 4 e t\ni =. i gtt Ct.\nry / |\nNv\nao\nN oye “UTA.\n_! U\n7| \\\n2\nent ‘ “ea\n\\\nA\nry , nail\nCHEONGS\n\\ PAA DAAAL DA Daa LA, coe 5 gut tS wee ob\nTET a\n4 ne at ~~",
+ "checksum": null,
+ "runtime_s": 6.7079366678372025,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    69.0,
+    101.0
+   ],
+   [
+    844.0,
+    101.0
+   ],
+   [
+    810.0,
+    1187.0
+   ],
+   [
+    55.0,
+    1169.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

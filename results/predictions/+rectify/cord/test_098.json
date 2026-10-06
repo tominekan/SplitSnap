@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "FOOD\nQuality/Kfl] cg\nPresenta ;\nTaste/Ras\nBEVERAC\nQuality/K\nPresenta —\nTaste/Ra ee Ue eS\nTRUFFLE CREAM (Une\nSERVIC EARL GREY MLULK YEA poe\nSUBTTL IS 300\nfAX 10% 22 TW\nAttentiv ne\nTime/W roTAL\n250, Ba0",
+ "checksum": null,
+ "runtime_s": 1.3783677907194942,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    124.12158203125,
+    364.7872314453125
+   ],
+   [
+    1717.0047607421875,
+    364.7872314453125
+   ],
+   [
+    1717.0047607421875,
+    2047.0
+   ],
+   [
+    124.12158203125,
+    2047.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

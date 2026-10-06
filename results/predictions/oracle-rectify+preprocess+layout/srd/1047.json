@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Manat tan",
+   "qty": 1,
+   "price": 616.0
+  },
+  {
+   "name": "Goose",
+   "qty": 1,
+   "price": 9.5
+  },
+  {
+   "name": "Rocks",
+   "qty": 1,
+   "price": 1.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "enn Kitchon & Patty\n130 {av 7 3nt ave! n,.com\n. 97139-3308\nS cash 1097 “60-8000\n09/23/2011\nver Megan 9:40 Pl\nyie 3/1 3006\nPritt 2\npoor 8: 1\nManat tan (3 616.00) 48.0\n(3)Makers Mark\nsrey Goose (3 @9.50) 28.5\nRocks (3 &1.00) 3.(\nubtotal\nax 19,5\nes\ntal\n85.0\nVance Due\n85.0\nTMEGEOTED GRATUPEY PRIOR TO Obs cone\n47e 0 V7 44\nJTW @ thoy\ntere @ tet",
+ "checksum": null,
+ "runtime_s": 2.536058833124116,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    119.0,
+    27.0
+   ],
+   [
+    596.0,
+    28.0
+   ],
+   [
+    639.0,
+    811.0
+   ],
+   [
+    101.0,
+    846.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

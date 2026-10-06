@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Plate",
+   "qty": 1,
+   "price": 9.2
+  },
+  {
+   "name": "XTRAE nee CKN i",
+   "qty": 4,
+   "price": 1.5
+  },
+  {
+   "name": "Bee: BRIVAKE Of a",
+   "qty": 1,
+   "price": 2.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 5.2,
+ "raw_text": ". —* PURCHASE xx\nPanda Express #614\n| ——— F18) 546. \"3898\n12/22/2017 4:58:01 PM\n:58: -T0 G0-\nOrder: 196812 Server: Cheryfic m\n1 Plate | 9.20\nA CHOW MEIN-1/2\n5 CHOW MEIN-1/2\nBROCCOLI BEEF\n@ BETJING BEEF\n: SCHOW MEIN-1/2\nnee Ave 1.50\n4 XTRAE ERI CKN i\n1 TRADE BRIVAKE Of 280\ni Bee: a\n1 PEPSI 6. 02 , 2.00\n7 uiptotal 5. 20\nTAX\nTotal ake\nVisa Th\nAcort : XXKXXXXK0103\nAuthcode:\nKEEEIERRR EKER EEE\nKxXK\nveer\noe rer evTRee EK!",
+ "checksum": null,
+ "runtime_s": 2.5562288749497384,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    37.9937744140625,
+    0.0
+   ],
+   [
+    720.3687744140625,
+    0.0
+   ],
+   [
+    720.3687744140625,
+    999.0
+   ],
+   [
+    37.9937744140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

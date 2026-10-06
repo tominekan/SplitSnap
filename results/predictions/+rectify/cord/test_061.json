@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "x 3500\nTALAM UNGU\nDISC ITEM\nAMOUNT\n1K\nAREH ~ AREH\nDISC ITEM\nAMOUNT\n2x\nLEHPER\nOse 116K\nAMOUNT\nIx\nHIKA SEOANG\n1K\nPLASTIK KECI\n1K 5000\nTEH KOTAK\n7.00 TEX\nSUBTOTAL\nTOTAL\nCARD",
+ "checksum": null,
+ "runtime_s": 0.40872170915827155,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    114.73922729492188,
+    23.01483154296875
+   ],
+   [
+    443.29681396484375,
+    23.01483154296875
+   ],
+   [
+    443.29681396484375,
+    852.9947509765625
+   ],
+   [
+    114.73922729492188,
+    852.9947509765625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

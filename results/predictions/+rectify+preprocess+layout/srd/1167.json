@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Gotted Skirt Steak",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Fountain Sodes",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 33.75,
+ "raw_text": "<\\\n®\nCese Cafe\n25-17 Astonia ONG 21, 2079\nAstoria, NY 11102 6:58 Pm\n(929) 328-0030\nTichet: T9\nFOR HERE\nGotted Skirt Steak $28.00\nWed done\nFountain Sodes $3.00\nnatn\nSudtotal\n$31,\nSate Tax pra\nee\nTotal\n$33.75",
+ "checksum": null,
+ "runtime_s": 1.1065189591608942,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    68.3550033569336,
+    103.10906982421875
+   ],
+   [
+    318.7799987792969,
+    103.10906982421875
+   ],
+   [
+    318.7799987792969,
+    367.84405517578125
+   ],
+   [
+    68.3550033569336,
+    367.84405517578125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

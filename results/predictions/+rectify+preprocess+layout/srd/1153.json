@@ -1,0 +1,93 @@
+{
+ "items": [
+  {
+   "name": "Pisa's Cup",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "The Orifter",
+   "qty": 2,
+   "price": 28.0
+  },
+  {
+   "name": "Kobe Beef Slider",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "New York",
+   "qty": 1,
+   "price": 63.0
+  },
+  {
+   "name": "Amer Kobe Filet",
+   "qty": 1,
+   "price": 79.0
+  },
+  {
+   "name": "Lobster Taf",
+   "qty": 1,
+   "price": 38.0
+  },
+  {
+   "name": "Potato Puree",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Grid Asparagus",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Peppercorn",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Pepsi",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Choc Pot Be Crea",
+   "qty": 1,
+   "price": 13.09
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 290.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Gordon Ramsay Steak\nParis Las Vegas\n10/21/2014 19:41\nSSSSSsSsssesssssasarisesscsss2re=2\nGordon Raasay Steak\nCheck: 2042367 Table: T-35\nServer: Lomberto Guests: 2\nTerwinal: 42\newwen se seer eessen=--=\nRegular\n1 Pisa's Cup 14.00\n2 The Orifter 28.00\n6 14.00\n1 Kobe Beef Slider 18.00\n1 New York 63.00\n1 Amer Kobe Filet 79.00\n1 Lobster Taf] 38.00\n1 Potato Puree 12.00\n1 Grid Asparagus 13.00\n1 Peppercorn 6.00\n1 Pepsi 6.00\n1 Choc Pot Be Crea 13.09\nSubtota ] 290, 00\nTax 23.\nTotal 313-43",
+ "checksum": null,
+ "runtime_s": 2.897037999937311,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

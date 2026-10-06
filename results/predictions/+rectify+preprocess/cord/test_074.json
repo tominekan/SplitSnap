@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "SPRITE",
+   "qty": 1,
+   "price": 32000.0
+  },
+  {
+   "name": "kk BEVERAGE",
+   "qty": 1,
+   "price": 64000.0
+  },
+  {
+   "name": "DINE FOR 2",
+   "qty": 1,
+   "price": 129000.0
+  },
+  {
+   "name": "ek FDOD",
+   "qty": 1,
+   "price": 214000.0
+  }
+ ],
+ "subtotal": 278000.0,
+ "tax": 30024.0,
+ "tip": 22240.0,
+ "total": null,
+ "raw_text": "|\nLO AE eR,\nAin Talal )\nqt a 0 ae\nhai\n1 BLACKCURRANT 32 ,000\n1 SPRITE 32,000\nkk BEVERAGE 64,000\n] GRILLED CALAMARI 85 , 000\n1 DINE FOR 2 129,000\n* DANISH FISH & CHIPS DF ---\n* NEW YORK FISH & CHIPS ---\nek FDOD 214,000\nSUBTTL 278,000\nservice Charge 22,240\nTAX 30,024\nTOTAL 330 ,264\n‘ine AUK\nHe Hi) H AY Nit Nh\n: Me alt !\ni | 7 Ly | | |\n: hay\nan yg h ey\ni | s | |\nne ete\nlift ae\n: ve |\n[1 ae ny\nx\nI",
+ "checksum": null,
+ "runtime_s": 12.277967749862,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    2303.0,
+    0.0
+   ],
+   [
+    2303.0,
+    4012.90234375
+   ],
+   [
+    0.0,
+    4012.90234375
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

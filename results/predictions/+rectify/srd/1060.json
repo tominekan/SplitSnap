@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1660 India Street\nServer: Jake\nTable 24/1\nGuests: 2\nG] Karma Cab Sauv\n§] Douglass Green SB\nPKLI Green Curry Scallops\nPKLI Piri Piri Chicken\nBalance Due\n*3.75% SC - In support\nof the increases to min w\nTo find out why, visit\nwww. wnlhosp.com/rttd\n12/17/2017\n6:29 PM\n20018\n12.00\n11.00\n27.95\n23415\n74.70\n6.00\n2.80\n83.50\n63.50\nage",
+ "checksum": null,
+ "runtime_s": 0.7623582922387868,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    36.300018310546875,
+    0.0
+   ],
+   [
+    727.949951171875,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    20.4000244140625,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

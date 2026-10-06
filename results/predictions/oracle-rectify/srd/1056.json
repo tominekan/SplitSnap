@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Se\nZOCA RESTAURANT\n98 GARFIELD PARKWAY\nBETHANY BEACH, DE 19930\n(302) 616-2120\nWWH.ZOCA RESTAURANT\nCheck #: 5033\nServer: Madi B\nTable: 31/2\n1 Flying Dog Numero Uno BTL\n1 House Recipe\n2 Sandia Margarita (@13.00/ea)\n1 Totem Honey Bee\n1 Queso Fresco Guacamole\n1 Queso Fundido Mexican Street Corn Dip\n1 Salsa De Molcajete\n2 Taquitos Carne Asada (@15.00/ea)\n1 Taquitos Baja California Shrimp\n1 Mole Enchilada\n1 Quesadilla Chicken\nSub-total\nCOMPLIMENTARY\nITEM COMPS;\n1 Queso Fundido Mexican Street Corn Dip\n-12.00\n7/30/19\n7:53 PM\nGuests: 5",
+ "checksum": null,
+ "runtime_s": 1.02915995917283,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    117.0,
+    34.0
+   ],
+   [
+    653.0,
+    9.0
+   ],
+   [
+    733.0,
+    992.0
+   ],
+   [
+    12.0,
+    990.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

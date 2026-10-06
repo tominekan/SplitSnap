@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Grimini",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Salami",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Olives",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": 81.0,
+ "tax": 0.6,
+ "tip": null,
+ "total": null,
+ "raw_text": "flue Bear Tavern\n216 § 11th Street\n(215)922-3427\nwww .bluebeartavern -com\nCheck #: 00225\npate; 01/13/2012 10:16 PM Check + con\nStation: Pos3 Server: Andrew\nGuests: 1\n\\ Grimini 3.00\n) Salami 3.00\n| Olives 3.00\n1 Lro Clams\\mussels 14.0\n4 Reg Ketel One a7 “\n1 House Cab PY o\nSub Total 81.00\nPhy Licdor tax 0.60\n‘ ek Pa Sales Tex z",
+ "checksum": null,
+ "runtime_s": 0.7150929581839591,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    7.0,
+    9.0
+   ],
+   [
+    630.0,
+    5.0
+   ],
+   [
+    659.0,
+    990.0
+   ],
+   [
+    10.0,
+    994.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

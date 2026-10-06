@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Don Wan Relea Restaurant\nEast Park Ave\nLona Beach, NY 11561\n(516) 442-4944\nServer: Regina\nStation: 4",
+ "checksum": null,
+ "runtime_s": 0.9408125840127468,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    58.0562744140625,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    296.04998779296875
+   ],
+   [
+    58.0562744140625,
+    296.04998779296875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

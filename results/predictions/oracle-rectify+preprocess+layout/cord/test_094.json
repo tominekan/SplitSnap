@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "TAHU GORENG",
+   "qty": 2,
+   "price": 28000.0
+  },
+  {
+   "name": "CAKWE",
+   "qty": 1,
+   "price": 17000.0
+  },
+  {
+   "name": "PHOTAICHIN: R",
+   "qty": 1,
+   "price": 63000.0
+  },
+  {
+   "name": "TEA",
+   "qty": 1,
+   "price": 11000.0
+  }
+ ],
+ "subtotal": 119000.0,
+ "tax": 12733.0,
+ "tip": null,
+ "total": 140063.0,
+ "raw_text": "uw 2 TAHU GORENG 28,000 ©\n| — 1 CAKWE 17,000 =x!\n'> 1 PHOTAICHIN: R) 63,000 o C\n| 1 TEA 11,000 |\nWi Sub Total 119,000 Ww r\ntw Serv. 7.0% 8,330 5\nis PB1 10.0% 12,733 0\n< Grand Total 140,063 0\nzo CREDIT CAR: 140,063 2",
+ "checksum": false,
+ "runtime_s": 4.5681307499762625,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    100.0,
+    99.0
+   ],
+   [
+    858.0,
+    99.0
+   ],
+   [
+    913.0,
+    1303.0
+   ],
+   [
+    5.0,
+    1326.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

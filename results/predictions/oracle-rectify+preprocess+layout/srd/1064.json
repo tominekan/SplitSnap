@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "CbT0b1",
+   "qty": 1,
+   "price": 4.35
+  },
+  {
+   "name": "Counter-Eat In",
+   "qty": 1,
+   "price": 18.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 8.0,
+ "tip": null,
+ "total": 19.44,
+ "raw_text": "W13-CS- 10 L1 12 , 3:04 PM\nYOUR GUEST NUMBER IS\n25\nIN-N-OUT BURGER ESCONDIDO 3:0\n/ 2093-08-10 2 PH\n247 2 480 2152\nCasmier: ADAM EL\nCreck : 25\nCounter-Eat In\nCbT0b1\nx\n> GR $ only 4.35\nFF Anima) 300\nlg Coke 170\nMed Coke 1°50\n#8 © Shk t 2°05\nCounter-Eat In 18.00\nTAX 8.00% §-99\nAmount Due $19.44",
+ "checksum": null,
+ "runtime_s": 2.1045525840017945,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    72.0,
+    12.0
+   ],
+   [
+    664.0,
+    16.0
+   ],
+   [
+    707.0,
+    987.0
+   ],
+   [
+    1.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

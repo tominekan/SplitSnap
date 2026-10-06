@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": ". EL CHICO MEXICAN RESTAURANT\nJER,\nTEL : 04-7059680\n1050 Hose Det\nTel 1014/1 chk 1958 Gst 0\nNovi2'16 05:41PH\nHome Delivry\n1 Ts Guac.\n1 Grande Chicken,",
+ "checksum": null,
+ "runtime_s": 0.22436316683888435,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    145.0,
+    1.0
+   ],
+   [
+    380.0,
+    1.0
+   ],
+   [
+    401.0,
+    306.0
+   ],
+   [
+    114.0,
+    306.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

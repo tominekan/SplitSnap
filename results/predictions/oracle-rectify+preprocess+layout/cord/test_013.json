@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ay 2. peli\no—\"e aes oor, sick:\nWisse, Laat LAs =\nTAA 10.00 % 4. nes\nGRAND TOTAL. 41 So\nTUHAL . AP. G00\nMEME AL To ty 700)\n— AH oO, base\n, “ “ANS ne\" A i = 2\nite\nop\nmeena",
+ "checksum": null,
+ "runtime_s": 6.927205709274858,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    91.0,
+    3.0
+   ],
+   [
+    771.0,
+    1.0
+   ],
+   [
+    767.0,
+    961.0
+   ],
+   [
+    11.0,
+    968.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

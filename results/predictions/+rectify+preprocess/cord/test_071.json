@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Tuna",
+   "qty": 1,
+   "price": 200200.0
+  },
+  {
+   "name": "ombalian",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": 1981000.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "nl \\ meelhrwwrey Neth eee ney coor ody\nmeee\nCuka Apel Tetes 1\n198000 199000\nSub Total 1981000\nTuna 200200\n<ombalian 22000\n_____\n_\nTerr rereyerverereery eevee uye TY oo",
+ "checksum": null,
+ "runtime_s": 3.821113708196208,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    18.87841796875,
+    0.0
+   ],
+   [
+    575.0,
+    17.037017822265625
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    825.2657470703125
+   ]
+  ],
+  "method": "paper"
+ }
+}

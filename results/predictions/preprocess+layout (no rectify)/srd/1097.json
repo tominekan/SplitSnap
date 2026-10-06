@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "Burrito Cmb",
+   "qty": 1,
+   "price": 8.28
+  },
+  {
+   "name": "Bur-BRC",
+   "qty": 2,
+   "price": 3.78
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 12.06
+  },
+  {
+   "name": "Rayment",
+   "qty": 1,
+   "price": 13.12
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.06,
+ "tip": null,
+ "total": null,
+ "raw_text": "L190 Loco\nEL ESRI 99 5451 :\nie Ss. Frnt, AVE,\nCuDAHY,CA 90201\n323- Ye60- -0758 i\n257 LIDIA H\nhk 1924 Jun28'17 05:36P Gst 0\nDrive Thru :\n1 Burrito Cmb 8.28\nChk Ranchero Bur\nADD\nAvo Sics\nInd Chips\nSM DRINK\nCoke\n2 Bur-BRC @ 1.89 3.78 |,\nCash 13.2 >\nFood 12.06\nTax 1.06\nRayment 13,12\nChange Du 0.13\n257 Check Closed\nseeennnn=- Jun28'17 05:38PM-----------\na ee",
+ "checksum": null,
+ "runtime_s": 2.114506083074957,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

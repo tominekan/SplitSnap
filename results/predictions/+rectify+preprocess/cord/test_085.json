@@ -1,0 +1,103 @@
+{
+ "items": [
+  {
+   "name": "Nasi Putih",
+   "qty": 3,
+   "price": 30000.0
+  },
+  {
+   "name": "Nasi Tambah",
+   "qty": 1,
+   "price": 7000.0
+  },
+  {
+   "name": "Ayam Pop",
+   "qty": 2,
+   "price": 40000.0
+  },
+  {
+   "name": "Samabal SP",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "K Kuah",
+   "qty": 1,
+   "price": 18000.0
+  },
+  {
+   "name": "tean Bawal Besa",
+   "qty": 1,
+   "price": 28500.0
+  },
+  {
+   "name": "Telur Dadar",
+   "qty": 1,
+   "price": 10000.0
+  },
+  {
+   "name": "Ss",
+   "qty": 17,
+   "price": 7000.0
+  },
+  {
+   "name": "Teh Manis",
+   "qty": 1,
+   "price": 3000.0
+  },
+  {
+   "name": "Es Batu",
+   "qty": 1,
+   "price": 4000.0
+  },
+  {
+   "name": "cprotal",
+   "qty": 1,
+   "price": 29500.0
+  },
+  {
+   "name": "subr Rest.107",
+   "qty": 1,
+   "price": 17950.0
+  },
+  {
+   "name": "Tt MaKanan",
+   "qty": 1,
+   "price": 159500.0
+  },
+  {
+   "name": "Tet Minvman",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 197450.0,
+ "raw_text": "O\neb bd bats\n2 IOI IOK\n3 Nasi Putih 30.000\n1 Nasi Tambah 7.000\n2 Ayam Pop 40.000\n1 Samabal SP 11.000\n4 Sambal Gabus ASin Cb\nK Kuah 18000\neruPpU va\ntean Bawal Besa 28.500\n1 Telur Dadar 10.000\n17 Ss 7.000\nTeh Manis 3.000\n; Es Batu_ 4.000\ncprotal 29.500\nsubr Rest.107 17950\n14 Total 197.450\nTt MaKanan 159.500\nTet Minvman 20.000\ncash 197.450",
+ "checksum": null,
+ "runtime_s": 10.365269375033677,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    537.4553833007812,
+    15.9718017578125
+   ],
+   [
+    1772.0,
+    15.9718017578125
+   ],
+   [
+    1772.0,
+    2363.0
+   ],
+   [
+    537.4553833007812,
+    2363.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

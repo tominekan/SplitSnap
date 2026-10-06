@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 3636.0,
+ "raw_text": "| upon 3 LB ,od6\n-ubtotal «3,636\nFO1 (10/) 2, B64\nDine In Total 31,50\nbach Su, Ulu\nChange . 18,50",
+ "checksum": null,
+ "runtime_s": 3.6164343340788037,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    68.34783935546875,
+    0.0
+   ],
+   [
+    786.1373901367188,
+    0.0
+   ],
+   [
+    786.1373901367188,
+    1295.0
+   ],
+   [
+    68.34783935546875,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "MISC",
+   "qty": 1,
+   "price": 9.01
+  },
+  {
+   "name": "B CHZ B SPC",
+   "qty": 1,
+   "price": 3.8
+  },
+  {
+   "name": "F “RIES LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "F “RIES LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "PREM MED DRINK",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "CZ BURGER SPEC",
+   "qty": 1,
+   "price": 7.57
+  },
+  {
+   "name": "all Tl",
+   "qty": 1,
+   "price": 28.31
+  },
+  {
+   "name": "oe",
+   "qty": 1,
+   "price": 11.69
+  }
+ ],
+ "subtotal": null,
+ "tax": 25.85,
+ "tip": null,
+ "total": null,
+ "raw_text": "CRIs °s\nHAMBURGERS\n3950 * SLAUSON MAYWOOD, CA 90270\nPHONE 323-588-1607\nMC 801\nREG CASHIER 11-24-2017 12:13 PM 000072\noe\nMISC $9.01\nB CHZ B SPC $3.80 -\nmm pickles ;\nF “RIES - LRG $3.66\nCRISPY .\nCRISPY\nF “RIES - LRG $3.66\nCRISPY ke\n‘ PREM MED DRINK $2.15 2:\n: horchata .\nCZ BURGER SPEC $7.57 a7\nTiO onions .\nEAT-IN\n; TAXABLE SALES $25.85\na TAX $2.46\nall Tl $28.31 .\nCASH $40.00 *s\n$11.69\nORDER # oO0O00000052\nPLEASE HELP US SERVE YOU BETTER\nSERVICE WAS VERY GOOD = [ ]\nGO0D [J\nPOOR [ ]",
+ "checksum": null,
+ "runtime_s": 2.126638000831008,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    171.0562744140625
+   ],
+   [
+    507.7562255859375,
+    171.0562744140625
+   ],
+   [
+    507.7562255859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

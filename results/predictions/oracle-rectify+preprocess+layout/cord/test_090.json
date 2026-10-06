@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "CIRENG PANDAWA",
+   "qty": 1,
+   "price": 26818.0
+  },
+  {
+   "name": "Pht",
+   "qty": 1,
+   "price": 2681.0
+  }
+ ],
+ "subtotal": 26818.0,
+ "tax": null,
+ "tip": null,
+ "total": 29500.0,
+ "raw_text": "Sem Ht:\nrn re .\nee «ake ! y\na F t= 3\n1 CIRENG PANDAWA 26,818\nSubtotal 26,818\nPht 2,681\nTotal 29,500\nCASH 29,500\nTotal Item 1\nTotal Qty 1\n(\ne@ se ’ ‘\nMs So oe)\n1 td. ~% FS wf\na",
+ "checksum": false,
+ "runtime_s": 1.3024119578767568,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    123.0,
+    258.0
+   ],
+   [
+    1011.0,
+    254.0
+   ],
+   [
+    1042.0,
+    1357.0
+   ],
+   [
+    123.0,
+    1357.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Tunar",
+   "qty": 1,
+   "price": 156000.0
+  }
+ ],
+ "subtotal": 156000.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Propolis Cair 1 z\n156000 186000\nSub Total 156000\nTunar 156000\nKembahan Rp 0 OO",
+ "checksum": null,
+ "runtime_s": 1.49714033305645,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    556.8101806640625,
+    0.0
+   ],
+   [
+    575.0,
+    789.2855224609375
+   ],
+   [
+    0.0,
+    795.0095825195312
+   ]
+  ],
+  "method": "paper"
+ }
+}

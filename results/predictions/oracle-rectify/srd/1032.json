@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "TMACRCHZ - SMNLL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "COLL GRN - SMALL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "Pr 5 WINGS",
+   "qty": 1,
+   "price": 5.75
+  },
+  {
+   "name": "TOTL",
+   "qty": 1,
+   "price": 9.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "WINGS & THINGS\n1717 DUTCH BRDY ELMONT, NY 11003\nTHANKS CALL AGAIN 516-341-7075\n. #168 « OUT\nTMACRCHZ - SMNLL 1.19\n| COLL GRN - SMALL 1.19\n1 CORN BREAD .62\n“Pr 5 WINGS 5.75\nSPCY FRY\nTXTL 75\nTOTL 9.50\nCASH 3.50\nCHNG\nTHANK YOU COME AGAIN\nPM #1\n0168 20:14 #04 MAR.19'17 REGOOO1",
+ "checksum": null,
+ "runtime_s": 0.7319769999012351,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    7.0,
+    10.0
+   ],
+   [
+    737.0,
+    14.0
+   ],
+   [
+    733.0,
+    969.0
+   ],
+   [
+    10.0,
+    963.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

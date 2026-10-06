@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "ICE CREAM",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "LONESTAR",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "ORIGINAL TTL",
+   "qty": 1,
+   "price": 11.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.91,
+ "tip": null,
+ "total": null,
+ "raw_text": "ty\nLN Gourdough's Public House\n2700 South Lanar Blvd\nAustin, 1X 78704\nPhone: (512) 912-9070\n; 1 FREEBIRD\n5.50\n1 ICE CREAM 2.00\n1 LONESTAR 3,50\nORIGINAL TTL 11,00\nTAX 0.91\n09:38PM TOTAL Ay. A\nFollow us @gourdoughspud on\nFacebook or Twitter for the\n; r Hea ‘and greatest specials!",
+ "checksum": null,
+ "runtime_s": 0.34589662472717464,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    7.0,
+    27.0
+   ],
+   [
+    290.0,
+    27.0
+   ],
+   [
+    320.0,
+    426.0
+   ],
+   [
+    1.0,
+    436.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

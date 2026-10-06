@@ -1,0 +1,55 @@
+{
+ "items": [
+  {
+   "name": "L Coke",
+   "qty": 1,
+   "price": 0.4
+  },
+  {
+   "name": "HM GrChs S-Fry Yoo",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "Cookies",
+   "qty": 1,
+   "price": 2.89
+  },
+  {
+   "name": "Baked Apple Pie",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "L French Fries",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "L Iced Tea",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 25.04
+  },
+  {
+   "name": "GST",
+   "qty": 1,
+   "price": 1.11
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 26.15,
+ "raw_text": "WZ ~\nICATE @ on\nStony\nelas Story Plain Rd\non AB TSP 4A9\nStores: iad Tel#: 780-414-8362\nWelcome to all day breakfast\n@ Hc Donald’s\n192\nKS# 1 03/10/2018 07:39:12 PM\nQTY ITEM TOTAL\n1 Deltvery\n1 10 McNuggets EVM. 10. es\n1 Barbeque Sauce\n1 Barbeque Sauce\n1 L Coke 0.40\n1M French Fries\n1 HM GrChs S-Fry Yoo 3.99\n1 Snoopy\n1 HM Apple Juice\n1 6 Cookies 2.89\n6 Choc Chip Cookie >\n1 Baked Apple Pie 1.19\n1 L French Fries 3.29\n1 L Iced Tea 2.99\nSubtota] 25.04\nGST 1.11\nTake-Out Total 26.15\nCREDIT SALES - McDelivery 26.15\nChange 0.00\nGST #: 120907092\nSALE #O4kdFWo632 /",
+ "checksum": null,
+ "runtime_s": 3.542822000104934,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

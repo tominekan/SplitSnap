@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "e Lunch",
+   "qty": 1,
+   "price": 45.9
+  },
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 4.66,
+ "tip": null,
+ "total": null,
+ "raw_text": "5305 E PACIFIC COAST HWY\nLong Beach, CA 90804\n(S62) 597-0906\nServer: Francis Station: 3\nOrder #° 69923 Dine In\nTable: Bi _ Guests: 2\n1 Coffee 3. 00\ne Lunch 45.90\n1 Coke 3.00\nSUB TOTAL: 51 90\nTax |: 4.66\nTOTAL: 56 58\n9/c6/e016 12.53:10 PM\nTHANK YOU!\nATEN",
+ "checksum": null,
+ "runtime_s": 2.3371833339333534,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    16.725006103515625,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    16.725006103515625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

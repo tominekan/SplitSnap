@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "SAMGYOPSAL\nSUL LUNG TANG\nMAKOLI\nSub Total\nService\nVAT\nDiscount\n369,000\n18,450\n426,195\nPe ee",
+ "checksum": null,
+ "runtime_s": 0.7556140422821045,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    35.43487548828125,
+    95.27764892578125
+   ],
+   [
+    1093.22998046875,
+    95.27764892578125
+   ],
+   [
+    1093.22998046875,
+    1404.9287109375
+   ],
+   [
+    35.43487548828125,
+    1404.9287109375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

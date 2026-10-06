@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "American Coffee",
+   "qty": 1,
+   "price": 1.75
+  },
+  {
+   "name": "Nutella Coconut Pancak es",
+   "qty": 1,
+   "price": 8.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 21.5,
+ "tip": null,
+ "total": 22.87,
+ "raw_text": "-THE—\nPLAGE\nses BBE\nThe Place 2 Be\nNN 615 Franklin Ave\nHartford, CT 06114\n8609047891\nhttps://www.Place2BeCT.com\n~-- JOIN US FOR BOTTOMLESS BRUNCH ---\niia EVERY SATURDAY & SUNDAY -------\n*eeeeee S15 BOTTOMLESS MIMOSAS +ee4%%\nORDER: Table 17\nDine-In\nCashier: Mariah\n17-Feb-2018 9:41:47A\nGuest 1\n1 American Coffee $1.75\n1 Nutella Coconut Pancak :\nGuest 2 es $8.00\n1 American Coffee\n1 Cheddar Grits sro.\nSubtotal $21.50\nTax .\n$1.37\nTotal\n$22.87",
+ "checksum": null,
+ "runtime_s": 2.915950959082693,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    194.0,
+    7.0
+   ],
+   [
+    687.0,
+    7.0
+   ],
+   [
+    729.0,
+    994.0
+   ],
+   [
+    43.0,
+    983.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

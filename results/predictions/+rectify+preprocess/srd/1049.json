@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "KICKIN KAJUN KAPOLET\nKa Makana Ali‘i\n91-5431 Kapolei Parkway, Suite 426\nKapolei, HI 96707\n(808) 628-4771\nServer: Chenay B\nTable: Table 2\nMargarita\nAdd Tequila\nStrawberry Daiquiri\nAdd Vodca\nSnow Combo\nKickin Sauce\nSubtotal:\nTotal Tax:\nTotal:\nReceipt Total:\nSuggested Gratuity",
+ "checksum": null,
+ "runtime_s": 1.8220332090277225,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    160.91876220703125,
+    150.70001220703125
+   ],
+   [
+    627.3187255859375,
+    154.67501831054688
+   ],
+   [
+    675.0187377929688,
+    990.75
+   ],
+   [
+    175.49375915527344,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

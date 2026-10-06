@@ -1,0 +1,45 @@
+{
+ "items": [
+  {
+   "name": "ih Philadelphia Roll",
+   "qty": 1,
+   "price": 4.85
+  },
+  {
+   "name": "Shrimp Tempura Roll",
+   "qty": 1,
+   "price": 4.25
+  },
+  {
+   "name": "qi Rich Famous Roll",
+   "qty": 1,
+   "price": 4.85
+  },
+  {
+   "name": "Spicy Salmon Roll",
+   "qty": 1,
+   "price": 4.25
+  },
+  {
+   "name": "Veg Tofu Pad Thai",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 27.15
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.63,
+ "tip": null,
+ "total": 28.78,
+ "raw_text": "oan he CITY TASTE\n’\n\" WAYNE AVE #100\n\" i gInOER SPRING, MD 20910\nHe TEL.301-585-1111\nik Dine In\nHi Date:05-11-2018 Time 803>M_—— OO\ni Server: BOSS g\nBE! TAB#: A06 &\nEb No. of Guest : 2\nih 1 Philadelphia Roll 4.85\n4 1 13. Shrimp Tempura Roll = 4.25\n, [Roll]\nqi 1 Rich / Famous Roll 4.85\n1 16. Spicy Salmon Roll 4.25\n[Roll]\n1 Veg / Tofu Pad Thai 8.95\nSpicy\nAmount: 27,15\nTAX(6%): 1.63\nTOTAL: 28.78\nTHANK YOU VERY MUCH.",
+ "checksum": null,
+ "runtime_s": 3.2029635831713676,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

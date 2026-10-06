@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "LO Ore",
+   "qty": 1,
+   "price": 78006.0
+  },
+  {
+   "name": "tL Sicito Babi",
+   "qty": 1,
+   "price": 65000.0
+  },
+  {
+   "name": "i ttatplate Tahu",
+   "qty": 1,
+   "price": 58000.0
+  },
+  {
+   "name": "OF Fish Fillet Garle",
+   "qty": 1,
+   "price": 108000.0
+  },
+  {
+   "name": "Siew Mai",
+   "qty": 1,
+   "price": 38800.0
+  },
+  {
+   "name": "Kwan Yin Cup",
+   "qty": 1,
+   "price": 50005.0
+  },
+  {
+   "name": "L Herbal Jelly",
+   "qty": 1,
+   "price": 38000.0
+  },
+  {
+   "name": "Onede",
+   "qty": 1,
+   "price": 34005.0
+  },
+  {
+   "name": "iT EMS",
+   "qty": 1,
+   "price": 561800.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "-_ -\n- tT rete fftrmete - — ee. ee |\n. _- « + Te SS. _ eons Pr ae\n1 LO Ore Parle Ox 78,006\ntL Sicito Babi 65,000\ni ttatplate Tahu 58,000\n1 OF Fish Fillet Garle 108,000\n“4061 ULM Pork Belly $8,000\n“~ 1 Siew Mai 38,800\nq_ & Kwan Yin Cup 50,005\nL Herbal Jelly 38,000\n1 Onede- Onde 34,005\n“| iT EMS 13 561,800\n, Sarvice charge A2 135\nsl PRA 60, 3954,\noad Pa feeeces ed 32°\n_ ~ 1. eo a °° =_ or a ~ es 1 \"i* | om\n—_ a ™ _ pay\nath\nea\neg Tee wy: S Sy ari gst Sore TS} oe\nv4 4 “Of fe OT are an os Nos\na we ane A .- a 7 ft Se - a . en",
+ "checksum": null,
+ "runtime_s": 13.316771290963516,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    261.0,
+    378.0
+   ],
+   [
+    1931.0,
+    378.0
+   ],
+   [
+    1931.0,
+    3203.0
+   ],
+   [
+    124.0,
+    3168.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

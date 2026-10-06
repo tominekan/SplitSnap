@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ses un som oe 0 vw Smt a ea ik mi a em me uO\n1 Lemon Tea (L) 25. 000\n1 Extra Jelly Lychee 5. 000\nTOTAL\nCASH\nCHANGED",
+ "checksum": null,
+ "runtime_s": 1.5460397088900208,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    455.37286376953125,
+    0.0
+   ],
+   [
+    2303.0,
+    0.0
+   ],
+   [
+    2303.0,
+    2740.787109375
+   ],
+   [
+    455.37286376953125,
+    2740.787109375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

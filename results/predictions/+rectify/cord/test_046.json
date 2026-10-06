@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "i A apie Wilk Tea 620,000",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "j ql EPeirendl Milk Tea 620,000",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 40000.0,
+ "raw_text": "i A apie Wilk Tea 620,000 20,000\nj ql EPeirendl Milk Tea 620,000 20,000\n100%\nTotal: 40,000\nCash: 40,000\nCHANGE 0",
+ "checksum": null,
+ "runtime_s": 0.5459641250781715,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

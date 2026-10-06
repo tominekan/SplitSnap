@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "RedVelvet, Cheese Sle",
+   "qty": 1,
+   "price": 38000.0
+  },
+  {
+   "name": "Chicken Baked Rice",
+   "qty": 1,
+   "price": 33000.0
+  },
+  {
+   "name": "i Fish » Chips",
+   "qty": 1,
+   "price": 65000.0
+  },
+  {
+   "name": "i Susmroom Soup",
+   "qty": 1,
+   "price": 35000.0
+  },
+  {
+   "name": "i Chamumile",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "i Teed Tea",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "Pal is",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "Coupon Tria ene",
+   "qty": 1,
+   "price": 100000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "“ ~\n& «\neahee ett he ee ee ee ee\n1 RedVelvet, Cheese Sle 38,000\n1 Chicken Baked Rice 33,000\ni Fish » Chips 65,000\ni Susmroom Soup 35,000\ni Chamumile 20,000\ni Teed Tea — 20,000\nSUBTOTAL 238 , 000\nbervice : eee LF, Cul\nPal is - (20,000\nTOTAL 281,435.\nCoupon Tria ene 100,000\nCAS rags n 200,000 —",
+ "checksum": null,
+ "runtime_s": 1.6826173749286681,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    372.4632568359375,
+    130.152099609375
+   ],
+   [
+    1561.783203125,
+    130.152099609375
+   ],
+   [
+    1561.783203125,
+    2595.2880859375
+   ],
+   [
+    372.4632568359375,
+    2595.2880859375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

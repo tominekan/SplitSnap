@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Chix Cheesesteak",
+   "qty": 1,
+   "price": 10.43
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.74,
+ "tip": null,
+ "total": null,
+ "raw_text": "IN\nR\n; Vt s, BA\nHOLL YWooD care ¢ port\nAM Dining Rm\nte: 09/08/2017 Time: 12.45:41 PM\nack: 332114 Table: 42 7\nvers: 2 Person#: 1\nrver #: 346 Opened: 12:13:00 PM\nCHEESE STEAK 0-0\n+AMERICAN CHS 075\n+FRD ONION % 6\nChix Cheesesteak 10.43\nSUB-TOTAL 25.22\nFood Tax 1.74\nLiquor Tax j 0.00\nOther Taxes 0.00\nTotal Tax | 1.74\nOTALsanmraa\nTHANK YoU!",
+ "checksum": null,
+ "runtime_s": 1.9827735831495374,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    115.0,
+    150.0
+   ],
+   [
+    653.0,
+    101.0
+   ],
+   [
+    742.0,
+    989.0
+   ],
+   [
+    48.0,
+    994.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

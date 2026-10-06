@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Vanilla Bean",
+   "qty": 2,
+   "price": 12.0
+  },
+  {
+   "name": "Classic Burger 40z",
+   "qty": 1,
+   "price": 8.0
+  }
+ ],
+ "subtotal": 30.6,
+ "tax": 2.14,
+ "tip": 6.12,
+ "total": 38.86,
+ "raw_text": "Araxi Burger Aventura\n17861 BISCAYNE BLVD\nAventura, FL 33160\nServer: Valerie P 03/17/19 5:39 PM\nCheck #33 Table 12\n2 Vanilla Bean $12.00\nClassic Burger 40z $8.00\n$14.00\nRoute 66 Burger 80z\n10% (10.00%) - $3.40\nSubtotal] $30.60\nService Charge (18.00%) $6.12\nTax $2.14\nTotal $38.86\n| Powered by Toast |",
+ "checksum": false,
+ "runtime_s": 1.5122796250507236,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    42.54376220703125,
+    179.00628662109375
+   ],
+   [
+    683.84375,
+    226.70626831054688
+   ],
+   [
+    686.4937744140625,
+    999.0
+   ],
+   [
+    0.0,
+    970.03125
+   ]
+  ],
+  "method": "otsu"
+ }
+}

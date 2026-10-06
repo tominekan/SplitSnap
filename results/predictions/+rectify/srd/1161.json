@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": 50.49,
+ "tax": 2.74,
+ "tip": 7.57,
+ "total": 43.23,
+ "raw_text": "Sub Total : 50.49\nSales Tax: 2.74\nCheck Total $ 43,23\nAnditionalsTip\nTota) Charge;\n15% tip is 7,57\n18% tip is 9.09\n20% tip is 10.10\n22k tip is 11.11\nThank you for Coming\nacias por sy Visita",
+ "checksum": null,
+ "runtime_s": 0.44646495883353055,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    195.66250610351562,
+    21.956268310546875
+   ],
+   [
+    666.0374755859375,
+    21.956268310546875
+   ],
+   [
+    666.0374755859375,
+    999.0
+   ],
+   [
+    195.66250610351562,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

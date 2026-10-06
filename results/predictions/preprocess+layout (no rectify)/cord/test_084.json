@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "Ix",
+   "qty": 1,
+   "price": 12000.0
+  },
+  {
+   "name": "Arem Arem",
+   "qty": 2,
+   "price": 812000.0
+  },
+  {
+   "name": "Other",
+   "qty": 1,
+   "price": 39600.0
+  }
+ ],
+ "subtotal": 36000.0,
+ "tax": 3600.0,
+ "tip": null,
+ "total": 39600.0,
+ "raw_text": "Kroket\nIx 12.000\n| Arem Arem\n2x 812.000\nSubtotal Rp 36.000\nTax (10.0%) Rp 3.600\n{ Total Rp 39.600\n4 Other Rp 39.600",
+ "checksum": false,
+ "runtime_s": 6.313014124985784,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

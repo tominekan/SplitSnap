@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Chicken Lollipop",
+   "qty": 1,
+   "price": 9.0
+  },
+  {
+   "name": "Med",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Thal Fried Rice",
+   "qty": 5,
+   "price": 12.0
+  },
+  {
+   "name": "Vegetables",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Med",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Chicken Tikka Masala",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "Naan",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Vegetable Biryani",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Mango Lassi",
+   "qty": 1,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 56.0,
+ "tax": 3.71,
+ "tip": 10.08,
+ "total": 69.79,
+ "raw_text": "NAANCHING\n103 MONTGOMERRY ST\nJERSEY CITY, N.J.07302\n2019840709\nORDER: SECOND FLOOR 19\nDine-in\ncashier: Kiran\n24-Mar 2019 7:14:55P\n1. Chicken Lollipop $9.00\n- Med $0.00\n5 1 Thal Fried Rice $12.00\n: Vegetables $0.00\n} Med $0.00\n1. Chicken Tikka Masala $16.00\nMILD PLEASE\n1 Naan $3.00\n1 Vegetable Biryani $12.00\nMAKE IT MILD PLEASE\n1 Mango Lassi $4.00\nSubtotal! $56.00\nTax $3.71\nService Charge (18.0%) $10.08\nTotal $69.79",
+ "checksum": true,
+ "runtime_s": 2.4901391670573503,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    789.0374755859375,
+    0.0
+   ],
+   [
+    789.0374755859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

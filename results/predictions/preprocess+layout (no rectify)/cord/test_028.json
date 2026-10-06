@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "SAMGYOPSAL",
+   "qty": 1,
+   "price": 194000.0
+  },
+  {
+   "name": "SUL LUNG TANG",
+   "qty": 1,
+   "price": 75000.0
+  },
+  {
+   "name": "MAKOLI",
+   "qty": 1,
+   "price": 100000.0
+  }
+ ],
+ "subtotal": 369000.0,
+ "tax": null,
+ "tip": 18450.0,
+ "total": null,
+ "raw_text": "194,000\n* SAMGYOPSAL\nSUL LUNG TANG 1 75,000\nMAKOLI 1 100,000\nSubTotal 369,000\nService 18,450\nVAT\nDiscount",
+ "checksum": null,
+ "runtime_s": 3.4309690839145333,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

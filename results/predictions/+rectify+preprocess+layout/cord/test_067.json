@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 9900090.0,
+ "raw_text": "‘NRS--fHEESE TOHR\n+, 508 G9 ra ¥, 506.6\n“at 3. ‘tes:\nTotal. 9,900,090\nCash\ner ler. 33 yom 1",
+ "checksum": null,
+ "runtime_s": 1.4205661239102483,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    56.23020935058594,
+    67.34341430664062
+   ],
+   [
+    364.46759033203125,
+    47.595611572265625
+   ],
+   [
+    388.5084228515625,
+    550.7352294921875
+   ],
+   [
+    78.55380249023438,
+    568.765869140625
+   ]
+  ],
+  "method": "paper"
+ }
+}

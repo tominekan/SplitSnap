@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "STUFFED ARTICHOKE",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "BK FETT AL PORCINI",
+   "qty": 1,
+   "price": 36.0
+  },
+  {
+   "name": "BRO",
+   "qty": 1,
+   "price": 10.5
+  },
+  {
+   "name": "OBLD ESPRESSO",
+   "qty": 1,
+   "price": 7.3
+  },
+  {
+   "name": "ax",
+   "qty": 1,
+   "price": 8.24
+  }
+ ],
+ "subtotal": 117.75,
+ "tax": null,
+ "tip": null,
+ "total": 18.49,
+ "raw_text": "Trattoria Sapo ito\n328 WashingtonStreet\nlabo!\n201-533-1801\nTABLE # 4\nCHECK# 27273\nDATE (TIME 7/1/2018 5:53:48 PM\nSERVER: Gastone\nSTATION: 0\nItem Count: 4\n1 STUFFED ARTICHOKE* $18.00\n1 BK FETT AL PORCINI * $36.00\n| Oey s: 342-00\n1 BRO 10.50\n| ESPRESSO 8.2)\n| OBLD ESPRESSO¥ _eeceweeee® 7.30\nsubtotal 8 $117.75\n[ax $8.24\nRAND TOTAL ‘18, 49\npened: 7/1/2018 5:53:48 PM",
+ "checksum": false,
+ "runtime_s": 1.684141166973859,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    27.0,
+    9.0
+   ],
+   [
+    726.0,
+    7.0
+   ],
+   [
+    740.0,
+    980.0
+   ],
+   [
+    27.0,
+    983.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

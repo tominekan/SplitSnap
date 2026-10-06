@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "SALMON PESTO\nSALMON PESTO\nDisc -100%(ITMO6)\nSUBTTL\nSVC CHG 6%\nPB1 10%",
+ "checksum": null,
+ "runtime_s": 1.5037154990714043,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    263.0,
+    347.0
+   ],
+   [
+    2193.0,
+    347.0
+   ],
+   [
+    2244.0,
+    2883.0
+   ],
+   [
+    248.0,
+    2873.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

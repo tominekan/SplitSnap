@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Ci",
+   "qty": 1,
+   "price": 35000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Wee FO 0 Bo RO Meee 1. ee TOUTE\n?\n}\nee ee |\n@ ms mw «4 ;\nOH we ere ee\nout? rn\n* Ci\n1 35.000 Rp35. 000\nNAST GOR SFD TLR\n1 3.000 Rr3. 000\nES TEH TAWAR\nTOTAL =Re3e. O00\nCASH Re50. 000\nCHANGE Rel2.000 |.\nfer 9 ere\n* @ -@»s\nfaq. “we Qe ch\nod a int th as Sth A Aili badd.",
+ "checksum": null,
+ "runtime_s": 3.402545124758035,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    132.22402954101562,
+    156.60003662109375
+   ],
+   [
+    847.93603515625,
+    156.60003662109375
+   ],
+   [
+    847.93603515625,
+    1279.0
+   ],
+   [
+    132.22402954101562,
+    1279.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

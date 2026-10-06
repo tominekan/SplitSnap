@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "name": "Weekend Buffet",
+   "qty": 2,
+   "price": 27.18
+  },
+  {
+   "name": "Drink",
+   "qty": 1,
+   "price": 3.98
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 33.73
+  },
+  {
+   "name": "Beverages",
+   "qty": 1,
+   "price": 3.98
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 27.18
+  }
+ ],
+ "subtotal": 31.16,
+ "tax": 2.57,
+ "tip": null,
+ "total": null,
+ "raw_text": "#t O270\nLin Buffet\n2988 N. Expressway\nBrownsville, TX\nFhone (956) 544-6600\nDate: Feb 24, 2019 Time: 03:22PM\nServer: Kenya Judith # Guest: 1\nBill: 0270\n2 Weekend Buffet 27.18\n2. Drink 3.98\nSubtotal 31.16\nsales Tax 2.57\nTota ‘ © - 33.73\nVisa 33.73\nBeverages 3,98\nFood 27.18\nOpen Time : Feb 24, 2019 03:22PM\nTV.",
+ "checksum": null,
+ "runtime_s": 2.4862338330131024,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

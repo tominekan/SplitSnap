@@ -1,0 +1,50 @@
+{
+ "items": [
+  {
+   "name": "WATER",
+   "qty": 3,
+   "price": 9.0
+  },
+  {
+   "name": "CRAB SUIZA",
+   "qty": 1,
+   "price": 13.25
+  },
+  {
+   "name": "SHRIMP VERACRUZ",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "ENCHILADA",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "FAJITA BF",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "4TAKE OUT",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "HH MIGUELS MARGARIT",
+   "qty": 4,
+   "price": 13.52
+  }
+ ],
+ "subtotal": 60.87,
+ "tax": null,
+ "tip": null,
+ "total": 65.14,
+ "raw_text": "MIGUELS MEXICAN ——\n3035 W. KENNEDY BLVD\nTAMPA , FL.\n(813) 876 - 2587\n127 MISSY\n1b) 82/1 Chk SS\nDec26’12 04:41PM fst 3\n3 WATER 9.00\n1 CRAB SUIZA 13.25\n1 SHRIMP VERACRUZ 14.95\n1 ENCHILADA 4,95\n1 FAJITA BF 13.95\n1 ¥4TAKE OUT#* 0.25\n4 HH MIGUELS MARGARIT @3.98 13.52\nSubtotal 60.87\nTax 4,271\n05:19PM Total 65.14\nDICASE DAV vOTID CCRVER",
+ "checksum": false,
+ "runtime_s": 1.3354165419004858,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

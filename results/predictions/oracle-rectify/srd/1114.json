@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "\\ urce\nom “cai?\nae ce\nTA, 2, 17\npa ee\nmatte\ntate guia.\nPrix Mer",
+ "checksum": null,
+ "runtime_s": 0.28314795810729265,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    53.0,
+    2.0
+   ],
+   [
+    185.0,
+    2.0
+   ],
+   [
+    218.0,
+    248.0
+   ],
+   [
+    26.0,
+    247.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

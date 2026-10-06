@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "El Heson Mexican Restaurant\n794 South Perry St-unit EF\nCASTLE ROCK, CO 60104\n(720) 733-9705",
+ "checksum": null,
+ "runtime_s": 0.21747083379887044,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    52.0,
+    3.0
+   ],
+   [
+    306.0,
+    3.0
+   ],
+   [
+    318.0,
+    344.0
+   ],
+   [
+    36.0,
+    344.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

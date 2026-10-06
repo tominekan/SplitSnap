@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 3.25
+  },
+  {
+   "name": "Enmoladas with Meat",
+   "qty": 1,
+   "price": -44.95
+  },
+  {
+   "name": "Flautas Chicken",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Coloradito",
+   "qty": 1,
+   "price": 15.95
+  }
+ ],
+ "subtotal": 50.05,
+ "tax": 5.46,
+ "tip": 9.01,
+ "total": 55.51,
+ "raw_text": "Mexican Restaurant & Bar\n25 West San Fernando St.\nSan Jose, CA 95113\n(408) 283-9595\nServer: Pablo 12/29/2017\nTable 40/1 1:17 PM\nGuests: 3 30001\nReprint #: 1\nCoffee 3.25\nEnmoladas with Meat - 44,95\npollo ’\nChicken Tenders 5.95\nFlautas Chicken 9,95\nColoradito 15.95\nSubtotal 50.05\nTax 5.46\nTotal 55,51\nGratuity 18.00% 9.01\nTotal 64.52\nBalance Due 64.52\n!! Become a friend of us on\nFACEBOOK to receive news of\nevents & special offers !!\n§! THANK YOU FOR COMING !!",
+ "checksum": false,
+ "runtime_s": 2.124514332972467,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    584.6312255859375,
+    0.0
+   ],
+   [
+    636.3062744140625,
+    999.0
+   ],
+   [
+    13.5562744140625,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

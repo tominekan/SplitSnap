@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "owt",
+   "qty": 1,
+   "price": 16500.0
+  },
+  {
+   "name": "Cass 0",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 15000.0,
+ "raw_text": "/\\ e\nae ew = - cwe awe ~\n2am e = o - ealind\n- o-oo\n-\n| Chichen HEC. IPcs\n15.000\ncub Total 15,000\nna eovreewnmwe\nP.pect 10 % 1.590\nowt 16500\nCass 0, 0010\nKenbal $3, S00",
+ "checksum": null,
+ "runtime_s": 7.846498375060037,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    1522.71728515625,
+    0.0
+   ],
+   [
+    1522.71728515625,
+    2871.19775390625
+   ],
+   [
+    0.0,
+    2871.19775390625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

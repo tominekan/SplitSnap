@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "9PC LT",
+   "qty": 1,
+   "price": 9.89
+  },
+  {
+   "name": "RET",
+   "qty": 1,
+   "price": 8.94
+  },
+  {
+   "name": "tort",
+   "qty": 1,
+   "price": 10.94
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "CHURCH'S CHICKEN 84717\n7635 WINNETKA /”\nCANOGA PARK CA 818\n[#753 6 3-- DRT)\n1 9PC LT 9.89\nRET 8.94\ntort 10.94\nCASH 11.C0\nJHNG iv)\neoecoveccsacaceesesesspassetests\n(HAND UN) COME AGAIN !8\n(7 SBETH atin Peg\nfh? U7 MAY.21°19 REGOOO2",
+ "checksum": null,
+ "runtime_s": 1.5172733329236507,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "1FREEBIRD a",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "ICE CREAM",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "ORIGINAL TTL",
+   "qty": 1,
+   "price": 11.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.91,
+ "tip": null,
+ "total": 11.91,
+ "raw_text": "Gourdough 8 Public House\n2700 South Lamar Blvd\nAustin, TX 78704\nPhone: (512) 912-9070\n3008 BAR PM B\nChk 7862 Jan21'17 08:56 Gst 9\n1FREEBIRD = a attttt™*” 5.50\n1 ICE CREAM 2.00\n1 LONESTAR 3°50\nORIGINAL TTL 11,00\nTAX 0.91\n09:38PM TOTAL 11.91\nFollow us @gourdoughspub on\nFacebook or Twitter for the\nlatest and greatest specials!",
+ "checksum": null,
+ "runtime_s": 1.832088875118643,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

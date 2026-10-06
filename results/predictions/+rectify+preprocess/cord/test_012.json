@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ee ie\nrs ’\n/ ~ a\nbug\n4 . }s\nshu\n; “* . ’\n7 eo\n? vi oS. ‘ )\n* ee i,",
+ "checksum": null,
+ "runtime_s": 3.7412667078897357,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    839.2733764648438
+   ],
+   [
+    0.0,
+    839.2733764648438
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

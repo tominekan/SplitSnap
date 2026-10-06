@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "WEEKDAY comer ee",
+   "qty": 1,
+   "price": 29.88
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 87.37,
+ "raw_text": "~\\\nMoonstar Restaurant\n363 Gellert Blvd., Daly City, CA 94915\n(650) 992-2888\nPAT D REPRINT 1\n® 332 PRT #2406\n\"WEEKDAY comer $29 ee 29.88\nTe ; te 2a\n‘TOTAL: = 87.37\n“CASH: +~ 100.00\nIl i\n10/29/2018 19:51\nTHANK YOU\ni",
+ "checksum": null,
+ "runtime_s": 1.6514204170089215,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    159.0,
+    164.0
+   ],
+   [
+    592.0,
+    173.0
+   ],
+   [
+    596.0,
+    902.0
+   ],
+   [
+    153.0,
+    913.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

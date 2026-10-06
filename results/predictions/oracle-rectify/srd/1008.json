@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Diet coke",
+   "qty": 1,
+   "price": 1.56
+  },
+  {
+   "name": "Quesadilla salvadorena",
+   "qty": 2,
+   "price": 4.06
+  }
+ ],
+ "subtotal": 22.25,
+ "tax": 2.22,
+ "tip": null,
+ "total": 24.47,
+ "raw_text": "Dona Mercedes Restaurant\n1030 1/2 San Fernando Rd\nSan Fernando CA 91341\nVero\nCENTERL\n1 CHicharon $2.2\n3 Pupusa Queso $6.7!\n1 Platanos Orden $7.7:\n1 Diet coke $1.56\n2 Quesadilla salvadorena $4.06\nSUBTOTAL: $22.25\nTAX: $2.22\nTOTAL: $24.47\nTIP SUGGESTIONS\n18%: $4.40\n20%: $4.89\n25%: $6.12\nThank You!",
+ "checksum": false,
+ "runtime_s": 0.5765039999969304,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    125.0,
+    63.0
+   ],
+   [
+    556.0,
+    61.0
+   ],
+   [
+    565.0,
+    951.0
+   ],
+   [
+    83.0,
+    952.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

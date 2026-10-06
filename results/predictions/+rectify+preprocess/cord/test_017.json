@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Goblin's Mace",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Mozarella Hot 2",
+   "qty": 1,
+   "price": 38000.0
+  },
+  {
+   "name": "Chili Pepper 1",
+   "qty": 1,
+   "price": 14000.0
+  },
+  {
+   "name": "Cheese 1",
+   "qty": 1,
+   "price": 14000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 91000.0,
+ "raw_text": "ata\nyo\nGoblin's Mace { 25,000\nMozarella Hot 2 38,000\nDog\nChili Pepper 1 14.000\nCroquette\nCheese 1 14.000\nCroquette\nPlastik Amook 1 0\nPlastik Putin 1 0\nTako Away\nSubtotal 91 000\nDiscount (0)\nTOTAL Rp. 91,000\nDebit 91 000\nOOOOOOXOOXOKKK",
+ "checksum": null,
+ "runtime_s": 2.8225490408949554,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    265.8320007324219,
+    204.79202270507812
+   ],
+   [
+    645.7360229492188,
+    198.00802612304688
+   ],
+   [
+    659.303955078125,
+    1112.1519775390625
+   ],
+   [
+    267.52801513671875,
+    1113.847900390625
+   ]
+  ],
+  "method": "paper"
+ }
+}

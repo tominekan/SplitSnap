@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "PB WOODFRD RES 2",
+   "qty": 1,
+   "price": 47.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 74.49,
+ "raw_text": "Ms”\nESQUIRE GRILLE\nSACRAMENTO INTL ATRPORT\n147079 Joas\n4588 SEAT } eee\nPB WOODFRD RES 2.47.95\nwear\n11.00\nSeuvienon\n78.50\nCas Pesy sauy s\nPeju Cabernet\n2 SAND GRLD cutx\n30 CHGP sip\nNy ORS BLUE ous\nDRESS on stoE\n1 SCO SHRIMP Loure 2,\nW/ ORESS Gn Sipe\n1 8D BRUSSEL spats\n4.00\n7.00\nTax 5.96 ANOUNT 0 8045\nSuaToTAL 74.49\nTax\n196\naNaunT oe gB0\nNE WANT TO HEAR YouR FEEDBACK:\nPLEASE CONTACT 1-877-672-7469\nOR CUSTONERSERVICEQHNSHOST “COM\nTO SHARE YOUR EXPERIENCE.\nMiia, eee",
+ "checksum": null,
+ "runtime_s": 0.6211389580275863,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    80.0,
+    1.0
+   ],
+   [
+    266.0,
+    1.0
+   ],
+   [
+    265.0,
+    448.0
+   ],
+   [
+    5.0,
+    446.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "187 MEGAN F\nTei Gem est 2\nlS 17o5:556%\nDINE IN\n2 WATER 0\n1 ENGH VERDE Le",
+ "checksum": null,
+ "runtime_s": 0.22989233396947384,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    366.1031188964844
+   ],
+   [
+    0.0,
+    366.1031188964844
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

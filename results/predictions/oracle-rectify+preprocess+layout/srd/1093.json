@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "WING COMBO",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "POP SHRMP/COMBO",
+   "qty": 1,
+   "price": 8.49
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.37,
+ "tip": null,
+ "total": 38.23,
+ "raw_text": "POPEYE'S\n11538\n201-885-2085\nCARRY-OUT, SUN JUN 24 20:49:53 2018\n#150 Server #: 8325\n1 #5 5 WING COMBO 9.99\n> SPICY\nREG CAJ FRIES\nCOKE\n1 #6 3 TENDER ML 8.69\nREG MACHEESE\nCOKE\n1 #6 3 TENDER ML 8.69\nREG CAJ FRIES\nCOKE\n1 #11/ POP SHRMP/COMBO 8.49\nREG CAJ FRIES\nCOKE\nTAX A 2.37\n150 Total 1-4 38.23\nCREDIT 38.23\nCHANGE 0.00\nTHANK YOU FoR",
+ "checksum": null,
+ "runtime_s": 1.7264037488494068,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    63.0,
+    30.0
+   ],
+   [
+    744.0,
+    41.0
+   ],
+   [
+    742.0,
+    994.0
+   ],
+   [
+    5.0,
+    990.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

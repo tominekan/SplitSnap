@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Check eo\nsooste Fabpot\navssor\nServer: PDR\nCheck #4 if\nSteak Tip Skevers\nPiatto doraonzola\nRoot beer\nfubtotel\nax\nTotal\nBoecs\nSe .festaurant Hours",
+ "checksum": null,
+ "runtime_s": 0.31144316610880196,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    45.751129150390625,
+    0.0
+   ],
+   [
+    347.0,
+    0.0
+   ],
+   [
+    347.0,
+    347.0
+   ],
+   [
+    45.751129150390625,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

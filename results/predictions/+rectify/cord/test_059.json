@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ao Rael FA\nis £t' Et ee Bite >\not ee ik Se Aton\nqoep Re Pap\n7 f-;\nes\na\nome eee ever\nom cnet whee ete whey mine\nA\n-\na\n:\n‘\n1\ni\n:\nJ\nj\ni\ni\nj\nt\n!\nt\ni\ni\ni\ni\ni\n;\ni\n{\n:\n!\n{\ni\ni\ni\ni\n\\\ni\nj\ni\n}\ni\ni\n!\n|\nHEE aren one cone emes Eee sure ove",
+ "checksum": null,
+ "runtime_s": 4.451592667028308,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    2619.892578125,
+    0.0
+   ],
+   [
+    2619.892578125,
+    4031.0
+   ],
+   [
+    0.0,
+    4031.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

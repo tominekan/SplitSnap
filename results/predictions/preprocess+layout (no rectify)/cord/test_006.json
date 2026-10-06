@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "he «6f",
+   "qty": 1,
+   "price": 13900.0
+  },
+  {
+   "name": "2EDBEAN BI‘EAD",
+   "qty": 1,
+   "price": 9000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 46000.0,
+ "raw_text": "a.” ‘ - ¢ t :\nse os me\n4 oa\nhe «6f\n* <> 3\n1 3067 13,900\n2 AnD aI “ARD PASTRY. 24,30Q\n1 2EDBEAN BI‘EAD 9,000\nTOTAL © 46,000\nCHANGE © 4,000\n— ee\na ee\no a. a\n«q+",
+ "checksum": null,
+ "runtime_s": 3.441325457766652,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

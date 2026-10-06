@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "ue",
+   "qty": 1,
+   "price": 78000.0
+  },
+  {
+   "name": "fe.000 ul",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 0.0,
+ "raw_text": "4002-Kyoto Choco Kochi\n14.000 ue 78.000\n1001-Choro Bun\nfe.000 ul 22.000\né001-Plastic Bag Small\nif] “i 0\nTotal Ite: 4\nTotal. 00.000\n_ eee\n\\",
+ "checksum": null,
+ "runtime_s": 17.011869583977386,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

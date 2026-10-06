@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "2PC R&B MEAL",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "SWING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "SWING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "SWING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "COLL GRN SMALL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "TXTL",
+   "qty": 1,
+   "price": 2.43
+  },
+  {
+   "name": "TOTL",
+   "qty": 1,
+   "price": 30.58
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "WINGS & THINGS\n519 FULTON AVE. HEMPSTEAD NY\nTHANKS CALL AGAIN 516-483-0936\n#195 IN\n1 #7 2PC R&B MEAL 5,99\nICED TEA\nSUB CORNBREAD\n1 #3 SWING MEAL 6.99\nSIERRA\n1 SUB FIXN\nMAC&CHZ\n1 #3 SWING MEAL 6.99\nICED TEA\n1 SUB FIXN\nSP RICE\n1 #3 SWING MEAL 6.99\nICED TEA\n1 SUB FIXN\nMAC&CHZ\n1 COLL GRN - SMALL 1.19\nTXTL 2,43\n\\ .\n\" TOTL 30.58",
+ "checksum": null,
+ "runtime_s": 1.8875709581188858,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    89.61251831054688,
+    145.0250244140625
+   ],
+   [
+    703.0875244140625,
+    145.0250244140625
+   ],
+   [
+    703.0875244140625,
+    999.0
+   ],
+   [
+    89.61251831054688,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

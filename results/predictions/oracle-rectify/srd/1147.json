@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "House Wine White Glass 13.00",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "VEGETABLE SHORBA 1 2.50",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "GARLIC NAAN 1 2.00",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "KARI. PAKORA 1 4.50",
+   "qty": 1,
+   "price": 4.5
+  },
+  {
+   "name": "ANGKOR BEER WITH HEAL 1 0.50",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "ANGKOR BEER WITH MEAL 1 0.50",
+   "qty": 1,
+   "price": 0.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "NEW DELHI\nTHOTAR\nRESTAURANT\n#237E,Sisinath Quay, Pahoa Penh, Caabodia\nTel: 0969591472\nnail: vonly8iehotat com\n= ——— INVOICE\nDate:24-Nov-16,\nTime:9:12 PM\nTERS. IY PRICE TOTAL\nHouse Wine White Glass 13.00 3.00\nVEGETABLE SHORBA 1 2.50 2.50\nGARLIC NAAN 1 2.00 2.00\nKARI. PAKORA 1 4.50 4.50\nANGKOR BEER WITH HEAL 1 0.50 0.50\nANGKOR BEER WITH MEAL 1 0.50 0.50\n* Thank you for dining with ust *\n{We Have Free Howe Delivery!",
+ "checksum": null,
+ "runtime_s": 0.4483678750693798,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    2.0,
+    2.0
+   ],
+   [
+    244.0,
+    2.0
+   ],
+   [
+    245.0,
+    448.0
+   ],
+   [
+    1.0,
+    449.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

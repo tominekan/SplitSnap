@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "DUE",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": 22000.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "| Chcezemania\nMamamia\nSUBTOTAL 22,000\nDUE 22,000\nCASH 52,000\nCHANGE 30,000\nITEN 2 PCS",
+ "checksum": null,
+ "runtime_s": 0.41362816700711846,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    58.56842041015625,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    58.56842041015625,
+    863.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "CINNAMON SUGAR",
+   "qty": 1,
+   "price": 17000.0
+  }
+ ],
+ "subtotal": 0.0,
+ "tax": null,
+ "tip": null,
+ "total": 17000.0,
+ "raw_text": "GD vu sthe Vere\nCINNAMON SUGAR\n1 x 17,000 17,000\nSUBTOTAL =i sss—(isé—S« 0000\nGRAND TOTAL 17,000\nCASH IDR 20,000\nCHANGE DUE 3,000\n. ‘\n* ©",
+ "checksum": false,
+ "runtime_s": 2.7553094171453267,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    96.04443359375
+   ],
+   [
+    575.0,
+    96.04443359375
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    863.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

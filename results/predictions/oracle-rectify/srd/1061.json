@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": 2.29,
+ "tip": null,
+ "total": 24.08,
+ "raw_text": "Chili's Grill & Bar\nPuente Hills #25\n17588 Castleton 3t\nCity of Industry,Ca 91748\nServer: Jose § 09/15/20\n33/1 1:2 2\nGuests: 2 e600\nTypes Dine In\nPLE DIPPER ieee\nCHICKEN WAFFLESG ils\nSuototal 24.08\nTotal Tax 2.29\nTotal Aah Sil",
+ "checksum": null,
+ "runtime_s": 0.4691267078742385,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    87.0,
+    54.0
+   ],
+   [
+    455.0,
+    39.0
+   ],
+   [
+    538.0,
+    992.0
+   ],
+   [
+    61.0,
+    994.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

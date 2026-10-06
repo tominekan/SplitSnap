@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "TRIPPLE CHEESE",
+   "qty": 1,
+   "price": 17000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 17000.0,
+ "raw_text": "TRIPPLE CHEESE\n1 x 17,000 - 17,000\n‘SUBTOTAL =—st—‘<‘C ;C;*;*;*C;*C«SOO\nGRANDTOTAL 17,000\nCASH IDR 22,000\nCHANGE DUE 5,000",
+ "checksum": null,
+ "runtime_s": 13.136067040963098,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    2303.0,
+    0.0
+   ],
+   [
+    2303.0,
+    3655.14208984375
+   ],
+   [
+    0.0,
+    3519.46240234375
+   ]
+  ],
+  "method": "paper"
+ }
+}

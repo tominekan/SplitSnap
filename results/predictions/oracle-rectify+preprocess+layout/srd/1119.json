@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Plate",
+   "qty": 1,
+   "price": 9.1
+  },
+  {
+   "name": "BEIJING BEEF",
+   "qty": 1,
+   "price": 9.3
+  },
+  {
+   "name": "a XTRA EE AKI CKN",
+   "qty": 1,
+   "price": 1.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 25.2,
+ "raw_text": "PURCHASE xx\n~ Panda Express #2614\nBrooklyn, NY\nee (F718) 246-5898\n12/22/2017 4:58:01 PM - -\nOrder: 196812 Server: cherie n\n| 1 Plate 9.10\n; CHOW MEIN-1/2\n‘ CHOW MEIN-1/2\nBROCCOLT BEEF\nBEIJING BEEF\n9.30\n1 Plate\nCHOW MEIN-1/2.\nMUNG foc ( so\na XTRA EE AKI CKN\nA KTRAENTREER VAAL CAN 1.50\n1 PEPSI @ Ape _\n1 PEPSI 20 02 , a\n| /Suptotal 25.20\nTAX 2.24\nTotal 7) Ad\nVisa 11M\nRoot sHXXXHXXK0103\nAuthCode: 02776A\nERR ETE RI HII REED A EEEEEEEE\nmene epee ENTREE TEL! t",
+ "checksum": null,
+ "runtime_s": 2.951657542027533,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    57.0,
+    3.0
+   ],
+   [
+    697.0,
+    10.0
+   ],
+   [
+    585.0,
+    992.0
+   ],
+   [
+    38.0,
+    990.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

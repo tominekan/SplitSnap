@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Pa a ke 4 ;\n\"40 sei\nuuu at Star s orante con\ngoogle Fagebook/velpyteip\ndvisor\nServer: PH BAR P\n08/09/19, 4: 78 iy\nCheck 84\nPiatt Tyo Skeuers Be\niatt orgonzola $12.\nt Beer $ =\nfa a\notal 33 4\ntem ot 8 Nh hk we le\nee\nRestaurant A Hours",
+ "checksum": null,
+ "runtime_s": 1.4916129161138088,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    45.751129150390625,
+    0.0
+   ],
+   [
+    347.0,
+    0.0
+   ],
+   [
+    347.0,
+    347.0
+   ],
+   [
+    45.751129150390625,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

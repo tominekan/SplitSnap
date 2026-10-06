@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "¢\nJ.STB PROKO\nY.B.BAT\n¥Y.BASO PROX\nTOTAL\nCASH\nce",
+ "checksum": null,
+ "runtime_s": 2.0814401251263916,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

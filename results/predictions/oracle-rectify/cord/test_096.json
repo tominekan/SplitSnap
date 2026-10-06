@@ -1,0 +1,15 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "J) ennnennnnnnnnnnerenaeensnna\n4 BBQ Chicken\n| 1 -Tidak Pedas",
+ "checksum": null,
+ "runtime_s": 0.44915824895724654,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

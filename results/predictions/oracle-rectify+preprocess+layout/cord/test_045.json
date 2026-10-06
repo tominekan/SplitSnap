@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Mike Ike Original",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "Mike Berry",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "Rot! KeJu Manis",
+   "qty": 1,
+   "price": 7000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Lemon Tea (L).\n1 Mike & Ike Original 28. 000\n1 Mike & Berry 28. 000\n1 Rot! KeJu Manis. 7.000 | {\nos . =",
+ "checksum": null,
+ "runtime_s": 3.3661020828876644,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "BGC SOC IE LED DE vc REDIALS eete rd OPA, KOS\n1) 35.000 Rp35. 000\nNAST GOR SFO TLR\n1 3.000 Re3. 000\nES TEH TAWAR\neeT0IAL Reds. 000\nCASH ReS0. 000\nCHANGE Re12. 000 4\n-\noe",
+ "checksum": null,
+ "runtime_s": 0.7065630408469588,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    132.22402954101562,
+    156.60003662109375
+   ],
+   [
+    847.93603515625,
+    156.60003662109375
+   ],
+   [
+    847.93603515625,
+    1279.0
+   ],
+   [
+    132.22402954101562,
+    1279.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

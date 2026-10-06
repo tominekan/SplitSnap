@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "TRAD KY TOAST CARTE",
+   "qty": 1,
+   "price": 28182.0
+  }
+ ],
+ "subtotal": 28182.0,
+ "tax": null,
+ "tip": null,
+ "total": 31000.0,
+ "raw_text": "TRAD KY TOAST CARTE 28. 182\nITEMS 1.00\nSUBTTL 28. 182\nPB-1 10% 2.818\nTOTAL 31.000\nCASH 31.000",
+ "checksum": false,
+ "runtime_s": 13.077903625322506,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

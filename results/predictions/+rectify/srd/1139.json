@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 617.0,
+ "raw_text": "Bill No. 00027\nBill Time 22:06\nTable No. P\nItem Name\nTANDOORI CHICKEN\nMUTTON RAGON JOSH\nFISH BIRIYANI\n———\notal\n2 ——— ane\ndeeenneneneseanan\n627.00\noa Grand Total Rs, 617.00\n“wo.\n1",
+ "checksum": null,
+ "runtime_s": 0.39958020811900496,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.3584136962890625,
+    0.0
+   ],
+   [
+    467.09759521484375,
+    0.0
+   ],
+   [
+    467.09759521484375,
+    511.0
+   ],
+   [
+    0.3584136962890625,
+    511.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

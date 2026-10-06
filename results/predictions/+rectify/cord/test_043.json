@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Total Tay Included:\n‘otal:\nCustomer Paid Cash:\nCustomer Change:",
+ "checksum": null,
+ "runtime_s": 1.165634667268023,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    511.82086181640625,
+    627.840087890625
+   ],
+   [
+    1825.203125,
+    676.6849365234375
+   ],
+   [
+    1760.07666015625,
+    3379.43017578125
+   ],
+   [
+    495.53924560546875,
+    3390.28466796875
+   ]
+  ],
+  "method": "paper"
+ }
+}

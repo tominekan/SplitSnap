@@ -1,0 +1,45 @@
+{
+ "items": [
+  {
+   "name": "GUACAMOLE DIP",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "OLET COKE",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "LUNCH FAJITAS",
+   "qty": 1,
+   "price": 7.75
+  },
+  {
+   "name": "TORTILLAS",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "SOUR GREAM",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "Jax f",
+   "qty": 1,
+   "price": 1.36
+  }
+ ],
+ "subtotal": 16.39,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "30:\nHat theus i) 105 \\\nSeryer: et Station: 10\norder Y 403503 \\, Dine In\nTable: 9 Guests: 1\n1 GUACAMOLE DIP 3.99\n1 OLET COKE 2,15\n< \\ LUNCH FAJITAS \\ 7.75\n1 TORTILLAS (3) 1.25\n1 SOUR GREAM 1.25\nSUB TOTAL; 16.39\nJax f: 1.36\nTOTAL: si.\n\\ ») tet ‘\n12/2/2017 11:48:28/4AM ,\nTHANK YoU! ’\nweno",
+ "checksum": null,
+ "runtime_s": 2.7728257088456303,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "name": "SFT TACO BF",
+   "qty": 1,
+   "price": 6.99
+  }
+ ],
+ "subtotal": 5.98,
+ "tax": 0.6,
+ "tip": null,
+ "total": null,
+ "raw_text": "(425) 486-4472\n6733 RE 181TH ST\nKENMORE WA 98028\nDT >248\nest 04/24/2018\nCashier\n07248 rte\n30126\nOrder Type Orie Thru\nSFT TACO BF 6.99\nSubtotal 5.98\nTax 0.60\nDrive Thru Total 6.5S\nCASH $10.00\nChange $3.41\nThank you,\nPlease cose acain!",
+ "checksum": null,
+ "runtime_s": 2.379087458131835,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

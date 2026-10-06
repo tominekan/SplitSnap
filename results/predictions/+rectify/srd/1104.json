@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Don Juan Mexican Restaurant\n124 East Park Ave\nLong Beach, NY 11561\n(516) 442-4944\nServer: Recing #8 +~—”—”~—O—«CSSttation: 4",
+ "checksum": null,
+ "runtime_s": 0.3046775001566857,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    58.0562744140625,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    296.04998779296875
+   ],
+   [
+    58.0562744140625,
+    296.04998779296875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

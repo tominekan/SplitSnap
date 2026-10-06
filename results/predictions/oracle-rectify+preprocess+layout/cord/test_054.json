@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "KACANG MERAH",
+   "qty": 1,
+   "price": 10000.0
+  }
+ ],
+ "subtotal": 10000.0,
+ "tax": null,
+ "tip": null,
+ "total": 10000.0,
+ "raw_text": ".\nPe\nAu he\nG :\n« e ‘\né e ne\n; =\nKACANG MERAH 10,000\nSUBTOTAL 10,000\nTOTAL 10,000\nCASH 10,000\na\n* Mm @: 6\nuo?\nwe\n,",
+ "checksum": true,
+ "runtime_s": 4.568755832966417,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

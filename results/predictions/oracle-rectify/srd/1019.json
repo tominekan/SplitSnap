@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Drate",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Fs",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "Our FL",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "chert ts",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Mt Pizzeria & Tavem\nVen Horn\neatin, ur aoe)\n(734) e92-4300\nTinie,\n22037\n2.50\nDrate 5.00\n6:00\nFs 9.99\nOur FL 0.00\nntvore s) 12:50\n08 (3).\nchert ts) 10.00\n«3.00\nTOL:\n1\n» Tidet #: 123 «\n5/12/2017 7!48:12 Px\neux You!",
+ "checksum": null,
+ "runtime_s": 0.3002413751091808,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    92.0,
+    1.0
+   ],
+   [
+    284.0,
+    2.0
+   ],
+   [
+    303.0,
+    346.0
+   ],
+   [
+    58.0,
+    345.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

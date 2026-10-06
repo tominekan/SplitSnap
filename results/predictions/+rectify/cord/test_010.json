@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "they tlraleece",
+   "qty": 1,
+   "price": 17000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 17000.0,
+ "raw_text": "Lay Manet he Asean\nCINNAMON SUGAR\nthey tlraleece) 17,000\nSUBTOTAL. |. Gigs iatemie inn\nGRAND TOTAL 17,000\nCASH IDR 20,000\nCHANGE DUE 3,000\nme meta\n~ *",
+ "checksum": null,
+ "runtime_s": 0.5545242091175169,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    96.04443359375
+   ],
+   [
+    575.0,
+    96.04443359375
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    863.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

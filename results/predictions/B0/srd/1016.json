@@ -6,7 +6,7 @@
  "total": 35.52,
  "raw_text": "Chef Wang\n1902 Jericho Tumpike\nNew Hyde Park NY 11040\nTel: 516 354.2858 Fax 516.776.0587\n[ AS ]\nDine In # 1022\nServer: lily\n02/02/19\nPerson :\n| $5.25\n| $9.95\n$8.75\n$8.75\nLittle Juicy Pork Buns\n| Beef w Bak Choy (L)\n| Hunan Beef (1)\nSubTotal\nSales Tax\nTotal $35.52\nThank You\nHave A Nice Day",
  "checksum": null,
- "runtime_s": 0.5162533740513027,
+ "runtime_s": 0.5359216250944883,
  "rectify_info": {
   "fallback": null,
   "quad": null

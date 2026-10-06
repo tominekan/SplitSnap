@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "Nasi Putih",
+   "qty": 3,
+   "price": 30000.0
+  },
+  {
+   "name": "Ayam Pop",
+   "qty": 2,
+   "price": 40000.0
+  },
+  {
+   "name": "Samabal SP",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "KeruPUK KUah",
+   "qty": 1,
+   "price": 15000.0
+  },
+  {
+   "name": "Teltur Dadar",
+   "qty": 1,
+   "price": 10000.0
+  },
+  {
+   "name": "ES Batu",
+   "qty": 1,
+   "price": 4000.0
+  }
+ ],
+ "subtotal": 129500.0,
+ "tax": 17950.0,
+ "tip": null,
+ "total": 197450.0,
+ "raw_text": "FR OK EK OK ARK AK KK OK OK KKK KKK KK KKK\n3 Nasi Putih 30.000\n1 Nasi Tambah ram elele\n2 Ayam Pop 40.000\n1 Samabal SP 11.000\n1 Sambal Gabus Asin Cb\n18.000\n1 KeruPUK KUah 15.000\n1 Ikan BaWal Besa 28g 500\n1 Teltur Dadar 10.000\n| Ola eS 000\n1 ES Batu 4.000\nsubtotal 129.500\nPajak Rest 10+ 17.950\n14 Total 197.450\ntt Makanan 159.5\nTEL Minuman 20 O05\nCash 197.450\nihe\na",
+ "checksum": false,
+ "runtime_s": 1.8542192501481622,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    657.0,
+    74.0
+   ],
+   [
+    1757.0,
+    182.0
+   ],
+   [
+    1562.0,
+    2367.0
+   ],
+   [
+    556.0,
+    2372.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

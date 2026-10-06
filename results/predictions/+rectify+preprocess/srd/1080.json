@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "WEEKEND DINNER BUFFET 19.99",
+   "qty": 2,
+   "price": 39.98
+  },
+  {
+   "name": "WEEKEND DINNER KIDS (3-5Y",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "SODA DRINK 1.99",
+   "qty": 4,
+   "price": 7.96
+  },
+  {
+   "name": "WEEKEND SENIOR DINNER",
+   "qty": 1,
+   "price": 18.09
+  }
+ ],
+ "subtotal": 84.02,
+ "tax": 8.2,
+ "tip": null,
+ "total": null,
+ "raw_text": "Newark Buffet\n39201 Newark Blvd, #¥ Newark CA 94560\n510-818-1136\nhttp://www newarkbuffet .com\n05:25 PM 06/29/2019\nServer: Tim-11\ntab B11 1P\nary NAME L/P PRICE\n2 WEEKEND DINNER BUFFET 19.99 39.98\n1 WEEKEND DINNER KIDS (3-5Y) 7.99\n1 WEEKEND DINNER KIDS (6-10¥)\n10.00\n4 SODA DRINK 1.99 7.96\n1 WEEKEND SENIOR DINNER 18.09\nSUBTOTAL: 84.02\nTax(9.75%): 8.20\n/ TOTAL:\n== 7 AMDT\n(: Thank You! :}\nPlease Come Agai?.",
+ "checksum": null,
+ "runtime_s": 2.3354054999072105,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    50.4312744140625,
+    0.0
+   ],
+   [
+    702.3312377929688,
+    0.0
+   ],
+   [
+    702.3312377929688,
+    999.0
+   ],
+   [
+    50.4312744140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

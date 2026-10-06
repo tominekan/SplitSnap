@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ae ie | kt\n00916, eae Birsp\nServer: PH Bam 09/19 Arr\nCheck #4 raite 3\nsteak Tip Sk i\ncs BB\n$2.)\njubtotal $2 i\nt3 a\na\nlestqurant Hours",
+ "checksum": null,
+ "runtime_s": 0.30607112403959036,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    82.0,
+    1.0
+   ],
+   [
+    276.0,
+    3.0
+   ],
+   [
+    295.0,
+    346.0
+   ],
+   [
+    54.0,
+    346.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

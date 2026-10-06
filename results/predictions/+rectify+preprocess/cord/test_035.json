@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "2 TWIST DONT",
+   "qty": 1,
+   "price": 18000.0
+  },
+  {
+   "name": "BANANA DONUT",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "CREAMCHEESE BREAD",
+   "qty": 1,
+   "price": 13000.0
+  },
+  {
+   "name": "FRANKFRUT SAUSAGE ROLL",
+   "qty": 1,
+   "price": 12000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "- were ‘ »%\n« <\n“2 TWIST DONT 18,000\n1 BANANA DONUT 11,000\n1 CREAMCHEESE BREAD 13,000\n1 FRANKFRUT SAUSAGE ROLL 12,000\nTOTAL 5¢ ,000\nCASH 104 ,000\nCHANGE ot ,000\n>\nne ee\n—_",
+ "checksum": null,
+ "runtime_s": 3.100712667219341,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1218.353271484375
+   ],
+   [
+    0.0,
+    1218.353271484375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

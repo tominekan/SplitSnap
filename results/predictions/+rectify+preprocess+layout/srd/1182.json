@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "SOBE MOJITO’S",
+   "qty": 4,
+   "price": 40.0
+  }
+ ],
+ "subtotal": 40.0,
+ "tax": 2.8,
+ "tip": null,
+ "total": 50.8,
+ "raw_text": "SUEEEEDRERAEE EEE RELOAEREGEEEEEE PERE ETEE\nFinnegan's Way Check 822819\n1344 Ocean Drive\nMiami Beach Florida 33139\nTel, 305-672-7747\n08/21/17 8:38 PH\nTable 15 Cust 1\nWaiter 58 IRYNA P\nPT CATUFULITEL TEE iti:\n4 SOBE MOJITO’S 40.00\nBACAROI LIGHT\nTaxable; 40.0\ngh\n\\ Sub-total: 40.00\nSales Tax 7%: 2.80\nResort Tax 2%: 669\nTota):\nVoluntary 18% Tip; “780\nf _—_ ‘lease feel free to adjust or renove\nthe tip amount at your discretion\nma\nTotal 50.80",
+ "checksum": false,
+ "runtime_s": 1.9208330819383264,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

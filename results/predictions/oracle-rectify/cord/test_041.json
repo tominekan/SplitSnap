@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Chicken Maryland\nCappucino (Hot/Iced)\nNaga Lychee Juice\nCafe Latte\nHot Chocolate Marshiallo\nChicken Cesar Salad\nMineral Water\nMineral Water\nLychee/Peach/Lemon/Mango\nChicken Maryland\nSubtotal\nService Charge 5% +\nTOTAL\n47615,00\n3030309\n34632.\n30303.60\n30303 .60\n43290 .00\n12987 .00\n12987 .00\n25374.00\n47619.00\n365000.00",
+ "checksum": null,
+ "runtime_s": 0.5064796248916537,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    64.0,
+    62.0
+   ],
+   [
+    492.0,
+    70.0
+   ],
+   [
+    598.0,
+    1004.0
+   ],
+   [
+    32.0,
+    1031.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

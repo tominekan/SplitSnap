@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "GRILLED BABY POTATO (R\nHOT ‘",
+ "checksum": null,
+ "runtime_s": 0.3045105419587344,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    108.09182739257812
+   ],
+   [
+    575.0,
+    108.09182739257812
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    863.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

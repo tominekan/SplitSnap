@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Ts Guac",
+   "qty": 1,
+   "price": 48.0
+  },
+  {
+   "name": "Delivery Charge",
+   "qty": 1,
+   "price": 5.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 64.0,
+ "raw_text": "EL CHICO KEXICAN RESTAURANT\nJBR\nTEL : 04-7059680\n1050 Hone Del\nTb] 1014/1 Chk 1958 — Gst 0\nNovi2°16 05:41PM\nHome Delivry\n1 Ts Guac 48.00\n1 Grande Chicken 64.00\nBuritto\n1 Delivery Charge 5.00\nAmount Due 117.00\n###Thank You For Coming***\nHome Delivery No:600561112",
+ "checksum": null,
+ "runtime_s": 1.3328914160374552,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    145.0,
+    1.0
+   ],
+   [
+    380.0,
+    1.0
+   ],
+   [
+    401.0,
+    306.0
+   ],
+   [
+    114.0,
+    306.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

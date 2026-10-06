@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "PKT AVAM",
+   "qty": 1,
+   "price": 33000.0
+  },
+  {
+   "name": "GULAI OTAK",
+   "qty": 1,
+   "price": 23000.0
+  },
+  {
+   "name": "CHARGES",
+   "qty": 1,
+   "price": 61600.0
+  }
+ ],
+ "subtotal": 56000.0,
+ "tax": 5600.0,
+ "tip": null,
+ "total": 61600.0,
+ "raw_text": "eT ee ee\neug-™ €e 3\nPKT AVAM 33,000\nGULAI OTAK 23,000\n2.00 ITEMS\nSUBTOTAL 56,000\nTAX 10% 5,600\nTOTAL 61,600\nCHARGES 61,600\n6h Beert @ ’\nCw 68 QO ae\ntex‘ enai.",
+ "checksum": false,
+ "runtime_s": 2.3713588330429047,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

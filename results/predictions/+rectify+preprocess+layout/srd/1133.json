@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "FRI-SUN DINNER",
+   "qty": 5,
+   "price": 149.4
+  },
+  {
+   "name": "5OXOFF BIRTHDAY",
+   "qty": 1,
+   "price": -14.94
+  }
+ ],
+ "subtotal": null,
+ "tax": 12.11,
+ "tip": null,
+ "total": null,
+ "raw_text": "MOONSTAR RESTAURANT\n383 GELLERT BLVD., DALY CITY, CA 94015\n650-992-2888\nTab 424 IP 18:08 #2184\naty NAME u/P PRICE\n5 FRI-SUN DINNER $29.88 149.40\n29.88 5OXOFF BIRTHDAY -0.50 -14,94\nSUBTOTAL: 134.468\n| Tax( (GH): 12.11\nTip Guide:\n15%: + 20.17= 166.74\n18%: + 24,90= 170.77\n20%: + 26.89= 173,46\nil | I",
+ "checksum": null,
+ "runtime_s": 1.1936084988992661,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    113.64376831054688,
+    0.0
+   ],
+   [
+    999.0,
+    0.0
+   ],
+   [
+    999.0,
+    999.0
+   ],
+   [
+    64.6187744140625,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

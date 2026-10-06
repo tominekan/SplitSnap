@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "TRAD KY TOAST CARTE\nITEMS 1.00\nSUBTTL\nPB-1 10%\nTOTAL\nCASH\neee",
+ "checksum": null,
+ "runtime_s": 4.4756364992354065,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    315.4432373046875,
+    1147.980712890625
+   ],
+   [
+    2003.30224609375,
+    1202.2529296875
+   ],
+   [
+    2046.719970703125,
+    3058.35498046875
+   ],
+   [
+    293.7344970703125,
+    3085.4912109375
+   ]
+  ],
+  "method": "paper"
+ }
+}

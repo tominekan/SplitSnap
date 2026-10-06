@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 333.72,
+ "raw_text": "Juniper & Ivy\n2228 Kettner Blvd\nSan Diego, CA 92101\n1045 SAGE D\nTb) 71/1 Chk 4530\nOct06'16 07:08PM\nDine In\n1 BUCATINI\n1 RAVIOLO\n1 BT TURNBULL NAPA\n1 HALIBUT\n1 YODEL\n1 MILK & HONEY\n1 COFFEE SM\n1 GL ROUND POND SB\n1 OCTOPUS\n1 BEEF TARTARE\n1 FINLANDIA (WELL) $MARTINI\n1 HALIBUT\n1 SNAPPER\nSubtotal\nTax\n09:19PM Total 333.72",
+ "checksum": null,
+ "runtime_s": 0.568201667862013,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    94.0,
+    94.0
+   ],
+   [
+    485.0,
+    39.0
+   ],
+   [
+    586.0,
+    985.0
+   ],
+   [
+    85.0,
+    990.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

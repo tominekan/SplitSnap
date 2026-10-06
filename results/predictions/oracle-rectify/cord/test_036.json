@@ -1,0 +1,15 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "a\nTotal 3.%8- : PD\nPay Cash 100,000 Change :60.D sy\nsspears eum oe a TTS\n3302 me cy\n3 Bs\nseecpesen sono muon ex at 2000 Se 008 2\ni J\n- ons\n33 tunel > *\na",
+ "checksum": null,
+ "runtime_s": 2.9604839580133557,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

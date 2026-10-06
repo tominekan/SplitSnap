@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Reg Kete) he",
+   "qty": 4,
+   "price": 14.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "‘\n‘ Blue Bear Tavern\n216 $ 11th Street\n(215)922-3427\nwaw bluebeartavern.coa\nCheck #: 00225\nDate: 01/13/2012 10:16 PM\nStation: Pos3\nGuests: 1\n1 Crimini\n1 Salam4\nOlives\nLrg Clams\\mussels\n4 Reg Kete) he\n1 House Cab\nSub Tota)\nServers Iirdra,\n14.00\n]\n/ 81.C0\nPhilly Liquor Tax O.EC\nPhilly Pa Sales Tax\nIA, \\ / \\ an",
+ "checksum": null,
+ "runtime_s": 2.2431247907225043,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    646.9000244140625,
+    0.0
+   ],
+   [
+    680.0250244140625,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

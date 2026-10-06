@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "awe ‘Y Chole Tay 10 G0 #4",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "FOOD Lb",
+   "qty": 1,
+   "price": 5.98
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "> SURAT. FARSAN MART\n11814 186TH STREET\nN ARTESIA, cA 90701 é !\nBW 562-860-2310\na” HW SURATIFARSAN. CO!\n7\n\\ ys\n16 Daksh D ae\naes fe Ww\nchi & tah “gebigs\nawe ‘Y Chole Tay 10 G0 #4\" 5.99\nAXXNNNKKNKBAO\nVISA we Le 4. 56)\nFOOD Lb 5.98\nbene oy\nRE Py\n-._ ooe 16 Sue Close",
+ "checksum": null,
+ "runtime_s": 0.8533177920617163,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    7.0,
+    7.0
+   ],
+   [
+    632.0,
+    10.0
+   ],
+   [
+    637.0,
+    983.0
+   ],
+   [
+    19.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

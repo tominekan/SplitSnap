@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "or #hsBleu",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "rte Rcd",
+   "qty": 1,
+   "price": 15.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Bar\nor #hsBleu 13.95\n— rte Rcd 15.95\nPrivate Rooms\nAvailable for\nYour Next Party!",
+ "checksum": null,
+ "runtime_s": 0.34650374995544553,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    147.98751831054688,
+    306.5000305175781
+   ],
+   [
+    666.0625,
+    306.5000305175781
+   ],
+   [
+    666.0625,
+    999.0
+   ],
+   [
+    147.98751831054688,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

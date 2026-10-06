@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 730000.0,
+ "raw_text": "a“\n- “BANABERRY FR FRESH CREAN cK ES 00\nTOTAL 230 ,000\n730 .000\nCHANGE 0",
+ "checksum": null,
+ "runtime_s": 1.337008667178452,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    533.1959838867188
+   ],
+   [
+    0.0,
+    508.0103759765625
+   ]
+  ],
+  "method": "paper"
+ }
+}

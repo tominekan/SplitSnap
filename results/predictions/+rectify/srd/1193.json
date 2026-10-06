@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "c- PIE SLICE",
+   "qty": 2,
+   "price": 0.0
+  },
+  {
+   "name": "SOFT DRINK",
+   "qty": 1,
+   "price": 2.73
+  }
+ ],
+ "subtotal": 7.77,
+ "tax": 1.42,
+ "tip": 0.0,
+ "total": 19.19,
+ "raw_text": "trio Caltendon's Bestawrant\n0134\n2101 rtee St\nPisno Beach, CA 33\n(805) 773-0606\nwew.ncpies.co\n111590 Becky\nToi 2/4 Chk 1878 ast 2\nNova0'14 05:05PH\n1 sxCORNBREAD SVC 0.00\n2 TRIO POT PIE @ 9.99 19:98\n2 c- PIE SLICE 0,00\n1 No BEVERAGE 90:00\n1 SOFT DRINK 2.73\nBDAY CLUB $5 5:00-\nSubtotal 7.77\nTax 1.42\n07:10PH Total 19.19\nwhole piet",
+ "checksum": false,
+ "runtime_s": 0.5553199171554297,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    16.934555053710938,
+    0.0
+   ],
+   [
+    328.17706298828125,
+    0.0
+   ],
+   [
+    328.17706298828125,
+    347.0
+   ],
+   [
+    16.934555053710938,
+    347.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

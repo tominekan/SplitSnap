@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 2000.0,
+ "raw_text": "FO reese ART $2,000\nTOTAL 2 ,000\nCARD dé ,000\n:\nve\nwe",
+ "checksum": null,
+ "runtime_s": 3.1757841669023037,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

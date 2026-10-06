@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Bar Rue\n2 Gen Se\nable #620\nTenet tas \"er\nlips ez watt\ncs Ue\nTIMES SLL =\n1 est\n1 Sette rt\n1 Fis owes\nFacebook : BAR RUA\nTuitter + OBARRUADUS\nREVIEW / TRIPADVISOR\n<-REPRINTED-?",
+ "checksum": null,
+ "runtime_s": 0.3404062087647617,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    6.4575042724609375,
+    32.50688171386719
+   ],
+   [
+    252.0,
+    32.50688171386719
+   ],
+   [
+    252.0,
+    449.0
+   ],
+   [
+    6.4575042724609375,
+    449.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

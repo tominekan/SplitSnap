@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "name": "thelmonico Steak",
+   "qty": 1,
+   "price": 24.99
+  },
+  {
+   "name": "Aspar agus",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Buked Potato",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "ttotgl",
+   "qty": 1,
+   "price": 42.95
+  },
+  {
+   "name": "Balanc:e Due",
+   "qty": 1,
+   "price": 46.39
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Gjelmonico’s\n“3 retgen co\n1553 CENTRAL AVE\nALBANY. NY 12205\n(518) 456-5656\nServer Sarah 08/22/2015\nTable 51/1 9°24 PM\nGuest« 1\n# 70056\nNo Bev (2 «0. 00) 0 00\nMuscearella Fritta 799\nthelmonico Steak 24.99\nAspar agus 2.99\nBuked Potato 3. 99\nDecaf Coffee - Unlimited 299\n6 Items\n“ttotgl 42.95\nm4 3.44\nBalanc:e Due 46. 39\nGr atulty Not Included\nn f wannatad fyab dys",
+ "checksum": null,
+ "runtime_s": 3.1077709158416837,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

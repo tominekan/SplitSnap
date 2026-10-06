@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "wil *\nWendy's Restaurant 00009675\n20) Bergan St\nHarrigan, Md 07029 z\n(973) 483-8704 5\n#3264\n5/18/2857\nBe\nlain Potato\n100 Cnives:\nTotal teas 3\nTx\nPuwW Total\nBalance Due\nores au ystt?\n‘call us at 886-624-8140",
+ "checksum": null,
+ "runtime_s": 0.2571561250369996,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    50.0,
+    2.0
+   ],
+   [
+    243.0,
+    2.0
+   ],
+   [
+    262.0,
+    381.0
+   ],
+   [
+    39.0,
+    377.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

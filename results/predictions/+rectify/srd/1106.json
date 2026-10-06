@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Stir Beef Fillet w. Tofu",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "White Rice (S",
+   "qty": 1,
+   "price": 12.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Lan Sheng\n209 Paterson Ave.\n# 1011\n06/13/17\n08:38 PM\nDine In\nServer: Mary\n2 Person\nc Soy V.\n1 Hf- Peking Duck $15 95\n1 Stir Beef Fillet w. Tofu 12.95\n1 Pork w. Spicy Capsicum By A\n1 White Rice (S) 12.95\n1 Pork w. Spicy Tofu & Cayen $\nne Chili 3",
+ "checksum": null,
+ "runtime_s": 0.5202127920929343,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    592.5875244140625,
+    0.0
+   ],
+   [
+    592.5875244140625,
+    948.8125
+   ],
+   [
+    0.0,
+    948.8125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

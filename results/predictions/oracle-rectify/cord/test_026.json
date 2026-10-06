@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "thats | Ate\nrieney oe eevee\n—~ oe 7",
+ "checksum": null,
+ "runtime_s": 0.3945008332375437,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    81.0,
+    0.0
+   ],
+   [
+    593.0,
+    -2.0
+   ],
+   [
+    651.0,
+    1279.0
+   ],
+   [
+    31.0,
+    1282.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

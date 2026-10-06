@@ -1,0 +1,45 @@
+{
+ "items": [
+  {
+   "name": "House Wine unite Glass",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "VEGETABLE SHORBA",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "GARLIC NAAN",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "KARI PAKORA",
+   "qty": 1,
+   "price": 4.5
+  },
+  {
+   "name": "ANGKOR BEER WITH MEAL",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "BEER WITH HEAL",
+   "qty": 1,
+   "price": 0.4
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "NEW DELHI\nDIAN\nRE 'S TAURANT\nBOSSES RRO RESEEEeReNEESeEsecREstecesceese\n#237E,Sisivath Quay, Phnom Penh, Cambodia\nTel: 0969991422\nEwail: uonly8lenoteail.coa\nINVOICE -\nTicket No:1740 Date:24-Nov--16\nTable No: 5 Tige:9:12 PM\nITEMS ary PRICE TOTAL\nHouse Wine unite Glass 1 3.00 3. 00\nVEGETABLE SHORBA 1 2.50 2.50\nGARLIC NAAN 1 2.00 2.00\nKARI PAKORA 1 4.50 4.50\nANGKOR BEER WITH MEAL 1 0.50 0.50\nANGKOR BEER WITH HEAL 1 0.50 0.40\nES OE A ST etal hain ==\npewoeeeesee eee ses eee\nHOSSSSESSSESERES SA SESESTESS SHES EEORTESESES\n* Thank you for dining with us! *\n* Ve Have Free Home Delivery! *\nSOSTTERESETNSETSESSEESEEESESEESORD CEES SESS",
+ "checksum": null,
+ "runtime_s": 2.098343583988026,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

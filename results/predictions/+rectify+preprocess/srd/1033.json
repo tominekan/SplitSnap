@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "Taco Salad",
+   "qty": 1,
+   "price": 15.49
+  },
+  {
+   "name": "Add Chicken Fajita",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Pechuga de Pollo",
+   "qty": 1,
+   "price": 18.99
+  },
+  {
+   "name": "Due",
+   "qty": 1,
+   "price": 46.73
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ance Parkway\n8030 Renalss\nham NC 27713\npurham,\n(984) 329-2900\n+ ANASTASHIA 95/18/2012\nere 12:25 PM\nguests: 2 g0001\nTaco Salad 15.49\nGround Beef\nAdd Chicken Fajita 8.99\nPechuga de Pollo 18.99\nSubtotal\nTax 8G\nTotal\n46.73\nBalance\nDue 46.73\nAsk your Server\n. about th\nee to iain and tense era\n. Of rewards t\n0 earn!",
+ "checksum": null,
+ "runtime_s": 1.5624193749390543,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

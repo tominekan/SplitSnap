@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "HATER",
+   "qty": 3,
+   "price": 0.0
+  },
+  {
+   "name": "CRAB SUIZA",
+   "qty": 1,
+   "price": 18.25
+  },
+  {
+   "name": "SHRIMP VERACRUZ",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "ENCHILADA",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "FAJITA BF",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "TAKE QUT",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "HH MIGUELS MARGARIT @ 3.38",
+   "qty": 4,
+   "price": 13.52
+  }
+ ],
+ "subtotal": 60.87,
+ "tax": 4.27,
+ "tip": null,
+ "total": 65.14,
+ "raw_text": "— MIGUELS MEXICAN\n3035 W. ee BLVD\nTAMPA ,\n(813) ob : “pear\n127 MISSY\nTb] 62/1\nk 55\nDec2612 04:41PM\n3 HATER 0.00\n1 CRAB SUIZA 18,25\n1 SHRIMP VERACRUZ 14.95\n1 ENCHILADA 4.95\n1 FAJITA BF 13.95\n1 *#TAKE QUT#* 0.25\n4 HH MIGUELS MARGARIT @ 3.38 13.52\nSubtotal 60.87\nTax 4.27\n05:19PM Total 65.14\nPIEACE Dav veiw ecovcp",
+ "checksum": false,
+ "runtime_s": 0.46229220903478563,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    1.0,
+    3.0
+   ],
+   [
+    334.0,
+    7.0
+   ],
+   [
+    335.0,
+    446.0
+   ],
+   [
+    1.0,
+    447.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

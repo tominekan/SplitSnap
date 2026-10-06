@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "S-Hazelnut KOI Cafe @25,000",
+   "qty": 1,
+   "price": 25000.0
+  }
+ ],
+ "subtotal": 22728.0,
+ "tax": null,
+ "tip": null,
+ "total": 25000.0,
+ "raw_text": "1X S-Hazelnut KOI Cafe @25,000 25,000\n25%\nLess Ice\nPBI; 208\nSubtotal: 22,728\nTotal: 25,000\nCash: 100 ,000\nCHANGE : 75,000",
+ "checksum": false,
+ "runtime_s": 0.49245883408002555,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

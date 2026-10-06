@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "KACANG MERAH",
+   "qty": 1,
+   "price": 10000.0
+  }
+ ],
+ "subtotal": 10000.0,
+ "tax": null,
+ "tip": null,
+ "total": 10000.0,
+ "raw_text": "Subarp &\nua\n‘. ta re.\no @\n- * s te\ni =] ‘\nKACANG MERAH 10,000\nSUBTOTAL 10,000\nTOTAL 10,000\nCASH 10,000\n..\n+ 1B 6\nCD mee. cla",
+ "checksum": true,
+ "runtime_s": 3.714305666042492,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1014.776123046875
+   ],
+   [
+    0.0,
+    1014.776123046875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

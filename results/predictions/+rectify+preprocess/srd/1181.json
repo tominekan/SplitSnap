@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Strip 1602",
+   "qty": 4,
+   "price": 212.0
+  },
+  {
+   "name": "Ribeye Bone In",
+   "qty": 1,
+   "price": 69.5
+  },
+  {
+   "name": "Cauliflower",
+   "qty": 1,
+   "price": 16.5
+  },
+  {
+   "name": "Baked Potato",
+   "qty": 1,
+   "price": 10.5
+  },
+  {
+   "name": "Asparagus",
+   "qty": 1,
+   "price": 15.5
+  },
+  {
+   "name": "Onion Rings",
+   "qty": 1,
+   "price": 14.5
+  },
+  {
+   "name": "Sauteed Spinach",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "VOSS Sparkling",
+   "qty": 3,
+   "price": 25.5
+  },
+  {
+   "name": "Coke Btl",
+   "qty": 6,
+   "price": 24.0
+  }
+ ],
+ "subtotal": 404.0,
+ "tax": 35.86,
+ "tip": null,
+ "total": null,
+ "raw_text": "DEL FRISCO § #8620\n1221 Avenue of the Americas\nNew York, New York 10020\n1075 Rebekkah\nTb] 240/1 Chk 1061 Gst 5 e\nApr07°16 07:53PM ’\nDine In |\n4 Strip 1602 212.00\n1 Ribeye Bone In 69.50\n1 Cauliflower 16.50\n1 Baked Potato 10.50\n1 Asparagus 15.50\n1 Onion Rings 14,50\n1 Sauteed Spinach 16.00\n3 VOSS Sparkling 25.50\n6 Coke Btl 24.00\nSUBTOTAL _ 404.00\nTAX — 35.86\n09:14PM TOJAt DUE 439 .86\nTHARK ¥(HE + (Us AISHTING ——",
+ "checksum": null,
+ "runtime_s": 1.5236906660720706,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    412.0,
+    0.0
+   ],
+   [
+    412.0,
+    549.0
+   ],
+   [
+    0.0,
+    549.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "SIDE (SM). x3",
+   "qty": 1,
+   "price": 12.06
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 24.5
+  },
+  {
+   "name": "Pe lex",
+   "qty": 1,
+   "price": 2.17
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 26.67
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "23, 2019 at 2:33 PM\nORDER # 1019\nAdmin\n— x\nWINGS (5) ‘ 12.5\nMAC & CHEESE\nYAMS\nSIDE (SM). x3 12.06\nYAMS\nMAC & CHEESE\nCOLLARD GREENS\nae\nSubtota! 24,50\nPe lex 2.17\nDiscount 0.00\nTota! 26.67",
+ "checksum": null,
+ "runtime_s": 0.49431345821358263,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    119.0,
+    45.0
+   ],
+   [
+    543.0,
+    3.0
+   ],
+   [
+    659.0,
+    983.0
+   ],
+   [
+    67.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

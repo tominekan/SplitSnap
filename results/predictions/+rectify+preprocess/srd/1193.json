@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "TRIO- POT PIE @ 9 99",
+   "qty": 2,
+   "price": 19.98
+  },
+  {
+   "name": "C- PIE RICE",
+   "qty": 2,
+   "price": 0.0
+  },
+  {
+   "name": "NO BEVERAGE",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "SOFT ORIN",
+   "qty": 1,
+   "price": 2.79
+  }
+ ],
+ "subtotal": 17.77,
+ "tax": 1.42,
+ "tip": 0.0,
+ "total": 19.19,
+ "raw_text": "Marie Callender ¢ Restaurant\nStore #0134\n2131 Price St\nPismo Beach, CA 93449\n(805) 773-0606\nwere .acoies .coa\n111590 Becky\nTol 2/1 Crk 1878 Gst 2\nv30'14 06:\n1 eaCORNBREAD SVC 0.00\n2 TRIO- POT PIE @ 9 99 19.98\n2 C- PIE RICE 0.00\n1 NO BEVERAGE 0.00\n1 SOFT ORIN 2.79\nBDAY CLUB $5 5 00-\nSubtotal 17.77\nTax 1.42\n07:10PM Total 19.19\nPEK MMBMKMKEBMMMKM MH\nIndulge Take hone a whole piel",
+ "checksum": false,
+ "runtime_s": 1.1998108748812228,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    16.934555053710938,
+    0.0
+   ],
+   [
+    328.17706298828125,
+    0.0
+   ],
+   [
+    328.17706298828125,
+    347.0
+   ],
+   [
+    16.934555053710938,
+    347.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

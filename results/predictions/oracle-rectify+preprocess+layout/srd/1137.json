@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Salmon Plate",
+   "qty": 1,
+   "price": 11.49
+  },
+  {
+   "name": "J Extra Shrimp",
+   "qty": 1,
+   "price": 1.45
+  }
+ ],
+ "subtotal": 12.94,
+ "tax": 1.23,
+ "tip": null,
+ "total": null,
+ "raw_text": "Maui Teriyaki\n27000 Marine Ave #1\nRedondo Beach, CA 90278\n(310) 973-3500\nServer: Annie Station: 1\nOrder #: 168479 Phone Order\nCustomer Name: LEANNE\nGuests: 1\n>> SETTLED ««\n1 Salmon Plate 11.49\nJ Extra Shrimp 1.45\nSUB TOTAL: 12.94\nTax 1: 1,23\nTOTAL: $l\nCash Tendered: 20.00\nCHANGE: 2 -5 83\n>> Ticket #: 7 «\nCreated: 10/25/2017 LM AM\nSETTLED: 10/25/2017 11:28:31 AN\nTHANK YOU!",
+ "checksum": null,
+ "runtime_s": 1.400963957887143,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    141.0,
+    56.0
+   ],
+   [
+    657.0,
+    101.0
+   ],
+   [
+    690.0,
+    994.0
+   ],
+   [
+    25.0,
+    990.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

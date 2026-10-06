@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "it Bell 017314\nPend] eton Pike\n720 P\n(31s SaytN IN e026\n9/1/2016 8 ba\nOrder 378752 Cashi ere aA\n1 Power Veg Bow!\n1 Rg Orange Crsh F2\nSubTotal 6\nTax 0.\nTotal 16\nVisa\nAcct : KXXXXXXX2276\nApproval :571883\nDRIVE THRU\nThank you for visiting!\nMOBILE\n_ORDERIE\nIS TERE",
+ "checksum": null,
+ "runtime_s": 3.6032417931128293,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    428.26873779296875,
+    0.0
+   ],
+   [
+    428.26873779296875,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

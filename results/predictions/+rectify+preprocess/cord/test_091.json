@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "UUKt NGAN",
+   "qty": 1,
+   "price": 6000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "3\n' BAKLO BNUKS 1» O00\nUUKt NGAN 6,000\nth - 21, OHO\ncASt 30.a00\nCG 8 000",
+ "checksum": null,
+ "runtime_s": 4.371491376077756,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    227.0,
+    0.0
+   ],
+   [
+    227.0,
+    276.8345947265625
+   ],
+   [
+    0.0,
+    276.8345947265625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

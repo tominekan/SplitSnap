@@ -1,0 +1,35 @@
+{
+ "items": [
+  {
+   "name": "oSMIKE MT CL",
+   "qty": 1,
+   "price": 24008.0
+  },
+  {
+   "name": "WOONUT JELLY CL",
+   "qty": 1,
+   "price": 4000.0
+  },
+  {
+   "name": "SUB ITA",
+   "qty": 1,
+   "price": 28009.0
+  },
+  {
+   "name": "casi",
+   "qty": 1,
+   "price": 100000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 28006.0,
+ "raw_text": "1 oSMIKE MT CL) 24,008\nWOONUT JELLY CL 4,000\n: es - + . vee -4\nSUB ITA 28,009\nTOTAL $A 3 28.006\nTOTAL Inet \\\ncasi . 100,000\nCHANGE \\ 12,000\nee ||",
+ "checksum": null,
+ "runtime_s": 3.7965366248972714,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

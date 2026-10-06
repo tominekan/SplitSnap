@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "Iced Tea",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "Sm Garlic Bread",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "G92 Buca Chianti",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Gl Buca Chianti",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Sn Chcp Antipasto Salad",
+   "qty": 1,
+   "price": 18.99
+  },
+  {
+   "name": "Lg Supremo Pizza",
+   "qty": 1,
+   "price": 29.99
+  },
+  {
+   "name": "Tatal",
+   "qty": 1,
+   "price": 109.28
+  }
+ ],
+ "subtotal": 100.26,
+ "tax": 9.02,
+ "tip": null,
+ "total": 109.28,
+ "raw_text": "Buca di Berpu\nStore#0511\nUniversal City, CA 91608\n818 .509.94€3\nServer: Molly 07/15/2016\nTable 53/1 7:57 PM\nGuests: 3 40020\nOrder Type: Dining\nIced Tea 3.29\nSm Garlic Bread 9.99\nG92 Buca Chianti (2 €14.C9) 28.00\nGl Buca Chianti 10.00\nSn Chcp Antipasto Salad 18.99\nLg Supremo Pizza 29.99\nEEEESEREEESEESESSAEESESES SEEESEEEEEES ESE\nWe value your opinion.\nVisit bucafeedback.com to complete\na brief survey and enter our weekly\ndrawing for a chance to win a\n$100 digital promotional certificate.\nSee bucadibeppo.com/buca-feedback-rules\nfor Official Rules and restrictions.\n091 257 000 051 115\nFSSEESLEEEET ERS ASSESSES EES EESELE EEE ESS SS\nSubtotal 100.26\nTax 9.02\nTatal 109.28\nBalance Due 109.28",
+ "checksum": false,
+ "runtime_s": 3.0424837491009384,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    152.0,
+    21.0
+   ],
+   [
+    543.0,
+    21.0
+   ],
+   [
+    557.0,
+    996.0
+   ],
+   [
+    114.0,
+    996.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

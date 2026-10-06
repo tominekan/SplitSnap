@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "PHY Os",
+   "qty": 1,
+   "price": 10093.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 11000.0,
+ "raw_text": "Rupor 1S Lh, O00\nADL CHICKEN BO) Ri¢\nsubtotal 160, 70'9\nPHY Os 10,093\nTotal (11,000\nCash SC",
+ "checksum": null,
+ "runtime_s": 2.1022229578811675,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    15.83282470703125,
+    0.0
+   ],
+   [
+    542.4407958984375,
+    0.0
+   ],
+   [
+    542.4407958984375,
+    863.0
+   ],
+   [
+    15.83282470703125,
+    863.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

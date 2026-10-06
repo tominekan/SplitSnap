@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Plate",
+   "qty": 1,
+   "price": 9.1
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1 PURCHIOE ay\nPanda Evyrese #14\nBrooklyn, jyy\n(718) 246-3898\n12/22/2017 4:58:01 py\nOrder: 196812\n1 Plate 9.10\nCHOW MEIN-1/2\nCHOW MEIN-1/2\nBROCCOLI BEEF\nBEIJING BEEF\nPlate\nCHOW MBIN-1/2\nCHOW MEIN-1/2\nCKN EGG’ROLL\n~T0 Go-\nServer: Cheryfia M\nGRILL, IYAKI CKN\n1 PEPST Do~UREVAKI\n1 PEPSI 20 02\nz\n‘SubTotal\nTAX\nTotal",
+ "checksum": null,
+ "runtime_s": 0.5965721667744219,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    37.9937744140625,
+    0.0
+   ],
+   [
+    720.3687744140625,
+    0.0
+   ],
+   [
+    720.3687744140625,
+    999.0
+   ],
+   [
+    37.9937744140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

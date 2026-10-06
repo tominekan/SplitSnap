@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "PREM WHITE",
+   "qty": 1,
+   "price": 16.75
+  },
+  {
+   "name": "PREN RED",
+   "qty": 1,
+   "price": 16.75
+  },
+  {
+   "name": "UP",
+   "qty": 1,
+   "price": 3.26
+  },
+  {
+   "name": "VONG RIPTENE",
+   "qty": 1,
+   "price": 9.75
+  },
+  {
+   "name": "LING VONO",
+   "qty": 1,
+   "price": 22.75
+  },
+  {
+   "name": "OITET SOA",
+   "qty": 1,
+   "price": 3.78
+  },
+  {
+   "name": "uIP",
+   "qty": 7,
+   "price": 3.25
+  },
+  {
+   "name": "uBTOo",
+   "qty": 1,
+   "price": 132.26
+  }
+ ],
+ "subtotal": null,
+ "tax": 9.76,
+ "tip": null,
+ "total": null,
+ "raw_text": "areRrrANAccT ¢\nREtTAURANT\n+RALE 403 CHECK 39\nugee Gest 6 S98 (a1 | BALIN\nPREM WHITE 16.75\nPREN RED 16.75\nOIYTET soA 3e Tb\n7? UP 3.26\nVONG RIPTENE 9.75\nChtcken Para2i.75\nSCAMPI MILAN2S. 75\nLING VONO 22.75\n1/2 PASTA SP16.7S\nOITET SOA 3.78\n7 uIP 3.25\n“uBTOo 132.26\nTax 9.76\n'Otear 24? 63\nconan (Oly\n‘° [a wae > mete",
+ "checksum": null,
+ "runtime_s": 2.812889124965295,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    32.19500732421875,
+    0.0
+   ],
+   [
+    292.9549865722656,
+    0.0
+   ],
+   [
+    292.9549865722656,
+    391.82000732421875
+   ],
+   [
+    32.19500732421875,
+    391.82000732421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

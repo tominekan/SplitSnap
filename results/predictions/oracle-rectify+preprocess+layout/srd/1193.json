@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "TRIO- POT PIE",
+   "qty": 2,
+   "price": 19.98
+  },
+  {
+   "name": "PIE SLICE",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "NO BEVERAGE",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "SOFT ORINK",
+   "qty": 1,
+   "price": 2.79
+  },
+  {
+   "name": "BOAY CLUB",
+   "qty": 1,
+   "price": 5.0
+  }
+ ],
+ "subtotal": 17.77,
+ "tax": 1.42,
+ "tip": 0.0,
+ "total": 19.19,
+ "raw_text": "Mario Callender o Restarant\nStore #0134\n2131 Price St\nPismo Beach, CA 93449\n(805) 77\n3-0606\nwew.acoles.cor\n111590 Becky\nTol 2/1 Chk 1878 Gst 2\nNov30'14 06:35PM\n1 saCORNBREAD SVC 0.00\n2 TRIO- POT PIE @ 9.99 19.98\n2 ce PIE SLICE 0.00\nNO BEVERAGE 0.00\ni SOFT ORINK 2.79\nBOAY CLUB $5 5. 00-\nSubtotal 17.77\nTax 1.42\n07:10PM Total 19.19\nVE VE PEGE FE VE HE VE VE VE KE WE HE WE WE GO\nIndulge Take home a whole piel",
+ "checksum": false,
+ "runtime_s": 1.0078812080901116,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    34.0,
+    1.0
+   ],
+   [
+    303.0,
+    1.0
+   ],
+   [
+    320.0,
+    345.0
+   ],
+   [
+    22.0,
+    344.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

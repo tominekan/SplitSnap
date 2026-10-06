@@ -1,0 +1,50 @@
+{
+ "items": [
+  {
+   "name": "Oysters",
+   "qty": 1,
+   "price": 19.0
+  },
+  {
+   "name": "1..Fish and Chips",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "MONSTAH roll",
+   "qty": 1,
+   "price": 114.0
+  },
+  {
+   "name": "Chicken Wings",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "3..*Patron",
+   "qty": 1,
+   "price": 28.5
+  },
+  {
+   "name": "2..*S8parkling Wine",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "1..*#0pen Liquor",
+   "qty": 1,
+   "price": 6.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Ves\nFALMOUTH RAW BAR\n56 Scranton Ave.\nFalmouth, MA 02540\n(508) 548-7729\nCheck 5738/1 07/02/18-4 6 -28pm\nGuests J Abby Table\n1..6 Oysters 19.00\n1..Fish and Chips 22.00\n3. -MONSTAH roll 114.00\n1, Chicken Wings 12.00\n3..*Patron 28.50\n2..*S8parkling Wine 22.00\n1..*#0pen Liquor 6.00\n| patron double\n(4Item shown with tax included)\nItems 219.81\ntown/MA tax _ bs 38\nTOTAL 235. 5.19\nfo\n“ee\n+N",
+ "checksum": null,
+ "runtime_s": 2.354171833023429,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

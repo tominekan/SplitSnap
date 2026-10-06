@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "N 1 Tonkotsu",
+   "qty": 1,
+   "price": 9.5
+  },
+  {
+   "name": "WN Tofu",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "S Egg",
+   "qty": 1,
+   "price": 1.3
+  },
+  {
+   "name": "Corn",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "Bamboo shoots",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "N Naruto",
+   "qty": 1,
+   "price": 0.75
+  },
+  {
+   "name": "Spicy",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 13.05,
+ "tax": 1.01,
+ "tip": null,
+ "total": 14.06,
+ "raw_text": "Sp Nene > RD ee AS Ws\nSS KAZ RAMEN\n] 22413 BARTON ROAD\nNY GRAND TERRACE, CA 92313\n. S 9094229532\n> ORDER: T4G1\nSN _DINEIN\nSN Cashier: Mickey\nS 04-Nov-2018 9:07:13P\n. Guest 1\nN 1 Tonkotsu $9.50\nWN Tofu $0.00\nS Egg $1.30\nCorn $0.50\nBamboo shoots $1.00\nN Naruto $0.75\nSpicy $0.00\n'} Subtotal $13.05\nTax $1.01\nTotal $14.06\nOrder 4AW465NFNMVRT",
+ "checksum": true,
+ "runtime_s": 2.0671107498928905,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    128.01251220703125,
+    230.09378051757812
+   ],
+   [
+    611.637451171875,
+    230.09378051757812
+   ],
+   [
+    611.637451171875,
+    934.9937744140625
+   ],
+   [
+    128.01251220703125,
+    934.9937744140625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

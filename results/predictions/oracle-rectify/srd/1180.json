@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "(ar2yaat-88s7\nss oan\nOx a GOR Get",
+ "checksum": null,
+ "runtime_s": 0.1970928329974413,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    71.0,
+    92.0
+   ],
+   [
+    271.0,
+    90.0
+   ],
+   [
+    313.0,
+    439.0
+   ],
+   [
+    75.0,
+    447.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

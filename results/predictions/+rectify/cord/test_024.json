@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Rp.06.000 x1 Rp56 . 000\nS003-Chakorete Cookies\nRp.62.000 xt Rp. 62 000\n6002-Flastic Bag Medium",
+ "checksum": null,
+ "runtime_s": 0.3753133751451969,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    12.511810302734375,
+    0.0
+   ],
+   [
+    574.6085815429688,
+    0.0
+   ],
+   [
+    574.6085815429688,
+    718.8101806640625
+   ],
+   [
+    12.511810302734375,
+    718.8101806640625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

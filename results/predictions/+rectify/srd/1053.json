@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "A\nPrimo}\nFamily Restaurant\n: bil",
+ "checksum": null,
+ "runtime_s": 0.20285554183647037,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    29.44750213623047,
+    0.0
+   ],
+   [
+    253.6374969482422,
+    0.0
+   ],
+   [
+    253.6374969482422,
+    399.0
+   ],
+   [
+    29.44750213623047,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

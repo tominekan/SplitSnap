@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "e eeee S050 COUP",
+   "qty": 1,
+   "price": 9010.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "4 om woe, wee toe ng, -, = Pr Oras re\ni CoShee ALES cFKN 64 200\n-, - ~w ms o £ tae | = ess\ni garlic sepper bee 2. QU\n| red curry beet 4? 500\n[se eer ee ee 2. =\n2 fiiad Ufs2 a4 =O\na i\nae fen gee, one, . aoe ym: os 8 %\n4 steamed rice a7 Ang\nte: Re? ee\nSU ST eT ss\nSUE Gis os re ore\nbal SUL fea, GU\nserene Crea i; Gre\nto a& \" @ ?UG\nq as ret 2 omy ge 4\n. olf, Ve\niy Fk eid get\nwt ter\neran 6660 tome 00nd Sten Get! OS ER GOL SHO Ewe WO! 15ES sPW 1070 cone Go Od OE 100 tome i es ee Se\n« -a04 tate me Wer coe coms ume wine\n“E93 FP sth “ESR aT RET\nBoat Fed E met Pony bee oF\non won oem Ott\ndese anes cove ene som sete ome cue omne been 0960 fuup SPN wees Som me OOS) Oe Oe etane warms ane. ® Ce ee ee)\nwaby ame Guny Ores COME DOEd GON O90 tile tw <00 ont oun Feag wow coer tnts Ded e801 MD) Ome OOee Geum Mane. nae tte cee nay Cane tee cee sui\nwae a ee oe\no—\ntom ane ome som 600 10\n‘\ne eeee S050 COUP 9010 am\n. ao anes ene ecw\nad > mee tae e0he een ened oF\n“ey . je ener oes tess\n«",
+ "checksum": null,
+ "runtime_s": 11.950618334114552,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    61.325103759765625,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    61.325103759765625,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Frimoy\nFamily Restaurant",
+ "checksum": null,
+ "runtime_s": 0.21497095795348287,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    18.511428833007812,
+    0.0
+   ],
+   [
+    289.1771240234375,
+    0.0
+   ],
+   [
+    289.1771240234375,
+    347.0
+   ],
+   [
+    18.511428833007812,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

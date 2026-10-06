@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "Subtctal",
+   "qty": 1,
+   "price": 19.27
+  },
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "Db] Stack Cheeseturger",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Bacon",
+   "qty": 1,
+   "price": 0.99
+  },
+  {
+   "name": "Subtetal",
+   "qty": 1,
+   "price": 12.27
+  },
+  {
+   "name": "Tctal",
+   "qty": 1,
+   "price": 13.13
+  }
+ ],
+ "subtotal": 31.54,
+ "tax": 1.35,
+ "tip": null,
+ "total": 20.62,
+ "raw_text": "Server: Nicole\nTable 52/1 mne013\n5 102 Py\nGuests; 2 mont\nSeat 1 A\n+\noo + APE\n| Margherita Caizcne 223\nSide Caesar Na\nSubtctal 19.27\nTax 1.35\nTotal 20.62\nSeat 2\nZEEE SEERA AEE obo oboe:\nCoke 2.29\nDb] Stack Cheeseturger 8.99\nBacon 0.99\nSubtetal 12,27\nTax 0.86\nTctal 13.13\nSubtotal 31.54\nTax 2.21\nTotal 33,75\nBalance Due 33.75\nThank you for dining with us!\nSUGGESTED GRATUITY:",
+ "checksum": false,
+ "runtime_s": 0.6289207921363413,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    35.35003662109375
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    46.768768310546875,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

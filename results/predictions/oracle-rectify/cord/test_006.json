@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "2ASH",
+   "qty": 1,
+   "price": 50000.0
+  },
+  {
+   "name": "CHANCE",
+   "qty": 1,
+   "price": 4000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "oe ie owe\n1 2GG TART oe\n2 SHOCO CUS“ARD PASTRY _ 24°\n1 2EDBEAN BI’EAD tite\nTOTAL 46 ,000\n2ASH 50,000\nCHANCE 4,000",
+ "checksum": null,
+ "runtime_s": 0.7177854990586638,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

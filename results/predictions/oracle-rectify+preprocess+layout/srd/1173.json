@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Bottled Water",
+   "qty": 1,
+   "price": 2.45
+  },
+  {
+   "name": "Add Pollo Taco",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Add Carnitas Taco",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Sour Crean",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "Chihuahua Cheese",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "IL Sales",
+   "qty": 1,
+   "price": 1.52
+  },
+  {
+   "name": "Restaurant",
+   "qty": 1,
+   "price": 0.04
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 12.4
+  },
+  {
+   "name": "Beverage",
+   "qty": 1,
+   "price": 2.45
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.15,
+ "tip": null,
+ "total": 14.85,
+ "raw_text": "hath ow a bat\nHie Meoxb dtoat Naty Fae\nTablie a#t1\nans ft 142 Serv: Claudia\n1 Bottled Water — $2.45\n1 Add Pollo Taco $4.95\n1 Add Carnitas Taco $4.95\n1 Sour Crean $1.25\n1 Chihuahua Cheese $1.25\n— Net Total: $14.85\nIL Sales $1.52\nMPEA Tax $0.15\nRestaurant $0.04\nTOTAL: $16.56\nFood: $12.40\nBeverage: $2.45 0\nTes\nn\nA Robinson Hil) Company\nIt s The ExpeRHience That Counts!\nTel] us about your visit!\nWw. rod lnsonhi | lusa. cam/quest -survey",
+ "checksum": null,
+ "runtime_s": 1.732086833100766,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    88.0,
+    217.0
+   ],
+   [
+    485.0,
+    208.0
+   ],
+   [
+    514.0,
+    990.0
+   ],
+   [
+    58.0,
+    996.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

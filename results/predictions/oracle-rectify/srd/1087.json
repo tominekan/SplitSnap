@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Egito tees\nveo 1501\n{516)147-68e-—\ncreck: Sse, Ouse\npate.07/03/19__Tisex09:22e8\napie: server:tsel¥,",
+ "checksum": null,
+ "runtime_s": 0.2533191661350429,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    56.0
+   ],
+   [
+    207.0,
+    17.0
+   ],
+   [
+    256.0,
+    248.0
+   ],
+   [
+    21.0,
+    255.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

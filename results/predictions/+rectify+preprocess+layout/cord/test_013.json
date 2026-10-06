@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "KURA",
+   "qty": 1,
+   "price": 1050.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "OD JOURNEY é\nBASD KURA iGes o.cne\nin 10.00 4 1,050\n1\n\\ a iy\na pauen\n—_\n0 coc\n>»\nz 4 + emmenet Cos ;",
+ "checksum": null,
+ "runtime_s": 6.7618810422718525,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

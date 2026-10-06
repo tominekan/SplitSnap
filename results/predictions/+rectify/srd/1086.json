@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Chicken Milanese",
+   "qty": 2,
+   "price": 46.0
+  },
+  {
+   "name": "Belvedere",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 12.51,
+ "tip": null,
+ "total": 157.51,
+ "raw_text": "316-2942922\nTable #2\nTrans #: 137017 Serv: Manager 2\n4/20/2018 8:29 PM 34\n1 Shrimp Scampi $27. 0\n2 Chicken Milanese $46.00\n1 Veal Milanese $27. 00\n3 Grey Goose $30. 00\n1 Pineapple Juice $3. 00\n1 Belvedere $12.00\n1 Becks Non Alcoholic $6. 00\n1 Corona $6. 00\nI\nNet Total: $145. 00\nTax $12.51\nAmount Due: $157.51",
+ "checksum": null,
+ "runtime_s": 0.7428672080859542,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    657.6187744140625,
+    0.0
+   ],
+   [
+    657.6187744140625,
+    989.5812377929688
+   ],
+   [
+    0.0,
+    989.5812377929688
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

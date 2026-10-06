@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "rae",
+ "checksum": null,
+ "runtime_s": 1.8943957497831434,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    431.0,
+    0.0
+   ],
+   [
+    431.0,
+    482.3792724609375
+   ],
+   [
+    0.0,
+    482.3792724609375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "6 TWIST DONUT\n1 REDBEAN BREAD\nTOTAL\nCASH\nCHANGE",
+ "checksum": null,
+ "runtime_s": 0.43381654215045273,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

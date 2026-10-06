@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "~— ee we\n1 Ptge Eargtart WAAAY\n1 Choco Melt tL on\nCMATOT EL “Noy\nDUE 7? a! Sis\nCASH AV CISD\nCHANGE 27 09\nTOTAL QTY 2 ITEM 2% PCS",
+ "checksum": null,
+ "runtime_s": 2.6425912091508508,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    863.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

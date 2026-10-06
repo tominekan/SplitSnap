@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "=~ 7 —\naa Gay GE one een eee eee ors ame at\n= a en =o ors oe oat ow on on oe\nwee =e Ou wes een one - =\nTne CE NS OE ED OED Oe ce cme ee Te SE Oy we cee cen ome Oe Oe ow er aot Cane eT\n2 am cn Coe vam cn came amy wees UO ON OO EP\n== ae\n= oe ae ee ow ae eats Wen toe es eae pias anne Une COPe A OU SD SST SED ONES OE NS OND EY SEY SN\nOe Gm em Gs ow —_— we\nANE AND ORD SEED SD PEE Ge Sh TE GEE ww HE) Eee eae mam WEE Oat CE OUP USE SER AD SEP NS SAY NN GOT Se?\nSALMON PESTO\nSALMON PESTO\nDisc -100%(ITMOB)\nOUBTTL\nOVC ChG 6%\nPB1 10%\nOG\né Mel\n’ ores oa\n. . Peas\n. - at",
+ "checksum": null,
+ "runtime_s": 14.489928541239351,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    263.0,
+    347.0
+   ],
+   [
+    2193.0,
+    347.0
+   ],
+   [
+    2244.0,
+    2883.0
+   ],
+   [
+    248.0,
+    2873.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

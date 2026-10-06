@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Pree Glass",
+   "qty": 3,
+   "price": 7.5
+  },
+  {
+   "name": "Paysents",
+   "qty": 1,
+   "price": 62.47
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 19.5,
+ "raw_text": "¥\nPrimo\nFamily ’ Restaurant ‘5;\n9 8:14 mn fy ij\nzap. ate Beet rf\n3 Pree Glass 07.50 wen |i):\n* HED veggte €27.00 wo fo\nQb-Total $19.50 ,\nSales Tox £2.37\nPaysents $62.47\nMASTERCARD 966170",
+ "checksum": null,
+ "runtime_s": 1.4038687502034009,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    29.44750213623047,
+    0.0
+   ],
+   [
+    253.6374969482422,
+    0.0
+   ],
+   [
+    253.6374969482422,
+    399.0
+   ],
+   [
+    29.44750213623047,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Pewee",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "C&a-Caa",
+   "qty": 1,
+   "price": 205.6
+  },
+  {
+   "name": "a2 QS ORANGE",
+   "qty": 1,
+   "price": 5.4
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 17.0,
+ "raw_text": "lac Source\nF Be Acain Ure\nPath §7ORle\ntw OF) .2ieae ¢ le Of “255\nNOTE\n1 Pewee >.80 4.00\n1 C&a-Caa 5.00 205.60\na2 QS ORANGE 5@ 5.40\nTOTAL EURO *17 .00\nH.T TVA 10% os, 4s\nCONT TVA 10% 01.55\nTOTAL TTC 10% 017.00\nTen. 01,48.26.44.8)\nMERC] DE VOTRE VISITE",
+ "checksum": null,
+ "runtime_s": 1.5105525830294937,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    53.0,
+    2.0
+   ],
+   [
+    186.0,
+    2.0
+   ],
+   [
+    217.0,
+    247.0
+   ],
+   [
+    26.0,
+    246.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

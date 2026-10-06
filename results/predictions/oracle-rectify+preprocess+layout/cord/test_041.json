@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Cappucino (Hot/Iced",
+   "qty": 1,
+   "price": 36303.0
+  },
+  {
+   "name": "Cafe .atte",
+   "qty": 1,
+   "price": 30303.0
+  },
+  {
+   "name": "Hot Chocolate Marsnmallo",
+   "qty": 1,
+   "price": 30303.0
+  },
+  {
+   "name": "Chicken Cesar Salad",
+   "qty": 1,
+   "price": 43290.0
+  },
+  {
+   "name": "Mineral Water",
+   "qty": 1,
+   "price": 12987.0
+  }
+ ],
+ "subtotal": 316017.0,
+ "tax": null,
+ "tip": 45982.0,
+ "total": null,
+ "raw_text": "Tet eee e @- cece we wecosssrrererre\nChicken Maryland 47619.00\nCappucino (Hot/Iced) 36303 09\nNaga Lychee Juice 3432.\nCafe .atte 30303 .UU\nHot Chocolate Marsnmallo 30303 .Gt\nChicken Cesar Salad 43290 .00\nMineral Water 12987 .0F\nMineral Water 12987...\nLychee/Peach/Lemon/Mango 2° .74.09\nChicken Maryland 47619.00\nSubtotal] 316017 60\nService Charge 5% + 45982 .68\nTgTHl 365000.00",
+ "checksum": null,
+ "runtime_s": 4.248764958931133,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    64.0,
+    62.0
+   ],
+   [
+    492.0,
+    70.0
+   ],
+   [
+    598.0,
+    1004.0
+   ],
+   [
+    32.0,
+    1031.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

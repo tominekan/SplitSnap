@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "Haricots Vert",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Choc Truf Cake",
+   "qty": 1,
+   "price": 8.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Marco Plarre mite\nSteaknouse @ Grt!!\nTel:0% 6771159\nsarcopterrewhite. te/Daxson\nTo) 15/1 Chk 1501 cst 2\nStation 1 16Feb 19 21:3!\n1 8oz F4l Bearn\n1 Boz Fil Au Po 35.\n1 Onion Ring 4.9\n1 Haricots Vert 4.95\n1 Choc Truf Cake 8.95\n1 Lunta\n22:57 Balance Due\nThank you for your custom.\nPlease cal] again\nVisit us online at\nearcopierrewhite ‘e/dawsor",
+ "checksum": null,
+ "runtime_s": 2.4685904160141945,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

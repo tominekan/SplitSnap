@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Chicken Maryland\nCappucino (Hot/Iced)\nolate Marshnallo\n1 Cesar Salad\nMineral Water\nMineral Water\nLychee/Peach/Lemon/Mango\nChicken Maryland\nSubtotal\nService Charge 5% +\nTTA\n10TAL\n47613,00\n30303.50\n43730..00\n12987 .00\n12987 .(\n2314.00\n7619.00\n316011 00\n48982 .68\n365000.00",
+ "checksum": null,
+ "runtime_s": 0.4673768328502774,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    47.210418701171875,
+    31.053619384765625
+   ],
+   [
+    611.9783935546875,
+    31.053619384765625
+   ],
+   [
+    611.9783935546875,
+    1035.4248046875
+   ],
+   [
+    47.210418701171875,
+    1035.4248046875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

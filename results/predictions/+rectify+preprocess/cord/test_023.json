@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 63008.0,
+ "raw_text": "6 TWIST DONUT\n1 REDBEAN BREAD\nTOTAL 63,008\nCHANGE ij, 000",
+ "checksum": null,
+ "runtime_s": 1.7086942491587251,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    74.44711303710938,
+    143.01361083984375
+   ],
+   [
+    749.306640625,
+    122.4072265625
+   ],
+   [
+    780.21630859375,
+    1230.001220703125
+   ],
+   [
+    72.72991943359375,
+    1219.697998046875
+   ]
+  ],
+  "method": "otsu"
+ }
+}

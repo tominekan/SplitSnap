@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Moonstar Restaurant\n| 383 Gellert Blvd., Daly City, CA 94015\n(650) 992-2888\nPAID REPRINT 1\nT3382 P Pee) #2406\nVB NWE) UP PRICE\nwea’ at oe mi & a9\n18% ee zone Sys } er\nfe a\n7 CASH: Le ba 100.00\nHANGE 6\nTHANK YOU",
+ "checksum": null,
+ "runtime_s": 0.5900338760111481,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    159.0,
+    164.0
+   ],
+   [
+    592.0,
+    173.0
+   ],
+   [
+    596.0,
+    902.0
+   ],
+   [
+    153.0,
+    913.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

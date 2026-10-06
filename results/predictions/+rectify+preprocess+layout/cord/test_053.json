@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1 Pecel Komplit + Nasi\n1 SOTO KUDUS\n2 Mineral Water\nSubtotal 107 00\nSeryi Charge 57 5 35\n41 23\nPajak Rest 10/\n123.98\n4 Total",
+ "checksum": null,
+ "runtime_s": 3.7753230831585824,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    80.676025390625,
+    54.31048583984375
+   ],
+   [
+    815.6375732421875,
+    54.31048583984375
+   ],
+   [
+    815.6375732421875,
+    1247.764404296875
+   ],
+   [
+    80.676025390625,
+    1247.764404296875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

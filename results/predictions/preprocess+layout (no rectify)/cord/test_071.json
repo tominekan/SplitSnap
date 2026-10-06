@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "Cuka Apel Tefes",
+   "qty": 1,
+   "price": 498000.0
+  },
+  {
+   "name": "sl",
+   "qty": 1,
+   "price": 1981000.0
+  },
+  {
+   "name": "nn",
+   "qty": 1,
+   "price": 200200.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "oe\nCuka Apel Tefes 1\n198000 498000\nsl 1981000\nnn 200200\nKembalian 92000 eo\n————\neT\nad laln Dd 5,\nAAAAASAASAAAAASAMAMAAAA Aili bdegb",
+ "checksum": null,
+ "runtime_s": 4.487531374907121,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

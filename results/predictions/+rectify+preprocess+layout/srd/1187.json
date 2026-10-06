@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Breakfast Quesadilla",
+   "qty": 1,
+   "price": 13.99
+  },
+  {
+   "name": "Grilled Spinach",
+   "qty": 1,
+   "price": 31.93
+  },
+  {
+   "name": "Southern Comfort",
+   "qty": 1,
+   "price": 10.99
+  }
+ ],
+ "subtotal": null,
+ "tax": 3.84,
+ "tip": null,
+ "total": 50.38,
+ "raw_text": "cae fp LE\n7 Spiral Diner & Bakery\n608 E Hickory St\n—\nDenton, TX 76205\nOrders 1857236\nEat In Order\nServer: Sarah A\nReal Smooth\nShort Stack on 80\nCoffee $2.99\nBreakfast Quesadilla $13.99\nNO Sausage . +$0 00\nGrilled Spinach +31 .93\nSouthern Comfort $10.99\nSubtotal: _— $46 54\nTotal Tax: $3.84\nee\nAO ao at Se Sek ON ie Sa OP OO mh a me Ml Oe me On ome me\nTotal: $50.38\nOrder Balance due:\nwaw.sptraldiner.com\nFollow Us On\nfacebook.com/spiraldiner\ninstagram.com/spiraldiner\n' Thanks for your business!",
+ "checksum": null,
+ "runtime_s": 2.354667958104983,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    1023.0,
+    0.0
+   ],
+   [
+    1023.0,
+    1293.482421875
+   ],
+   [
+    0.0,
+    1293.482421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

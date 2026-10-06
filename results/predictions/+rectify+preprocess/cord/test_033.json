@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "riches POTATO (R",
+   "qty": 1,
+   "price": 50800.0
+  },
+  {
+   "name": "HOT T",
+   "qty": 1,
+   "price": 67000.0
+  },
+  {
+   "name": "HOT TUNA",
+   "qty": 1,
+   "price": 87000.0
+  }
+ ],
+ "subtotal": 117500.0,
+ "tax": null,
+ "tip": 11070.0,
+ "total": 148127.0,
+ "raw_text": "1 riches POTATO (R 50,800\nU\n| HOT T 67,000\n1 HOT TUNA 87,000\nDisc -100%(ITMOB) ~67 ,000\nSUBTTL 117,500\nSVC CHG 6% 11,070\nPB! 10% 19,557\nTOTAL 148.127",
+ "checksum": false,
+ "runtime_s": 2.90727658290416,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    108.09182739257812
+   ],
+   [
+    575.0,
+    108.09182739257812
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    863.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

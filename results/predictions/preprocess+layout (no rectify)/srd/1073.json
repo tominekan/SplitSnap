@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "SHS Any Ftlong",
+   "qty": 1,
+   "price": 11.99
+  },
+  {
+   "name": "Asomt",
+   "qty": 1,
+   "price": 13.22
+  }
+ ],
+ "subtotal": 11.99,
+ "tax": null,
+ "tip": null,
+ "total": 13.22,
+ "raw_text": "Subway#44963-0 Phone 626-565-9999\n625 S Fair Gaks Ave\nPasadena, CA, 91105\nServed by: 41 5/1/2019 2:25:37 pe\nTere 0-Transe 1/A-297424\nQty Size ites Price\n1 SHS $11.99 Any 2 Ftlong 11.99\n1 12\" -Steak & Crse Sd\n1 12° -B.4.7 Sa\nSub Total 11.99\nSales Tex (10.25%) 1.3\nTotal (€at In) 13.22\nCredit Card 13.22\n1 Wo: 061140\nPhebe Mo: 912121913552\nCard Issuer: Visa\ndecount Mo; $88beesesessQng?\nbequired: Contact _Exy\nAsomt: $13.22\nSeo lication: Case\nAlo: so00003 0\nNR: eseooegogg\nI: £\n500\ntate/Tipe: 5/1/2019 2:25:37 py\nee,\nOSTONER enoy",
+ "checksum": false,
+ "runtime_s": 2.6328201252035797,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

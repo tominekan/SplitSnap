@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "*DRV THRU\nCash",
+ "checksum": null,
+ "runtime_s": 0.18751895800232887,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    14.12750244140625,
+    1.227508544921875
+   ],
+   [
+    267.99749755859375,
+    1.227508544921875
+   ],
+   [
+    267.99749755859375,
+    399.0
+   ],
+   [
+    14.12750244140625,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Burrito Cmb",
+   "qty": 1,
+   "price": 8.28
+  },
+  {
+   "name": "Bur-BRC",
+   "qty": 2,
+   "price": 3.78
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 12.06
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.06,
+ "tip": null,
+ "total": null,
+ "raw_text": "257 LIDIA H |\nYour Order: 1974\nhk 1924 Jun28'17 05:36P Gst 0\nDrive Thru\n1 Burrito Cmb 8.28\nChk Ranchero Bur\nADD\nAvo Slcs\nInd Chips\nSM DRINK\nCoke\n2 Bur-BRC @ 1,89 3.78 |\nCash 13.25 \\\nFood 12.06\nTax 1.06\nPayment 13.12\nChange Due 0.13\n257 Check Closed\nJun28' 17 05:38PM",
+ "checksum": null,
+ "runtime_s": 1.0432234578765929,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    236.36251831054688
+   ],
+   [
+    561.0,
+    236.36251831054688
+   ],
+   [
+    561.0,
+    967.762451171875
+   ],
+   [
+    0.0,
+    967.762451171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

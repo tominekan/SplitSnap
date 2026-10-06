@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Chicken HOC, IPcs",
+   "qty": 1,
+   "price": 15000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 15000.0,
+ "raw_text": "aoae we ow\nmee women wwe ome wm: - -\n| Chicken HOC, IPcs\n-\n15.000\na dd\ncub Total 15,000\nP.Pest I % 1.590\nvot ‘Us\nKembal 33, £00\nwae wee eer em fe ew ewe\n-\n-—-\nwee\n| Jtens,\nwa-s*\n———ee",
+ "checksum": null,
+ "runtime_s": 15.15970483282581,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

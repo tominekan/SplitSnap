@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ZOCA RESTAURANT\nTELD PARKWAY\nEACH, DE 19930\n(302) 616-2120\nWWH.ZOCA RESTAURANT\nCheck #: 5033 Gee,\nServer: Madi by om\nTable: 31/2 Guests:\n1 House Recipe\n2 Sandia Margarita (@13.00/ea)\n1 Totem Honey Bee\n1 Queso Fresco Guacamole\n1 Queso Fundido Mexican Street Corn Dip\n1 Salsa De Molcajet\n2 Taquitos Carne Asada (@15.00/ea)\n1 Taquitos Baja California Shrimp\n1 Mole Enchilada\n1 Quesadilla Chicken\nSub-total\nCOMPLIMENTARY\nITEM COMPS:\n1 Queso Fundido Mexican Street Corn Dip\n12.00\nSub-tota]",
+ "checksum": null,
+ "runtime_s": 0.7932193339802325,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

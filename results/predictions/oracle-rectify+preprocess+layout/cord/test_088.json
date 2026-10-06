@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "STIX ECLAIRS",
+   "qty": 1,
+   "price": 19000.0
+  },
+  {
+   "name": "xX",
+   "qty": 1,
+   "price": 28000.0
+  }
+ ],
+ "subtotal": 47000.0,
+ "tax": null,
+ "tip": null,
+ "total": 47000.0,
+ "raw_text": "<>\nGY Nunc tiie.\n7?\na egy\nSTIX ECLAIRS\n1 x 19,000 19,000\nALMOND CREAM CHEESE\n1 xX 28,000 28,000\nSUBTOTAL \"47000\nGRAND TOTAL 47,000\nVISA 8945 47,000\nCHANGE DUE 0",
+ "checksum": true,
+ "runtime_s": 2.286346208071336,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

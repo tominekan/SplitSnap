@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "SFT TACO BF",
+   "qty": 1,
+   "price": 5.99
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 6.59,
+ "raw_text": "ep Tiea Keneore\n(425) 486-4472\n6733 NE 161TH ST\n‘3\nKENMORE WA $8028\nDT >248\ncst 04/24/2018\nOrder Type = Orive Thru\nSFT TACO BF 5.99\nSbtctal ss\nDrive Thru Total 6.59\nCASH $10.00\nChange $3.41\nThank you.\nPlease cove anaini",
+ "checksum": null,
+ "runtime_s": 1.6117181251756847,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    26.0,
+    2.0
+   ],
+   [
+    239.0,
+    5.0
+   ],
+   [
+    267.0,
+    397.0
+   ],
+   [
+    4.0,
+    397.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "NET",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "Tol",
+   "qty": 1,
+   "price": 10.94
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "CHURCH'S OHACKEN 84717\n7635 WINNETKA\nCANOGA PARK CA 818\nf- #753 -£ 3-- DRT]\n190 U 9.99\nNET 9.99\nTXTL S$\nTol 10.94\nAS 11.€0\nwe 6\nPETTITT III risrtrirtit)\nTHAMP VOX. TOME AGAIN O88\n_——\nW203. 25\" sie MAY .21°19 REGCOO2",
+ "checksum": null,
+ "runtime_s": 1.155397375114262,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    249.0,
+    0.0
+   ],
+   [
+    249.0,
+    249.0
+   ],
+   [
+    0.0,
+    249.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

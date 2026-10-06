@@ -1,0 +1,66 @@
+{
+ "items": [
+  {
+   "name": "BT TURNBULL NAPA",
+   "qty": 1,
+   "price": 90.0
+  },
+  {
+   "name": "HALIBUT",
+   "qty": 1,
+   "price": 38.0
+  },
+  {
+   "name": "YODEL",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "MILK & HONEY",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "COFFEE SM",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "OCTOPUS",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "BEEF TARTARE",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "FINLANDIA (WELL) $MARTINI",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "SNAPPER",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "09:19PH",
+   "qty": 1,
+   "price": 24.72
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 333.72,
+ "raw_text": "aD0\nIvy\nUe Prettner ~pivd\nSan Diego, CA 92 2101\n1045 SAGE Denne\nwenenenre nn gst 4\nTol 1V/ nctoé\" 16 oy: \"O8PA __.\n1 BUCATINI 0\n+ RAVIOLO 18.4\n1 BT TURNBULL NAPA 90.00\n1 HALIBUT 38.00\n1 YODEL 12.00\n1 MILK & HONEY 10.00\n1 COFFEE SM 6.00\n1 GL ROUND POND SB 13,00\n1 OCTOPUS 16.00\n1 BEEF TARTARE 12.00\n1 FINLANDIA (WELL) $MARTINI 11,00\n1 HALIBUT 38\n.00\n1 SNAPPER 28.00\n09:19PH 24.72\n:19PM Total 333.72",
+ "checksum": null,
+ "runtime_s": 1.7218719990924,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

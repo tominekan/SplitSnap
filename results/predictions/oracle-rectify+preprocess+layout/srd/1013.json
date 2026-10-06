@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "ASADA TACO",
+   "qty": 3,
+   "price": 8.1
+  },
+  {
+   "name": "ATW CHARGE",
+   "qty": 1,
+   "price": 0.75
+  },
+  {
+   "name": "ATM",
+   "qty": 1,
+   "price": 9.58
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ALBETOS\nMEXICAN FOOD\n11732 ARTESIA BLVD.\nARTESIA,CA,\nui Phi (962) 860-2530\nPHONE ORDERS WELCOME\nORDER # 01029\n3 ASADA TACO 8.10\nATW CHARGE 0.75\nSUBTOTAL ;\nTAX TOTAL 5 On\nATM $ 9.58\nRECALL ‘636",
+ "checksum": null,
+ "runtime_s": 1.0534006259404123,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    7.0,
+    59.0
+   ],
+   [
+    733.0,
+    39.0
+   ],
+   [
+    737.0,
+    989.0
+   ],
+   [
+    9.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

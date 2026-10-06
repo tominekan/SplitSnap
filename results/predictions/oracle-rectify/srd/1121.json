@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Heart of Portugal Restaurant\n241 Mineola Blvd\nMineola, NY 11501\n516-742-9797\nxt\nei 09/10/17 3:28 PM\nTable\nD2\n$20.95\n$28.95\n$16.00\n$65.90\n$5.68\n$71.58",
+ "checksum": null,
+ "runtime_s": 0.4557927488349378,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    119.0,
+    85.0
+   ],
+   [
+    590.0,
+    52.0
+   ],
+   [
+    706.0,
+    951.0
+   ],
+   [
+    5.0,
+    951.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Sub Total\nTunai\nKermk\nalian\n186000\n166000",
+ "checksum": null,
+ "runtime_s": 0.2537927080411464,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    556.8101806640625,
+    0.0
+   ],
+   [
+    575.0,
+    789.2855224609375
+   ],
+   [
+    0.0,
+    795.0095825195312
+   ]
+  ],
+  "method": "paper"
+ }
+}

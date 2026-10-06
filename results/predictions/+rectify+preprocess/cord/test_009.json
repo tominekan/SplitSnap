@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Tunal",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "——————————————————————\nee\n—\nBumbu Kaldu Ayam 1\n36000 36000\nSub Total\n36000\nDiscount (0 %)\nTunal £0000\nKembalian 14000\nSooCCCoooaoereaeaqoqq*=~=$~=q$Qom NE:\nee\ncine TTT VC VU CURV UC CTU CUTY\nMAAS -., ae",
+ "checksum": null,
+ "runtime_s": 2.6156460831407458,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    796.456787109375
+   ],
+   [
+    0.0,
+    796.456787109375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

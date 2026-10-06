@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "TAK",
+   "qty": 1,
+   "price": 5455.0
+  },
+  {
+   "name": "EDC CIMB NIAGA No: xx7730",
+   "qty": 1,
+   "price": 60000.0
+  }
+ ],
+ "subtotal": 60000.0,
+ "tax": null,
+ "tip": null,
+ "total": 0.0,
+ "raw_text": "901016 -TICKET CP\n2 60.000 £0,000\nTOTAL BIS? $ -K0,000\nTAK 5,455\nSubtotal 60,000\nTOTAL caty 2.00 60,000\nome\n~ EDC CIMB NIAGA No: xx7730 60.000\nper ee rman esas ee seamen eeoesstEeene. es\neneroucoe THen",
+ "checksum": false,
+ "runtime_s": 2.354785291943699,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    175.04910278320312
+   ],
+   [
+    431.0,
+    169.89752197265625
+   ],
+   [
+    431.0,
+    647.0
+   ],
+   [
+    0.0,
+    647.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

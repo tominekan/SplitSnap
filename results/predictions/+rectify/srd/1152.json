@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "KALOOKI'S\n(03/14/2015 8:12 PM\nChieken Fingers\nSpley shrimp\nSteamed Fish Lg\nBottled Water\nSubtotal\nService Charge 10%\nTotal\nThonk You\nKalooki's\nBay Read, Blue Hi\n91649 Providenciates\n5300\nDenise\nUnit Price\n8.00 6.00\n20.00 20.00\n25.00 25.09\n2.00 4.00\n87.00\n5.70\n$62.70",
+ "checksum": null,
+ "runtime_s": 0.356674041133374,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    10.968765258789062,
+    69.20439147949219
+   ],
+   [
+    327.5774841308594,
+    69.20439147949219
+   ],
+   [
+    327.5774841308594,
+    423.9731140136719
+   ],
+   [
+    10.968765258789062,
+    423.9731140136719
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

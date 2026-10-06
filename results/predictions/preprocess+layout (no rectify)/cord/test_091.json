@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "name": "GON NGAN",
+   "qty": 6,
+   "price": 6006.0
+  },
+  {
+   "name": "yy",
+   "qty": 1,
+   "price": -214000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": ". ~~\n,\n* BAKSO BNUKS 1s O00\n6 GON NGAN 6, 006\nyy -214, 000\nckSut 30. QaOo\nCG @ 000\nTERRIERS WESTIN\n| wat hates reg",
+ "checksum": null,
+ "runtime_s": 0.8675008760765195,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}

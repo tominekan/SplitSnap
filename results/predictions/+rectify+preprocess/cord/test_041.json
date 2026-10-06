@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Cappucino (Hot/Iced",
+   "qty": 1,
+   "price": 30303.0
+  },
+  {
+   "name": "Cafe .atte",
+   "qty": 1,
+   "price": 30303.0
+  }
+ ],
+ "subtotal": 316017.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Ler\n«\nChicken Maryland 47619.00\nCappucino (Hot/Iced) 30303 in\nNaga Lychee Juice 34632.\nCafe .atte 30303 UG\nHot Chocolate Marsninallo 30303.)\nChicken Cesar Salad 43290 .0U\nMinera] Water 12987 .Of\nMineral Water 12987 .u\nLychee/Peach/Lemon/Mango 2.74.09\nChicken Maryland 47619.00\nSubtotal 316017 CO\nService Charge 5% + 45982 .68\nme 365000.00",
+ "checksum": null,
+ "runtime_s": 5.77003262587823,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    47.210418701171875,
+    31.053619384765625
+   ],
+   [
+    611.9783935546875,
+    31.053619384765625
+   ],
+   [
+    611.9783935546875,
+    1035.4248046875
+   ],
+   [
+    47.210418701171875,
+    1035.4248046875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

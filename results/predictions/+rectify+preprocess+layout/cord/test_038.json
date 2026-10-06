@@ -1,0 +1,83 @@
+{
+ "items": [
+  {
+   "name": "XLB Org Park",
+   "qty": 1,
+   "price": 78000.0
+  },
+  {
+   "name": "Sieito Babi",
+   "qty": 1,
+   "price": 65000.0
+  },
+  {
+   "name": "i tfatplate Tahu",
+   "qty": 1,
+   "price": 58000.0
+  },
+  {
+   "name": "6OF Fish Fillet Garle",
+   "qty": 1,
+   "price": 108000.0
+  },
+  {
+   "name": "sa LM Pork Belly",
+   "qty": 1,
+   "price": 3000.0
+  },
+  {
+   "name": "Siew Mat",
+   "qty": 1,
+   "price": 38800.0
+  },
+  {
+   "name": "Py Kwan Yin Cup",
+   "qty": 1,
+   "price": 50000.0
+  },
+  {
+   "name": "L Herbal Jelly",
+   "qty": 1,
+   "price": 38000.0
+  },
+  {
+   "name": "Onde-Ande",
+   "qty": 1,
+   "price": 3005.0
+  },
+  {
+   "name": "cal PPA",
+   "qty": 1,
+   "price": 60394.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": 42135.0,
+ "total": null,
+ "raw_text": "s\nm\nvor\nwos\n(oP 4\n\" ™\ne\nPo\n= J\nan ,\n> ao:\na ¢ 4\nsa\n. ae .\ntee\n‘\n. -\nPy\n’\n~# ne ene eee ee cere ee ee ee\nss I TE M $:13\n—s\n“a Service charge\ncal PPA\nR wo mot\noad 0d Nate ety. £eAiseseoog\n7 -— ( ™ i fe... 7a —_— i\nSa Pavan * Gan ” ‘es, Sy * ae Se a Pe ME it Tee\n- me Street ser usstt2 -\n- -_- «2 Se BSS S — sae\n1 XLB Org Park: 1%\n1 = Sieito Babi\ni tfatplate Tahu\n1 =6OF Fish Fillet Garle\n1 LM Pork Belly\n1 Siew Mat\n* Kwan Yin Cup\nL Herbal Jelly\nt Onde-Ande\n- =e\nPee!\nay\n78,000\n65,000\n58,000\n108,000\n3,000\n38,800\n50,000\n38,000\n3,005\nee ed\n561,80 0\n42,135\n60,394\noeny $20\n-—= ~-, << +o ow",
+ "checksum": null,
+ "runtime_s": 11.017944624880329,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    147.14886474609375,
+    263.142578125
+   ],
+   [
+    1948.979248046875,
+    263.142578125
+   ],
+   [
+    1948.979248046875,
+    3215.5390625
+   ],
+   [
+    147.14886474609375,
+    3215.5390625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

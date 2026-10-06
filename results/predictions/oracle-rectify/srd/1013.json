@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ALBETOS\nMEXICAN FOOD\n11732 ARTESIA BLYD.\nARTESIA ,CA.\nPh: (562) 860-2530\nPHONE ORDERS WELCOME\nORDER # 01029\n3 ASADA TACO\nATH CHARGE\nSUBTOTAL ;\nTAX TOTAL $\nTOTAL 5\nATH $\nRECALL :636",
+ "checksum": null,
+ "runtime_s": 0.5260477908886969,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    7.0,
+    59.0
+   ],
+   [
+    733.0,
+    39.0
+   ],
+   [
+    737.0,
+    989.0
+   ],
+   [
+    9.0,
+    989.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

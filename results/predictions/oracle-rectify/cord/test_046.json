@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "1X S-Bubble Wilk Tea 620,000",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "S-Caramel Hilk Tea €20,000",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "| 1X S-Bubble Wilk Tea 620,000 20,000\n100%\n1X S-Caramel Hilk Tea €20,000 20,000\n40 ,000\nCash: 40,000",
+ "checksum": null,
+ "runtime_s": 0.45897879218682647,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

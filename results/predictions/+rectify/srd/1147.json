@@ -1,0 +1,15 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "NEW DELHI\nTNDIAN\nRESTAURANT\n#2376, Sisivath Quay, Phnon Penh, Canbodia\nTel: 0969591472\nuonlyélehotaai com\naaa INVOICE\nTicket No:1740 Date:24-Nov-16\nTable No: 6 Time:9:12 PH\nTY PRICE TOTAL\nHouse Wine White Glass\nVEGETABLE SHORBA\nGARLIC. NAAN\nKAR PAKORA\nANGKOR. BEER WITH MEAL\nANGKOR BEER WITH HEAL\n* Thank you for dining with ust *\nse Have Free Howe Delivery!",
+ "checksum": null,
+ "runtime_s": 0.3908953748177737,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

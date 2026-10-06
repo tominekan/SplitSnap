@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "‘\n7\nOt ne\n1 TAHU GORENG\n1 CAK WE\n1 PHO TAICHIN/ R)\n1 TA\nWu\n=\n<\nz\n-\nWw\n>\n119,000\n8,330\n12,733\nSub T otal\nSery. 7,0%\nPB1 10,0%\nGrand Total\nTNAMESE\ng",
+ "checksum": null,
+ "runtime_s": 0.7079850833397359,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    27.491424560546875,
+    85.22015380859375
+   ],
+   [
+    863.0,
+    85.22015380859375
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    27.491424560546875,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

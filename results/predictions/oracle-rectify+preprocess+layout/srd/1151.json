@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": 11.62,
+ "tax": 1.14,
+ "tip": null,
+ "total": 13.53,
+ "raw_text": "Collector’s Choice Restaurant\n215 Cypress Ave\nsnohomish WA 98299\n360-568-1277 |\nApril 10, 2019 12:00)\nTicket: 1904100085\nServer: Cheryl V\nseat: Dining: 78:1\nItem Price\n1 Twisted Rueben 11. 697\nSubtotal 11. 62\n1 Service Fee (-6%) --Q. 707\nSales Tax (9, 2%) 1.14\nTotal $13. 53\nTip Helper:\n15%=2. 03 18%=2.44 20%=2. 71\nStarting January 25th, 2019\nCCR includes a 6% service charge on each\nguest check.\nThis service charge is fully retained by\nthe company, not the servers. It will be\nused 100% to provide fair wages for our\nkitchen staff with equitable pay and\nbenefits to our entire team.\nWe are required by law to callect tax on\nthe service charge.\nPlease Continue Tipping your Servers.\nThank you for your continuing support.\nReceive a 3% Discount for paying with\ncash.\n>",
+ "checksum": null,
+ "runtime_s": 7.648437208961695,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    350.0,
+    14.0
+   ],
+   [
+    2030.0,
+    21.0
+   ],
+   [
+    2227.0,
+    4010.0
+   ],
+   [
+    241.0,
+    4010.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

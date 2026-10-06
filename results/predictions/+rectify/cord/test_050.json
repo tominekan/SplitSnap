@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": ":\neee me Se PS ce ese nse em,\nve)\nte\nCauilur ry\nn~ ad “4\nSper ice\n*\ney\nnana\ndgita\n”\n_\ncu",
+ "checksum": null,
+ "runtime_s": 0.7510054579470307,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    862.8282470703125,
+    0.0
+   ],
+   [
+    863.0,
+    1217.640625
+   ],
+   [
+    55.744232177734375,
+    1248.5501708984375
+   ]
+  ],
+  "method": "paper"
+ }
+}

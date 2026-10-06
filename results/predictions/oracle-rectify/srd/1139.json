@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "SS PARADISE\nAndhra Style Famlily Restaurant\nVadyaranyapura, BANGALORE-560097\nContact :9148436557/58\nBILL",
+ "checksum": null,
+ "runtime_s": 0.2702392910141498,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    111.0,
+    1.0
+   ],
+   [
+    433.0,
+    3.0
+   ],
+   [
+    458.0,
+    494.0
+   ],
+   [
+    112.0,
+    506.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

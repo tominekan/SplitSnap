@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": 37.95,
+ "tax": null,
+ "tip": null,
+ "total": 41.32,
+ "raw_text": "BEN’S BAYSIDE\n211-31 26th Avenue\nBayside, MY 1960\n718)229-2367\nySidetBensDel i net\nPee\n0032 Table\nVESSICA M — Svré\nDINING ROOM”\n2 DOUBLE DIP, 1 tky, bow! barley,\n1 past, bow! barley Pa\n1 KNISH 0.\n1 ROUND 3.\n1) KASHE SIDE 3\n1 COFFEE 1\n2 WATER 0.\nSub Total: 37.95\nTax t\n03/05 12:41 TOTAL : 41.32\nSuggested Gratuity\nGRAT 15% 5.69\nhid\nReh aed",
+ "checksum": null,
+ "runtime_s": 0.4977545829024166,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    15.0,
+    0.0
+   ],
+   [
+    321.0,
+    3.0
+   ],
+   [
+    335.0,
+    445.0
+   ],
+   [
+    17.0,
+    446.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

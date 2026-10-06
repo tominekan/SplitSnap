@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Vegale Sanduich\n1 daerean Cheese\n1 ayo\nsual Fries\nPlatn Potato\n10 chives\nTotal Itess 3\nTax\nPuw Total\nBalance Que\nHow vas your visit?\ncall us at 888-624-8140\n1c Om FULLSTIE SALAD +\n38\noun\nhen\n#3 *",
+ "checksum": null,
+ "runtime_s": 0.26018145796842873,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    35.55000305175781,
+    0.0
+   ],
+   [
+    269.2799987792969,
+    0.0
+   ],
+   [
+    269.2799987792969,
+    389.8699951171875
+   ],
+   [
+    35.55000305175781,
+    389.8699951171875
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

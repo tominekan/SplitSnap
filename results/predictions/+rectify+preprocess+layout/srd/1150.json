@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "RES",
+   "qty": 1,
+   "price": 17.99
+  },
+  {
+   "name": "Caa PESU SaUY",
+   "qty": 1,
+   "price": 11.06
+  },
+  {
+   "name": "SAND GALO CHIX",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "t SHRIMP LOUTE",
+   "qty": 1,
+   "price": 24.0
+  },
+  {
+   "name": "D BRUSSEL SPRTS",
+   "qty": 1,
+   "price": 7.0
+  }
+ ],
+ "subtotal": 74.49,
+ "tax": 80.45,
+ "tip": null,
+ "total": null,
+ "raw_text": "HAMS,\nESQUIRE wre enrtct\nSACAANENTO ERTL ASRPORT\n147079 Jods\n1 26/1 GST 2\n144\nAPROS'16 = 6:09PH\nDINE Ia\nasee SEAT 1 vere\n! 78 eT pOFRO RES 2 17.99\n1 Caa PESU SaUY § 11.06\nPeju Cabernet Seuvtgnon\n? SAND GALO CHIX 6.50\nSG CHOP SLD\nE\nt $40 SHRIMP LOUTE 24.00\nU/ ORESS OR SIDE\n1 $D BRUSSEL SPRTS 7.00\nTAX 5.96 AWOUNT OD 80.45\nSEVSSES FBETTEE\nSUBTOTAL 74.49\nTAX 5.96\nAKOUNT DUE BSBO.45\nWE WANT TO HEAR YOUR FEEDBACK:\nPLEASE CONTACT 1-877-672-7467\nGR CUSTOMERSERVICESHHSHOST .COM\nTO SHARE YOUR EXPERIENCE.\nSTOREIO: SHEFRENI",
+ "checksum": null,
+ "runtime_s": 1.6470621251501143,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    274.0303039550781,
+    0.0
+   ],
+   [
+    274.0303039550781,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

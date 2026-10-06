@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "LF ne\nf° SS FARADISE ‘\n< . Andhra Style Famlily Restaurant /;\neee Vadyaranyapura BANGALORE-560097\nee Contact 9148436557/5S 7\nBILutu\nGST-29AD0FSO760B125\nBall No 00027 Ball Dace C6 07 <i? &.\nBall Tame 22:06 Persons 02\nTable No P Wtr No $d\nap *\nItem Name Rate Qty Amount ff.\nTANDOORI CHICKEN 179 1 00 179 O83\nMUTTON RAGON JOSH 209 100 209 90 1\nFISH BIRIYANTI 229 1 00 223 ce Fr\neee\n6217 00 %\nwi Grand Total Rs 617 00",
+ "checksum": null,
+ "runtime_s": 2.4381824161391705,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.3584136962890625,
+    0.0
+   ],
+   [
+    467.09759521484375,
+    0.0
+   ],
+   [
+    467.09759521484375,
+    511.0
+   ],
+   [
+    0.3584136962890625,
+    511.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

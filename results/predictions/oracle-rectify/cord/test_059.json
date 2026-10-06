@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "cr St al\nny’ rity om\n|\ni\nae Sex |\ni\n|\ni\ni\nod\neen ered mosd\nis i]\nbee +\nmeee oes) mae onto\noo.\n= a fh !\n} 4\nre : I\nom eed eee ete\nAE CORE SEY AREY O8Oe eee atien pace Chum Sone meen See mine Siem O4en Sond she tehe Caer eens nene etme Cree biktw Oren nbae emer shut wre Bedt ehee\nSten onke cone ome were\n; -",
+ "checksum": null,
+ "runtime_s": 4.8351864570286125,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    384.0,
+    5.0
+   ],
+   [
+    2556.0,
+    5.0
+   ],
+   [
+    2556.0,
+    4026.0
+   ],
+   [
+    157.0,
+    4091.0
+   ]
+  ],
+  "method": "oracle"
+ }
+}

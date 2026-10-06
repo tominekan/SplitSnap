@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "THAI ICED TEA",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 100000.0,
+ "raw_text": "» 4 .\nTHAI ICED TEA\n1 @20,000\nSUB-TOTAL «=SSC«O\nGRANDTOTAL\nCASH 100,000\nCHANGED 60.000\na",
+ "checksum": null,
+ "runtime_s": 1.1658528340049088,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    72.13861083984375,
+    62.35382080078125
+   ],
+   [
+    712.6541748046875,
+    62.35382080078125
+   ],
+   [
+    712.6541748046875,
+    1276.4141845703125
+   ],
+   [
+    72.13861083984375,
+    1276.4141845703125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

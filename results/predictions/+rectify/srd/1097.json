@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Burrito Cmb",
+   "qty": 1,
+   "price": 8.28
+  },
+  {
+   "name": "Bur-BRC @ 1.89",
+   "qty": 2,
+   "price": 3.18
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 12.06
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.06,
+ "tip": null,
+ "total": null,
+ "raw_text": "257 LIDIA H we 4\nDrive Thru\n1 Burrito Cmb 8.28\nChk Ranchero Bur\nADD\nAvo Slcs\nInd Chips\nSM_DRINK\nCoke\n2 Bur-BRC @ 1.89 3.18\nCash 13825\nFood 12.06\nTax 1.06\nPayment ese\nChange Due als\n0.\n------=--- 257 Check Closed-----------\neae Jun28' 17° 05:38PM--------",
+ "checksum": null,
+ "runtime_s": 0.4969568750821054,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    236.36251831054688
+   ],
+   [
+    561.0,
+    236.36251831054688
+   ],
+   [
+    561.0,
+    967.762451171875
+   ],
+   [
+    0.0,
+    967.762451171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

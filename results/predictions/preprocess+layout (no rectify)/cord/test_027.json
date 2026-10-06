@@ -1,0 +1,30 @@
+{
+ "items": [
+  {
+   "name": "PKT AYAM",
+   "qty": 1,
+   "price": 33000.0
+  },
+  {
+   "name": "GULAI OTAK",
+   "qty": 1,
+   "price": 93000.0
+  },
+  {
+   "name": "CHARGES",
+   "qty": 1,
+   "price": 61600.0
+  }
+ ],
+ "subtotal": 56000.0,
+ "tax": null,
+ "tip": null,
+ "total": 61600.0,
+ "raw_text": "soa saree b See so\n- - eo fe oe\noug es Ge }\nPKT AYAM 33,000\nGULAI OTAK 93,000\n2 .00):ITEMS\nSUBTOTAL 56 ,000\nTAX 10% § 600\nTOTAL 61,600\nCHARGES 61,600\nCOD Geert @ ’\nOw 0 Qe ae\nfeg* easi *",
+ "checksum": false,
+ "runtime_s": 4.744141166796908,
+ "rectify_info": {
+  "fallback": null,
+  "quad": null
+ }
+}
