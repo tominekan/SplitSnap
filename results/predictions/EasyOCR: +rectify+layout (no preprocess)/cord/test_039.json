@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Apv WPU.' . 7p Jc: #iRed BAE 0J\nle\n: 343Oog 1 ; Fn\n33.. 3 . ^\nMn RICE 348e.7L '\nHadn :\nan Whal 707.Ono\nHpL7eadd UWcitty \" . EP\nFa 3 .\n. An FFfaa\nean eee\naan\n1` F",
+ "checksum": null,
+ "runtime_s": 8.13763054300216,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    2.5677490234375,
+    134.92169189453125
+   ],
+   [
+    837.1268310546875,
+    119.46697998046875
+   ],
+   [
+    790.762451171875,
+    1295.0
+   ],
+   [
+    30.04290771484375,
+    1295.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

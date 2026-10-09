@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 230000.0,
+ "raw_text": "=366237\nBANABERRY FRESH CREAM CAK 230 ,(u0\nTOTAL 230,000\nCASH '530,000\nCHANGE 0",
+ "checksum": null,
+ "runtime_s": 5.473973500003922,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    533.1959838867188
+   ],
+   [
+    0.0,
+    508.0103759765625
+   ]
+  ],
+  "method": "paper"
+ }
+}

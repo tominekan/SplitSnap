@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "tAk",
+   "qty": 1,
+   "price": 5455.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "901016 -TICKET CP\n60,00o EO , QuO\nTOTAL DIS $ ~6o,000\ntAk 5,455\nSubtotal 6o,000\nTOTAL (Otv 00 60 00\nEdC CIMB NIAGA No: xx7730 60 , 0OO",
+ "checksum": null,
+ "runtime_s": 4.094970708989422,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    175.04910278320312
+   ],
+   [
+    431.0,
+    169.89752197265625
+   ],
+   [
+    431.0,
+    647.0
+   ],
+   [
+    0.0,
+    647.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

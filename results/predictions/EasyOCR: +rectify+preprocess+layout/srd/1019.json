@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Reo SalN Camlvore Q FIRST",
+   "qty": 1,
+   "price": 12.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Vdto Rizeris Taem\nIrento 2m1 Ymn , NI Mom 418j\nSetyer ; (T3) 657-4j\nIrhity Stot Ian: 7\npraer\nTablo: 11 Toh Ceste: 0lns Io 2\nUitra\nB1ls Dcaft\nNRS Cteese O Bresd 0 6_\nCaprese FIRST\nReo SalN Camlvore Q FIRST 12.50\nPepcer Ricgs (s) (6)\nReo KarcherIt8i8) i0.0\nTOTAL : 43.0\nI: 2.58\n{3238873\nL; 0H65,58\nliskct 1z\n5/1202017 7.48;12 FM\nThX YQ?",
+ "checksum": null,
+ "runtime_s": 3.235160291995271,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    84.10508728027344,
+    0.0
+   ],
+   [
+    292.0611877441406,
+    0.0
+   ],
+   [
+    311.8884582519531,
+    347.0
+   ],
+   [
+    98.86028289794922,
+    347.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

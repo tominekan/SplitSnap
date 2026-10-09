@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "L3S.Sesame chicken",
+   "qty": 2,
+   "price": 13.9
+  },
+  {
+   "name": "I)Veg Spare Ribs BBS",
+   "qty": 1,
+   "price": 7.65
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.91,
+ "tip": null,
+ "total": 23.46,
+ "raw_text": "RKD & HOT H\n3/0 7AVE (CORNER OF\" |OST )\nBROOKEYN NY //215\nTEL (718130\"-2577\nTEL; (718130\"-8897\nDine In\nDale' 10-20-2018 Tile 12 37pM # 18\nServer: WAITERI\nTAB#: €2\nNo. of' Guest\nVegetable Roll 0.0Q\nEgg Roll\n2 L3S.Sesame chicken 13.90\n1 WIR\n1 FRR\n1 (I)Veg Spare Ribs BBS 7.65\nWIR\nAmount 21.5\nTAX(8.875%0) : 1.91\nTOTAL : 23.46\nThank you very much.",
+ "checksum": null,
+ "runtime_s": 2.666449748983723,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    706.856201171875,
+    0.0
+   ],
+   [
+    706.856201171875,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

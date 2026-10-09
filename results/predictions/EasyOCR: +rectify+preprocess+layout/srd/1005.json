@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Draft Blackhouse",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "Cowboy\" Ribeye",
+   "qty": 1,
+   "price": 45.0
+  },
+  {
+   "name": "Make It Blue",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Add Lobster",
+   "qty": 1,
+   "price": 21.0
+  },
+  {
+   "name": "Whist le Pig Rye IOyr",
+   "qty": 1,
+   "price": 40.0
+  },
+  {
+   "name": "Duke 16oz Top SirIoln",
+   "qty": 1,
+   "price": 34.0
+  },
+  {
+   "name": "Make It Blue",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 179.94
+  },
+  {
+   "name": "Ba Iance Due",
+   "qty": 1,
+   "price": 179.94
+  }
+ ],
+ "subtotal": 167.0,
+ "tax": 12.94,
+ "tip": null,
+ "total": null,
+ "raw_text": "O\nSASKA $\n3768 MIssIon Blvd\nSan Diego CA 92109\n(858) 488-7311\nServer = Sue 08/15/2017\nTab le 103/1 5;51 PM\nGuests : 2 10005\nRepr Int #: 2\nDraft Blackhouse 7.00\n\"Cowboy\" 1602 Ribeye 45. 00\nMake It Blue 5.00\nAdd Lobster 21.00\nCK Manhattan (2 e5.00) 10 . 00\nWhist le Pig Rye IOyr (2 @20.00) 40 .00\n(2)BMOD Up\n\"Duke 16oz Top SirIoln 34.00\nMake It Blue 5,00\nSubtotal 167 .00\nTax 12,94\nTota| 179,94\nBa Iance Due 179.94\nSUGGESTED TIP\nBEFORE DISCOUNTS\n18X =630, 06\n20X =533.40\n22X =636,74",
+ "checksum": null,
+ "runtime_s": 4.633942417014623,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    101.70001220703125,
+    96.50003051757812
+   ],
+   [
+    582.6749877929688,
+    96.50003051757812
+   ],
+   [
+    582.6749877929688,
+    999.0
+   ],
+   [
+    101.70001220703125,
+    999.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

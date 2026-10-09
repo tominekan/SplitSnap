@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "BBQ Dinner",
+   "qty": 1,
+   "price": 547.15
+  },
+  {
+   "name": "bevcrage",
+   "qty": 1,
+   "price": 52.29
+  },
+  {
+   "name": "Rotal",
+   "qty": 1,
+   "price": 852.06
+  }
+ ],
+ "subtotal": 640.54,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Yong?\n6661 Eeantore Ranch Rd;\nRocklin 95677\n916-632-0828\nReccipt; mongo-042441\nDaec: 2018 5:48:07 Pm\nServcd bY : Kanager\nIeca Price Qty Valuc\nBBQ Dinner 910,99 547.15\nbevcrage 52. 29\nIcCms Count:\nSubtotal 640.54\n251: 83.52\nRotal 852,06\nCash\nTendered: 552.06\nChange: 60.00",
+ "checksum": null,
+ "runtime_s": 0.46473574999254197,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    8.580001831054688,
+    0.0
+   ],
+   [
+    294.25,
+    0.0
+   ],
+   [
+    294.25,
+    399.0
+   ],
+   [
+    8.580001831054688,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

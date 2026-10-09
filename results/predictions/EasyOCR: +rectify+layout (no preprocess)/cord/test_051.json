@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "TA) NASI KG TERI",
+   "qty": 1,
+   "price": 165460.0
+  },
+  {
+   "name": "TA) BIHUN GORENG",
+   "qty": 1,
+   "price": 40456.0
+  },
+  {
+   "name": "TA) KWETIAW SEAFOOD",
+   "qty": 1,
+   "price": 42274.0
+  },
+  {
+   "name": "TA} NASI GORENG",
+   "qty": 1,
+   "price": 55456.0
+  },
+  {
+   "name": "Rovinding",
+   "qty": 1,
+   "price": 334011.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Oovun\ntrai;\nCustor:\n(TA) NASI KG TERI 165,460\nMEDAN\n(TA) BIHUN GORENG 40,456\nSEAFOCD\n(TA) KWETIAW SEAFOOD 42,274\nSIRAM\n(TA} NASI GORENG; 55456\nITEMS.8 303,646\n6 10%\n30.365\nRovinding 334,011\nRounding\nTotal\nDEBIT SCA 334,000\n334,OO\nIjungal)",
+ "checksum": null,
+ "runtime_s": 2.429305124998791,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    85.82400512695312,
+    89.92803955078125
+   ],
+   [
+    606.4959716796875,
+    84.84002685546875
+   ],
+   [
+    606.4959716796875,
+    1138.0560302734375
+   ],
+   [
+    102.78401184082031,
+    1171.97607421875
+   ]
+  ],
+  "method": "paper"
+ }
+}

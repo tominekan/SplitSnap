@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "Coftee",
+   "qty": 1,
+   "price": 81.45
+  },
+  {
+   "name": "Tea",
+   "qty": 1,
+   "price": 81.45
+  },
+  {
+   "name": "Waff le",
+   "qty": 1,
+   "price": 65.5
+  },
+  {
+   "name": "Old Fashion French Toast",
+   "qty": 1,
+   "price": 84.5
+  },
+  {
+   "name": "Side Home Frles",
+   "qty": 1,
+   "price": 82.95
+  },
+  {
+   "name": "Banana",
+   "qty": 1,
+   "price": 82.95
+  },
+  {
+   "name": "Whipped Cream",
+   "qty": 1,
+   "price": 62.5
+  },
+  {
+   "name": "w/ EGGS",
+   "qty": 1,
+   "price": 82.95
+  }
+ ],
+ "subtotal": 82.13,
+ "tax": null,
+ "tip": null,
+ "total": 26.38,
+ "raw_text": "Arecqaut UinerZiuf Fe Deblliver\nPlease Pay at Cashler\n1084 Yonkers Avenue Yonkers , NY 10704\n(914) 237-5055\nCopy of Rece Ipt\nCoftee 81.45\nTea 81.45\nWaff le 65.50\nOld Fashion French Toast 84.50\nSide Home Frles 82.95\nBanana 82.95\nWhipped Cream 62.50\nw/ 2 EGGS 82,95\nSubtotal: 824,.25\n82,13\nTotal;: {26,38\nServer Name: MIKE .",
+ "checksum": false,
+ "runtime_s": 4.135215457994491,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    82.41876220703125
+   ],
+   [
+    542.1312255859375,
+    82.41876220703125
+   ],
+   [
+    542.1312255859375,
+    797.918701171875
+   ],
+   [
+    0.0,
+    797.918701171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

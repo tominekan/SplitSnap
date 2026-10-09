@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Propolis Cair Ts60u0",
+   "qty": 1,
+   "price": 156000.0
+  },
+  {
+   "name": "Sub Tolal",
+   "qty": 1,
+   "price": 158000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Propolis Cair 1 Ts60u0\n156000\nSub Tolal 158000\nTunai 156000\nKembalian Rp",
+ "checksum": null,
+ "runtime_s": 5.729261749991565,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    556.8101806640625,
+    0.0
+   ],
+   [
+    575.0,
+    789.2855224609375
+   ],
+   [
+    0.0,
+    795.0095825195312
+   ]
+  ],
+  "method": "paper"
+ }
+}

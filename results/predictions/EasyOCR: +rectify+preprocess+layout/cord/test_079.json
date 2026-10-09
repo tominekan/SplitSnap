@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "xl",
+   "qty": 1,
+   "price": 22000.0
+  },
+  {
+   "name": "otal",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1001-Choco Bun\n22.0o0 xl 22.000\n6001-Plastic Bag Small\nXi\notal Item:\notal, 22.000\nash\nCn Oani",
+ "checksum": null,
+ "runtime_s": 4.684809792001033,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    25.6500244140625,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    716.6124267578125
+   ],
+   [
+    0.0,
+    700.585205078125
+   ]
+  ],
+  "method": "otsu"
+ }
+}

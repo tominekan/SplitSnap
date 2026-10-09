@@ -1,0 +1,56 @@
+{
+ "items": [
+  {
+   "name": "Table",
+   "qty": 1,
+   "price": 7.57
+  },
+  {
+   "name": "Iced Tea",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "Sm Garlic Bread",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "Yeason 9oz Buca Chianti",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "Sm Chcp Antipasto Salad",
+   "qty": 1,
+   "price": 18.99
+  },
+  {
+   "name": "Lg Supremo Pizza",
+   "qty": 1,
+   "price": 29.99
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 100.26
+  },
+  {
+   "name": "Tatal",
+   "qty": 1,
+   "price": 109.28
+  }
+ ],
+ "subtotal": null,
+ "tax": 9.02,
+ "tip": null,
+ "total": null,
+ "raw_text": "Again. T\nBuca di Berpo\nStore#05ti\nUniversai City CA 91608\n818 509,9463\nServer: Molly 07/15/2016\nTable 53/1 7,57 PM\nGuests: 40020\nOrder Type; Dining\nReason #66\nIced Tea 3.29 ThereS\nSm Garlic Bread 9.99\nYeason #23 9oz Buca Chianti (2 €14,00} 28\nG1 Buca Chianti\nSm Chcp Antipasto Salad 18.99\nLg Supremo Pizza 29.99 Pela\nWe value your opinion.\nVisit bucafeedback.com tc comiplete\nbrief survey ad enter our weekly with\ndrawing for a chance to #in &\n$100 digita] promotiona] certificate ,\nSee bucadibeppo.com/buca-feedback-rules\nfor Official Rules ad restrictions. the\ndidn' 't drc 091257 000 051 115 'day\nof 'school, Song\nPastal\nT#tttt\nesh for\nyoul\nSubtota] 100 ,26 ~i-nar-a.\nTax 9,02 tool\nTatal 109.28 ucaaa_\nsay;\nBalance Due 109 28\nda1",
+ "checksum": null,
+ "runtime_s": 3.4382692919898545,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

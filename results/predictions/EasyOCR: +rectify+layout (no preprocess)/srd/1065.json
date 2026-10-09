@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Chicken",
+   "qty": 1,
+   "price": 815.0
+  },
+  {
+   "name": "Pescado",
+   "qty": 1,
+   "price": 818.0
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 842.5
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 845.79
+  },
+  {
+   "name": "Order Ba lance due",
+   "qty": 1,
+   "price": 845.79
+  }
+ ],
+ "subtotal": null,
+ "tax": 83.29,
+ "tip": null,
+ "total": null,
+ "raw_text": "Taco Maria\n3313 Hy land Ave Ste C21\nCosta Mesa , CA 92626\n714 538 8444\nWWW , tacomaria, CCn\nOrder# 118888\nServer : Jesa R\nTable: Bar\nDate: 1/23/18 , 12:16 PM\nChicken 815,00\nPescado 818,00\nArrachera solo s9,50\nSubtota] 842,50\nTota] Tax: 83,29\nTota] 845.79\nOrder Ba lance due 845,79\nSuggested Gratuity\n% Tip Tota]\n18, 0O% of sale: 87,65 853,44\n20,QO% of sa le: $8 , 50 854.29\n22,00% of sale: 89,35 S55,14",
+ "checksum": null,
+ "runtime_s": 2.218203665994224,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    80.94375610351562,
+    0.0
+   ],
+   [
+    665.2687377929688,
+    0.0
+   ],
+   [
+    665.2687377929688,
+    999.0
+   ],
+   [
+    80.94375610351562,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

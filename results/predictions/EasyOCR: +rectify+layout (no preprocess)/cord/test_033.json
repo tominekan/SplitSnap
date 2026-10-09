@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "HOT TUNA",
+   "qty": 1,
+   "price": 67000.0
+  },
+  {
+   "name": "PBI 10X",
+   "qty": 1,
+   "price": 19557.0
+  }
+ ],
+ "subtotal": 117500.0,
+ "tax": null,
+ "tip": 11070.0,
+ "total": null,
+ "raw_text": "GRILLED BABY POTATO (R 50 , 500\nHOT TUNA 67 ,000\nHot TUNA 67 , 000\nDisc 1OOX( ITMO6) ~67 ,000\nSUBTTL 117,500\nSVC CHG 8X 11,070\nPBI 10X 19,557\nTOTAL 148 127",
+ "checksum": null,
+ "runtime_s": 2.3602622489997884,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    108.09182739257812
+   ],
+   [
+    575.0,
+    108.09182739257812
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    863.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

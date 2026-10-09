@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Bar Rua\nn Clxror Strtet\nIceo}: Table 24185 0520\nUierdid 07.W.2& Mr' S1mn\nOn8:6\nQmn] Descripti Qosi\n2 QS ChI6 LNGIR 6\nNINA Sll 9.0\nFRES 0W 18 ,\nSEULFIS Pof 2.\nFISH CAKES 1\nFIRTICN BN UESe\nD3I**1383321\nTOTAL : 85 10\n332 7732032215.\nFacebook BAR RUA\nTwitter @BARRUADUB\nREVIEW TRIPADVISOR\n<~REPRINTED->",
+ "checksum": null,
+ "runtime_s": 4.5028581250226125,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    6.4575042724609375,
+    32.50688171386719
+   ],
+   [
+    252.0,
+    32.50688171386719
+   ],
+   [
+    252.0,
+    449.0
+   ],
+   [
+    6.4575042724609375,
+    449.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

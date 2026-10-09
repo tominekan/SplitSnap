@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Osso Buco Sp",
+   "qty": 1,
+   "price": 816.0
+  }
+ ],
+ "subtotal": 865.9,
+ "tax": 85.68,
+ "tip": null,
+ "total": 871.58,
+ "raw_text": "HEART of PORTUGAL\nHeart of Portuga] Restaurant\n241 Mineola Blvd\nMineola , NY 11501\n516-742-9797\nServer oscar 09/10/17,.3:28 Table D2 PM\nCheck #11\nTraditiona] Pork & Clams $20.95 $28 , 95\nOsso Buco Sp 816.00\nHouse Wines Half Pitcher\nSubtotal 865,90\nTax 85,68\nTotal 871.58\nThanks for Dining with Us!\nSee you soon! ! !",
+ "checksum": false,
+ "runtime_s": 3.12182641599793,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

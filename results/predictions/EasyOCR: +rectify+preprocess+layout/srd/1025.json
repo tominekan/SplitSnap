@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Dbl Wtr Cheesi",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "ADD |eaf Lattica",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "ADD Mac Salice",
+   "qty": 1,
+   "price": 0.4
+  },
+  {
+   "name": "TRANSATION AMUDJL T",
+   "qty": 1,
+   "price": 7.27
+  }
+ ],
+ "subtotal": 6.64,
+ "tax": 0.63,
+ "tip": null,
+ "total": 7.27,
+ "raw_text": "McDona Id : Jes %I a~t 43100\n1617 N E#tem IvEh_=\nLLOS ANGELE € , Cl €J33-1363\nTEL# { 2] 9 7303\nKS# 2 2.1/2013 (3:0B PM\nSidel (Irder 97\nDbl Wtr Cheesi 5,99\nSpecia | Requ: t\nADD |eaf Lattica 0.25\nADD Mac Salice 0,40\nSubtotal 6.64\nTax 0,63\nTake-Out Total 7,27\nCashless 7,27\nChange 0,00\nMER# 499206\nCARD ISSUER IC)NTH\nBjw DebIT CARD A_ #+php+\nTRANSATION AMUDJL 6 T\" 7,27\nCHIP READ\nAuTHORIZATION CC: H1:541\nSEQ# 039938\nAID: AuoO0OO04; 2 \"133\nMcDonaId 's now &va| It: 3 /jri JberEATS",
+ "checksum": false,
+ "runtime_s": 6.528067915991414,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    741.0,
+    0.0
+   ],
+   [
+    741.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

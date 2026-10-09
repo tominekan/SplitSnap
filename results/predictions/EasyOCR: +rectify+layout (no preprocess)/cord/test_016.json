@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "LG] BLACK SAKURA",
+   "qty": 1,
+   "price": 59091.0
+  },
+  {
+   "name": "NINERAL WATER (bundling) 5k",
+   "qty": 1,
+   "price": 4545.0
+  }
+ ],
+ "subtotal": 63636.0,
+ "tax": 6364.0,
+ "tip": null,
+ "total": 70000.0,
+ "raw_text": "[LG] BLACK SAKURA 59,091\nLONGAN\nROASTED ALMOND\nNANGGO\nNINERAL WATER (bundling) 5k 4,545\nSub Total 63,636\nPB1 (10%) 6,364\nRounding\nTotal 70,000\nCash Payment 100,000\nChange 30,000",
+ "checksum": true,
+ "runtime_s": 2.247867875994416,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    52.990234375,
+    186.9642333984375
+   ],
+   [
+    782.8001708984375,
+    186.9642333984375
+   ],
+   [
+    782.8001708984375,
+    1141.7274169921875
+   ],
+   [
+    52.990234375,
+    1141.7274169921875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

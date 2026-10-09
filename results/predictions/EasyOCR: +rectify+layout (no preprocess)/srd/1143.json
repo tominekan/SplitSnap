@@ -1,0 +1,83 @@
+{
+ "items": [
+  {
+   "name": "Krtnur\" Burger #CnsBleu",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "Qur Burger **Avocado",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Loaged Nacnos",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "Pint Boston Lager",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Pirt eunaling",
+   "qty": 2,
+   "price": 12.0
+  },
+  {
+   "name": "Yora Longcoard",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Cuecadi Ila",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "food",
+   "qty": 1,
+   "price": 56.8
+  },
+  {
+   "name": "Tiquor",
+   "qty": 1,
+   "price": 24.0
+  },
+  {
+   "name": "Ta",
+   "qty": 1,
+   "price": 3.98
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Bar\nKrtnur\" Burger #CnsBleu 13.95\nQur Burger **Avocado 15.95\nLoaged Nacnos 12.95\nPint Boston Lager 6.00\n2 Pirt eunaling 12.00\nYora Longcoard 6,00\nCuecadi Ila 13.95\nfood 56. 80\nTiquor 24,00\nTa 3.98\n02;2*P0 Tota| Due 84 . 78\n20k added to parties 8 Or more\nTnark You for Dining with Us!\nprivate Roome\n4vailable for\nYour Next Party!",
+ "checksum": null,
+ "runtime_s": 1.4863549989968305,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    147.98751831054688,
+    306.5000305175781
+   ],
+   [
+    666.0625,
+    306.5000305175781
+   ],
+   [
+    666.0625,
+    999.0
+   ],
+   [
+    147.98751831054688,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

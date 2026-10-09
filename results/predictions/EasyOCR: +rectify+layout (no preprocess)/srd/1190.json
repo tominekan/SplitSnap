@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": 59.66,
+ "tip": null,
+ "total": null,
+ "raw_text": "Er el}\nF 42,\nfef }\nfa Bomeay Grilt\nHouse\nItdlan Gutrim\nBombay Grill House\n764 9TH AVE\nNEW YORK NY 10019\n2129771010\nAny Special Offer will be at End of Receipt\nORDER: Table 2\nDine In\n30-Jun-2018 10.36.38P\nTransaction 104379 S5.95\nOnion Bhajia S14.95\nLamnb Vinclaloo medium\nKonkan Fish Cunty medium S16.95\nShrimp Briyani S16.95\nmnedium\nGarlic Naan S4.00\nHess Cabernet S50.00\nSubtotal S108.80\nTax 59.66\nTotal S118.46\nCREDIT CARD AUTH S118.46\nMASTERCARD 0148\n35.5\nTip\nIS4.00\nTotal\nZaMl\nEDWINMFYANDER",
+ "checksum": null,
+ "runtime_s": 2.21422470799007,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    102.80625915527344,
+    0.0
+   ],
+   [
+    614.2562255859375,
+    0.0
+   ],
+   [
+    614.2562255859375,
+    999.0
+   ],
+   [
+    102.80625915527344,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

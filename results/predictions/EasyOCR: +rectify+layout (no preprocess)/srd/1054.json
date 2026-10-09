@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "SANTA MONICA, CA",
+   "qty": 1,
+   "price": 11.47
+  },
+  {
+   "name": "HB",
+   "qty": 1,
+   "price": 54.0
+  },
+  {
+   "name": "Turkey Burger",
+   "qty": 1,
+   "price": 58.85
+  },
+  {
+   "name": "CB x",
+   "qty": 1,
+   "price": 57.85
+  },
+  {
+   "name": "Chlll Fries",
+   "qty": 1,
+   "price": 54.35
+  }
+ ],
+ "subtotal": 551.25,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "BIG Jo's\n1955 BROADWAY Jan 25 2018\nSANTA MONICA, CA 90404 11.47 AM\n(310) 828-3191\nwwwbigjosburgers com\nTicket: Shirley Cash\nReceipt Qlxi\nPICKUP\nHB 54.00\nRegular Price\nFrench Fries x 2 S5.00\n(S2.50 each)\nTurkey Burger 58.85\nCombo\nHB S8.35\nCombo, Grilled Onion (S0.75)\nCB x 2 S15.70\n(57.85 each)\nCombo\nCB S5.00\nRegular Price, Grilled Onion (S0.75)\nChlll Fries 54.35\nSubtotal 551.25\nSales Tax S5.25\nTotal S56.50\nCash $60.00\nChange 53.50",
+ "checksum": null,
+ "runtime_s": 2.524420583009487,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    610.0,
+    0.0
+   ],
+   [
+    610.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

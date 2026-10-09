@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Printed By Rebecca B Jun",
+   "qty": 1,
+   "price": 4.55
+  },
+  {
+   "name": "ID",
+   "qty": 1,
+   "price": 536.86
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Quick stnone 73 City Market\n5242 van Nuys BLVD\nSherman Oaks; CA 91401\n818.855 1280\nServer; Rebecca B S1\nPrinted By Rebecca B Jun 26, 15 04.55 PM\nID 234673 #1\n536.86\nWeight' Beef Ribs 89 Ibs @ 519 b0lb5 S8.50\nPulled Pork Sand SO.00\nReg S3.35\nCreamed Corn[Small]\nLonghorn Mac & Cheese[sm] S4.20\nChocolate Cake[Slice] S3.95\nFountain Soda S2.25\nSubtotal S59.11\nCA Sales Tax S5.32\nTotal S64.43\nWells Fargo S64.43\nChange So.00\nThank You for Visiting\nPlease visit our website:\nW smokecitymarket com\nEnjoy our BBQ? 'Like' us on\nfacebook and Yelp\nPlease rate us on Zagat\nM zagat com/rismoke-city-market-van-nuy",
+ "checksum": null,
+ "runtime_s": 2.231367083004443,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    9.281280517578125
+   ],
+   [
+    689.793701171875,
+    9.281280517578125
+   ],
+   [
+    689.793701171875,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

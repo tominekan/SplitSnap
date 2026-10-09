@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Person",
+   "qty": 1,
+   "price": 8.38
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Lan Sheng\n209 Paterson Ave\nWallington N: J. 07057 '773. .7101\nTel 973.773.7100 Fax 973,\n1 B2\nDine In # 10H1\nServer: Mary 06/13/17 09:17 P\nPerson 08.38 PM\n87.95\nSpicy Chicken Spicy Garli\nSoy V S18. 95\nHf- Peking Duck S15.95\nStir Beef Fillet W Tofu S12.5 95\nPork w: Spicy Capsicum S1.50\nWhite Rice (S) S12.95\nPork W: Spicy Tofu & Cayen\nne Chili\nSubTotal S70.25\nSales Tax S4.90\nTotal S75.15\nThank You\nHave A Nice Day",
+ "checksum": null,
+ "runtime_s": 2.0395640410133637,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    592.5875244140625,
+    0.0
+   ],
+   [
+    592.5875244140625,
+    948.8125
+   ],
+   [
+    0.0,
+    948.8125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

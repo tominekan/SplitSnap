@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "LT",
+   "qty": 1,
+   "price": 9.99
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "CRch'S cxen 14717\n7635 MINKTKA\nCANICA Par CA 818 576-083\n4H3H5) OREAJ\nLT 9.99\nKT 9.4\n,S\n2 10;800\n.t6\niinm 'IX . ~ NAIN\n3E Il II zea\n0203 T5 Ms MY ,21'19 BEcCCo2",
+ "checksum": null,
+ "runtime_s": 2.5451946670073085,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    249.0,
+    0.0
+   ],
+   [
+    249.0,
+    249.0
+   ],
+   [
+    0.0,
+    249.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "STIX ECLAIRS",
+   "qty": 1,
+   "price": 19000.0
+  },
+  {
+   "name": "ALMOND CREAM CHEESE",
+   "qty": 1,
+   "price": 28000.0
+  }
+ ],
+ "subtotal": 47000.0,
+ "tax": null,
+ "tip": null,
+ "total": 47000.0,
+ "raw_text": "4 0 4H\nSTIX ECLAIRS\nX 19,000 19,000\nALMOND CREAM CHEESE\nX 28,000 28,000\nSUB TOTAL 47,000\nGRAND TOTAL 47,000\nVISA 8945 47,000\nCHANGE DUE",
+ "checksum": true,
+ "runtime_s": 5.862700249999762,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    816.3341674804688,
+    0.0
+   ],
+   [
+    816.3341674804688,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

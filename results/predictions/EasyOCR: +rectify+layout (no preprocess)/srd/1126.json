@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "SAUV BLANC JB",
+   "qty": 2,
+   "price": 11.0
+  },
+  {
+   "name": "VEGGIE SANDWICH",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 41.0,
+ "tax": null,
+ "tip": 7.38,
+ "total": null,
+ "raw_text": "SAGE\nFRENCH CAFE & WINE BAR\n0121a Table SvrCk: 8 #Party I;56p 06/02/15 2\nCHANDA R\n2 SAUV BLANC JB_ 18.00 11.00\nVEGGIE SANDWICH 12.00\nQuiChE LORAINE\nSub Total: 41.00\nOPEN SDISCOUNT #Discount*= 11.00 1,80\nTax Sub Total: 31.80\nGRATUITY 18 39 7.38 18\n06/02 2; 44pTOTAL:\n##*####titmut**+#**\nTHANK YOU!\nPLease COMe AGccn!\nWiNe TASTING IST TUESDAY\nWE TAKE RESERVATONS 2299\nCALL US AT 9545565-\nWW,SAGECAFE, NET",
+ "checksum": null,
+ "runtime_s": 2.1778652089997195,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    167.89376831054688,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    167.89376831054688,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

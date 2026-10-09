@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "JoriGegi\n***#**************tr**#****#*#**r*t*\nFFEE=FFF22\nPece l Kompl it Nasi 42\nSoto KUDUS 4?\n2 Nineral Water 18\nSUbtotal 107 OOC\nSeru i Char ge 57 5 35C\nPajak Rest 10/ 11 237\nTotal 123.58=\n533",
+ "checksum": null,
+ "runtime_s": 4.015437166002812,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    80.676025390625,
+    54.31048583984375
+   ],
+   [
+    815.6375732421875,
+    54.31048583984375
+   ],
+   [
+    815.6375732421875,
+    1247.764404296875
+   ],
+   [
+    80.676025390625,
+    1247.764404296875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

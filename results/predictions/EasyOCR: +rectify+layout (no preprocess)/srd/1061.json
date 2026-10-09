@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "TRIPLE DIPPER",
+   "qty": 1,
+   "price": 12.19
+  },
+  {
+   "name": "CKICKEN WAFFLES4",
+   "qty": 1,
+   "price": 11.89
+  },
+  {
+   "name": "Ba Tance Due",
+   "qty": 1,
+   "price": 26.37
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.29,
+ "tip": null,
+ "total": 24.08,
+ "raw_text": "Chili\"s Grill & Bar\nPuente Hills #25\n17588 Cast leton St\nCity of Industry,CA 91748\nServer: Jose $ 09/15/2018 1;25 PM\n33/1 2060012\nGuzsts:\nOrder Type: Dine In\nTRIPLE DIPPER 12.19\nCKICKEN WAFFLES4 11.89\nSuntotal 24,08\nTotal Tax 2.29\nTotal 26,37\nBa Tance Due 26.37\nGratuity Guide\n158 83,96\n18X S4,75\n20x 85,27\n22X S5,80\nHant free Chip and Salsa\nor a drink, every visit?\nChilis,com /Rewards\nGif- Card activation is\ndelayed by 4 hours;",
+ "checksum": null,
+ "runtime_s": 1.1759447090007598,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    68.31253051757812,
+    27.531280517578125
+   ],
+   [
+    537.3624877929688,
+    27.531280517578125
+   ],
+   [
+    537.3624877929688,
+    962.981201171875
+   ],
+   [
+    68.31253051757812,
+    962.981201171875
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

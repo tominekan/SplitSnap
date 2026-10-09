@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "THAI IcEd TEA",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 40400.0,
+ "raw_text": "JA\nTHAI ICED TEA\n020 , 000 20 , 000\nTHAI IcEd TEA\n@20 , 000 20,000\nSUB-TOTAL 40 , 000\nGPHHDTOTAL 40,400\nCASH 100 ,000\nCHANGED 60 , 000",
+ "checksum": null,
+ "runtime_s": 2.9290112490125466,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    72.13861083984375,
+    62.35382080078125
+   ],
+   [
+    712.6541748046875,
+    62.35382080078125
+   ],
+   [
+    712.6541748046875,
+    1276.4141845703125
+   ],
+   [
+    72.13861083984375,
+    1276.4141845703125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

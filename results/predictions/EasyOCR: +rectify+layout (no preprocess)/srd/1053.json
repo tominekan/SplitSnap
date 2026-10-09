@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Gias",
+   "qty": 1,
+   "price": 22.5
+  },
+  {
+   "name": "KQ Vegale",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Sles Ed-Iotd",
+   "qty": 1,
+   "price": 0.91
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Primo\nFamily Restaurant\nRd_ Tealle 8730'2 Creck ;137\nGias 022.50\nKQ Vegale 027,00 Mm\nSles Ed-Iotd 0.91\nictal 8\nKacteeii eahlu\nKm\nbarg? Reeipt\nSener; darain\"\nTeole Ko;\nCec* Ko;\nSE",
+ "checksum": null,
+ "runtime_s": 0.4677682080218801,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    29.44750213623047,
+    0.0
+   ],
+   [
+    253.6374969482422,
+    0.0
+   ],
+   [
+    253.6374969482422,
+    399.0
+   ],
+   [
+    29.44750213623047,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

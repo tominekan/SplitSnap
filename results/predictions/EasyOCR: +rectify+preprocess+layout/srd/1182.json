@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 43.6
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.8,
+ "tip": 7.2,
+ "total": 40.0,
+ "raw_text": "#1+4#14m1+. #mmmmi\nFinregan's Iay Check 822819\n1344 (cean Orive\nMiam1 Beach Florida 33139\nTel , 305-672-7747\n08/21/17 8;38 PH\nTable 15 Cust\nMaiter 58 IRYNA P\nSO8E MOJITO'S 40 .Q0\nBACAROI LICHT\nTaxable; 40 .(\nSb-total: 40.00\nSales Tax 7X; 2.80\nResort Tax %K;_ 0.80\nTota) ; 43.60\nVolutary I8x Tip; 7,20\n1 lease feel free to adjust or remove\n1 he tip annt at yaur discretion\nTotal 50.80",
+ "checksum": null,
+ "runtime_s": 7.420412542007398,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

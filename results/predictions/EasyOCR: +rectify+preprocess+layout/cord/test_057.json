@@ -1,0 +1,15 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "M4Q007as\nICED TT '20 000\nICED GT 22\nCash .42 .388\nVeaa",
+ "checksum": null,
+ "runtime_s": 3.1692264580051415,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

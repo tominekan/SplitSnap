@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Sa Imon Plate",
+   "qty": 1,
+   "price": 11.49
+  },
+  {
+   "name": "Extra Shr imp",
+   "qty": 1,
+   "price": 1.45
+  }
+ ],
+ "subtotal": null,
+ "tax": 12.94,
+ "tip": null,
+ "total": 814.17,
+ "raw_text": "Haui Teriyaki\n27000 Marine Ave #103\nRedondo Beach , Ca 90278\n(310) 973-3500\nServer: Annie Station:\nOrder #: 168479 Phone Order\nGuests Customer ; Name: LEANNE\nSETTLED <<\nSa Imon Plate 11,49\nExtra Shr imp 1,45\nTax SUB 1 TOTAL: : 12,94\n1,23\nTOTAL; ==22323=\n814,17\nCash Tendered;\n20 ,00\nCHANGE :\n~5,83\n2> Ticket # 7 ((\nCreated: 10/25/2017 51;14;30 AM\nSETTLED; 10/25/2017 ii;28;31 AM\nthank YOU!",
+ "checksum": null,
+ "runtime_s": 2.886553749005543,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    74.69375610351562,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    74.69375610351562,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

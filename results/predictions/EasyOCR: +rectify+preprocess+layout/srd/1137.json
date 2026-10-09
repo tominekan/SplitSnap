@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": 12.94,
+ "tax": 1.23,
+ "tip": null,
+ "total": 14.17,
+ "raw_text": "27000 Baui;] Teciyaki ine #103\nRedondo 8;ag7s-G5o86 CA 90278\n(310)\nServer: Annie Station: 1\nOrder #: 168479 Phone Order\nCustomer Name : LEANNE\nGuests : 1\nSETTLED <<\nSa Imon Plate X?\nExtra Shrimp\nSUB TOTAL; 12,94\nTax 1: 1,23\n=====EE=\nTOTAL: 014,17\nCash Tendered: 20 ,00\n===S==ESS=\nChange : -5.83\nTicket\nCreated: 10/25/2017 I1;14;30 Am\nSETTLED: 10/25/20 17 11;28;31 AH\nthANK YQUi",
+ "checksum": null,
+ "runtime_s": 7.1890894590032985,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    74.69375610351562,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    74.69375610351562,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

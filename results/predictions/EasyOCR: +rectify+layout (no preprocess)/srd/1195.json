@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Margherita CaIzcne",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "Side Caesar",
+   "qty": 1,
+   "price": 11.99
+  },
+  {
+   "name": "Subtcta",
+   "qty": 1,
+   "price": 4.99
+  },
+  {
+   "name": "Tctal",
+   "qty": 1,
+   "price": 20.62
+  },
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "Db] Stack Cheeseturger",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Bacon",
+   "qty": 1,
+   "price": 0.99
+  },
+  {
+   "name": "Subtctal",
+   "qty": 1,
+   "price": 12.27
+  },
+  {
+   "name": "Tctal",
+   "qty": 1,
+   "price": 13.13
+  }
+ ],
+ "subtotal": 31.54,
+ "tax": 1.35,
+ "tip": null,
+ "total": 33.75,
+ "raw_text": "~Amici Conyers\n1805 Parker RD Suite G110\n18C.5 Parker RD\n(678) 890-2005\nServer : Nicole\nTable 52/1 06/10/2018\nGuests; 1;02 PM\n30004\nSeat\nTTz\nCoke\nMargherita CaIzcne 2.29\nSide Caesar 11.99\nSubtcta] 4.99\n19,27\nTax 1,35\nTctal 20.62\nSeat 2\n#r\nCoke 2,29\nDb] Stack Cheeseturger 8,99\nBacon 0.99\nSubtctal 12,27\nTax 0,86\nTctal 13.13\nSubtotal 31,54\nTax 2,21\nTotal 33,75\nBa Tance DJue 33 75\nThank you for dining with us!\nSUGGESTED GRATUITY:",
+ "checksum": false,
+ "runtime_s": 3.4343286659859587,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    35.35003662109375
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    46.768768310546875,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

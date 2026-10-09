@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "35.Sesame chicken",
+   "qty": 2,
+   "price": 13.9
+  },
+  {
+   "name": "L)Veg Spare Ribs .IBS",
+   "qty": 1,
+   "price": 7.65
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 21.55
+  },
+  {
+   "name": "TA.X(8.8759",
+   "qty": 1,
+   "price": 1.91
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 23.46,
+ "raw_text": "RKI) & HOT H\nJ/) AI/ (( \"(RAIR ( ios/ )\nIBR( J()KIAYV NY //21S\nTLL. ( 718).309-2577\nTEL ( 7181304-8897\nIJine In\nDate_40-20-2048 Tile_!2 3ZPAL # 18\nServer WAITER I\nTAI#: (2\nNo. of (Guest\n1 Vegetable Roll 0.0Q\nEgg Roll\n2 [,35.Sesame chicken 13.90\nWRR\nFR\n1 (L)Veg Spare Ribs .IBS 7.65\nWRR\nAmount : 21.55\nTA.X(8.8759) : 1.91\nTOTAL : 23.46\nThank you very much:",
+ "checksum": null,
+ "runtime_s": 7.406394000005093,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    706.856201171875,
+    0.0
+   ],
+   [
+    706.856201171875,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "901016 ~TICKET CP\n60,Q0d 240,000\nTOTAL (Qty=4.00) 240.000\nCASH 250,000\nCHANGE 10,000\nTXX",
+ "checksum": null,
+ "runtime_s": 3.301272249998874,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    738.3636474609375
+   ],
+   [
+    0.0,
+    738.3636474609375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

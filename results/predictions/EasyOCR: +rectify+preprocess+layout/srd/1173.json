@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Restaurant",
+   "qty": 1,
+   "price": 90.04
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 12.4
+  },
+  {
+   "name": "Beverage",
+   "qty": 1,
+   "price": 2.45
+  },
+  {
+   "name": "EMUS",
+   "qty": 1,
+   "price": 816.55
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 816.56,
+ "raw_text": "\"1 | \" | 4+\nMxi 4i 9' Arn'y F pi\nTr ans #: Table 64142 0#1 Serv: ( laudia\n8/24/2017 5:29 PM =222- Cust:1 223 =222\n=== Ouan =7828856= Descript Cost\n=8=52==3323 Bottled kater F37 S2.45\nAdd Pollo Taco S4,\nAdd Carnitas Taco 0\nSour Cream S1\nChihuahua Cheese S1\nNet Total: S14.85\nIL Sales S1,52\nMPEA Tax S0,15\nRestaurant 90.04\nTOTAL : 816.56\nFood: $12,40\nBeverage; $2.45\nEMUS 816.55\nRobinson HILL Capany\nIl S Ie Expcl iHlence That Countsi\nTell us &out your vlsiti\nW robinsomi I lusa cMVguest-survev",
+ "checksum": null,
+ "runtime_s": 5.463049290992785,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    75.17500305175781,
+    184.31253051757812
+   ],
+   [
+    499.17498779296875,
+    184.31253051757812
+   ],
+   [
+    499.17498779296875,
+    954.137451171875
+   ],
+   [
+    75.17500305175781,
+    954.137451171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

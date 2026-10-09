@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 17.0,
+ "raw_text": "Surce\nV Mx?\nNOTE\n1 84 } 3 33\nOAv\nTOTALzu@0 *17 .00\n@+1G Tva iox 03\nToin Tic I0r\nIni: 8# .40.20.44.01\nNi\nKRCI @ Mire Visin",
+ "checksum": null,
+ "runtime_s": 2.0145546669955365,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    246.19374084472656,
+    0.0
+   ],
+   [
+    226.31874084472656,
+    249.0
+   ],
+   [
+    0.0,
+    249.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Sushi Deluxe",
+   "qty": 1,
+   "price": 520.75
+  },
+  {
+   "name": "G'enmont Rol",
+   "qty": 1,
+   "price": 515.95
+  },
+  {
+   "name": "Unpald",
+   "qty": 1,
+   "price": 393.58
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Akin\n188 Aie\n@leneent Hy42T\n6104434 0u80\nMarautn Qucu0 S9+2\n0J7 PICKup Lhe\nPhli\n9y\nHiChk Steakik)`\nMed\nLoak\nSushi Deluxe 520,75\nG'enmont Rol 515,95\nPhily\n40\nSp Tuna 5ijoo\nSalmon_ Eclal 4530\n0eos\nTTotul;\nUnpald 393.58",
+ "checksum": null,
+ "runtime_s": 0.4364092079922557,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    226.31759643554688,
+    0.0
+   ],
+   [
+    218.79689025878906,
+    257.0
+   ],
+   [
+    0.0,
+    256.98248291015625
+   ]
+  ],
+  "method": "paper"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Kopi Susu Kanipung x1",
+   "qty": 1,
+   "price": 19000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 57000.0,
+ "raw_text": "Kopi Susu Kanipung _ x1 19.000\nIce\nKopi Susu Kampung Less Ice\nKopi Susu Kampung . x2 38 . 000\nIce\nSubtota) 57 ,O00\nTotal 57. 000\nCash 60 , QQQ\nChange 3.000",
+ "checksum": null,
+ "runtime_s": 3.414078708010493,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

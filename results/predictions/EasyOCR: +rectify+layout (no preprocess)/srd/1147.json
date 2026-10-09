@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "House Wine Wnite Glass",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "VEGETABLE SHDRBA",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "GArLIC Naan",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "AMGKOR BFER WMH NEAL",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "MGKoR BFER WITH NEAL",
+   "qty": 1,
+   "price": 0.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 13.0,
+ "raw_text": "NEW DELHI\n0 ! ^ M\nE $ 1 ^ UR ^ n\n144Hn4n #attatd\n#237E, Sisiwath Quay , Phnon Fcwh, Cambocia\nTel: 0969591422\nEmail: uanlyBiehotuall\nTicket Mo:1740 Date:24-Mov-16\nTable No: Mne: 9:12 PM\n[TERS Price IOTAL\nHouse Wine Wnite Glass 3.00 3.00\nVEGETABLE SHDRBA 2.50 2.50\nGArLIC Naan 2.00 2.00\nKARI PAKora\nAMGKOR BFER WMH NEAL 0.50 0.50\nMGKoR BFER WITH NEAL 0.50 0.'0\nTotal 13.00\nThank ycu For\" dinia with US!\nWe Have Frec Hore Delivery!\nFAAEATAA 0",
+ "checksum": null,
+ "runtime_s": 1.2092769169976236,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

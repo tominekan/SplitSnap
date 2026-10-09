@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "Blood Orange Marg",
+   "qty": 1,
+   "price": 89.0
+  },
+  {
+   "name": "Cup-Ita) lan Wedding Soup",
+   "qty": 1,
+   "price": 62.95
+  },
+  {
+   "name": "Spaghett1 Marinara",
+   "qty": 1,
+   "price": 817.95
+  },
+  {
+   "name": "Fettuccine Alfredo",
+   "qty": 1,
+   "price": 823.95
+  },
+  {
+   "name": "Sma Wedge Salad (Dinner",
+   "qty": 1,
+   "price": 84.95
+  },
+  {
+   "name": "Creme Brulee",
+   "qty": 1,
+   "price": 84.0
+  },
+  {
+   "name": "Bal Ieys",
+   "qty": 1,
+   "price": 87.0
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 983.64
+  }
+ ],
+ "subtotal": 877.8,
+ "tax": 85.84,
+ "tip": null,
+ "total": null,
+ "raw_text": "71noxctn\nEicFLQ\nFirefly AmerIcan Bistro\n5525 New Albany Road West\nNew Albany , OH 43054\nServer: Harry M 12/28/18 7854 PM\nCheck #140 Table 24\nMaIbec Trivento 88 . 00\nBlood Orange Marg 89,00\nCup-Ita) lan Wedding Soup 62.95\nSpaghett1 Marinara 817.95\nAdd One MeatbaI1\nAdd Two Meatba] 1\nFettuccine Alfredo 823.95\nAdd Steak\nSma 1 1 Wedge Salad (Dinner) 84.95\nCreme Brulee 84.00\nBal Ieys 87,00\nSubtotal 877,80\nTax 85.84\nTota] 983,64\nCome See Us AgaIn!",
+ "checksum": null,
+ "runtime_s": 5.958163584014983,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    17.04376220703125,
+    0.0
+   ],
+   [
+    716.0,
+    0.0
+   ],
+   [
+    716.0,
+    999.0
+   ],
+   [
+    23.66876220703125,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

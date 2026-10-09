@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "em",
+   "qty": 1,
+   "price": 9.33
+  },
+  {
+   "name": "Cinnim Sciti J",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Carrot Cake",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "cal 107eo",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Mer lot",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Hisc Focd",
+   "qty": 1,
+   "price": 2.09
+  }
+ ],
+ "subtotal": null,
+ "tax": 18.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "Suni Alo\nem 569\n310-770-4855\n05421/17 9.33 #\nSurah\nTurtarg onno 10.2\nCinnim Sciti J.\n28.00\nai4 Aech Icana\nCarrot Cake 12.00\ncal 107eo 12.00\nMer lot 13.00\nHisc Focd 2.09\nTaxable: 18.00\nSub-total: VBOQ\nIaxes: J0 3\nTotal Due : 128 33",
+ "checksum": null,
+ "runtime_s": 0.5331292090122588,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    31.637542724609375,
+    3.7279510498046875
+   ],
+   [
+    317.0584411621094,
+    3.7279510498046875
+   ],
+   [
+    317.0584411621094,
+    347.0
+   ],
+   [
+    31.637542724609375,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

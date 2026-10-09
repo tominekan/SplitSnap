@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "PALak ReLolRoh",
+   "qty": 1,
+   "price": 518.02
+  },
+  {
+   "name": "VECAM Eeur Eue5se2",
+   "qty": 1,
+   "price": 817.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "$44T0 € 48\nNaHE: ChareS\nExeska To\"Zfedit Card\n12/31/2018 6:06;02 Px\nHEa\nSo happy about ycur visit!\nIte- Count:\nTIKKA chiSaEn S20,00\nPALak ReLolRoh) 518.02\nVECAM Eeur Eue5se2 817.00\nJabtota 33\nTota] before tip: 938_\nTip amount:",
+ "checksum": null,
+ "runtime_s": 0.4389517919917125,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    3.664886474609375
+   ],
+   [
+    298.37518310546875,
+    0.0
+   ],
+   [
+    300.2196044921875,
+    347.0
+   ],
+   [
+    0.0,
+    347.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

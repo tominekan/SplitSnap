@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Reg 12pc Falafel",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Reg 12pc Falafel",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Miscelanceous",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 213.0
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 228.92
+  }
+ ],
+ "subtotal": null,
+ "tax": 15.92,
+ "tip": null,
+ "total": null,
+ "raw_text": "Pita Fita Iozzard\n211 [ Rocsevel- Rc\nLomjard, 1 6014\nFnone:\nntto://eatoitacita com/cefault/\nOrd #78\nTo Go\nEmp ] : Mohammad H; 5/4/2017 4:10 PM\n20 Mixed Meat Lunch 180 . 00\nReg 12pc Falafel 6,50\nReg 12pc Falafel 6,50\nMiscelanceous 20 .00\nSubtota] 213.00\nTax 15.92\nTota] 228.92\nVisa 8414 Payment 228.92\nTip\nTotal\nTrT Guest Copy #**\nJennifer P",
+ "checksum": null,
+ "runtime_s": 2.308564374994603,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    630.0,
+    0.0
+   ],
+   [
+    630.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

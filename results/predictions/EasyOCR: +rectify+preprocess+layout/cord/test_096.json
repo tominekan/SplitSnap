@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "BBQ Chicken",
+   "qty": 1,
+   "price": 41008.0
+  },
+  {
+   "name": "Ee3368682322 EI3E20232338882358882",
+   "qty": 1,
+   "price": 558280222828388.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1.i (\nBBQ Chicken 41,008\n-Tidak Pedas\nITEMS :1 41,808\nTotal,\nPay Cash 54,000 Change :9,000\nEe3368682322 EI3E20232338882358882 558280222828388",
+ "checksum": null,
+ "runtime_s": 6.924567082998692,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    100.05120849609375,
+    500.3856506347656
+   ],
+   [
+    639.251953125,
+    500.3856506347656
+   ],
+   [
+    639.251953125,
+    1190.699951171875
+   ],
+   [
+    100.05120849609375,
+    1190.699951171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

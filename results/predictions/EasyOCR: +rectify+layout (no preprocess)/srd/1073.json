@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Sutndy%44569 Phong 626-565-9939\nFalr Cars\nPasererd, CA 9i03\nServed L;; 5/1/2019 2:25;37\ntere ID-iranst W/A-291624\nQty 'Size Itea Pr Ica\n49S $1.99 Ay Ftlony\n'Stedh Cnsu SD\n~B,A.T. Suj\nJota\n44d (10,231\nMOi (eat In)\nCcelie\nChel 0,Q0\nFcogond WotYU\nRelanerce 912121113552\nC4ld Ioalun ;\nAcDnEI Letaci 'cm2\nLint\nKolcatIcn: CSE V1SA\nMuufog OIO\nCrnn\nFSI: EBCo\nfatallle:\ns/a19 2+25.37 FM\nQtoER",
+ "checksum": null,
+ "runtime_s": 0.8069894580112305,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    13.517501831054688,
+    0.0
+   ],
+   [
+    272.1575012207031,
+    0.0
+   ],
+   [
+    272.1575012207031,
+    399.0
+   ],
+   [
+    13.517501831054688,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

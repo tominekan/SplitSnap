@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Dc IDb",
+   "qty": 1,
+   "price": 3.3
+  },
+  {
+   "name": "SX3",
+   "qty": 1,
+   "price": 4.35
+  },
+  {
+   "name": "FF Anima",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Mea Coke",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "Shk",
+   "qty": 1,
+   "price": 2.05
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "3-08-10 L1 T2 3:04 PM\nVOUR GUEST NUMBER IS\n25\nIn-N-Out BURGER ESCONDIDO\n3:02 PM\n30;-08-10 247 2 480 2152\n@rnen: ADAN EL\nCeek 25\nCounter-Eat In\nDc IDb ] 3,30\nWO K M\nSX3 4,35\nGR $ only\nFF 1,.60\nFF Anima] 3,50\nLg Coke 1 70\nMea Coke 1,50\nShk 2.05\ncounter-Eat In 18 00\nTAX 8 00% 1 44\nAmount Due $ 19 44",
+ "checksum": null,
+ "runtime_s": 2.9557821240014164,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    46.5875244140625,
+    0.0
+   ],
+   [
+    712.0,
+    0.0
+   ],
+   [
+    712.0,
+    999.0
+   ],
+   [
+    0.0,
+    997.3624877929688
+   ]
+  ],
+  "method": "paper"
+ }
+}

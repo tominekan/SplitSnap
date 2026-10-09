@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "SOUFFLE/ALA",
+   "qty": 1,
+   "price": 50.5
+  },
+  {
+   "name": "Sub Tota",
+   "qty": 1,
+   "price": 5.45
+  }
+ ],
+ "subtotal": null,
+ "tax": 55.95,
+ "tip": null,
+ "total": null,
+ "raw_text": "cudMii\n1427 COMMANOLI' WASHINGTON AVE 3 NEH PALACE ORLEANS LA\n0009 Table 522 #Party 11;73a 2 03/12/19\nLAURA 0 SvrCk : 1\n25\n1 25/ CP up 8\n25/COSMO up\nSOUP DJ 1 0 _\nTURTLE 22 _\nCATFISH 18\nTOSTADA 8 3\n25/G1N;, up 9\n25/ RAY, up\nSOUFFLE/ALA 50.50\nSub Tota] : 5,45\nTax: 55.95\n12;31pTOTAL:\n03/12\nYou\nThank\nNETFLIX!\nstreaming on the Table\nNow Coimanding detaiIs ,\nEl la Brennan: server for\nAsk your",
+ "checksum": null,
+ "runtime_s": 8.315107291986351,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    19.456268310546875,
+    80.01251220703125
+   ],
+   [
+    749.0,
+    80.01251220703125
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    19.456268310546875,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

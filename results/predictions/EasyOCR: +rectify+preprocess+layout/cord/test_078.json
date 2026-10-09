@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Lemon Tea (L",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Extra Jelly Lychee",
+   "qty": 1,
+   "price": 5000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 30000.0,
+ "raw_text": "Lemon Tea (L) 25, 000\nExtra Jelly Lychee 5, 000\nTOTAL 30,000\nCASH 30, 000\nCHANGED",
+ "checksum": null,
+ "runtime_s": 7.132076249996317,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    455.37286376953125,
+    0.0
+   ],
+   [
+    2303.0,
+    0.0
+   ],
+   [
+    2303.0,
+    2740.787109375
+   ],
+   [
+    455.37286376953125,
+    2740.787109375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

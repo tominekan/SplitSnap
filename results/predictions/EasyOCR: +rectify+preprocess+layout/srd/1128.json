@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "KRAMRAS\nMEXIcAN cuisinve & BAR\nKALAVERAS BELLFLOWER\n16530 BELLFLOWER BLVD\nBELLFLOWER, CA 90706\n5624610599\nhttp:Ilwwwkalaveras com/\nORDER: Bar B11\nCashier: BAR PM\n30-Aug.2019 3.24:10P\n1 Classic Michelada S12.00\n1 Classic Michelada S12.00\nDon Jullo Anejo S15.00\nClassic Michelada S12.00\nBalam Macurado S12.00\nSubtotal S63.00\nTax S5.99\nTotal S68.99\nThank you for your vislt!\n83V4QQC31PPMT\nOrder 83V4QQC31PPMT",
+ "checksum": null,
+ "runtime_s": 4.8159549580013845,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    80.96875,
+    0.0
+   ],
+   [
+    645.418701171875,
+    0.0
+   ],
+   [
+    645.418701171875,
+    999.0
+   ],
+   [
+    80.96875,
+    999.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

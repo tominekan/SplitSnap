@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "Guaca Chicharron",
+   "qty": 1,
+   "price": 813.95
+  },
+  {
+   "name": "EMPANADA",
+   "qty": 2,
+   "price": 3.0
+  },
+  {
+   "name": "PARGO FRITO",
+   "qty": 1,
+   "price": 819.95
+  },
+  {
+   "name": "No Cebo] Ia Roja",
+   "qty": 1,
+   "price": 817.0
+  },
+  {
+   "name": "SALMON A LA PLANCHA",
+   "qty": 1,
+   "price": 816.0
+  },
+  {
+   "name": "Void",
+   "qty": 1,
+   "price": -817.95
+  }
+ ],
+ "subtotal": null,
+ "tax": 83.44,
+ "tip": null,
+ "total": null,
+ "raw_text": "FAIRVIEW, NJ 07022\nPhone (201) 840-8428\nCheck:832869 Guests:\nDate: 02/11/19 Time:07 : 46pm\nTable:23 Server :DANIELA\nGuaca Chicharron 813.95\n2 EMPANADA $3,00\nPARGO FRITO 819.95\nEnsalada\nAguacate\nNo Cebo] Ia\nNo Cebo] Ia Roja 817,00\nMAR Y CHICKEN\nTostones\nTostones\nkk ToGo 2 \"rrRrr\"=\nSALMON A LA PLANCHA 816.00\nEnsa lada\nEnsa Iada\nSubtotal: S69,90\nVoid: -817.95\nTax: 83.44\nSbt] w/Tax: 873,34\nAmt Due: 855 39",
+ "checksum": null,
+ "runtime_s": 2.56815320799069,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    77.9625244140625,
+    0.0
+   ],
+   [
+    639.762451171875,
+    0.0
+   ],
+   [
+    639.762451171875,
+    999.0
+   ],
+   [
+    77.9625244140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

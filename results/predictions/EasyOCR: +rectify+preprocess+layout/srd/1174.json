@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "DINMER RODIZIO",
+   "qty": 1,
+   "price": 841.95
+  },
+  {
+   "name": "20K 23K 25k",
+   "qty": 1,
+   "price": 810.49
+  }
+ ],
+ "subtotal": 841.95,
+ "tax": 82.94,
+ "tip": 810.49,
+ "total": 855.38,
+ "raw_text": "ipanemal\nBrazilian Steak House\n2023 South Pine Avenue\nOcala, Florida 34471\n(352) 622-1741\nDate: 04/13/18 Time; 09;16 pM\nOrder #; 415\nServer Kyle118\nGuest :\nTable #; 12\nName:\nDINING\nDINMER RODIZIO 841.95\nSub-total: 841.95\nGratuity: 810.49\nTax; 82.94\nTotal: 855,38\nFay Th\"s Anount;\nRecomended Gratuity;\n20K \" S8,39 23K 3 09,65 25k : 810,49\nJhark You\nPlease Cone Again\nMI",
+ "checksum": false,
+ "runtime_s": 6.470982833998278,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    143.06875610351562,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    143.06875610351562,
+    999.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

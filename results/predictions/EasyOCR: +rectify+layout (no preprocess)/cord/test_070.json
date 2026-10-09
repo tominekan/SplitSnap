@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "UDANC RE",
+   "qty": 2,
+   "price": 216000.0
+  },
+  {
+   "name": "SAPO Th SEAFOQD",
+   "qty": 1,
+   "price": 172000.0
+  },
+  {
+   "name": "POCAI",
+   "qty": 2,
+   "price": 222000.0
+  },
+  {
+   "name": "GURAME FILLET M",
+   "qty": 1,
+   "price": 163000.0
+  },
+  {
+   "name": "BIHUN GORENG JJ",
+   "qty": 1,
+   "price": 116000.0
+  },
+  {
+   "name": "ICED TEA",
+   "qty": 1,
+   "price": 60000.0
+  },
+  {
+   "name": "DU",
+   "qty": 1,
+   "price": 565938.0
+  }
+ ],
+ "subtotal": 1343000.0,
+ "tax": 142358.0,
+ "tip": 80580.0,
+ "total": null,
+ "raw_text": "2 UDANC RE 216,000 432,00\n=#LARGEX==\nAYM GR JUN NJAN 408,00\n=XMEDIUMZ=\nSAPO Th SEAFOQD 172,000\n=XLARGET==\n2 POCAI 3 111,000 222,000\n2 =XMEDIUMI=\nGURAME FILLET M 163,000\nASAM MANIS\nBIHUN GORENG JJ 116,000\n=SLARGET==\nICED TEA 12,000 60,000\nNASI PUTIH LO,00o 70,00o\nFooD 1,213,00Q\nBEVERAGES 60 Qoo\nOTHERS 70,00Q\nSUBTOTAL 1,343,000\nSERVICE CHARGE 80,580\nTax 10x 142,358\nDU 1 565, 938",
+ "checksum": null,
+ "runtime_s": 3.532337875003577,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    229.36712646484375,
+    21.6619873046875
+   ],
+   [
+    828.6221923828125,
+    23.62030029296875
+   ],
+   [
+    809.0386962890625,
+    1474.757568359375
+   ],
+   [
+    205.86691284179688,
+    1474.757568359375
+   ]
+  ],
+  "method": "paper"
+ }
+}

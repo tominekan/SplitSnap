@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "red urry beef",
+   "qty": 1,
+   "price": 69500.0
+  },
+  {
+   "name": "PPI",
+   "qty": 1,
+   "price": 34351.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 3779859.0,
+ "raw_text": "cashew nuts chkn 64,500\n1 garlic pepper beef 79 , So0\n1 red urry beef 69.500\nphad thal 64.S00\n4 steamed rice 47,6DD\nSUBTOTAL 325,B00\nService chrg 17 . 909\n107 PPI 34,351]\nTOTAL 3779859\n== ==EETE5==",
+ "checksum": null,
+ "runtime_s": 5.968662208993919,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    61.325103759765625,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    61.325103759765625,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

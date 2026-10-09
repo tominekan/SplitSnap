@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Mecl",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Naan",
+   "qty": 1,
+   "price": 83.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "NAANCHING\n103 MONTGOMERRRY ST\nJERSEY CITY, N,J 07302\n2019840709\nORDER: SECOND FLOOR 19\nDine-In\nCashler: Klran\n24-Mar 2019 7:14.55P\nChicken Lollipop S9.00\nMecl $0.00\nThal Frlecl Rice S12.00\nVegetables SO.0O\nMed SO.00\nChlcken Tikka Masala S16.00\nMILD PLEASE\nNaan 83.00\nVegetable Blryanl S12.00\nMAKE IT MILD PLEASE\nMango Lassl S4.00\nSubtotal S56.00\nTax S3.71\nServlce Charge (18.0%) S10,08\nTotal S69.79",
+ "checksum": null,
+ "runtime_s": 7.736707416988793,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    789.0374755859375,
+    0.0
+   ],
+   [
+    789.0374755859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

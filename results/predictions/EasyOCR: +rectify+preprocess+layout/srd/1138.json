@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "CASA CHAN AESTAUAANT\n145 Pelin Ave\n'aieon. J3010\n(305) 640-8828\nFind us On instagiam\necasa_chan_tes[aurant facebook Casa\nChan Restaurant\nORDER: 9\nDine In\nCashiet Diana 2\n21-Dec-2014 5.23.42P\n#12 Wonton Or Egg Orop Or S3.75\nMixed Dinner\nWonton Soup SO.0O\n2 #01 Egg Roll S3.00\n#23 Juice Chinesse Chop S8.99\nSuey Honduran Style\nDinner\nTropical S5.00\n2 S2.50/12 0z\nTamal De Pollo S3.50\n@ S3.50/each\nSubtotel S24.24\nTex S1.70\nTotal S25.94\nOrder DMHGRRFIJPM70\nBring back this receipt for 10% off your next\nvisitW :)\nOnline: https:I /clover com/r/\nDMHGRRFIJPM7O",
+ "checksum": null,
+ "runtime_s": 5.989375500008464,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    108.05001831054688,
+    175.83126831054688
+   ],
+   [
+    561.0,
+    175.83126831054688
+   ],
+   [
+    561.0,
+    999.0
+   ],
+   [
+    108.05001831054688,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

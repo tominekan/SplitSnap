@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Lump Crab Spinach Dip",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Lunch Cajun Shrimp Combo Andoui lle",
+   "qty": 1,
+   "price": 13.95
+  }
+ ],
+ "subtotal": 48.85,
+ "tax": 3.91,
+ "tip": null,
+ "total": null,
+ "raw_text": "PAR DEAUX\nSEAFOOD KITCHEN\n1304 Pappadeaux Cope Iand Seafood Rd Ar] ington Kitchen,(0360 , TX 76011\n(817) 543-0544\nWuM Pappadeaux. COm\n0035 Table 72 #Party\nSARAH H SvrCk: 12;11 11/18/17\nDINE IN\nLump Crab & Spinach Dip 15.95 18.95\nLunch Cajun Shrimp Combo Andoui lle 13.95\nSub Total: 48,85\nTax 3.91\nSub Total 52 , 76\n11/18 12.45 TOTAL: 52 76\nThank you for dining at Pappadeaux.\nTip Not Included\n158 7,91\n18% 9,50\n20% 10,55\ne-Gift Card Payment (19 Digits)\nPresent &-Gift Card for validation.",
+ "checksum": null,
+ "runtime_s": 2.142644332998316,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    125.80001831054688,
+    32.956268310546875
+   ],
+   [
+    715.4249877929688,
+    32.956268310546875
+   ],
+   [
+    715.4249877929688,
+    999.0
+   ],
+   [
+    125.80001831054688,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

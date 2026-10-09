@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Person",
+   "qty": 2,
+   "price": 8.38
+  },
+  {
+   "name": "White Rice (S",
+   "qty": 1,
+   "price": 812.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Lan Shcng\n209 Patctson Ave.\nWallington N: J. 07057 773.7101\nTel 973.773.71(0 Fax 973.=\nB2 1\nDinc In # 1011\nServer: Mary 06/13/17 09:17 P'\n2 Person 08.38 PM\nS7.95\nSpicy Chicken W. Spicy Garli\nC Soy V. S18.95\nHf: Peking Duck S15.95\n1 Stir Beef Fillet w. Tofu S12.95\nPork W Spicy Capsicum S1.S0\nWhite Rice (S) 812.95\n1 Pork W: Spicy Tofu & Cayen\nne Chili\nSubTotal S70.25\nSales Tax S4.90\nTolal S75.15\nThank You\n[avre A Nice Day",
+ "checksum": null,
+ "runtime_s": 6.531302041999879,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    592.5875244140625,
+    0.0
+   ],
+   [
+    592.5875244140625,
+    948.8125
+   ],
+   [
+    0.0,
+    948.8125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

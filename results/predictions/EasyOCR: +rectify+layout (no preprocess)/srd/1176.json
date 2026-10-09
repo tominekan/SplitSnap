@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "BATCH",
+   "qty": 1,
+   "price": 541.45
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "HEDLEYS\n640 ROBERTSON BLVD\nWESTO KOLLYMCOD CA 90069\n310-659-2009\nTerminal ID: 01528251 3430\n2:52 PM\n6/5/17\nCREDIT SALE REF 9395\nUID: '715615506682 554 AUTR 065231\nBATCH\n541.45\nAMOUNT\nTIP\nTOTAL\nAPPROVED\nTC CO347EEBBF 2C3628\nCUSTOMER CoPy",
+ "checksum": null,
+ "runtime_s": 2.778060208001989,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    107.95001220703125,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    107.95001220703125,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

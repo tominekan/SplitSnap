@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "ISm IPE MT",
+   "qty": 1,
+   "price": 24006.0
+  },
+  {
+   "name": "SUB T(If",
+   "qty": 1,
+   "price": 28000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "\"ISm IPE MT 24,006\n#@ONu) JELLK ( L 000\nSUB T(If 28,000\nTOTAL SA: y 28 , O00\nTOTAL IoS\nCASH 100,000\nCHANGE 12,000\ndueup Ko:_8n",
+ "checksum": null,
+ "runtime_s": 7.856574915989768,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    241.08038330078125
+   ],
+   [
+    863.0,
+    241.08038330078125
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

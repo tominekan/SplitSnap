@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Co f fee",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Lunch",
+   "qty": 2,
+   "price": 45.9
+  },
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": 51.9,
+ "tax": 4.6,
+ "tip": null,
+ "total": 656.5,
+ "raw_text": "GHEEN FIELD\n5305 E PacIFIC CoasT Hwy\nLong Beach CA 90004\n(562) 597-0906\nServer Franc is Stat ion\nOrder 69923 Dine In\nTab le BII Guests 2\nCo f fee 3.00\n2 Lunch 45.90\nCoke 3.00\nSUB TOTAL: 51.90\nTax I: 4.60\nTOTAL; 656,50\n5/26/2016 12.53:10 PM\nTHANK YOU !",
+ "checksum": false,
+ "runtime_s": 3.0111965410178527,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    16.725006103515625,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    16.725006103515625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

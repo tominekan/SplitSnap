@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Ptgs Eogiart 12,0oQ\nChoco Meli 11,O00\nSUBTOTAL 27,OOV\nDUE 23,Ooo\ncash 33),OOQ\nCHANGE 27,Oo0\nToTAl QTy 2 ITEM 2 PCS",
+ "checksum": null,
+ "runtime_s": 0.9795238750084536,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    863.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

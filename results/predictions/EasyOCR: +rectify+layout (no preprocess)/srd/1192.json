@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 37.29,
+ "raw_text": "SUlcse\n203.515.7454\n48120\n1z7/1 0 #\nScp3o\"IT OTaesck\nCHIC TFO\nRirs |n\nBRG DilWE\nFinirt\nslbtotal\n37.29\nKAfp( KOUR\nFjkA SATUECAY\nclose\nSuay Hioj/ Kf Ml Oy\nEAT Ma1M EAe Y Cllb\nan [eemos n Dnico\nTat ''\"^ !\nP - | ' F 4` # + ' - +",
+ "checksum": null,
+ "runtime_s": 0.6268083330069203,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    57.73219299316406,
+    46.943450927734375
+   ],
+   [
+    261.0534362792969,
+    46.943450927734375
+   ],
+   [
+    261.0534362792969,
+    411.8484191894531
+   ],
+   [
+    57.73219299316406,
+    411.8484191894531
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

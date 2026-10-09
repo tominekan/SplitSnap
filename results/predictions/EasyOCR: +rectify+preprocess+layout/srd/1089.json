@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "Makers Mark",
+   "qty": 1,
+   "price": 23.0
+  },
+  {
+   "name": "Side Caesar",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Chicken Rib Combo",
+   "qty": 1,
+   "price": 29.0
+  },
+  {
+   "name": "Woodford Reserve",
+   "qty": 1,
+   "price": 24.0
+  },
+  {
+   "name": "Frisee Salad",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Poached Shrimp Cocktai",
+   "qty": 1,
+   "price": 17.5
+  },
+  {
+   "name": "NY Stip 8oz",
+   "qty": 1,
+   "price": 28.0
+  }
+ ],
+ "subtotal": 137.5,
+ "tax": 5.43,
+ "tip": null,
+ "total": 142.93,
+ "raw_text": "fItedoint Gr |/1\n3739 Nest Chester Pike\nNeutorn Sauar e. PA 19013\n484-428-3093\nSer ver Wimi 12/07/2016\n53/1 6:53 PM\nGuests 2\n#90024\nRepr Int 6:\nOr der Type: Send\nArea: Dlnlng\nMakers Mark (2 €11. 50) 23.00\nAs Old Fashioned\nSide Caesar 6. 00\nChicken & Rib Combo 29.00\nWoodford Reserve (2 @12. 00) 24. 00\nOn the Rocks\nFrisee Salad 10.00\nPoached Shrimp Cocktai) 17.50\nNY Stip 8oz 28. 00\nComplete Subtotal 137. 50\nSubtotal 137 . 50\nTotal Tax 5.43\nTotal 142.93\nBalance Due 142.93\nTHANK YOU\nVisit us Online at\nWWw FirepointGriMl com",
+ "checksum": true,
+ "runtime_s": 9.653813251003157,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    796.5187377929688,
+    0.0
+   ],
+   [
+    796.5187377929688,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

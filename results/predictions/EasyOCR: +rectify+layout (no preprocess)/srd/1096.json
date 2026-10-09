@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "A lbondigas",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Mo le",
+   "qty": 1,
+   "price": 816.95
+  }
+ ],
+ "subtotal": 842.9,
+ "tax": 84.08,
+ "tip": null,
+ "total": null,
+ "raw_text": "QE 223 N Citrus Ave\nCovina CA 91723\n(626) 339-9496\nCheck : 208774\nTable: BAR9\nServer:Ryan\n09/25/18 08 : 44pm\n[Seat 1]\n2 Bohemia 816 . 00\nTa/I\nA lbondigas $9.95\nMo le 816.95\nSubtotal: 842.90\nTax: 84.08\nSub w/Tax: $46. 98\nTota] ; $46 98\n'Thank-You!\nWe Iookforward to see ing you again_",
+ "checksum": null,
+ "runtime_s": 3.291242166000302,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

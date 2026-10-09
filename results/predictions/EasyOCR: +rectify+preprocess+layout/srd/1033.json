@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Guests",
+   "qty": 1,
+   "price": 15.49
+  },
+  {
+   "name": "Add Chicken Fajita",
+   "qty": 1,
+   "price": 18.99
+  },
+  {
+   "name": "Pechuga de Polio",
+   "qty": 1,
+   "price": 43.47
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 3.26
+  },
+  {
+   "name": "Ba Iance Due",
+   "qty": 1,
+   "price": 46.73
+  }
+ ],
+ "subtotal": null,
+ "tax": 46.73,
+ "tip": null,
+ "total": null,
+ "raw_text": "8030 Renat Issance NC 2771.3 Parkway\nDurham (984) , 329-2900\n05/18/2019 12:25 PM\nServer: ANASTASHIA 80001\nTable 57/1\nGuests; 2 15.49\nTaco Ground Salad Beef 8.99\nAdd Chicken Fajita 18.99\nPechuga de Polio\n43,47\nSubtota] 3,26\nTax\n46,73\nTotal\nBa Iance Due 46 .73\nAsk your Server about the\nUncle Jul lo'$ Loyalty Program\nree to Joln a tons of rewards to earn!",
+ "checksum": null,
+ "runtime_s": 6.128252498994698,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

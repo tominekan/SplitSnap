@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "APPLE CINNAMON PASTRY",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "APPLE CINNAMON PASTRY 22,000\n2 ROYAL CHEESE TART 32 , 000\nTOTAL 52\n,888\nCARD 52",
+ "checksum": null,
+ "runtime_s": 6.294702874991344,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "SutNv Doluxo",
+   "qty": 1,
+   "price": 520.73
+  },
+  {
+   "name": "SdmonR",
+   "qty": 1,
+   "price": 85.8
+  },
+  {
+   "name": "Tolol",
+   "qty": 1,
+   "price": 593.58
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Aklra\n#aow\nOlenapm _ M130n7\nMctana\nMm_\n516;i 16 16657 &\n37 PICKu?\nHichi Sioakkj\nMed\nNoody S0\nSutNv Doluxo 520.73\nGbnmont Roi s15.03\n1 Pniky R 8.8\nSp Tuna R s13.0\nSdmonR 85.80\nBuxxaxr Tox #8\nTolol: 593.58\nUnpald",
+ "checksum": null,
+ "runtime_s": 2.1804144580091815,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    226.31759643554688,
+    0.0
+   ],
+   [
+    218.79689025878906,
+    257.0
+   ],
+   [
+    0.0,
+    256.98248291015625
+   ]
+  ],
+  "method": "paper"
+ }
+}

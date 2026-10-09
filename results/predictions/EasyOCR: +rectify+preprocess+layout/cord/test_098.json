@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "TRIJFFLE CREAM",
+   "qty": 1,
+   "price": 17000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 22790.0,
+ "tip": 12900.0,
+ "total": null,
+ "raw_text": "pamci4\nFOOD\nQualitylK\nPresenta\nTastelRa=\nBEVERAc\nQualitylKl\nPresenta\nTaste/Ra} BLACK PEPPER MEATBALL PAS 79 ,0oo\nTRIJFFLE CREAM 17,000\nSERVICE EARL GREY MILK TEA 59 ,OOQ\nSUBTTL 215 _ ,00Q\nFriendlin Service Charge 6i% 12,900\nPromptr TAX 10% 22,790\nAttentiv\nTime/Wa TOTAL 250 , 690\nOTHERS\nCleanline\nAmbiance\nValue for /",
+ "checksum": null,
+ "runtime_s": 11.006885209004395,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    124.12158203125,
+    364.7872314453125
+   ],
+   [
+    1717.0047607421875,
+    364.7872314453125
+   ],
+   [
+    1717.0047607421875,
+    2047.0
+   ],
+   [
+    124.12158203125,
+    2047.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

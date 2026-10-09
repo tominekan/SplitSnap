@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 3.25
+  },
+  {
+   "name": "Enmoladas with Meat",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "po] 1o",
+   "qty": 1,
+   "price": 5.95
+  },
+  {
+   "name": "Coloradito",
+   "qty": 1,
+   "price": 50.05
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 9.01
+  },
+  {
+   "name": "Ba lance Due",
+   "qty": 1,
+   "price": 64.52
+  }
+ ],
+ "subtotal": 5.46,
+ "tax": 55.51,
+ "tip": 64.52,
+ "total": null,
+ "raw_text": "Mexican Restaurant & Bar\n25 West San Fernando St .\nSan Jose , CA 95113\n(408) 283-9595\nServer: Pablo 12/29/2017\nTable 40/1 1;17 PM\nGuests: 3 30001\nReprint #:\nCoffee 3.25\nEnmoladas with Meat 14,95\npo] - 1o 5,95\nChicken Tenders 9,95\nFlautas Chicken 15,.95\nColoradito\n50.05\nSubtotal 5,46\nTax\n55,51\nTota] 9,01\nGratuity 18.00% 64,52\nTotal\nBa lance Due 64.52\nW Become a friend of uS on\nFACEBOOK to recej= ve news of\nevents & specia] offers !!\nTHAnk\" You FOR COMING",
+ "checksum": null,
+ "runtime_s": 2.6743256259942427,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    584.6312255859375,
+    0.0
+   ],
+   [
+    636.3062744140625,
+    999.0
+   ],
+   [
+    13.5562744140625,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

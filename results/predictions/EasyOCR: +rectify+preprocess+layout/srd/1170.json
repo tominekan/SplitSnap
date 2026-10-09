@@ -1,0 +1,51 @@
+{
+ "items": [
+  {
+   "name": "Iced Tea",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "Sm Garlic Bread",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "eason 9p2 Buca Chianti",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "GI Buca Chianti",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Sm Chcp Antipasto Salad",
+   "qty": 1,
+   "price": 18.99
+  },
+  {
+   "name": "Lg Supremo Pizza",
+   "qty": 1,
+   "price": 29.99
+  },
+  {
+   "name": "Ba lance Due",
+   "qty": 1,
+   "price": 109.28
+  }
+ ],
+ "subtotal": null,
+ "tax": 9.02,
+ "tip": null,
+ "total": null,
+ "raw_text": "Aguln\nBuca di Berpu\nStore#0511\nUniversa) City, CA 91608 k}\n818.509..9463\nServer: Molly 07/15/2016 7\nTable 53/1 7457 PH\nGuests: 3 40020\nCrder Type; Dining\nReason 466\nIced Tea 3.29 There's\nSm Garlic Bread 9.99\n'eason #23 9p2 Buca Chianti (2 €14.C0) 28. 00\nGI Buca Chianti 10.00\nSm Chcp Antipasto Salad 18.99 2el\nLg Supremo Pizza 29.99\nHe value your opinion,\nVisit bucafeedback.COM to coiplete with\na brief survey ad enter our Keekly\ndrawing for & chance to win a\nS100 digita) promotiona] certificate\nSee bucadibeppo.com/buca-feedback-rules\nfor Official Rules ad restrictions. the\nu didnt drc 091 257 OO0 051 115 'day\nOf Song\nschooli Pastal\nesh for\nyoul\n4 Subtotal 100,26 xi-nar-a .\nTax 9,02 tool\nTrtal 109.28 ucaaa .\nsay,\nBa lance Due 109.28\ndav",
+ "checksum": null,
+ "runtime_s": 9.285346374992514,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

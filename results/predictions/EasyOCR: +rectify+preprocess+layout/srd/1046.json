@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Server: Valerie P",
+   "qty": 1,
+   "price": 5.39
+  },
+  {
+   "name": "VaniIa Bean",
+   "qty": 2,
+   "price": 612.0
+  },
+  {
+   "name": "Route Burger 80z",
+   "qty": 1,
+   "price": 814.0
+  }
+ ],
+ "subtotal": 86.12,
+ "tax": 38.86,
+ "tip": 82.14,
+ "total": null,
+ "raw_text": "Araxi Burger Aventura\n17861 BISCAYNE BLVD\nAventura, FL 33160\nServer: Valerie P 03/17/19 5.39 PM\nCheck #33 Table 12\n2 VaniIa Bean 612,00\nClassIc Burger 4oz S8 .00\nRoute 66 Burger 80z 814,00\n10% (10.OOk) 83,40\n830.60\nSubtotal 86, 12\nService Charge (18.008) 82.14\nTax {38.86\nTota]\nPowered by Toast",
+ "checksum": null,
+ "runtime_s": 6.141403458008426,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    42.54376220703125,
+    179.00628662109375
+   ],
+   [
+    683.84375,
+    226.70626831054688
+   ],
+   [
+    686.4937744140625,
+    999.0
+   ],
+   [
+    0.0,
+    970.03125
+   ]
+  ],
+  "method": "otsu"
+ }
+}

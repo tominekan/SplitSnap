@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Pho Bo TAI",
+   "qty": 1,
+   "price": 55000.0
+  },
+  {
+   "name": "PBi",
+   "qty": 1,
+   "price": 5500.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Pho Bo TAI 55,000\nCask 100,0od\nSub Total: 55 307\nPBi 5,500\nTotal: L0,500\nPaye 100 ,D00\nChange Duef 37 G00",
+ "checksum": null,
+ "runtime_s": 8.365016249998007,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    1835.0,
+    0.0
+   ],
+   [
+    1835.0,
+    2522.990234375
+   ],
+   [
+    0.0,
+    2522.990234375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

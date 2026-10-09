@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Beef w. Broccoli",
+   "qty": 1,
+   "price": 8.25
+  },
+  {
+   "name": "Chickeri Fried Rice",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Sweet Soujr Chicken",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Chicken Chow Mein",
+   "qty": 1,
+   "price": 6.75
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 24.95
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.01,
+ "tip": null,
+ "total": 26.96,
+ "raw_text": "New China\nI3O Norlh Higley Rd Suilel7-102\nMesa, AZ 85205\nTel (4801218 9888/9892\nWalk In\nDale; 03 12-2016 Tlme: 02pm #23\nServer BOSS\nBeef w. Broccoli 8.25\nChickeri Fried Rice 2.00\nSweet Soujr Chicken 7.95\nChicken Chow Mein 6.75\nAmount 24.95\nTAX(8 05%| 2.01\nTOTAL 26,96\nThank you very much_",
+ "checksum": null,
+ "runtime_s": 0.6842668339959346,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

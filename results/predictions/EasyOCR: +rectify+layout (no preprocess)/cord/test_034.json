@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Ashi Cnick Garba| Vatan",
+   "qty": 1,
+   "price": 75040.0
+  },
+  {
+   "name": "Falak (IOF",
+   "qty": 1,
+   "price": 8500.0
+  },
+  {
+   "name": "Kerbat",
+   "qty": 1,
+   "price": 6500.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Ashi Cnick Garba| Vatan 75.040\nJanur Gorenz 10,Cd\nSubtota] 03.0q0\nFalak (IOF) 8.500\nTTota | 93-500\nTuna i 100.0oU\nKerbat 6,500\nACaC",
+ "checksum": null,
+ "runtime_s": 0.8391879590053577,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    319.0,
+    0.0
+   ],
+   [
+    319.0,
+    623.0
+   ],
+   [
+    0.0,
+    623.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

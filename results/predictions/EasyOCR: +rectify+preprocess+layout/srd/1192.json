@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Jinoo\nItsio 5UlaMU 042541\n{uu; M 9183\n208.515.744\n781@ 4) #\nml 127/1 0* *5 Gs6 3\nSend'17 Ot:380\nOIIc Teo W\nRIBS 102 ST 0 18 .\nB36 DzluUe\nIIKING\nSAtoTal D_ 38\nTax\nToia Q 37 29\nHPt MOR\nMIMAY T0 Stuecay\n3 M f0 6 0 6 9e (0 clove\nQUNAY Hvy Hor Nl Qy\nJoin QUr ExT DRik EGv Clc\nt0 Cjrn (taJrcs clle d1nir)",
+ "checksum": null,
+ "runtime_s": 3.3179532089998247,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    57.73219299316406,
+    46.943450927734375
+   ],
+   [
+    261.0534362792969,
+    46.943450927734375
+   ],
+   [
+    261.0534362792969,
+    411.8484191894531
+   ],
+   [
+    57.73219299316406,
+    411.8484191894531
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "BBQ Chicken",
+   "qty": 1,
+   "price": 41000.0
+  },
+  {
+   "name": "Tidak Pedas",
+   "qty": 1,
+   "price": 41000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "BBQ Chicken 41,000\nTidak Pedas\n41,000\nITEMS 1 41*000\nFayicash 50,000 Change :9,000",
+ "checksum": null,
+ "runtime_s": 1.424554208992049,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    100.05120849609375,
+    500.3856506347656
+   ],
+   [
+    639.251953125,
+    500.3856506347656
+   ],
+   [
+    639.251953125,
+    1190.699951171875
+   ],
+   [
+    100.05120849609375,
+    1190.699951171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

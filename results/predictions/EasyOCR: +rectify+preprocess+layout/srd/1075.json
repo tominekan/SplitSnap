@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "FXN DIET BIRCH",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "FULL BOX",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 13.5,
+ "tax": 0.86,
+ "tip": null,
+ "total": 814.36,
+ "raw_text": "SmokeBoxBbQ\n2361 Whitney Ave\nHamden, ct 06518\n203 909 6545\nORDER# 39\nCASHIER #\n5/22/2014 2:00:48 PM GUESTS\nFXN DIET BIRCH 1,50\nFULL BOX 12.00\nSUBTOTAL: 13,50\nTAX; 0,86\nSERVER T#0000074\nTOTAL: 814.36\nCash 20 , 00\nChange 5,.64\nCLOSED 5/22/2014 2:02:00 PM\nTHANK YOU ! !",
+ "checksum": false,
+ "runtime_s": 6.9507360410061665,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    71.4000244140625,
+    49.4000244140625
+   ],
+   [
+    710.0499877929688,
+    49.4000244140625
+   ],
+   [
+    710.0499877929688,
+    999.0
+   ],
+   [
+    71.4000244140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

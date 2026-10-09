@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "SHOPF ING RAG",
+   "qty": 1,
+   "price": 1003.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "0571-1854 BLUS VANITA\n2120, Q0U 07 120= Q0\n1002-0060 SHOPF ING RAG\n2880 1003\nTOTAl (2 iten) 120 , Qo0\nCC Visa.RCA F120, Q00\nTotal Keabalian",
+ "checksum": null,
+ "runtime_s": 1.435925917015993,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    839.2733764648438
+   ],
+   [
+    0.0,
+    839.2733764648438
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

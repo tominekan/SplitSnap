@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Coors Light",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Ice Tea",
+   "qty": 1,
+   "price": 3.25
+  },
+  {
+   "name": "Shrimp Fajita",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Stuffed Chicken",
+   "qty": 1,
+   "price": 17.95
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 47.9
+  }
+ ],
+ "subtotal": 45.15,
+ "tax": 2.75,
+ "tip": null,
+ "total": null,
+ "raw_text": "El Charro Cafe Ventana\n6910 E SUNRISE DR\nServer Ana 06/34000 8:00 pe\nTabie 24/1\nGuests: #30076\nCoors Light 5,00\nIce Tea 3.25\nShrimp Fajita 18.95\nStuffed Chicken 17.95\nSubtotal 45.15\nTax 2.75\nTota] 47.90\nBa Tance Due 47 90\nEAT FOR FREE!!!",
+ "checksum": null,
+ "runtime_s": 0.8384159169945633,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    449.0,
+    0.0
+   ],
+   [
+    449.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

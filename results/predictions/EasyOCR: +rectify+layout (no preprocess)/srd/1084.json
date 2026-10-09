@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "STUFFED ARTICHOKE",
+   "qty": 1,
+   "price": 818.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 88.24,
+ "tip": null,
+ "total": null,
+ "raw_text": "Trattoria Saporito\n328 Washingtonstreet\nHoboken; NJ 07030\n201-533-1801\nTABLE\nCHECK# 27273\nDATELTIME= 7/1/2018 5;53;48 PM\nSERVER; Gastone\nSTATION: 01\nItem Count= 4\nSTUFFED ARTICHOKE* 818.00\nCCC222\nBK FETT_AL PORCINI 836. 0Q\nCOSTOLETTE/ALLA PAP* 842 .\nBROCCOLI RABE W/ GA* 519' 3\nESPRESSO* DBLD ESPRESSO* 87\nSubtota] 8117.75\nTax 88 .24\nIRAHD TOTAL 8125,99\nlopened: 7/1/2018 5;53:48 PM",
+ "checksum": null,
+ "runtime_s": 3.366367624999839,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    29.081268310546875,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    722.0562744140625,
+    999.0
+   ],
+   [
+    2.581268310546875,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "IX",
+   "qty": 1,
+   "price": 5500.0
+  },
+  {
+   "name": "IX",
+   "qty": 1,
+   "price": 3000.0
+  },
+  {
+   "name": "IX",
+   "qty": 1,
+   "price": 5000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "IX 5500\nIalaw UnGU 6 S(m)\nDISC ITEN -40 OoC'\nAHOUNT\nIX 3000\nAREM AREM 8 , uuju\nDISC ITEM 40 .O0u'\nAHOUNT 3.2U1\n2X J000\nlehper Iu imm\nDISC ITEK 40 thbu\nAHOUMT \"ut,\nix\nMIKA SedahG\nIX\nPLASTIK KECIL\nIX 5000\nTeh KoTAK\n7,0C ITEMs\nSUbTOTAL 24,suu\nTotaL 24.Suu\ncarD 24,Suu",
+ "checksum": null,
+ "runtime_s": 3.9373932909802534,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    114.73922729492188,
+    23.01483154296875
+   ],
+   [
+    443.29681396484375,
+    23.01483154296875
+   ],
+   [
+    443.29681396484375,
+    852.9947509765625
+   ],
+   [
+    114.73922729492188,
+    852.9947509765625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

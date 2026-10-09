@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "901016 TICKET Cr\n60 ,O00 240, 000\nTOtaL (Qtv=4 00) 240 0o0\nCASh 250,000\nCHANGE 10, 000",
+ "checksum": null,
+ "runtime_s": 2.156220292003127,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    738.3636474609375
+   ],
+   [
+    0.0,
+    738.3636474609375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

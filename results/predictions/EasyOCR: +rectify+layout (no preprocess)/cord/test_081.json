@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "J00Z-Kyota Choco Mochi",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "1001-Choco Bun",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "J00Z-Kyota Choco Mochi\n14.000 28.000\n1001-Choco Bun\n22.000 22.000\n6001-Plastic Bag Swall\nTotal Item:\nTotal_ 50.q00",
+ "checksum": null,
+ "runtime_s": 10.828987958011567,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    157.90081787109375,
+    44.3392333984375
+   ],
+   [
+    2252.800048828125,
+    44.3392333984375
+   ],
+   [
+    2252.800048828125,
+    3615.4365234375
+   ],
+   [
+    157.90081787109375,
+    3615.4365234375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

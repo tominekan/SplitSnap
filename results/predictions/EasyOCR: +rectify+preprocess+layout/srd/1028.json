@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "S ZUOOINI",
+   "qty": 1,
+   "price": 2.49
+  },
+  {
+   "name": "Braar",
+   "qty": 1,
+   "price": 5.83
+  },
+  {
+   "name": "0lons rlnes",
+   "qty": 1,
+   "price": 2.49
+  },
+  {
+   "name": "SZRV.CVRc(2X",
+   "qty": 1,
+   "price": 0.61
+  },
+  {
+   "name": "DRV THRU",
+   "qty": 1,
+   "price": 34.21
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.97,
+ "tip": null,
+ "total": null,
+ "raw_text": "5XSXI3ZCZOD A\nQLAS &RCERS 015\nI135 Nrinaton Ulwd\n1 71{8S; 89748505\nCheck 20018\n209/19 5;30\n333132\nBECER Cotm 9.5\n(rles\nsericm dr 38\n{ij* [cowva\n'r| | mlotse\nS ZUOOINI 2.49\nRasseroy Ico To\n1 Braar (1i4) 5.83\nses4r bn\nICEGUNRut\nnradd tucontt\nsad 060cestt 3\nME SPEcIAL\n0lons rlnes 2.49\nleeovde\nSZRV.CVRc(2X) 0.61\n838828\nSbntl 3} ;24\nTax 2.97\nDRV THRU 34.21\nCash 34.21",
+ "checksum": null,
+ "runtime_s": 4.729444500000682,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    14.12750244140625,
+    1.227508544921875
+   ],
+   [
+    267.99749755859375,
+    1.227508544921875
+   ],
+   [
+    267.99749755859375,
+    399.0
+   ],
+   [
+    14.12750244140625,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "items": [
+  {
+   "name": "Green Sa lad",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Wagyu Cheeseburger",
+   "qty": 1,
+   "price": 19.0
+  },
+  {
+   "name": "Gar|ic Fries",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "ADD RAw ONIONS& BACON PLZ",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Drink of the Day",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Tea",
+   "qty": 1,
+   "price": 414.0
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 15.0
+  },
+  {
+   "name": "HI HNLKO GET",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "pYtta",
+   "qty": 1,
+   "price": 30.0
+  },
+  {
+   "name": "mlol",
+   "qty": 1,
+   "price": 40.0
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 44.31
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "QAHTU, HAWAII\nLongboards\n92-161 Waipahe Place\nKapolej _ Hi 96707 Ictices. Tipping\n(808) 679-4700 unless otherm\n\"V [0 acknowled\nServer Elijah J 01/11/2019 15-20%.\nCheck ; 24016 12:46 PM\nTable; 44/0 Dine In 6n#t 7b 6 T>\nItem Rl '#-Ex #(FiU\nPrice\neltrlso\nGreen Sa lad 8 ,00\nRanch\nWagyu Cheeseburger 19,00\nMedium We] 1 2096\nGar|ic Fries 2.00\nADD RAw ONIONS& BACON PLZ 12.00\nDrink of the Day 9,75 13.00\nTea 4,00 414.00\nSubtota] 15.00\n842,75 16.00\nQhana Discount Breakfast -3,30 17.00\nHI HNLKO 4,712x GET 1,86 18.00\n19.00\nTota] 20.00\npYtta 541,.31 30.00\nmlol 40,00\ndonner Lh\nRegu Gratuity 3,00 Fendhs e, &\nln ge (4 compris. atre\nen Ia\nTota] 44.31\n{Hu 4",
+ "checksum": null,
+ "runtime_s": 3.6407803329930175,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

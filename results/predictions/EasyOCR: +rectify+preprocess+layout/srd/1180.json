@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "LM 6enm 63en6\nEd Mm Ottrd S\n10 ~\n000 83@\nm prued\nYoua1@\n9', # #41\n2 9 0N4\ntn @ultd oY'\nMims 1 0'M 6\nIuanira Red Bu\nSoft 0' Im\ncojun so8onkt Casn\nflosomo &\n5188008480106\" Xlula 2 G\nTax\nTota Pa1d\nime Pie; Car 1J 19\nState Iax icsed\n4556 Cect C itrm\nsigm 14 0 '",
+ "checksum": null,
+ "runtime_s": 7.923270666011376,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    326.1824951171875,
+    0.0
+   ],
+   [
+    326.1824951171875,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

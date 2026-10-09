@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "R\n6 Pcs Cheese Tart 165000.6',\nBox of 6\nPP Carrler\nSubtotal: Fpi6s000,C)\nTota/ Tax Included: RpIEOOO . Oo\nTotal: Rp165000 . 0\nCusLomer Pafd Cash: Rpzooogo,Ls\nCustomer Change; Rp3-uco,Oo",
+ "checksum": null,
+ "runtime_s": 5.163460249998025,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    511.82086181640625,
+    627.840087890625
+   ],
+   [
+    1825.203125,
+    676.6849365234375
+   ],
+   [
+    1760.07666015625,
+    3379.43017578125
+   ],
+   [
+    495.53924560546875,
+    3390.28466796875
+   ]
+  ],
+  "method": "paper"
+ }
+}

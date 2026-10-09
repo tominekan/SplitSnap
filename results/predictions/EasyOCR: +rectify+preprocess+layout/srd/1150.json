@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "DB moodfrd Res",
+   "qty": 1,
+   "price": 17.99
+  },
+  {
+   "name": "Ca8 PeJu Saut",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "sand Grld CHIX",
+   "qty": 1,
+   "price": 16.5
+  },
+  {
+   "name": "SLD SHRIMP LQUIE",
+   "qty": 1,
+   "price": 24.0
+  },
+  {
+   "name": "SD BRUSSEL SPRTS",
+   "qty": 1,
+   "price": 7.0
+  }
+ ],
+ "subtotal": 74.49,
+ "tax": 0.45,
+ "tip": null,
+ "total": null,
+ "raw_text": "HMS\nESqUIRE GRILcE\nSacrjnetro fn7L ^irPIri\n'41079 Jod)\n126/1 GST 2\n2 1 44\naprog ' 16 6:09Pm\nDINE 10\n020 Seat\nDB moodfrd Res 2 17. 99\nNeat\nCa8 PeJu Saut 5 .00\nPeju Cabernot {auv'0no;\nsand Grld CHIX 16.50\nSo chqp SLd\nNT ORS Blue chS\noRESS 0n SIOE\nSLD SHRIMP LQUIE 24,00\n0/ Oress 0w SjdE\nSD BRUSSEL SPRTS 7 .00\nTax 5.96 AxoUnT 0 00, 45\nSubToTaL 74,49\nTax 5,96\nAnOunt due $80 . 45\nWe Hant TO HEaR Your FEEdBACK :\nPLEASE contact 1-877-672-7467\nOR CUSTONERSERYICEQHHSHOST , com\nTo SHare YOUR EXPERIENCE ,\nSTOREIO: Smffgea1",
+ "checksum": null,
+ "runtime_s": 4.516707916001906,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    274.0303039550781,
+    0.0
+   ],
+   [
+    274.0303039550781,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

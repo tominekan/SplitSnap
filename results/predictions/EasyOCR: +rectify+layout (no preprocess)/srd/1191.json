@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Draft Beer",
+   "qty": 1,
+   "price": 89.94
+  },
+  {
+   "name": "Fountain Drink",
+   "qty": 1,
+   "price": 82.17
+  },
+  {
+   "name": "Mini MOD",
+   "qty": 1,
+   "price": 26.67
+  }
+ ],
+ "subtotal": 527.45,
+ "tax": 452.53,
+ "tip": 83.59,
+ "total": 829.98,
+ "raw_text": "MOD Pizza\n26902 92nd Ave NH\nSuite\nStanwood_ HA 98292\nPhone 360.205,9680\n5/19/2019 4:06;54 PM\nOrder Id: AABTAHNGACCM\n#77 HERE\nDraft Beer (2 0 ,4.97) 89,94\nFountain Drink (1602) 82.17\nMOD Pizza S8.67\nMini MOD 26.67\nSub Total 527. 45\nSales Tax 452.53\nOrder Total 829.98\nVisa 629.98\nTip: +1+4++++++++3352 83.59\nCard# J60",
+ "checksum": false,
+ "runtime_s": 0.648288833006518,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

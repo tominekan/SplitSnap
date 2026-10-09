@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Svrck",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "LAURA",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "CP up up",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "COSMO",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "SOUP DJ",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "TURTLE",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "CATFISH",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "TOSTA ADA up",
+   "qty": 1,
+   "price": 9.5
+  },
+  {
+   "name": "ALA",
+   "qty": 1,
+   "price": 50.5
+  }
+ ],
+ "subtotal": 5.45,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Card Here\nCOMMANDA 5 NEW PALACE ORL EANS , LA =\n1427 WASHINGTON Table 522 AVE _ #Party 03/12/19 2\n0009 Svrck: 11 ;23a 0.25\nLAURA 0.25\n25/ CP up up 0.00 0 .00\n251 /COSMO , 22.00\nSOUP DJ 18.00\nTURTLE 0.25\nCATFISH 0.25\nTOSTA ADA up 9.50\n25/GIN RAY , , up\n25/ ALA 50.50\nSOUFFLE/F Sub Total : 5.45\nTax: 55 95\nAL:\n12;31pTOTe\n03/12 You\nThank\nNETFLIX! Table\ning on ing the\nNow streami Commandi detai) Is\nBrennan: server for\nElla your\nAsk",
+ "checksum": null,
+ "runtime_s": 2.2915358749887673,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    19.456268310546875,
+    80.01251220703125
+   ],
+   [
+    749.0,
+    80.01251220703125
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    19.456268310546875,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

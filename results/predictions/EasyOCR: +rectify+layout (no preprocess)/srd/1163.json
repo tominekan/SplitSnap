@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "past bowl bar iey",
+   "qty": 1,
+   "price": 27.98
+  },
+  {
+   "name": "KNISH",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "ROUMD",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "KASHE SIDE",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "COFFEE",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "NATER",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Sub Tota",
+   "qty": 1,
+   "price": 37.95
+  },
+  {
+   "name": "GRAT",
+   "qty": 1,
+   "price": 5.69
+  }
+ ],
+ "subtotal": null,
+ "tax": 3.37,
+ "tip": null,
+ "total": 41.32,
+ "raw_text": "BEN'$ BAYSIDE\n211-37 26th Avenue\nBays ide Hy 11380\nPhone: (718)229-2367\nEmav I: Bayside BensDeli.net\n0032 Table #Party 3\nJESSICA SvrCk 12:05 03/05/17\nDINING ROOM\n2 DOUBLE @IP tky DOw| barley ,\npast bowl bar iey 27.98\nKNISH 0.00\nROUMD 3,99\nKASHE SIDE 3.99\nCOFFEE 1.99\nNATER 0.00:\nSub Tota]; 37.95\nTax 3.37\n03/05 12:41 TOTAL: 41.32\nSuggested Gratuity\nGRAT 158 5.69\nCotT",
+ "checksum": null,
+ "runtime_s": 0.7669624169939198,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    332.04656982421875,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    10.667816162109375,
+    449.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

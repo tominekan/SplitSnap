@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Naga Lychee Juice",
+   "qty": 1,
+   "price": 34632.0
+  },
+  {
+   "name": "Chlcken Cesar Salad",
+   "qty": 1,
+   "price": 43290.0
+  },
+  {
+   "name": "Minera| Water",
+   "qty": 1,
+   "price": 12987.0
+  },
+  {
+   "name": "Kinera/ Water",
+   "qty": 1,
+   "price": 12987.0
+  }
+ ],
+ "subtotal": 316017.0,
+ "tax": null,
+ "tip": 43982.0,
+ "total": null,
+ "raw_text": "Chicken Kary land 47619.00\nCappucino (Hot/Iced) 30303.rin\nNaga Lychee Juice 34632 .\n(afe atte 30303.%u\nHot Chocolate Marsria / lo 30303. OV,\nChlcken Cesar Salad 43290 . (u\nMinera| Water 12987 ,0r\nKinera/ Water 12987 (w\nLychee/Peach/ Lemon/Mango 2' ,74.09\nChIcken Mary land 47619.00\nSubtotal 316017 60\nServIce Charge S* 43982 .68\nTOTM 365000.00",
+ "checksum": null,
+ "runtime_s": 4.837785208015703,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    47.210418701171875,
+    31.053619384765625
+   ],
+   [
+    611.9783935546875,
+    31.053619384765625
+   ],
+   [
+    611.9783935546875,
+    1035.4248046875
+   ],
+   [
+    47.210418701171875,
+    1035.4248046875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

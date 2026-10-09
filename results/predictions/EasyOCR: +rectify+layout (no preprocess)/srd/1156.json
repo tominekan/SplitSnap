@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "MeatbalIs",
+   "qty": 1,
+   "price": 3.8
+  },
+  {
+   "name": "ne rose",
+   "qty": 1,
+   "price": 2.8
+  },
+  {
+   "name": "Wine red",
+   "qty": 1,
+   "price": 2.8
+  },
+  {
+   "name": "Net Suploral",
+   "qty": 1,
+   "price": 12.37
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 14.85,
+ "raw_text": "Kea\nIKE4 Food\nIkea MiLTon KEYNES 185\nVaI GB 527173320\nAadres54\nOty Nane Price Total\nMeatbalIs 10 3.80\nFish & Chips Acult\nPeti Pain White\nne rose 2.80\nWine red 2.80 2.80\nNet Suploral 12.37\nTax:\n2orvat\nTotal Io Pay: 14.85\nRece ved\nVISA 14.85\nVisa Credi\nTt6rt 9529\nstar\n85784/2016 Laekioc Rom",
+ "checksum": null,
+ "runtime_s": 0.6516946670017205,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    308.0,
+    0.0
+   ],
+   [
+    308.0,
+    515.28466796875
+   ],
+   [
+    0.0,
+    515.28466796875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

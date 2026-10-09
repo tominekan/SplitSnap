@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 14.85,
+ "raw_text": "WKER\nIKE Foco\nIKEA MILTON KEYNES 185\nVat C8 527773320\nAddr0s4\nOty Name Price Totai S\nMeatbal Is JO\nFIsh 8 Chlps Adult 68\n1 Penatresen wite 0I\n80\nWine' red 80\nNet SubTotal 12 37\nTax -\n2OXVAT 2 48\nTotal to Pay: 14.85\nRece| ved:\nVISA 14.85\nVisa Credi t\n#KKrTTK*R***9529\nStert 8/68\n65/84/2016 14:k}_ O 189",
+ "checksum": null,
+ "runtime_s": 5.124774750001961,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    308.0,
+    0.0
+   ],
+   [
+    308.0,
+    515.28466796875
+   ],
+   [
+    0.0,
+    515.28466796875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

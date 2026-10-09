@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "House Wine wite Glass L",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "VEGETARLE SHMRBM",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "GARLIC NMN",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "KARi PakoRA",
+   "qty": 1,
+   "price": 4.5
+  },
+  {
+   "name": "Nigkor BFER VITH MM",
+   "qty": 1,
+   "price": 0.9
+  },
+  {
+   "name": "NgKor BEEr WITH KEN",
+   "qty": 1,
+   "price": 0.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 13.0,
+ "raw_text": "NEW VELHL\n1n 0 ]A n\nR E S T a U r a n [\n1237E,Sisinath Quay, Bv= Ptnh,Caabodla\nTel: 059591422\nEcail: Ulyelehoteall.cca\n[n V 0 ] € E\nTicket No:|740 Date:24-Nov-16\nTable No: 5 Tlee:g:12 PM\nITEKS QTY PRICE TOTAL\nHouse Wine wite Glass L 3.00 3.00\nVEGETARLE SHMRBM 2.50 2.50\nGARLIC NMN 2.0 2.00\nKARi PakoRA 1 4.50 4.50\nNigkor BFER VITH MM 0.50 0.90\nNgKor BEEr WITH KEN 0.50 0.'N\n==\nTotal: $ 13.00\nThank YQU for dining wlth USI\nNc Have Free Ikre @ellveryl",
+ "checksum": null,
+ "runtime_s": 3.7960861250030575,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

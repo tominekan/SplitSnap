@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Miller Lite",
+   "qty": 1,
+   "price": 5.0
+  }
+ ],
+ "subtotal": 5.0,
+ "tax": 0.35,
+ "tip": null,
+ "total": 6.35,
+ "raw_text": "E1 Gran kar d Plata\n10325 Hammocks 8lvd\nMiami, FL 33176\n(305) 386-6638\nServer: Kayra Statio: 10\nOrder #: 8262 Dine In\nBar Tab: Bar Tab\nSETTLFD <<\n1 Miller Lite 5.00\nSUB TOTAL; 5.00\nSales Tax: 0.35\nTOTaL: 6.35\nCash Tendered: 5,35\nBalance Mu,W\nTicket k 35 <\nCreated: 4/20/2017 10:13;17 PH\nSETTLED: 4/20/2017 10; 13:25 PH\nTHANK YOU!\n3346 &\n1\nA0b,( ?\naY Ykky",
+ "checksum": false,
+ "runtime_s": 3.7295556669996586,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    167.73751831054688,
+    36.45001220703125
+   ],
+   [
+    611.6124877929688,
+    15.250030517578125
+   ],
+   [
+    599.6875,
+    999.0
+   ],
+   [
+    158.46250915527344,
+    995.75
+   ]
+  ],
+  "method": "paper"
+ }
+}

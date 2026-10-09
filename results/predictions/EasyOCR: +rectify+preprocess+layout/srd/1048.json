@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 3.65
+  },
+  {
+   "name": "Diet Coke",
+   "qty": 1,
+   "price": 3.65
+  },
+  {
+   "name": "Crispy Naked Wings",
+   "qty": 1,
+   "price": 11.95
+  },
+  {
+   "name": "Rib Eye Steak",
+   "qty": 1,
+   "price": 35.75
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 91.45
+  },
+  {
+   "name": "Ba Iance Due",
+   "qty": 1,
+   "price": 91.45
+  }
+ ],
+ "subtotal": 82.95,
+ "tax": 8.5,
+ "tip": null,
+ "total": null,
+ "raw_text": "DAIY GRILL\nEXCELLENCE SERVED DAILY\nDai ly Grill\n2501 Colorado Ave\nSanta Monica, CA 90404\nServer : Dana 11/01/2018\nTable 54/1 7;30 PM\nGuests: 2\n#20027\nCoke 3.65\nShort Rib 27 , 95\nDiet Coke 3,65\nCrispy Naked Wings 11.95\nRib Eye Steak 35,75\nBrocco] j\nBecome a fan 0r write a review_\nFind uS on Facebook , Twitter & Yelp.\nSubtotal 82.95\nTax 8.50\nTota] 91. 45\nBa Iance Due 91.45\nSign up @ Dai lyGri II.com\nto Receive Exclusive\nOffers & Promotions .",
+ "checksum": null,
+ "runtime_s": 5.9836101249966305,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    133.8062744140625,
+    0.0
+   ],
+   [
+    727.40625,
+    0.0
+   ],
+   [
+    727.40625,
+    999.0
+   ],
+   [
+    133.8062744140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "De ivery",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "McMuggets EVM",
+   "qty": 10,
+   "price": 10.29
+  },
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 0.4
+  },
+  {
+   "name": "HM GrChs S-Fry Yog",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "Cookies",
+   "qty": 1,
+   "price": 2.89
+  },
+  {
+   "name": "Baked Apple Pie",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "Iced Tea",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": 25.04,
+ "tax": null,
+ "tip": null,
+ "total": 26.15,
+ "raw_text": "843\n17 DUFLICATE\n# BILLA 4\nStony\n16725 Stony Plain Rd\nEdzonton AB ISP 449\nStore#; 3859 Tel#: 780-414-8362\nWe Icome to al/ day breakfast\nHc Dona Id\n192\nKS# 03/10/2018 07:39:12 PM\nQty ITeM TOTAL\nDe | ivery 0.00\n10 McMuggets EVM 10.29\nBarbeque Sauce R\nBarbeque Sauce\nCoke 0.40\nM French Fries\nHM GrChs S-Fry Yog 3.99\nSnoopy\nHM Apple Juice\nCookies 2.89\nChoc Cnip Cookie\nBaked Apple Pie 1.19\nFrench Fries 29\nIced Tea 2.99\nSubtotal 25.04\nGST 1.1\nTake-Out Total 26. 15\n8\nCREDIT SALES McDe | ivery 26.15\nChange 0.00\nGST #; 120907092 1\nSALE #04kdfwg532",
+ "checksum": false,
+ "runtime_s": 1.8828025410039118,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    141.80625915527344,
+    0.0
+   ],
+   [
+    535.3312377929688,
+    0.0
+   ],
+   [
+    535.3312377929688,
+    999.0
+   ],
+   [
+    141.80625915527344,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

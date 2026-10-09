@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Juiiuial",
+   "qty": 1,
+   "price": 17727.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "{\n3\n1 Jpcfrie Cauurry xTz\nJuiiuial; 17,727\nFpi; 773 =\nTotzi: j9,j4\nLdsfi; 1T8,8 08R/\nCtldriye; 38,Jii\n3",
+ "checksum": null,
+ "runtime_s": 6.065300333997584,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    862.8282470703125,
+    0.0
+   ],
+   [
+    863.0,
+    1217.640625
+   ],
+   [
+    55.744232177734375,
+    1248.5501708984375
+   ]
+  ],
+  "method": "paper"
+ }
+}

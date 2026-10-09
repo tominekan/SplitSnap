@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": 16.39,
+ "tax": null,
+ "tip": null,
+ "total": 917.75,
+ "raw_text": "Walle\nKexican Restaurant\nJon St\nKatthews 28105\n(704[ 845-1417\nServer = GEOVAHNY Stat Ion: I0\nUrder 403593 Dine In\nTable: Quests:\nGuacamdle dip\nDIfT CxF\nLUNCH Fajitas\nTORTilLas (3)\nSOUR CREAM\nSub TotAL ; 16.39\nTOTAL; 917.75\nTicket #; 7 (\n12/2/2017 i1348.18 #\nThAw VOU:",
+ "checksum": null,
+ "runtime_s": 0.6071759579936042,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

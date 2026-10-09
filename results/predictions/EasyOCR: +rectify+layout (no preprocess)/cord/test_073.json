@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "xi",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 22000.0,
+ "raw_text": "1001-Choco Bun\n22.000 xi 22.000\n6001-Plastic Bag Small\n0 xl\nTotal Item:\nTotal. 22 .000\nCash\nTendered: 25 . 000\n3 .000\nChange:",
+ "checksum": null,
+ "runtime_s": 4.9821206250053365,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1264.7987060546875
+   ],
+   [
+    0.0,
+    1264.7987060546875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

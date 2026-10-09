@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "twist STRAWBERRY DONUT",
+   "qty": 1,
+   "price": 10000.0
+  },
+  {
+   "name": "TLJ CROQUETTE",
+   "qty": 1,
+   "price": 17000.0
+  },
+  {
+   "name": "PotATO PEPPER BAGEL",
+   "qty": 1,
+   "price": 16000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 43000.0,
+ "raw_text": "twist STRAWBERRY DONUT 10,000\nTLJ CROQUETTE 17,000\nPotATO PEPPER BAGEL 16,000\nTOTAL 43,000\nCASH 50,000\nCHANGE 7,000",
+ "checksum": null,
+ "runtime_s": 3.515808666998055,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

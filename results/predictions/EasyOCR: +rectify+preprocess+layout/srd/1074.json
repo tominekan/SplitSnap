@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Weekend Buffet",
+   "qty": 2,
+   "price": 27.18
+  },
+  {
+   "name": "Dririk",
+   "qty": 2,
+   "price": 3.98
+  },
+  {
+   "name": "Beverages",
+   "qty": 1,
+   "price": 3.98
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 27.18
+  }
+ ],
+ "subtotal": 31.16,
+ "tax": 2.57,
+ "tip": null,
+ "total": 33.73,
+ "raw_text": "## 0270\nLIn Buffet\n2988 N, Expressway\nBrownsvi I le, TX\nFhone(956)544-6600\n==FFF=FZS =FZ=E=ZE=====\nDate: Feb 24 , 2019 Time: 03:22PM\nServer: Kenva Judith # Guest: 1\nBi ] I ; 0270\n2 Weekend Buffet 27 ,18\n2 Dririk 3,98\nSubtotal 31.16\nSales Tax 2,57\nTotal 33.73\nVisa 33,73\nBeverages 3,98\nFood 27, 18\nOpen Time 8 Feb 24, 2019 03:22PM",
+ "checksum": false,
+ "runtime_s": 6.833539333005319,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    28.91253662109375
+   ],
+   [
+    639.824951171875,
+    28.91253662109375
+   ],
+   [
+    639.824951171875,
+    989.5374755859375
+   ],
+   [
+    0.0,
+    989.5374755859375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

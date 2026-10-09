@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "TRIPLE DIPPER",
+   "qty": 1,
+   "price": 12.19
+  },
+  {
+   "name": "CHICKEN WAFFLES4",
+   "qty": 1,
+   "price": 11.89
+  },
+  {
+   "name": "Ba Tance Due",
+   "qty": 1,
+   "price": 26.37
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.29,
+ "tip": null,
+ "total": 24.08,
+ "raw_text": "(hmli s Gr |)I & Bar\nPuente Hflls #25\n17588 Cast leton St\ncity of Industry,CA 31748\nServer : Jose $ 09/15/2018\n33/1 1;25 PM\nGuzsts: 2 2060012\nOrJer Type: Dine In\nTRIPLE DIPPER 12.19\nCHICKEN WAFFLES4 11.89\nSujtotal 24,08\nTotal Tax 2.29\nTotal 26,37\nBa Tance Due 26.37\n* Gratuity Guide\n158 53.96\n18X = 84,75\n20X 85.27\n22X = 85.80\nHant free Chips ad Salsa\nOr a drink, every visit?\nChilis.COm /Rewar-s\nGif: Card activation is\ndelayed by 4 hours.",
+ "checksum": null,
+ "runtime_s": 4.736307667000801,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    68.31253051757812,
+    27.531280517578125
+   ],
+   [
+    537.3624877929688,
+    27.531280517578125
+   ],
+   [
+    537.3624877929688,
+    962.981201171875
+   ],
+   [
+    68.31253051757812,
+    962.981201171875
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

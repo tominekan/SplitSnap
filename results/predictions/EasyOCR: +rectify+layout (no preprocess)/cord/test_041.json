@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Naga Lycnee Juice",
+   "qty": 1,
+   "price": 34632.0
+  },
+  {
+   "name": "Hot Chocolate Marshial 1o",
+   "qty": 1,
+   "price": 30302.0
+  },
+  {
+   "name": "Minera Hater",
+   "qty": 1,
+   "price": 12987.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": 48982.0,
+ "total": null,
+ "raw_text": "Chicken Mary land 47619,00\nCappucino (Hot /Iced) 30303,un\nNaga Lycnee Juice 34632\nCafe Latte 30303.00\nHot Chocolate Marshial 1o 30302 . UU\nChicken Cesar Salad 43290.0U\nMinera Hater 12987 , 00\nMinera Hater 12987 .UU\nLychee/ Peach/Lemon/Mango 22474.00\nChicken Mary land 47619,00\nSubtotal 316017,00\nService Charge 5x 48982 .68\n365000,60\nTTA",
+ "checksum": null,
+ "runtime_s": 2.677077126005315,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    47.210418701171875,
+    31.053619384765625
+   ],
+   [
+    611.9783935546875,
+    31.053619384765625
+   ],
+   [
+    611.9783935546875,
+    1035.4248046875
+   ],
+   [
+    47.210418701171875,
+    1035.4248046875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

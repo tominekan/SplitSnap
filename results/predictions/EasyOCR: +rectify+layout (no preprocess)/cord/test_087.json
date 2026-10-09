@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "PhotAICHIN",
+   "qty": 1,
+   "price": 36500.0
+  },
+  {
+   "name": "SubTota",
+   "qty": 1,
+   "price": 36500.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 40150.0,
+ "raw_text": ";\n\" 2\n@ 8\nPhotAICHIN 36500 2\nSubTota 36500\nPBi 1008 3,50 5\nGandTotal 40,150\n518323010LCREDIT CARD 40,50\nW 4\nW 0",
+ "checksum": null,
+ "runtime_s": 3.6169751249835826,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    782.4194946289062,
+    0.0
+   ],
+   [
+    825.3494873046875,
+    1098.538330078125
+   ],
+   [
+    61.195526123046875,
+    1174.094970703125
+   ]
+  ],
+  "method": "paper"
+ }
+}

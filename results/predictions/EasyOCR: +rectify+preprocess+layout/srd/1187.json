@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "Rea Smooth",
+   "qty": 1,
+   "price": 87.99
+  },
+  {
+   "name": "Short Stack",
+   "qty": 1,
+   "price": 88.59
+  },
+  {
+   "name": "Breakfast QuesadII Ia",
+   "qty": 1,
+   "price": 82.99
+  },
+  {
+   "name": "NO Sausage",
+   "qty": 1,
+   "price": 80.0
+  },
+  {
+   "name": "GrIIIed SpInach",
+   "qty": 1,
+   "price": 81.99
+  },
+  {
+   "name": "Southern Comfort",
+   "qty": 1,
+   "price": 810.99
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 846.54
+  }
+ ],
+ "subtotal": null,
+ "tax": 83.84,
+ "tip": null,
+ "total": 850.38,
+ "raw_text": "SPtra1 608 E Diner Hickory 8 Bakery St\nDenton , TX 76205\nOrdert 185736\nEat In Order\nServer: Sarah A\nTable: 9\nDate: 6/16/19 , 10;04 Am\nRea / Smooth 87.99\nShort Stack 88,59\nCoffee\nBreakfast QuesadII Ia 813.99 82.99\nNO Sausage +80,00\nGrIIIed SpInach +81.99\nSouthern Comfort 810.99\nSubtota) : 846,54\nTotal Tax; 83,84\nTotal: 850,38\nOrder Balance due; 850,38\nWWW _ Asplraldiner .com\nFo] Iow Us On\nfacebook.com/sptraldiner\nInstagram com/spIraIdiner\nThanks for your business!",
+ "checksum": null,
+ "runtime_s": 8.685882499994477,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    1023.0,
+    0.0
+   ],
+   [
+    1023.0,
+    1293.482421875
+   ],
+   [
+    0.0,
+    1293.482421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

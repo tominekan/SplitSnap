@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": 9.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "Hacienda Heights; '-6555 WUi\nTei:(626,937\nTable: A2 Guests: 2\nServer: Iinda\nDine In#:137\nDate: 06/14/2017 18.38.46\nSQ# 10038 S4.39\n[1J#46x\n( mild\nFopcom Chicken\n(Spicy mild S6.75\n[#wt Eraisec Beef - flee/Noodle S6.25\n[1]34\"8@i 'Cold Noodle With Chicken S7.95\n[1J#Wii Beef Noodles S25.34\nAmount: S2.28\nTax Rate (9.00%):\nSub-Total: S27.64\n~_-TIP GUIDE _\n15% = S3.80\n18% = 84.56\n20% = 85.07",
+ "checksum": null,
+ "runtime_s": 4.294457666008384,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    110.73751831054688,
+    159.13125610351562
+   ],
+   [
+    587.7374877929688,
+    182.98126220703125
+   ],
+   [
+    587.7374877929688,
+    886.5562744140625
+   ],
+   [
+    76.28750610351562,
+    882.5812377929688
+   ]
+  ],
+  "method": "paper"
+ }
+}

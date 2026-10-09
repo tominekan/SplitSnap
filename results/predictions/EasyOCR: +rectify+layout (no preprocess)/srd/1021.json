@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "HAWwI ETHIOPIAN RESTAU\n1125 QUEEN ST\nALEXANDRIA, VA 22314\n7037179740\nORDER: Table 2\nDine In\nCashier: Mosa\n13-Jul-2018 8.53.47P\nTransaction 000016\nGuest 1\n26.Fish Goulash S19.95\n30.Dullet S20.95\n7 34. Vegetarian Dish S21.95\nSubtotal S62.85\nTax\nS6.91\nTotal\nS69.76\nCDEnIT",
+ "checksum": null,
+ "runtime_s": 3.2108747080055764,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    999.0,
+    0.0
+   ],
+   [
+    999.0,
+    749.0
+   ],
+   [
+    0.0,
+    749.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

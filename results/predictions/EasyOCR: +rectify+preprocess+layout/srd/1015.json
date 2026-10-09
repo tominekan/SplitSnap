@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Shr imp Entree",
+   "qty": 1,
+   "price": 21.0
+  },
+  {
+   "name": "BBQ Blue Chz chips",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Sprite",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Lobster RolI",
+   "qty": 1,
+   "price": 21.0
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 50.29
+  },
+  {
+   "name": "Tota/ Due",
+   "qty": 1,
+   "price": 50.29
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "HAMMOCKS TRADING COMPANY\nwww , hamnockstrad ingcompany .cOM\n7285 Roswel Road\nSandy Spr Ings' Georgla\n30328\n770-395-9592\nNic_foMwl-dos\nTbl:40 Ref : 155091\nChk ;202524\nShannon 3/10/2017 6:23 pM\nCoke 2.50\nShr - imp Entree 21,00\nMac n Cheese\nFrench Frfes\nBBQ 8 Blue Chz chips 6,00\nDiscount :BBQ & Blue Chz -6,00\nSprite 2,50\nLobster RolI 21,00\nsSatEotax 3 89\nTota) 50,29\nTota/ Due 50.29\n1/2 PrIced Oysters on the Half Shell 4-\n6 pm dally",
+ "checksum": null,
+ "runtime_s": 5.365760082990164,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    28.281280517578125,
+    0.0
+   ],
+   [
+    717.28125,
+    0.0
+   ],
+   [
+    717.28125,
+    964.4124755859375
+   ],
+   [
+    28.281280517578125,
+    964.4124755859375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

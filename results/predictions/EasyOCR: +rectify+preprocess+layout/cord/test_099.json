@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 75000.0,
+ "raw_text": "2JL_\nFL-Xmas 30 Of 68 180\nPAKET SLICES 0\nFL Cake - French\nVantla SLC\nPAKET SLICES 0\nFL Cake Green\nTea SLC\nPAKET SLICES 0\nFL Cake - Belgium 0\nChoco SLC\nSUBTOTAL 68 180\nDISKON\nBIAYA TAMBAHAN 8\nPAJAK PPN 10 % 6,8\nPAJAK 0 %\nBIAYA CC {\nPEMBULATAN\nTOTAL 75,000\nTUNAI 0\nNON TUNAI 75 000\nKEMBALI 0",
+ "checksum": null,
+ "runtime_s": 6.3711670840129955,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    35.55902099609375,
+    80.23052978515625
+   ],
+   [
+    863.0,
+    80.23052978515625
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    35.55902099609375,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

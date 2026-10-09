@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "upon",
+   "qty": 1,
+   "price": 20636.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1 upon 3 20,636\nsubtotal .8,636\nF01 (10/ ) 22,86 :\nDxce Im To[al 31.Suu\nCxh 5u,uQu\nChznge 18, 5uo",
+ "checksum": null,
+ "runtime_s": 5.304377541004214,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    68.34783935546875,
+    0.0
+   ],
+   [
+    786.1373901367188,
+    0.0
+   ],
+   [
+    786.1373901367188,
+    1295.0
+   ],
+   [
+    68.34783935546875,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

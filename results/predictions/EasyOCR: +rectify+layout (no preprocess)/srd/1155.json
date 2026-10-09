@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Boz FIl Bearn",
+   "qty": 1,
+   "price": 35.95
+  },
+  {
+   "name": "Boz Fil Au Po",
+   "qty": 1,
+   "price": 35.95
+  },
+  {
+   "name": "Lunta",
+   "qty": 1,
+   "price": 39.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "arc stuathozn Pietto Z\nLubbon Stnent\n65733382\nJol;0l 6771155,\nearcoplercoshite Je (Mnsc\nJuub GharIle\nTbl 15/1 Cx 1501\nStation I6Feb\" 19 21:31\nBoz FIl Bearn 35.95\nBoz Fil Au Po 35.95\nWnion Ring\nHar Icots Vert\nChoc Truf Cake\nLunta 39.00\n22457 Ba larce Due 129 75\nThark you for ycur custon,\nPlease calleagain\nVisit Usaenline at\nrarcopierrewhite.ie/darson",
+ "checksum": null,
+ "runtime_s": 0.6338881670089904,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.5850067138671875,
+    0.0
+   ],
+   [
+    316.001220703125,
+    0.0
+   ],
+   [
+    316.001220703125,
+    449.0
+   ],
+   [
+    0.5850067138671875,
+    449.0
+   ]
+  ],
+  "method": "edges+crop"
+ }
+}

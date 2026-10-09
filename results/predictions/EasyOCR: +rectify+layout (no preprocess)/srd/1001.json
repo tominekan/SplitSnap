@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Ck",
+   "qty": 1,
+   "price": 16.43
+  },
+  {
+   "name": "in",
+   "qty": 1,
+   "price": 25.95
+  },
+  {
+   "name": "Burger",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "Jity",
+   "qty": 1,
+   "price": 13.85
+  }
+ ],
+ "subtotal": 63.75,
+ "tax": 5.5,
+ "tip": null,
+ "total": null,
+ "raw_text": "D IIX CAFE\nsevelt Field\n101 #Party 3\nCk: 4 16,43 04/25/15\n2.95\n17.95\nin 25.95\nBurger 13.95\n2,95\nSub Total 63.75\nTax: 5.50\nSub Total: 69.25\nJTAL: 69 25\n1c luded\nJity:\n13.85\n12.47\n10,39\npleasure to serve you.\nU for dining with us",
+ "checksum": null,
+ "runtime_s": 1.5559680010046577,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    240.35626220703125,
+    0.0
+   ],
+   [
+    644.0,
+    0.0
+   ],
+   [
+    644.0,
+    999.0
+   ],
+   [
+    240.35626220703125,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

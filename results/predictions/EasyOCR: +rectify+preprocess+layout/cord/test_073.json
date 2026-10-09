@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "xl",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "JQ01-Choco Bun\n22.000 xl 22.000\n6001-Plastic Bag Small\n0 xl\nTotal Item:\n22.000\nTotal.\nCash 25.000\nTendered: J.000\nChange:",
+ "checksum": null,
+ "runtime_s": 6.961897000001045,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1264.7987060546875
+   ],
+   [
+    0.0,
+    1264.7987060546875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

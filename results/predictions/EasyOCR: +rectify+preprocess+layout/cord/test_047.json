@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "PLASTIC BAG PED CENTRAL SI",
+   "qty": 1,
+   "price": 9100544260074.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 63000.0,
+ "raw_text": "COPIA IGB 45,Q00 . 00\n2100252000358 45,000 , Q0\nPLASTIC BAG PED CENTRAL SI 0.O0\n9100544260074 0.00\nCOPIA 1 /GB 18,Q00 , O0\n2100252000358 18,Q00. 00\nTotal 63,000. 00\nTotal discount 0.00\nTotal quantitv 3",
+ "checksum": null,
+ "runtime_s": 5.532457292007166,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1166.983154296875
+   ],
+   [
+    0.0,
+    1166.983154296875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

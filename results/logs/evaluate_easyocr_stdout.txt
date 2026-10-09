@@ -1,0 +1,13 @@
+Evaluating 9 configurations on CORD test (100) and SRD test (168 images, 163 with text, 146 with a usable total)
+Preprocessing / psm from results/preprocess_best.json: {"rectify": "ours", "pre": {"upscale": true, "clahe": true, "denoise": true, "deskew": true, "binarize": "sauvola"}, "psm": 4, "parser": "regex"}
+B0                                 CORD F1 0.213  total 0.126  | SRD CER 0.393 total 0.240  (1s)
++rectify                           CORD F1 0.233  total 0.116  | SRD CER 0.379 total 0.329  (0s)
++rectify+preprocess                CORD F1 0.339  total 0.274  | SRD CER 0.245 total 0.479  (1s)
++rectify+preprocess+layout         CORD F1 0.451  total 0.295  | SRD CER 0.245 total 0.514  (1s)
+oracle-rectify                     CORD F1 0.237  total 0.168  | SRD CER 0.320 total 0.336  (0s)
+oracle-rectify+preprocess+layout   CORD F1 0.457  total 0.284  | SRD CER 0.178 total 0.527  (1s)
+preprocess+layout (no rectify)     CORD F1 0.437  total 0.305  | SRD CER 0.265 total 0.459  (1s)
+EasyOCR: +rectify+preprocess+layout CORD F1 0.441  total 0.379  | SRD CER 0.248 total 0.315  (1402s)
+EasyOCR: +rectify+layout (no preprocess) CORD F1 0.477  total 0.411  | SRD CER 0.250 total 0.199  (790s)
+Ground-truth checksum pass rate on CORD test (ceiling): 0.540
+Wrote results/summary.csv and results/summary.md

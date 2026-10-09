@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "EURO",
+   "qty": 2,
+   "price": 0.5
+  },
+  {
+   "name": "Uassoj e Stovigl fe",
+   "qty": 2,
+   "price": 5.0
+  },
+  {
+   "name": "Hacedonta",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Insalata Negombo",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Nat It",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "REG. OPER",
+   "qty": 1,
+   "price": 12.41
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 34.0,
+ "raw_text": "BAR RISTORANTE\nSTABIL IMENTO MARINO E TERIAE\nSAN HONTAK S.R.L\nVIA S.FkoNtato Lacco FYEM (MA)\nPORTITA I 0020030635\nEURO\n2 X 0.50\nUassoj e Stovigl fe 1.0\n2 x 5,00\nHacedonta' 10.00\nInsalata Negombo 10.00\nBufala\nPomdorini 188\nNat 1/2 It 1.00\nTOTALE € 34,00\nCONTANTE\nREG. 001 OPER. 1\n28-08-2018 12.41\nSCONTRINO F ISCALE N; 52\nTu 45400311",
+ "checksum": null,
+ "runtime_s": 5.921634958998766,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

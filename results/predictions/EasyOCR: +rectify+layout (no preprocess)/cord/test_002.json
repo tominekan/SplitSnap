@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "MS*IMF MT",
+   "qty": 1,
+   "price": 24000.0
+  },
+  {
+   "name": "CONU] JELLY",
+   "qty": 1,
+   "price": 4000.0
+  },
+  {
+   "name": "SUB (OTA",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "MS*IMF MT 1 ) 24,000\n'CONU] JELLY 4,000\nSUB (OTA 20,000\ntOTAL Sai \"20 , 006\nTOTAL IS\nCASH 100 , 00_\nCHANGE 72,000\nOupue Ho; 102",
+ "checksum": null,
+ "runtime_s": 2.8427122089924524,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    241.08038330078125
+   ],
+   [
+    863.0,
+    241.08038330078125
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

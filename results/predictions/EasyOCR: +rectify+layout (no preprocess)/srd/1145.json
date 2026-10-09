@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "WATER",
+   "qty": 3,
+   "price": 0.0
+  },
+  {
+   "name": "CRAB SUIZA",
+   "qty": 1,
+   "price": 13.25
+  },
+  {
+   "name": "SHRIMP VERACRUZ",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "ENCHILADA",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "FAJITA BF",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "TAKE OUT",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "Hh MIGUELS MARGARIT",
+   "qty": 1,
+   "price": 13.52
+  }
+ ],
+ "subtotal": 80.87,
+ "tax": 4.27,
+ "tip": null,
+ "total": null,
+ "raw_text": "3035' IL8 W` KENNEDY MEXICAN BLVo\nTAMPA\n(813) 876 2587\n127 MISSY\nTb] 82/1 Chk 55 Gst\nDec26 ' 12 04;41PM\n3 WATER 0.00\nCRAB SUIZA 13.25\nSHRIMP VERACRUZ 14.95\nENCHILADA 4.95\nFAJITA BF 13.95\n*#TAKE OUT** 0.25\nHh MIGUELS MARGARIT 3.38 13.52\nSubtotal 80. 87\nTax 4.27\n05: I9PM Total 65 14\nPLEASE Pav Voir CfpiFR",
+ "checksum": null,
+ "runtime_s": 0.7124044169904664,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    18.441574096679688
+   ],
+   [
+    336.0,
+    14.267822265625
+   ],
+   [
+    336.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

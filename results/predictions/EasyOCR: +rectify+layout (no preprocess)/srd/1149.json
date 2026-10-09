@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Table Guests",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "No Reverage",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Mi lk Shake",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 5.29
+  }
+ ],
+ "subtotal": 3.99,
+ "tax": 0.3,
+ "tip": 1.0,
+ "total": null,
+ "raw_text": "Dine\nDerny Restaurant #8129\n'160 Eastern NY Boulevard 14424\nCanantla 585 igua ) 394 -4880\n8/30/2015 T:00:11 PM\nOrder 429742 Server : Bethany\nTable 12 Guests: 0,00\nNo Beverage\nNo Reverage 0,00\nMi lk Shake 3.99\nShake Choc\nSubTotal 3.99\nTax 0.30\nGratuity 1.00\nTota] 5,29",
+ "checksum": null,
+ "runtime_s": 0.5755710840021493,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    392.0,
+    0.0
+   ],
+   [
+    392.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

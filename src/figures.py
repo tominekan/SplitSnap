@@ -21,21 +21,21 @@ from matplotlib.patches import FancyBboxPatch, Rectangle  # noqa: E402
 
 from common import FIGURES, RESULTS  # noqa: E402
 
-BLUE, GRAY, INK, MUTED = "#2a78d6", "#8d8c87", "#0b0b0b", "#52514e"
+BLUE, GRAY, ORANGE, INK, MUTED = "#2a78d6", "#8d8c87", "#eb6834", "#0b0b0b", "#52514e"
 plt.rcParams.update({"font.size": 11, "axes.edgecolor": "#c8c7c2", "axes.labelcolor": MUTED,
                      "xtick.color": MUTED, "ytick.color": MUTED, "axes.spines.top": False,
                      "axes.spines.right": False})
 
 
 def best_config(df):
-    ours = df[~df.config.str.startswith("oracle")]
+    ours = df[~df.config.str.startswith(("oracle", "EasyOCR"))]
     return ours.loc[ours.CORD_item_F1.idxmax(), "config"]
 
 
 def bar(df, col, title, ylabel, path, lower_better=False):
-    fig, ax = plt.subplots(figsize=(9, 4.6))
-    labels = [c.replace("+", "\n+") for c in df.config]
-    colors = [GRAY if c.startswith("oracle") else BLUE for c in df.config]
+    fig, ax = plt.subplots(figsize=(11, 4.8))
+    labels = [c.replace("EasyOCR: ", "EasyOCR").replace("+", "\n+").replace(" (", "\n(") for c in df.config]
+    colors = [GRAY if c.startswith("oracle") else ORANGE if c.startswith("EasyOCR") else BLUE for c in df.config]
     x = np.arange(len(df))
     ax.bar(x, df[col], width=0.6, color=colors, edgecolor="white", linewidth=2)
     for xi, v in zip(x, df[col]):
@@ -46,7 +46,8 @@ def bar(df, col, title, ylabel, path, lower_better=False):
     ax.yaxis.grid(True, color="#ecebe8"); ax.set_axisbelow(True)
     ax.set_title(title + ("  (lower is better)" if lower_better else "  (higher is better)"),
                  loc="left", color=INK, fontsize=12, pad=22)
-    ax.text(0.0, 1.02, "blue = our pipeline, gray = oracle rectification (labelled corners)",
+    ax.text(0.0, 1.02, "blue = our pipeline (Tesseract), gray = oracle rectification (labelled corners), "
+            "orange = EasyOCR in place of Tesseract",
             transform=ax.transAxes, ha="left", va="bottom", fontsize=8.5, color=MUTED)
     fig.tight_layout(); fig.savefig(path, dpi=150); plt.close(fig)
 

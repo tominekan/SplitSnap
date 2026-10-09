@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "Hab Rojas Red Bean",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Dine In",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "White Glass PInot Gr",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "DIne In",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Dine In",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Gratulty",
+   "qty": 1,
+   "price": 6.59
+  },
+  {
+   "name": "Ip is",
+   "qty": 18,
+   "price": 9.09
+  },
+  {
+   "name": "tlp Is",
+   "qty": 22,
+   "price": 11.11
+  }
+ ],
+ "subtotal": 50.49,
+ "tax": 2.74,
+ "tip": 7.57,
+ "total": 53.28,
+ "raw_text": "Cczlnlcan Rejtaurant\n1019 Front St\n516 292- 5700\nGuest Check Party of 2\nTab lo TIcket 12005\n1 loyte_ EUFLHIA SERVERS\n0:38 Ph Date 11/10/18\nSeat\n8 Istec Pa Iom! Ila Enc\nWMMoro Gandules\nHab Rojas Red Bean 15.95\nDine In\nSpaghetti Con Pollo\nW/Moro Gandules\nHab Rojas Red Bean\nDine In 14.95\nCopa VIno\nWhite Glass PInot Gr 5.50\nLemonada\nDIne In 3.50\nJugo de Chinola\nDine In 1602 4,00\nGratulty. 6.59\nSub Total 50,49\nSales Tax 2,74\nCheck Total $ 53,28\n~Additiona|-Tip\nTotai Gharge;\nI5% tip Is 7,57\n18X + Ip is 9,09\n20% tip Is 10,10\n22X tlp Is 11,11\nThank you for Coming\nGraclas por sJ Visita",
+ "checksum": false,
+ "runtime_s": 4.4456304170016665,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    195.66250610351562,
+    21.956268310546875
+   ],
+   [
+    666.0374755859375,
+    21.956268310546875
+   ],
+   [
+    666.0374755859375,
+    999.0
+   ],
+   [
+    195.66250610351562,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

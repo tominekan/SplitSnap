@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Choco Devil",
+   "qty": 1,
+   "price": 15905.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "OO 0O\n1 Choco Devil 15,905\nCukTot3l",
+ "checksum": null,
+ "runtime_s": 10.28885050000099,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    849.41455078125
+   ],
+   [
+    0.0,
+    849.41455078125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Tota) Due",
+   "qty": 1,
+   "price": 128.33
+  }
+ ],
+ "subtotal": null,
+ "tax": 118.0,
+ "tip": null,
+ "total": null,
+ "raw_text": "An Qu~\n045'\nJ _ #\nIartaro di Iono\nInuln Scaroi\nBranx In\nCarro; Caxacaw T\n6 Sariodveso\nmisc Fo 202\nTaxable 118.00\nSb-total J\nTaxes 10.3\nTota) Due : 128.33",
+ "checksum": null,
+ "runtime_s": 5.08197079099773,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    31.637542724609375,
+    3.7279510498046875
+   ],
+   [
+    317.0584411621094,
+    3.7279510498046875
+   ],
+   [
+    317.0584411621094,
+    347.0
+   ],
+   [
+    31.637542724609375,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

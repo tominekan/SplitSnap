@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Processing Fee",
+   "qty": 1,
+   "price": 0.27
+  }
+ ],
+ "subtotal": 8.99,
+ "tax": 0.74,
+ "tip": null,
+ "total": 10.0,
+ "raw_text": "JALISCQ\nV_\n24E]9i9n48 \"329z85-3950 _\n512-285-_ 9948 or\n94\nGbesk 54ebhbh\nGuests\nWater\nCaldo de Camaron 8 . 99\nSubtotal 8, 99\nSales Tax 0,74\nProcessing Fee 0,27\nTOTAL 10,00\nBALANCE DUE 10.00\nProcessing fee WilI be removed\nif the check is paid in cash.\nTULV Wunm cod cuoncthc cl",
+ "checksum": false,
+ "runtime_s": 0.5908267089980654,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

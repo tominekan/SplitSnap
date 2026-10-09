@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Strip",
+   "qty": 1,
+   "price": 212.0
+  },
+  {
+   "name": "Ribeye Bone In",
+   "qty": 1,
+   "price": 69.5
+  },
+  {
+   "name": "Caul if lower",
+   "qty": 1,
+   "price": 16.5
+  },
+  {
+   "name": "Baked Potato",
+   "qty": 1,
+   "price": 10.5
+  },
+  {
+   "name": "Asparagus",
+   "qty": 1,
+   "price": 15.5
+  },
+  {
+   "name": "Onion Rings",
+   "qty": 1,
+   "price": 14.5
+  },
+  {
+   "name": "Sauteed Spinach",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "VOSS Sparkl ling",
+   "qty": 3,
+   "price": 25.5
+  },
+  {
+   "name": "Coke Bt1",
+   "qty": 1,
+   "price": 24.0
+  }
+ ],
+ "subtotal": 404.0,
+ "tax": 35.86,
+ "tip": null,
+ "total": null,
+ "raw_text": "DEL FRISCO'$ #8620\n1221 Avenue of the Americas\nNew York, New York 10020\n1075 Rebekkah\nTb] 240/1 Chk 1061 Gst\nApro7' 16 07:53PM\nDine In\nStrip 1602 212.00\nRibeye Bone In 69,50\nCaul if lower 16,50\nBaked Potato 10.50\nAsparagus 15,50\nOnion Rings 14,50\nSauteed Spinach 16.00\n3 VOSS Sparkl ling 25,50\nCoke Bt1 24,00\nSUBTOTAL 404,00\nTaX 35.86\n09:14PM TOTAX DUE 439 86\nTHANK: Vou For: ViSITING",
+ "checksum": null,
+ "runtime_s": 0.7535970000026282,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    412.0,
+    0.0
+   ],
+   [
+    412.0,
+    549.0
+   ],
+   [
+    0.0,
+    549.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

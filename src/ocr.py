@@ -25,6 +25,10 @@ def run_tesseract(img, psm=3, lang="eng"):
 
 
 _EASY = None
+# Memory cap: EasyOCR's memory grows with image size (a 4032x3024 photo peaked at ~11 GB footprint), so
+# images are downscaled to at most this many pixels on the long side before OCR, and boxes are mapped back.
+# Measured on that photo with 2 threads: 1600 px -> 2.7 GB resident, 12.4 s; 1024 px -> 2.1 GB, 4.4 s.
+EASYOCR_MAX_SIDE = 1600
 
 
 def run_easyocr(img):
@@ -40,9 +44,11 @@ def run_easyocr(img):
         d.mkdir(parents=True, exist_ok=True)
         _EASY = easyocr.Reader(["en"], gpu=False, verbose=False, model_storage_directory=str(d / "model"),
                                user_network_directory=str(d / "user_network"))
+    scale = min(1.0, EASYOCR_MAX_SIDE / max(img.shape[:2]))
+    small = cv2.resize(img, None, fx=scale, fy=scale, interpolation=cv2.INTER_AREA) if scale < 1 else img
     words = []
-    for box, t, conf in _EASY.readtext(img):
-        xs, ys = [p[0] for p in box], [p[1] for p in box]
+    for box, t, conf in _EASY.readtext(small, canvas_size=EASYOCR_MAX_SIDE, batch_size=1):
+        xs, ys = [p[0] / scale for p in box], [p[1] / scale for p in box]
         x0, width, n = min(xs), max(xs) - min(xs), max(len(t), 1)
         pos = 0
         for part in t.split(" "):

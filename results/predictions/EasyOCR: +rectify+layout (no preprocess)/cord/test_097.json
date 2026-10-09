@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "BUBUR GO",
+   "qty": 1,
+   "price": 40000.0
+  },
+  {
+   "name": "PUYUh GO",
+   "qty": 1,
+   "price": 6000.0
+  },
+  {
+   "name": "SATETATIcGO",
+   "qty": 1,
+   "price": 9000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 55000.0,
+ "raw_text": "2 20,000\nBUBUR GO 40 .000\nPUYUh GO 6,000\n3 3 , 000\nSATETATIcGO 9,000\n6 , OOxITEMS\nTOTAL 55. 000\nCASH 55, 000",
+ "checksum": null,
+ "runtime_s": 0.8843599169922527,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

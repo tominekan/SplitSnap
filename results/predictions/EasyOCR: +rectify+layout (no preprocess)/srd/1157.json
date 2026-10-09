@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "College Qesouthern NEVADA\nRUSSELL RESTAURANT\n108 SERV\nTb] 55/1 Chk 4488 Gst\ndcto8 14 12:10Pm\nL\n'No FlavoR\nSALMOH\n12:44ph Adount Que 7 0\nollese QF Southerm NEVADA\nWheRe Hdspiiality EOUCATION\nTares LIFE\nPlease Pay cashIeR\nThank You",
+ "checksum": null,
+ "runtime_s": 0.42044683298445307,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    82.27590942382812,
+    0.0
+   ],
+   [
+    332.6531982421875,
+    0.0
+   ],
+   [
+    332.6531982421875,
+    347.0
+   ],
+   [
+    82.27590942382812,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

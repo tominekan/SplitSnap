@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "TOTA",
+   "qty": 1,
+   "price": 817.75
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.36,
+ "tip": null,
+ "total": 16.39,
+ "raw_text": "E1Nane\nMxica Restaurant\n305 0. Xn St _\nMatthews_ X8105 =\n(70}\nServer: GOVANXY Stat Ion: 10\nOrder 403593 Dine In\nTable: 9 Dests:\nGuacanole Dip\nOIET Coxe\n{urTiLeNI E5 0\nSMUR YREM\nSl ToTAL . 16.39\nTax I: 1.36\nS6\nTOTA: 817.75\nTicket\n12/2/2017 11;48.28\nthAik VQU'\nHHHHHHHHU",
+ "checksum": null,
+ "runtime_s": 7.28611720900517,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

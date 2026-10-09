@@ -88,7 +88,7 @@ This whole run was carried out by an AI coding agent (Claude Code, model Claude 
 - Written by the student: `TASK.md` only.
 - Manual-judgement content written by the agent, which you should check: the cause notes in `src/failures.py` (`MANUAL_NOTES`), the SRD total-derivation rule (D07), and every "Why / Tradeoffs / Alternatives" paragraph in DECISIONS.md.
 
-## Task 8 (optional): learned OCR, **not completed**
+## Task 8 (optional): learned OCR, **not completed** (superseded: see "Task 8, completed later" below)
 - Installed EasyOCR 1.7.2 (+ torch 2.14.1) into `.venv` with `uv pip install easyocr` (uv cache redirected into the project, then deleted). Model weights are stored in `tools/easyocr/` (I passed `model_storage_directory`, so nothing was written to `~/.EasyOCR`). Integration is in `src/ocr.py` (`run_easyocr`) and `src/pipeline.py` (`easyocr_configs`). A smoke test on SRD 1004 worked: ~3.5 s/image on CPU, readable text.
 - The evaluation run used 6 worker processes, each loading its own copy of the model, and used far too much memory; the student stopped it. Per the student's choice, task 8 is **skipped**: no EasyOCR numbers are reported anywhere. The EasyOCR rows are now opt-in (`SPLITSNAP_EASYOCR=1 python src/evaluate.py --workers 1`) so a normal run never loads torch. torch/easyocr remain installed in `.venv` (~600 MB) and are not listed in `requirements.txt`.
 - Re-ran `python src/evaluate.py --workers 2` from the cache afterwards: the ablation table is unchanged (7 configurations).
@@ -101,3 +101,19 @@ This whole run was carried out by an AI coding agent (Claude Code, model Claude 
 - Partly works: rectification. The raw detector is reasonable (SRD test IoU 0.832), but naive perspective warps hurt OCR, so the final version mostly crops; it now helps modestly (CORD F1 0.437 -> 0.451, SRD CER 0.265 -> 0.245). Oracle corners would bring SRD CER to 0.178.
 - Does not work yet: 53 of 100 CORD receipts still have item F1 = 0; field accuracy is low (CORD total 0.295, SRD total 0.514); the checksum almost never passes (5%), and even ground truth passes only 54%. This is not usable for real bill splitting yet.
 - Unsure: the preprocessing winner is fragile (it changed when rectification changed); SRD totals are derived by a rule (171 of 193); the CORD oracle row has corners for only 37 of 100 receipts.
+
+## Task 8, completed later (overnight run, 2026-10-09)
+- Machine: Apple M2 (4P + 4E cores), 8 GB RAM. A first attempt during the day was stopped twice: once with 6 workers (far too much memory), and once because the student needed the battery. Before the overnight run the student closed the browser; free memory was 70% and swap nearly empty.
+- Memory measurements (one process, largest CORD photo, 4032x3024): with EasyOCR's defaults the peak memory footprint reached ~11 GB. Added a cap that downscales images to at most `EASYOCR_MAX_SIDE` px on the long side before OCR, mapping boxes back (`src/ocr.py`). At 1600 px: 2.7 GB resident, ~7 GB peak footprint, 12.4 s/image (2 threads); at 1024 px: 2.1 GB, ~5 GB, 4.4 s. Loading PyTorch + the models alone is ~1.9 GB resident. The student chose **1600 px**. The cap is part of the OCR cache key (`easyocr@1600`) so runs with different caps cannot mix.
+- Command: `SPLITSNAP_EASYOCR=1 OMP_THREAD_LIMIT=4 OMP_NUM_THREADS=4 caffeinate -i nice -n 10 python src/evaluate.py --workers 1`, with a watchdog script that would stop the run under critical memory pressure or < 10% free memory. It never triggered (minimum 26% free). Runtime ~36 min for the two EasyOCR configurations. Log: `results/logs/evaluate_easyocr_stdout.txt`, `results/logs/evaluate.txt`.
+- Results (`results/summary.md`):
+
+| | CORD item F1 | CORD total acc | SRD CER | SRD total acc | s/img (CORD / SRD) |
+|---|---|---|---|---|---|
+| Tesseract, +rectify+preprocess+layout | 0.451 | 0.295 | 0.245 | **0.514** | 5.32 / 2.08 |
+| EasyOCR, +rectify+preprocess+layout | 0.441 | 0.379 | 0.248 | 0.315 | 5.33 / 5.12 |
+| EasyOCR, +rectify+layout (no preprocess) | **0.477** | **0.411** | 0.250 | 0.199 | 4.51 / 1.96 |
+
+- Reading: EasyOCR without preprocessing gives the best CORD numbers so far (item F1 0.477, total accuracy 0.411), and its SRD CER is about the same as Tesseract's. But SRD total accuracy collapses (0.514 -> 0.199). I looked at 8 SRD receipts where Tesseract got the total and EasyOCR did not: EasyOCR reads the `$` sign as `S`, `8` or `5` (`Total S64.43`, `Total 8143.71`, `SubTotal 532.70`) and breaks keywords (`Ba Tance Due`, `Tota | Due`). Our USD price pattern then finds no total, or a wrong one. So the gap is mostly a parser/format mismatch, not worse reading. I did **not** patch the parser on these test receipts (that would be tuning on test); the fix belongs in a validation-split iteration.
+- Preprocessing (binarization etc.) does not help EasyOCR on CORD (0.441 vs 0.477): it is a learned model trained on natural images.
+- Figures regenerated: `figures/ablation_cord_f1.png` and `figures/srd_cer.png` now include the EasyOCR rows in orange. The failure analysis (`results/failures.md`) is still for the Tesseract pipeline; `src/failures.py` and `src/figures.py` now exclude EasyOCR rows when choosing the "best configuration".

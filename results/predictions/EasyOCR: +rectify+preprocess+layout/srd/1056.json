@@ -1,0 +1,93 @@
+{
+ "items": [
+  {
+   "name": "Tab le",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "FlyIng Dog Numero Uno BTL",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "House RecIpe",
+   "qty": 1,
+   "price": 26.0
+  },
+  {
+   "name": "Sandia MargarIta (013,00/ea",
+   "qty": 2,
+   "price": 11.0
+  },
+  {
+   "name": "Totem Honey Bee",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Queso Fresco Guacamole",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Sa Isa De MolcaJete",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Taqultos Carne Asada (C15,OO/ea",
+   "qty": 2,
+   "price": 30.0
+  },
+  {
+   "name": "Taqultos Baja Ca] fornla ShrImp",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "Mole Ench:t Iada",
+   "qty": 1,
+   "price": 19.0
+  },
+  {
+   "name": "Quesadi I Ia ChIcken",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Queso Fundido Hexican Street Corn Dp",
+   "qty": 1,
+   "price": -12.0
+  }
+ ],
+ "subtotal": 164.0,
+ "tax": 152.0,
+ "tip": null,
+ "total": 0.0,
+ "raw_text": "98 ZOCA GARFIEID RESTAURANT PARKNAYO\nBETHANY BEACH DE \" 19930\n\"(302) 616-2120\nWWW.ZOCA .RESTAURANT\n1/30/19\nCheck #: 5033 7;53 PM\nServer: Madi 8 Guests: 5\nTab le: 31/2\n8,00\nFlyIng Dog Numero Uno BTL 12.00\nHouse RecIpe 26 ,00\n2 Sandia MargarIta (013,00/ea) 11.00\n1 Totem Honey Bee 12.00\nQueso Fresco Guacamole_ 12.00\nQueso FundIdo MexIcan Street Corn Dip\nSa Isa De MolcaJete 8,00\n2 Taqultos Carne Asada (C15,OO/ea) 30. 00\nTaqultos Baja Ca] fornla ShrImp 14.00\nMole Ench:t Iada 19.00\nQuesadi I Ia ChIcken 12.00\nSub-total 164,00\nCOMPLIMENTARY\nITEM COMPS:\nQueso Fundido Hexican Street Corn Dp\n-12,00\nSub-total\nSales Tax 152, 00\ntotal 0.00",
+ "checksum": false,
+ "runtime_s": 7.440205249993596,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

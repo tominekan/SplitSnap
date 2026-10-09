@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Chezemania",
+   "qty": 1,
+   "price": 9500.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1 Chezemania 9,500\n1 Mamam:a 12,5Q0\nsubtotal 22,OqQ\nDUE 22,0oQ\nCASH 52,Q0Q\nCHANGE %o,000\nTAL QTy 2 ITEM 2 PCS",
+ "checksum": null,
+ "runtime_s": 5.5289280010038055,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    58.56842041015625,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    58.56842041015625,
+    863.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

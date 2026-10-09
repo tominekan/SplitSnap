@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "228ehee\n#\nvuu be \" Opastar = con\nQu09)8Fer erdrelkrirn?\nServer : Ph BAR\n'66/o9/1,aste H\nCheck 14\n{8Ge*823 gocg303 43\nRoot\nSubtotal\n[ax 388\nfatal\n7y\nRestaurant Hougs",
+ "checksum": null,
+ "runtime_s": 4.593380957987392,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    45.751129150390625,
+    0.0
+   ],
+   [
+    347.0,
+    0.0
+   ],
+   [
+    347.0,
+    347.0
+   ],
+   [
+    45.751129150390625,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

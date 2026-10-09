@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "EMcH VEROE",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "EkcH MaMEL",
+   "qty": 1,
+   "price": 12.8
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.78,
+ "tip": null,
+ "total": 25.3,
+ "raw_text": "MIGUELS MEXICAN\n3035 w. Kenrdy Myd\nTnpa Fl.\n(813) 876 7587\n187 MCGAK f\nTbl 42/1 0k 39J Gst 2\nJulos'17 05:53m\nDINE IN\nMATER 0.0\nEMcH VEROE 12.50\nEkcH MaMEL 12.80\nSbtotal 25.30\nTax 1.78\n6:|IPM Tota) 27 . 08\nPLEASE PAY YOUR SERVER\nTHAKK YOU\nFoR CHOOSINS HICUELS CAFE",
+ "checksum": null,
+ "runtime_s": 5.771633999014739,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    366.1031188964844
+   ],
+   [
+    0.0,
+    366.1031188964844
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

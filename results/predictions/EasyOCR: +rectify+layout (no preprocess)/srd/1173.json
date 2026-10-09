@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Bottled Hater",
+   "qty": 1,
+   "price": 82.45
+  },
+  {
+   "name": "Add Pollo Taco",
+   "qty": 1,
+   "price": 84.95
+  },
+  {
+   "name": "Add Carnitas Taco",
+   "qty": 1,
+   "price": 54.95
+  },
+  {
+   "name": "Chihuahua Cheese",
+   "qty": 1,
+   "price": 81.25
+  },
+  {
+   "name": "Restaurant",
+   "qty": 1,
+   "price": 50.04
+  },
+  {
+   "name": "TOTA",
+   "qty": 1,
+   "price": 516.56
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 12.4
+  },
+  {
+   "name": "Beverage",
+   "qty": 1,
+   "price": 2.45
+  },
+  {
+   "name": "EMVUS",
+   "qty": 1,
+   "price": 516.56
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.15,
+ "tip": null,
+ "total": 814.85,
+ "raw_text": "600 E Grarid Ave\nLalo s Kexican at Navy Pier\nTable 0# Serv 1 Claudia\n8/24/2017 Trans 5:29 64142 PM Cust:\nQuan Descrpt Cost\nBottled Hater 82,45\nAdd Pollo Taco 84,95\nAdd Carnitas Taco 54,95\nSour Cream S1,25\nChihuahua Cheese 81,25\nNet Total: 814.85\nIL Sales S1,52\nMPEA Tax $0.15\nRestaurant 50,04\nTOTA: 516.56\nFood: $12.40\nBeverage; $2.45\nEMVUS 516.56\nA Robinson Hi] L Companv\nIt'$ Tlie ExpehHierce That Counts!\nTel| us dbout your visitl\nw, robirsonhi | Jusa , coHguest-survey",
+ "checksum": null,
+ "runtime_s": 1.1754962089908076,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    75.17500305175781,
+    184.31253051757812
+   ],
+   [
+    499.17498779296875,
+    184.31253051757812
+   ],
+   [
+    499.17498779296875,
+    954.137451171875
+   ],
+   [
+    75.17500305175781,
+    954.137451171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

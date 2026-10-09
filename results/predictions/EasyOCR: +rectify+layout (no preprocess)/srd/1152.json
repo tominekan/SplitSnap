@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Chicken Flngert",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Splcy shrimp",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "rearned Flbh L9",
+   "qty": 1,
+   "price": 25.0
+  },
+  {
+   "name": "Boliled Water",
+   "qty": 1,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 57.0,
+ "tax": null,
+ "tip": null,
+ "total": 62.7,
+ "raw_text": "KALOOKI'S\n03/[4/2015 8:12 PM\n5300\nDing Deniee\nIlam Unlt Prica\nChicken Flngert 8.00 8.00\nSplcy shrimp 20.00 20.00\nrearned Flbh L9 25.00 25.00\nBoliled Water 2.00 4.00\nSubtotal 57.00\nServlce Charge !0% 5.70\nTotal 62.70\nThank You\nKelooki's\nBay Roda_ Blue AIlla\n01649 Provldenclalea\n6493323888",
+ "checksum": false,
+ "runtime_s": 0.8223614159796853,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    10.968765258789062,
+    69.20439147949219
+   ],
+   [
+    327.5774841308594,
+    69.20439147949219
+   ],
+   [
+    327.5774841308594,
+    423.9731140136719
+   ],
+   [
+    10.968765258789062,
+    423.9731140136719
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

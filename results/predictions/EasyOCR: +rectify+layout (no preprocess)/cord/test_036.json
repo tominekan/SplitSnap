@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "1844r347a Arldmlaimmdatattnad 0338m39833\nXXL Grispy Chicken 40,D0\nSedang\nITEMS:1 4Q,QQQ\nTatal 4 odo\nPay Cash100,000 Charge .60,000\n55355855555555555565559855555555853955355595555555553=",
+ "checksum": null,
+ "runtime_s": 14.930395334013156,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    68.3009033203125
+   ],
+   [
+    2303.0,
+    68.3009033203125
+   ],
+   [
+    2303.0,
+    3606.835205078125
+   ],
+   [
+    0.0,
+    3606.835205078125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

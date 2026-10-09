@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "COCKIES AND CREAM",
+   "qty": 1,
+   "price": 20909.0
+  },
+  {
+   "name": "PajfX",
+   "qty": 1,
+   "price": 2091.0
+  },
+  {
+   "name": "Jendered",
+   "qty": 1,
+   "price": 25000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 20909.0,
+ "raw_text": "COCKIES AND CREAM 20 ,909\nSjtotal 20 ,909\nPajfX 107 2,091\nTotal 23,000\nJendered 25,000\nKenbali 2 ,00o",
+ "checksum": null,
+ "runtime_s": 4.939643582998542,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

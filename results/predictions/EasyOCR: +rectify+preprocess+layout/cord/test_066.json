@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Pilli 3:~4\nSLV- U 36';144\nF;: 1:.$ 97\nGF;\"= '36\nTL \"J\n'10",
+ "checksum": null,
+ "runtime_s": 6.057579166008509,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    42.306304931640625,
+    0.0
+   ],
+   [
+    775.5506591796875,
+    0.0
+   ],
+   [
+    775.5506591796875,
+    1295.0
+   ],
+   [
+    42.306304931640625,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

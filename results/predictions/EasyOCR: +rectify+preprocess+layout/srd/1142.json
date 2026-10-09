@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 1.84,
+ "raw_text": "Blue Bear Tavern\n216 $ Ith Street\n(215)922-3427\nwww,bluebeartavern.coq\nchock #: 00225\nDate: 01/13/2012 10;16 PM Check CCE\nStat Ion; Pos3 Server: arcr?a\nGuests : T\nCrImIni 3.Cc\nSaJam | 3.CC\n01 ves 3.CC\nReg Lro Kete) Clamslmussels One 1a.CC\nHouse Cab 52.c0\n6.C0\nSub Tota)\nPhiIly Llaor Tax 81.0 0.EC\nPhiIly Pa Sales Tax\nTOTAL 1.84\nM.4",
+ "checksum": null,
+ "runtime_s": 6.091115208997508,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    646.9000244140625,
+    0.0
+   ],
+   [
+    680.0250244140625,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

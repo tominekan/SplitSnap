@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Choco Devil",
+   "qty": 1,
+   "price": 15909.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "8\nAie\n5 1\nChoco Devil 15,909\nCuktot",
+ "checksum": null,
+ "runtime_s": 5.328887373994803,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    849.41455078125
+   ],
+   [
+    0.0,
+    849.41455078125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

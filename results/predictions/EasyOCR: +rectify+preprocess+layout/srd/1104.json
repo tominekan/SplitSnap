@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Don Juan Hexican Restaurant\n124 East Park Ave\nLong Beach, NY 11561\n(516) 442-4944\nServer : Reaina Stat Ion:",
+ "checksum": null,
+ "runtime_s": 0.9653183319896925,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    58.0562744140625,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    296.04998779296875
+   ],
+   [
+    58.0562744140625,
+    296.04998779296875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

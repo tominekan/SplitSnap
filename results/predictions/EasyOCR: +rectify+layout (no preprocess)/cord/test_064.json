@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 16000.0,
+ "raw_text": "SIHGLE SCOOP 16. ONo\nTotAL 16.000\nCATEND 50. OOo\nCHANGE 34.00Q",
+ "checksum": null,
+ "runtime_s": 7.118047041003592,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    67.03561401367188,
+    0.0
+   ],
+   [
+    943.952392578125,
+    0.0
+   ],
+   [
+    943.952392578125,
+    1506.513671875
+   ],
+   [
+    67.03561401367188,
+    1506.513671875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Ash Chlck Sartu | Katah 5 15. J\nJanur Gorenj 2 10.COC\nSubtota] 65.Q0\nPajak Ior) 8 590\nTota) 93 SCn\nTua 1 iQ *:\n(ecb /1 6 Sc",
+ "checksum": null,
+ "runtime_s": 5.044308042008197,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    319.0,
+    0.0
+   ],
+   [
+    319.0,
+    623.0
+   ],
+   [
+    0.0,
+    623.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

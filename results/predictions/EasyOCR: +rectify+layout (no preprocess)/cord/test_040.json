@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "X3Wc All",
+   "qty": 1,
+   "price": 54027.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "X3Wc All\n323 54.027\nBekery Anekz Sisir banana,Pizza,/4k- %:\nMe\" Daging abon;Keju cokelat,dll\nDoC 14 , D00\nTita Do3\nCAsy Fo Dod\n~HSE 3\nSnned\n\"iM{is nc:",
+ "checksum": null,
+ "runtime_s": 1.3454467930132523,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    449.0,
+    0.0
+   ],
+   [
+    449.0,
+    639.0
+   ],
+   [
+    0.0,
+    639.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

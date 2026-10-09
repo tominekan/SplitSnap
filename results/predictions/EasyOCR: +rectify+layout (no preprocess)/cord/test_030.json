@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Kupon",
+   "qty": 1,
+   "price": 28636.0
+  },
+  {
+   "name": "PBi",
+   "qty": 1,
+   "price": 2864.0
+  },
+  {
+   "name": "Dine In Tatal",
+   "qty": 1,
+   "price": 31500.0
+  }
+ ],
+ "subtotal": 28636.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Kupon 3 28,636\nSubtotal 28,636\nPBi (107) 2,864\nDine In Tatal 31,= 500\nCash 50,000\nChange 18, 500",
+ "checksum": null,
+ "runtime_s": 3.1406357920059236,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    68.34783935546875,
+    0.0
+   ],
+   [
+    786.1373901367188,
+    0.0
+   ],
+   [
+    786.1373901367188,
+    1295.0
+   ],
+   [
+    68.34783935546875,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

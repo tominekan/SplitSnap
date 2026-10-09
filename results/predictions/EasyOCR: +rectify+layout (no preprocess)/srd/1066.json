@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "COPERTO",
+   "qty": 4,
+   "price": 12.0
+  },
+  {
+   "name": "ACQUA NAT",
+   "qty": 2,
+   "price": 8.0
+  },
+  {
+   "name": "SALMERINO PIASTRA",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "TRENETTE AL PESTO",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "SPAGHETTI POM BASILICO",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "FETTUCCINE RAGU",
+   "qty": 1,
+   "price": 15.0
+  },
+  {
+   "name": "PATATINE FRITTE",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "TOTHLE",
+   "qty": 1,
+   "price": 82.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "RISTORANTE\nBELLAGIO (CO)\nTELEFONO 031/951888\nTAV_ 9 COPERTI\nSALA UNICA\n14/07/2019 16;23\n4 COPERTO 12.00\n2 ACQUA NAT 8,00\n1 SALMERINO PIASTRA 18,00\nTRENETTE AL PESTO 13.00\nSPAGHETTI POM _ BASILICO 10,00\nFETTUCCINE RAGU 15.00\nPATATINE FRITTE 6,00\nTOTHLE 82,00\nMANCIA/TIP\nPrego ritirare i]\ndocumento fiscale\na]Ia cassa",
+ "checksum": null,
+ "runtime_s": 2.7087500829948112,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    736.0625,
+    0.0
+   ],
+   [
+    736.0625,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "CG",
+   "qty": 1,
+   "price": 1001.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "AIR MINERAL. 8 18 1\nSUBTOTAL 8 , 18 1\nTaX 8 18\nTL 8 . 999\nCASH 10,000\nCG 1,001",
+ "checksum": null,
+ "runtime_s": 4.058598000003258,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    190.868408203125,
+    534.9996337890625
+   ],
+   [
+    1001.3868408203125,
+    534.9996337890625
+   ],
+   [
+    1001.3868408203125,
+    1542.423583984375
+   ],
+   [
+    190.868408203125,
+    1542.423583984375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

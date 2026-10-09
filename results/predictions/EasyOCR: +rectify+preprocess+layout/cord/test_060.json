@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Ix",
+   "qty": 1,
+   "price": 1250.0
+  },
+  {
+   "name": "Zx",
+   "qty": 1,
+   "price": 12500.0
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 26250.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Topping Mi lo SparkIe (untuk 1 Po\nrsi)\nIx 1.250 1,.250\nBola Ubi Mini Or Igitia | 014 Pcs\nZx 12.500 26,00Q\nSubtotal 26 250\nPajak\nTota] 26,250\nPembayaran GO-Pay\n44448 Laa",
+ "checksum": null,
+ "runtime_s": 6.270854000002146,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    50.320037841796875,
+    132.23202514648438
+   ],
+   [
+    719.0,
+    132.23202514648438
+   ],
+   [
+    719.0,
+    1161.703857421875
+   ],
+   [
+    50.320037841796875,
+    1161.703857421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

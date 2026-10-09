@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "VIA EMILIA 9\n1120 15th ST\nMiAMI BEACH, FL 33139\n7862167150\nORDER: Table 11\nCashier: V:\n27-Apr-2017 6.21.59P\nTagliatella al Ragu' S14.90\nCappellacci Di Zucca s18.90\nStufato Al Latte Di Ravenna S22.90\nSubtotal S56.70\nTax S5.10\notal S61.80\nIrder QGVRTHBNM28YC\nhow us your review on TripAdvisor or Yelp\nd you\"Il get a free qlass Of winel",
+ "checksum": null,
+ "runtime_s": 3.16572424901824,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    22.761383056640625,
+    0.0
+   ],
+   [
+    335.38714599609375,
+    0.0
+   ],
+   [
+    347.0,
+    347.0
+   ],
+   [
+    42.127593994140625,
+    347.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

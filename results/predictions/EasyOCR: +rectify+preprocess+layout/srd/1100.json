@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "Mcluggets EVM",
+   "qty": 10,
+   "price": 10.29
+  },
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 0.4
+  },
+  {
+   "name": "HM GrChs S-Fry Yog",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "Cockles",
+   "qty": 6,
+   "price": 2.89
+  },
+  {
+   "name": "Baked Apple Ple",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "French Frtes",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "Iced Tea",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": 25.04,
+ "tax": null,
+ "tip": null,
+ "total": 26.15,
+ "raw_text": "343\n#r CUAICATE\n0tobilLDA\nOp3\nStov\n16725 Stony PiaIn Rd\nEdaonton 48 TSP 4ag\nStoret; 3859 Telo: 780-414-8352\nWlcone to all day breakfast\nk Bald 's\n192\nKS# 03/10/2018 07:39:12 PM\nQty ITEM TOTAL\nDe I 1very 0.0\n10 Mcluggets EVM 10.29\nBarbeque Sauce\nBarbeque Sauce\nCoke 0.40\nM French FrIes\nHM GrChs S-Fry Yog 3.99\nSnopy\nHM Apple Julce\n6 Cockles 2.89\n6 Choc Chlp Cookla\nBaked Apple Ple 1,19\nFrench Frtes 3.29\nIced Tea 2.99\nSubtotal 25.04\nGST 1.1\nTake-Cut Total 26. 15\nCREDIT SALES McDe l ivery 25.15\nChange 0.00\nGST #; 120907092\nSALE HO4kdfwg532",
+ "checksum": false,
+ "runtime_s": 3.817545334008173,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    141.80625915527344,
+    0.0
+   ],
+   [
+    535.3312377929688,
+    0.0
+   ],
+   [
+    535.3312377929688,
+    999.0
+   ],
+   [
+    141.80625915527344,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

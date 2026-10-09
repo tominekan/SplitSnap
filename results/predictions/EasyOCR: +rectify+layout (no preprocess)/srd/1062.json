@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "EEE RED",
+   "qty": 1,
+   "price": 0.75
+  },
+  {
+   "name": "ING VONG",
+   "qty": 1,
+   "price": 2.75
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "'Iqtiangccs\nHarianacci\nRTe AURAh\nTAnlt 403 Check Hlesd\nH FEe [e/17\nCREF UHITE\nEEE RED 0.75\nT Sda\n25\nVONG RIPIENE 75\nCkt parm?[\nCCAAi HILANZS\nING VONG 2.75\nPasta Sp16-75\nDIET Sda 375\n35\nSubTOT 132\nTax 9 -\nonna 14701\nTet",
+ "checksum": null,
+ "runtime_s": 0.6524350409890758,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    32.19500732421875,
+    0.0
+   ],
+   [
+    292.9549865722656,
+    0.0
+   ],
+   [
+    292.9549865722656,
+    391.82000732421875
+   ],
+   [
+    32.19500732421875,
+    391.82000732421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

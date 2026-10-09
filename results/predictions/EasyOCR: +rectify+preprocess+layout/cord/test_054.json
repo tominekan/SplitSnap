@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "KacAng HERAH",
+   "qty": 1,
+   "price": 10000.0
+  }
+ ],
+ "subtotal": 10000.0,
+ "tax": null,
+ "tip": null,
+ "total": 10000.0,
+ "raw_text": "Dalu#\nKacAng HERAH 10 ,000\nSUBTOTAL 10 ,000\nTotal 10 ,000\ncash 10 ,000",
+ "checksum": true,
+ "runtime_s": 4.280491832992993,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1014.776123046875
+   ],
+   [
+    0.0,
+    1014.776123046875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

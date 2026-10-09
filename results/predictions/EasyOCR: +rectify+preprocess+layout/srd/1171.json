@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "FRENCH FRIES",
+   "qty": 2,
+   "price": 190.0
+  },
+  {
+   "name": "OPEM FQOd",
+   "qty": 1,
+   "price": 60.0
+  },
+  {
+   "name": "PANEER TIKKA",
+   "qty": 1,
+   "price": 243.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 24.6,
+ "tip": null,
+ "total": 498.0,
+ "raw_text": "Ld - Cd Gnoicr\nTHANE (N)400606\nTEL 022 66737988\ncdeR No Ko0024585\nBILL NO DATE ANd TINE Pax TabLe\nBooo0266 09/12/2012 6814 Pm 52\nCASHIER #CASHIER\nMAITER #NAITER\n0t7 Ienu Itea Anount\n2 FRENCH FRIES 190.00\n1 OPEM FQOd 60.00\nI.0 haneSH SAUS 60 . Q0\nPANEER TIKKA 243.00\nTotal 498.00\nSERVICE Tax Q 4,947 24.60\nGrand Total 523.00\nVat NO 8 2784028961JV\nJiiiThANX' TQU & VISIT AGAIN JItt",
+ "checksum": null,
+ "runtime_s": 7.9715537919983035,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    24.49200439453125,
+    120.74801635742188
+   ],
+   [
+    432.3799743652344,
+    120.74801635742188
+   ],
+   [
+    432.3799743652344,
+    639.0
+   ],
+   [
+    24.49200439453125,
+    639.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

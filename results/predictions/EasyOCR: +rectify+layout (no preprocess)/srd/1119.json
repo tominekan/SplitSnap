@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "CHOW MEIN-1/2",
+   "qty": 1,
+   "price": 9.1
+  },
+  {
+   "name": "CHOW MEIN-1/2",
+   "qty": 1,
+   "price": 9.1
+  },
+  {
+   "name": "XTRAENTREE GPILL TERIYAKI CKN",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "XTRA ENTREE",
+   "qty": 1,
+   "price": 1.5
+  }
+ ],
+ "subtotal": 25.2,
+ "tax": 2.24,
+ "tip": null,
+ "total": 27.44,
+ "raw_text": "XX PUROHHSE _ XX\n3+00\nPanda Exoress 42614\nBrooklyn NY\n(7185246*3898\n02/22/2017.4,58:01 PM\nOrder: 196812 To GO-\nServer: CheryfiGo\nPlate\nCHOW MEIN-1/2 9.10\nCHOW MEIN-1/2\nBROCCOLI BEEF\nBEIJING BEEF\n1 Plate\nCHOW MEIN-1/2 9.10\nCHOW MEIN-1/2\nCKN EGG ROLL\nKUNG PAO CKN\nXTRAENTREE GPILL TERIYAKI CKN 1.50\n1 XTRA ENTREE 1.50\n1 PEPSI GRII 20 TERIYAKI UL CkN\n1 PEPSI 20 0z 23 Qo 00\nSubTotal 25,20\nTaX 2.24\nTotal 27,44\nVisa 27,44\nAcct:XXXXXXXXO103\nAuthcode:027764\nKxrxxrrxrxrrxrkkrXKXXXXXXXrxXKxxrriX\nFREE ENTREE ITEHV",
+ "checksum": false,
+ "runtime_s": 2.7970394160074648,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    37.9937744140625,
+    0.0
+   ],
+   [
+    720.3687744140625,
+    0.0
+   ],
+   [
+    720.3687744140625,
+    999.0
+   ],
+   [
+    37.9937744140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

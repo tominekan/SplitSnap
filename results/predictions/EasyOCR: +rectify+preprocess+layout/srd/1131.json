@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "MJ $C",
+   "qty": 1,
+   "price": 89.01
+  },
+  {
+   "name": "B (HZ B SPC",
+   "qty": 1,
+   "price": 53.8
+  },
+  {
+   "name": "F ARIES LRG",
+   "qty": 1,
+   "price": 83.66
+  },
+  {
+   "name": "FRIES LRG",
+   "qty": 1,
+   "price": 53.66
+  },
+  {
+   "name": "PF'EM MED DRINK",
+   "qty": 1,
+   "price": 62.15
+  },
+  {
+   "name": "Ch BURGER SPEC",
+   "qty": 1,
+   "price": 87.57
+  },
+  {
+   "name": "TAKABLE SALES",
+   "qty": 1,
+   "price": 825.85
+  },
+  {
+   "name": "Ta",
+   "qty": 1,
+   "price": 82.46
+  },
+  {
+   "name": "CC",
+   "qty": 1,
+   "price": 811.69
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "CNKIS\"*\nHAMBURGERS\n3950 SLAUSON MAywOOD _ CA 90270\nPHONE 323-588- 1607\nMC #01\nREG CASIIIER 11-24-2017 12:13 PM 000072\nMJ $C 89.01\nB (HZ B SPC 53.80\nrl) pick les\nF ARIES LRG 83.66\nCRISPY\nCRISPY\nFRIES LRG 53.66\nCRISPY\nPF'EM MED DRINK 62.15\nhorchata\nCh BURGER SPEC 87.57\n110 onions\nEAT-IN\nTAKABLE SALES 825.85\nTa 82. 46\nTl $28 31\nCHSH S40 .00\nCC; 811.69\nORDER 0o00000052\nPLEASE HELP US SERVE YOU BETTER\nSERVICE WAS VERY GOOD\nGOOD\nPOOR",
+ "checksum": null,
+ "runtime_s": 5.558310333988629,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    171.0562744140625
+   ],
+   [
+    507.7562255859375,
+    171.0562744140625
+   ],
+   [
+    507.7562255859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

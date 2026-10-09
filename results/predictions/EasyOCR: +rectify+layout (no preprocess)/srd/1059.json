@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "CUP CHOWDER",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Sub Tota",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "GRAT",
+   "qty": 1,
+   "price": 1.15
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.4,
+ "tip": null,
+ "total": null,
+ "raw_text": "LANDFALL RESTAURANT\nAPRIL To DECEMBER\n0084 Table 31 #Party 3\nDWYER M SvrCk: 13 11;47a 06/10/17\nSeparate checks: 6-0f-6\nCUP CHOWDER 6 ,00\nSub Tota]; 6,00\nTax 0,40\nGRAT 18 1.15\n06/10 1;39pTOTAL: 7 55\nLUNCH & DINNER\nWE TAKE RESERVATIONS\nEST 1946\n508-548-1758",
+ "checksum": null,
+ "runtime_s": 2.2920832490053726,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    26.2125244140625,
+    0.0
+   ],
+   [
+    723.1624755859375,
+    0.0
+   ],
+   [
+    662.2125244140625,
+    976.5812377929688
+   ],
+   [
+    20.912506103515625,
+    930.2062377929688
+   ]
+  ],
+  "method": "paper"
+ }
+}

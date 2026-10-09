@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "BLACKCURRANT",
+   "qty": 1,
+   "price": 32000.0
+  },
+  {
+   "name": "SPRITE",
+   "qty": 1,
+   "price": 32000.0
+  },
+  {
+   "name": "GRILLED CALAMARI",
+   "qty": 1,
+   "price": 85000.0
+  },
+  {
+   "name": "DINE FOR",
+   "qty": 1,
+   "price": 129000.0
+  },
+  {
+   "name": "FooD",
+   "qty": 1,
+   "price": 214000.0
+  }
+ ],
+ "subtotal": 278000.0,
+ "tax": 30024.0,
+ "tip": 22240.0,
+ "total": null,
+ "raw_text": "BLACKCURRANT 32 ,000\nSPRITE 32 ,000\n* BEVERAGE 64 , 000\nGRILLED CALAMARI 85, 000\nDINE FOR 2 129,000\nDANISH FISH & CHIPS DF\nNEW YORK FISH & CHIPS\n#* FooD 214,000\nSUBTTL 278,000\nService Charge 22,240\nTAX 30 ,024\nTOTAL 330 264",
+ "checksum": null,
+ "runtime_s": 6.501335625012871,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    2303.0,
+    0.0
+   ],
+   [
+    2303.0,
+    4012.90234375
+   ],
+   [
+    0.0,
+    4012.90234375
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

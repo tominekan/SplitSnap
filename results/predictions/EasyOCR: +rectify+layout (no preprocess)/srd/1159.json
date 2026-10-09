@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Taco T1Fa Rencore\n(425) 480-4472\n6733 KE; 181TH\nNEKYDRE Wa 98028\n0T>248\nHost : 04/24/2018\nDT,248 Fashier= 7:08 PX\n30126\nOrder Typu; Dcive Ihru\nSFT TACO DF\nSubtota]\nDrive Thru Tota 59\nCASH 810.00\nChange $3 41\nTnank You _\nPlease Co-e doa1m",
+ "checksum": null,
+ "runtime_s": 0.4382262499857461,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    275.5625,
+    0.0
+   ],
+   [
+    275.5625,
+    399.0
+   ],
+   [
+    0.0,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "PILLX >URIA",
+   "qty": 1,
+   "price": 36364.0
+  }
+ ],
+ "subtotal": 30364.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "PILLX >URIA 36,364\nPLGSTIK 25\nSUBTOTAL 30,364\nPBL 102 10,0447\nGMOUKT 3,(36\nTDTAL\nCas\nCHKNE",
+ "checksum": null,
+ "runtime_s": 3.4280896239943104,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    42.306304931640625,
+    0.0
+   ],
+   [
+    775.5506591796875,
+    0.0
+   ],
+   [
+    775.5506591796875,
+    1295.0
+   ],
+   [
+    42.306304931640625,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

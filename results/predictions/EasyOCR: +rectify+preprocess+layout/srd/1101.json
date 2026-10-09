@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "KAZ RAMEN\n22413 BARTON ROAD\nGRAND TERRACE, CA 92313\n9094229532\nORDER: T4G1\nDINE IN\nCashier: Mickey\n04-Nov-2018 9.07:13P\nGuest 1\nT Tonkotsu S9.50\nTofu SO.00\nEgg S1.30\nCorn S0.50\nBamboo shoots S1.00\nNaruto S0.75\nSpicy SO.00\nSubtotal S13.05\nTax S1.01\nTotal S14.06\nOrdler 4AWAGSDFNMVRT",
+ "checksum": null,
+ "runtime_s": 6.125400416000048,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    128.01251220703125,
+    230.09378051757812
+   ],
+   [
+    611.637451171875,
+    230.09378051757812
+   ],
+   [
+    611.637451171875,
+    934.9937744140625
+   ],
+   [
+    128.01251220703125,
+    934.9937744140625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

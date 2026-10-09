@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Family Restaurant",
+   "qty": 1,
+   "price": 8.14
+  },
+  {
+   "name": "Prea Glass",
+   "qty": 1,
+   "price": 22.5
+  },
+  {
+   "name": "KD Vesale",
+   "qty": 1,
+   "price": 627.0
+  },
+  {
+   "name": "Sb-Tota",
+   "qty": 1,
+   "price": 549.5
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 2.47
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.97,
+ "tip": null,
+ "total": null,
+ "raw_text": "Prim\nFamily Restaurant\n5/3/19 8.14 PM\nCATIM 0, Table: I0 Creck: 137\nPrea Glass 07.50 $22.50\nKD Vesale 627.00 727.0\nSb-Tota) 549.50\nSles Tax {2.97\nTota) {2.47\nPsxeents\nNastercard 1906170 552 . 47\nLut be S,_\nGarge Rexipt\nServer: DARAIN 0.\nTable No; 10",
+ "checksum": null,
+ "runtime_s": 3.9781831669970416,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    18.511428833007812,
+    0.0
+   ],
+   [
+    289.1771240234375,
+    0.0
+   ],
+   [
+    289.1771240234375,
+    347.0
+   ],
+   [
+    18.511428833007812,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

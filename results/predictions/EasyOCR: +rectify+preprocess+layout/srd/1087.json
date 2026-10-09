@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Oiicurron",
+   "qty": 1,
+   "price": 1.95
+  },
+  {
+   "name": "Majufos",
+   "qty": 1,
+   "price": 49.95
+  },
+  {
+   "name": "Sozotal",
+   "qty": 1,
+   "price": 80.85
+  },
+  {
+   "name": "St) pnex",
+   "qty": 1,
+   "price": 810.81
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "#ctes @ Coloola DRVPIKE\n74 JIRICO M 11501\nKINCU (516)757 061\nOeck:500592 Tiee:09:7241 eests;\nDuto:07/03/19 Snver:Erely\nTelo: S6.0\nOiicurron 1,95\nMajufos\n49.95\nSozotal: 80.85\nTax: s1o.81\nSt) pnex: 810.81\nmt De:",
+ "checksum": null,
+ "runtime_s": 2.3463923749804962,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    9.655654907226562
+   ],
+   [
+    257.0,
+    9.655654907226562
+   ],
+   [
+    257.0,
+    257.0
+   ],
+   [
+    0.0,
+    257.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

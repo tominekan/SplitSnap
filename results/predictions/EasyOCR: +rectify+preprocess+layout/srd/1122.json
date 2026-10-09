@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "SOPA e TORT [La BOL",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "Taco SALAD",
+   "qty": 1,
+   "price": 9.5
+  },
+  {
+   "name": "KKOUSE MARGARITA JukRo",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "Dr Pepper",
+   "qty": 1,
+   "price": 2.65
+  },
+  {
+   "name": "SIOE Cieese",
+   "qty": 1,
+   "price": 1.55
+  },
+  {
+   "name": "KusE MARGARITA Juh8o",
+   "qty": 1,
+   "price": 12.5
+  }
+ ],
+ "subtotal": null,
+ "tax": 3.5,
+ "tip": null,
+ "total": 44.2,
+ "raw_text": "EI Keson Mexican Restaurant\n794 South Purry St Unit EF\nCASTLE Ruck Co 80104\n(720) 733-9705\nServer; ICOR Station: 33\nOrder 18533 Dine In\nTab le ' Guests: 2\nSOPA e TORT [La BOL 5.50\nTaco SALAD 9.50\nCkh\n1 KKOUSE MARGARITA JukRo 12.50\nDr Pepper 2.65\nSIOE Cieese 1.55\nKusE MARGARITA Juh8o 12.50\nSa TOTAL : 44.20\nTax I: 3.50\nTOTAL: 047,70",
+ "checksum": null,
+ "runtime_s": 3.4995653339865385,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    33.505889892578125,
+    0.0
+   ],
+   [
+    327.2265625,
+    0.0
+   ],
+   [
+    327.2265625,
+    347.0
+   ],
+   [
+    33.505889892578125,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

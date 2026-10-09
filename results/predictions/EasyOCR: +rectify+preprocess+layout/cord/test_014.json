@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "PBI",
+   "qty": 1,
+   "price": 25585.0
+  },
+  {
+   "name": "Eaypon",
+   "qty": 1,
+   "price": 288888.0
+  },
+  {
+   "name": "Chalige",
+   "qty": 1,
+   "price": 18565.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": 17850.0,
+ "total": 281435.0,
+ "raw_text": "1 RedVelvel Cheese Slc\n1 Chicken Baked Rice\nEushrooghiou Soup 1\nChamumile\n1 Iced Tea\nSWBTOTAL 238, Q00\nService 17, 850\nPBI 25,585\nTotaL 281,435\nEaypon 288,888\nChalige 18,565",
+ "checksum": null,
+ "runtime_s": 4.9611515830038115,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    372.4632568359375,
+    130.152099609375
+   ],
+   [
+    1561.783203125,
+    130.152099609375
+   ],
+   [
+    1561.783203125,
+    2595.2880859375
+   ],
+   [
+    372.4632568359375,
+    2595.2880859375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

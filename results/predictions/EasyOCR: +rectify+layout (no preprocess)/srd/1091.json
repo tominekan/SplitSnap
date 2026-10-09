@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "Philadelphia Roll",
+   "qty": 1,
+   "price": 4.85
+  },
+  {
+   "name": "Shrimp Tempura Roll",
+   "qty": 1,
+   "price": 4.25
+  },
+  {
+   "name": "Rich Famous Roll",
+   "qty": 1,
+   "price": 4.85
+  },
+  {
+   "name": "Salmon Roll",
+   "qty": 1,
+   "price": 4.25
+  },
+  {
+   "name": "Veg Tofu Pad Thai",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 27.15
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.63,
+ "tip": null,
+ "total": 28.78,
+ "raw_text": "CITY TASTE\n930 WAYNE AVE. #100\nSILVER SPRING, MD 20910\nTEL 3301-585-[HI\nDine In\nDate; 05-11-2018 Title': 8.03PM #90\nServer: BOSS\nTAB#: A06\nNo. of Guest\nPhiladelphia Roll 4.85\n13. Shrimp Tempura Roll 4.25\n[Roll]\nRich Famous Roll 4.85\n1 16. Salmon Roll 4.25\n[Eolpicy :\nVeg - Tofu Pad Thai 8.95\nSpicy\nAmount 27,15\nTAX(6%0) 1.63\nTOTAL 28.78\nTHANK YOU VERY MUCH",
+ "checksum": null,
+ "runtime_s": 1.6156322919996455,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    127.9625244140625,
+    23.60003662109375
+   ],
+   [
+    699.0374755859375,
+    23.60003662109375
+   ],
+   [
+    699.0374755859375,
+    927.25
+   ],
+   [
+    127.9625244140625,
+    927.25
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

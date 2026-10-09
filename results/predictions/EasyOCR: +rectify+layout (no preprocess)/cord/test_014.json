@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Bervice",
+   "qty": 1,
+   "price": 17850.0
+  },
+  {
+   "name": "Pbi",
+   "qty": 1,
+   "price": 25585.0
+  },
+  {
+   "name": "Chanige",
+   "qty": 1,
+   "price": 18565.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 281435.0,
+ "raw_text": "1 RedVelvel Cheesk Slc Qo0\n1 Chicken Baked Rile Ooo\n1 Fish n Chips 8 Coo\n1 Hushroum Soup Qo0\n1 Chamomile Qoo\n1 Iced Tea 20 OCo\nSWbtotAL 238 , QoQ\nBervice 17,850\nPbi 25,585\nToTaL 281,435\nCaykon 200,g00\nChanige 18,565",
+ "checksum": null,
+ "runtime_s": 8.321082958995248,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    372.4632568359375,
+    130.152099609375
+   ],
+   [
+    1561.783203125,
+    130.152099609375
+   ],
+   [
+    1561.783203125,
+    2595.2880859375
+   ],
+   [
+    372.4632568359375,
+    2595.2880859375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

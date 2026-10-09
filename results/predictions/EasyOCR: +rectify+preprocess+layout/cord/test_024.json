@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "5003-Chokoreto Cookies",
+   "qty": 1,
+   "price": 62000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "S001-Corn Flakes Cookzes\nRp.Sb QQO xl Rp.56 . O00\n5003-Chokoreto Cookies\nRp.62,000 Rp.62.O0Q\nLo0z-Plastic Rag Medium\nRp.0 Xl Rp.0\nTotal Item:\nTntal Ru.0180oQ",
+ "checksum": null,
+ "runtime_s": 7.989639334002277,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    12.511810302734375,
+    0.0
+   ],
+   [
+    574.6085815429688,
+    0.0
+   ],
+   [
+    574.6085815429688,
+    718.8101806640625
+   ],
+   [
+    12.511810302734375,
+    718.8101806640625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

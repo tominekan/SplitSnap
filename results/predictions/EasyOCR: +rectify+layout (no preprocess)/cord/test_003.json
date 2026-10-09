@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "IX",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "DONAT GULA",
+   "qty": 1,
+   "price": 11000.0
+  }
+ ],
+ "subtotal": 11000.0,
+ "tax": null,
+ "tip": null,
+ "total": 11000.0,
+ "raw_text": "\"8840769\nD\nIX 11000\nDONAT GULA 11,000\n1.OOxITEMs\nSUBTOTAL 11,000\nTotAl 11,000\ncasH 11,000",
+ "checksum": false,
+ "runtime_s": 2.5622638750064652,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    69.684326171875,
+    62.10272216796875
+   ],
+   [
+    693.0279541015625,
+    32.91033935546875
+   ],
+   [
+    766.8674926757812,
+    1180.0
+   ],
+   [
+    121.2003173828125,
+    1224.647216796875
+   ]
+  ],
+  "method": "paper"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "items": [
+  {
+   "name": "Strip",
+   "qty": 1,
+   "price": 212.0
+  },
+  {
+   "name": "Ribeye Bone In",
+   "qty": 1,
+   "price": 69.5
+  },
+  {
+   "name": "Caul If lower",
+   "qty": 1,
+   "price": 16.5
+  },
+  {
+   "name": "Baked Potato",
+   "qty": 1,
+   "price": 10.5
+  },
+  {
+   "name": "Asparagus",
+   "qty": 1,
+   "price": 15.5
+  },
+  {
+   "name": "Onton RIngs",
+   "qty": 1,
+   "price": 14.5
+  },
+  {
+   "name": "Sauteed Spinach",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "VOSS Spark1 ing",
+   "qty": 3,
+   "price": 25.5
+  },
+  {
+   "name": "Coke Bt1",
+   "qty": 6,
+   "price": 24.0
+  },
+  {
+   "name": "09:14PM TOJAt DUE",
+   "qty": 1,
+   "price": 439.86
+  }
+ ],
+ "subtotal": 404.0,
+ "tax": 35.86,
+ "tip": null,
+ "total": null,
+ "raw_text": "DEL FRISCO S 08620\n1221 Avenue 0f the Aner Icas\nNew York , New York 10020\n1075 Rebekkah\nTbl 240/1 Chk 1061 Gst 5\nApro7' 16 07:53PM\nDIne In\nStrip 1602 212.00\nRibeye Bone In 69,50\nCaul If lower 16.50\nBaked Potato 10.50\nAsparagus 15.50\nOnton RIngs 14,50\nSauteed Spinach 16.00\n3 VOSS Spark1 ing 25,50\n6 Coke Bt1 24.00\nSUBTOTAL 404.00\nTaX 35.86\n09:14PM TOJAt DUE 439.86\nMmama v(W: : ( '[SITING",
+ "checksum": null,
+ "runtime_s": 5.137365126007353,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    412.0,
+    0.0
+   ],
+   [
+    412.0,
+    549.0
+   ],
+   [
+    0.0,
+    549.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

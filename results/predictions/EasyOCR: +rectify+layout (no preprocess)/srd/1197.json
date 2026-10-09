@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Uassoi Stoviglie",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Ponadorini",
+   "qty": 1,
+   "price": 1.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 34.0,
+ "raw_text": "BNKR 5834936484E TERHALE\nSTABTL IHENTO\nSAN HCHIANO LAcco ANe No) (NA)\nUIA HONTANO 002001430635\nPARTHTA IUA EURO\nUassoi Stoviglie\n10.00\nHacedon i 10 . €0\nInsalata Negombo 8 . (0\nBufala\nPonadorini 1.00\nNat 1/2 It\nTOTALE € 34,00\nCONTANTE\nREG 00] OPER .\n28-08-2018 12:41\nSCONTRINO FISCA E\n45400311",
+ "checksum": null,
+ "runtime_s": 0.6447736670088489,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

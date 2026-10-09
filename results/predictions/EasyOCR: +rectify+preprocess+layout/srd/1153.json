@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "Pig Cup",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "The DrIfter",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Kobe Beef SI Ider",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "New York",
+   "qty": 1,
+   "price": 63.0
+  },
+  {
+   "name": "Aner Kobe FI let",
+   "qty": 1,
+   "price": 79.0
+  },
+  {
+   "name": "Lobster Tal",
+   "qty": 1,
+   "price": 38.0
+  },
+  {
+   "name": "Pepsl",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Choc Pot De Cren",
+   "qty": 1,
+   "price": 13.0
+  }
+ ],
+ "subtotal": 290.0,
+ "tax": 23.49,
+ "tip": null,
+ "total": 313.49,
+ "raw_text": "Gordon Raeaay Stoak 6\nParis Las Vegus\n10/21/2014 19:41\n333338333333335533832=33388233\nGordon Raasay Steak\nCheck: 2042367 Table: T-35\nServer: Loaberto Guests: 2\nTerulnal: 42\n23633 S=333\nRegular\nPig '8 Cup 14.00\nThe DrIfter 28,00\n14.00\nKobe Beef SI Ider 18.00\nNew York 63.00\nAner Kobe FI let 79.00\nLobster Tal) 38,00\nPotato Puree\nGrIld Asparagus Ga\nPeppercorn 6.0\nPepsl 6.00\nChoc Pot De Cren 13.00\nSubtotal 290.00\nTax 23.49\nTotal 313,49",
+ "checksum": false,
+ "runtime_s": 3.780174374987837,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    337.0,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

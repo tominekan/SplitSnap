@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "500i-Corn Flakes Codkies\nRp.5b DDO xi Rp.56-OD0\n5ooj-Chokoreto Cookies\nRp.62.0DO xi Rp.62 .QDD\nL00z-Plastic 8ag Nedium\nRp.0 xl Rp.D\nTotal Item:\nTotal Ru 1180oo",
+ "checksum": null,
+ "runtime_s": 0.8212982499971986,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    12.511810302734375,
+    0.0
+   ],
+   [
+    574.6085815429688,
+    0.0
+   ],
+   [
+    574.6085815429688,
+    718.8101806640625
+   ],
+   [
+    12.511810302734375,
+    718.8101806640625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

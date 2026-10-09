@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Ghee Dosa",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Anjappar Mutton Meals",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "Ka Idosa",
+   "qty": 1,
+   "price": 6.95
+  },
+  {
+   "name": "Plain Dosa",
+   "qty": 1,
+   "price": 6.95
+  }
+ ],
+ "subtotal": 36.8,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Anjappar Lnecitnaq Artesia\n18128 Ptoneer 8Ivd\nArtes|a_ Ca 90701\n(562) 991-1801\nWWw,anJappar Ia.com\nAnjappar Artes Ia\nOrder #004-864 Ticket #35\nDine In Table #C6\nSeat:\nServer : Deepthi R Device #1\nSeat #1\nGhee Dosa 7,95\nKid is waiting\nAnjappar Mutton Meals 14,95\nKa Idosa 6,95\nPlain Dosa 6,95\nSub Total; 36,80\n3,50\nTax I;\n====\n40,30\nTatak;",
+ "checksum": null,
+ "runtime_s": 5.0151674170047045,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    733.0,
+    0.0
+   ],
+   [
+    733.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "HhoCo CuS\" \"ARD PASTRY",
+   "qty": 1,
+   "price": 24865.0
+  },
+  {
+   "name": "REDBEAN BIPEAD",
+   "qty": 1,
+   "price": 9000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 46000.0,
+ "raw_text": "3GG TART 13\nHhoCo CuS\" \"ARD PASTRY 24,865\nREDBEAN BIPEAD 9,000\nTOtAL 46,000\nCASH 50,000\nCHANGE 4,000",
+ "checksum": null,
+ "runtime_s": 4.103771124995546,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

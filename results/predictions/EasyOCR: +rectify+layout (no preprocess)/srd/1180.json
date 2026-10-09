@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "chjun euuscning Soit Drina",
+   "qty": 1,
+   "price": 412.04
+  },
+  {
+   "name": "ime Pie, Car Jora Paio",
+   "qty": 1,
+   "price": 12.08
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.79,
+ "tip": null,
+ "total": null,
+ "raw_text": "[hanta\nenu unllnd\nchcton 1zy\n(9121341-6297\n555 @4R\nHtric d Crk 4427. Aloco\"14 01;z(Fm\nenins 184/e1\nRed Fuly\nchjun euuscning Soit Drina 412.04\nUnus Cash\nStbtofal\nime Pie, Car Jora Paio 12.08\nState Tax 0.79\n555 Creck Closed-\n713o0'14 01;47F5",
+ "checksum": null,
+ "runtime_s": 0.6308121659967583,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    326.1824951171875,
+    0.0
+   ],
+   [
+    326.1824951171875,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

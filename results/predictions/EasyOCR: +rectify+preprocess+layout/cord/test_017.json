@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "aoblin)' Maco",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Morarolla Hlot",
+   "qty": 1,
+   "price": 38000.0
+  },
+  {
+   "name": "Chlil Pepper",
+   "qty": 1,
+   "price": 14000.0
+  },
+  {
+   "name": "Chooro",
+   "qty": 1,
+   "price": 14000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 91000.0,
+ "raw_text": "82\naoblin)' Maco 25,000\nMorarolla Hlot 2 38,000\nDog\nChlil Pepper 14,000\nCroquotto\nChooro 14,000\nCroquatto\nPlaslik Amook\nPlaetik Putlh\nTako Away\nSublotal 91 OO0\nDlacount (0)\nTOTAL Rp. 91,000\nDoblt 91 O0o\nXXXXXXXXXXXX",
+ "checksum": null,
+ "runtime_s": 4.376548707994516,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    265.8320007324219,
+    204.79202270507812
+   ],
+   [
+    645.7360229492188,
+    198.00802612304688
+   ],
+   [
+    659.303955078125,
+    1112.1519775390625
+   ],
+   [
+    267.52801513671875,
+    1113.847900390625
+   ]
+  ],
+  "method": "paper"
+ }
+}

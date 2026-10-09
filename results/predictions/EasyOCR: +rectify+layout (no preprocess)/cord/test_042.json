@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "P kest",
+   "qty": 1,
+   "price": 1500.0
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 16500.0
+  },
+  {
+   "name": "Kembal",
+   "qty": 1,
+   "price": 38560.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Lricker HcC, ipce 15 , U6jo)\nCub Total 15 , LO6\nP kest | 1 ,500\nTota 16,500\nCae 50 , Oco)\nKembal 38, 560\nItems,",
+ "checksum": null,
+ "runtime_s": 7.255570749999606,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    1522.71728515625,
+    0.0
+   ],
+   [
+    1522.71728515625,
+    2871.19775390625
+   ],
+   [
+    0.0,
+    2871.19775390625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

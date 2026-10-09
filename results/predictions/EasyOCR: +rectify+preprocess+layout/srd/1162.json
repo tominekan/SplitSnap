@@ -1,0 +1,71 @@
+{
+ "items": [
+  {
+   "name": "DiIne In",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "RAVIOLO",
+   "qty": 1,
+   "price": 90.0
+  },
+  {
+   "name": "BT TURNBULL NAPA",
+   "qty": 1,
+   "price": 38.0
+  },
+  {
+   "name": "HALIBUT",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "MILK HONEY",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "COFFEE SM",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "OCTOPUS",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "BEEF TARTARE",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "FINLANDIA (WELL) SMARTINI",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "KALIBUT",
+   "qty": 1,
+   "price": 38.0
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 309.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 24.72,
+ "tip": null,
+ "total": 333.72,
+ "raw_text": "QDO\nipPer & Ivy\nJurzzpettner 8v8\nSan Dtego, CA 92101\n1045 SAGE 0\nTbl 71/1 Chk 4530 Gst\nOctog '16 \"07 ;O8PM\nDiIne In 17.00\nBUCATINI 18 . 00\nRAVIOLO 90.00\nBT TURNBULL NAPA 38.00\nHALIBUT 12.00\nYODEL\nMILK & HONEY 10,00\nCOFFEE SM 6,00\nGL ROUND POND SB 13,00\nOCTOPUS 16.00\nBEEF TARTARE 12.00\nFINLANDIA (WELL) SMARTINI 11.00\nKALIBUT 38. 00\nSNAPPER 28 , 00\nSubtota) 309,00\nTax 24,72\n09;I9PH Total 333.72",
+ "checksum": null,
+ "runtime_s": 6.9809680840116926,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

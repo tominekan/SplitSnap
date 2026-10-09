@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Chcezemania",
+   "qty": 1,
+   "price": 9500.0
+  },
+  {
+   "name": "Mamamia",
+   "qty": 1,
+   "price": 12500.0
+  },
+  {
+   "name": "CHANEE",
+   "qty": 1,
+   "price": 30000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Quan 1\nChcezemania 9,500\nMamamia 12,500\nSUBTOTAL 22,0oo\nDUE 22,00o\nCASH 52,Q00\nCHANEE 30,000\nOTAL QTY 2 ITEM 2 PCS",
+ "checksum": null,
+ "runtime_s": 2.0689339999808,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    58.56842041015625,
+    0.0
+   ],
+   [
+    575.0,
+    0.0
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    58.56842041015625,
+    863.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

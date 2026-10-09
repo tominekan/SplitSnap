@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Guests",
+   "qty": 1,
+   "price": 15.49
+  }
+ ],
+ "subtotal": null,
+ "tax": 3.26,
+ "tip": null,
+ "total": null,
+ "raw_text": "8030 Rena issance Parkway\nDurham , NC 27713\n(984) 329-2900\n05/18/2019\nServer: ANASTASHIA 12:25 PM\nTable 57/1 80001\nGuests: 2\n15.49\nTaco Salad\nGround Beef 8.99\nAdd Chicken Fajita 18 . 99\nPechuga de Polo\nSubtota] 43 . 47\nTax 3,26\nTota] 46 , 73\nBaTance Due 46 73\nAsk your Server about the\nUncIe Julio'$ LoyaF Ity Program\n\"ee to join and tons of\nrewards t0 earn!",
+ "checksum": null,
+ "runtime_s": 3.581672707994585,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

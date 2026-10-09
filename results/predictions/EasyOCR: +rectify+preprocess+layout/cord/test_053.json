@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "JorLegi\n*xxrrrrxrrrrrrrrxxxrXxrxrrrrrrrk%***\nS==DS==ESF=SSS===S=FSESSFS=\nPecel Kompl it + Nasi 42 OOC\nSoto KUDUS 4? OOC\nMineral Water 18 OOC\nSUbtotal 107\nSecui Charge 5/ 5 89\nPajak Rest 10/ 11\n123.58:\nTotal",
+ "checksum": null,
+ "runtime_s": 5.792431041991222,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    80.676025390625,
+    54.31048583984375
+   ],
+   [
+    815.6375732421875,
+    54.31048583984375
+   ],
+   [
+    815.6375732421875,
+    1247.764404296875
+   ],
+   [
+    80.676025390625,
+    1247.764404296875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

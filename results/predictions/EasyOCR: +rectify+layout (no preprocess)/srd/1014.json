@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Enchi Omelete",
+   "qty": 2,
+   "price": 25.98
+  },
+  {
+   "name": "Open Food",
+   "qty": 1,
+   "price": 3.19
+  },
+  {
+   "name": "Open Food",
+   "qty": 1,
+   "price": 3.19
+  }
+ ],
+ "subtotal": 44.32,
+ "tax": 4.21,
+ "tip": null,
+ "total": null,
+ "raw_text": "15700'Bel Loaded_Cafe if 1ower Blvd\nBe| If Tower CA 90706\n135 Nathalie\nTb] 34/1 Chk 2763 Gst 2\nFeb23' 19 10:23AM\nDine In\n2 Enchi Omelete 25.98\nSHREDDED BEEF\nOpen Food_ 3.19\nSHREDDED BEEG\nOpen Food 3.19\nHashbrowns Side 99\nHashbrowns Side 0\nCoffee Hot\nDiet Coke 99\nSUBTOTAL 44,32\nTAX 4,21\n10:51AM TOTAL DUE 48 53\nIhAnk YouFOR VISITING",
+ "checksum": null,
+ "runtime_s": 3.1934077499900013,
+ "rectify_info": {
+  "fallback": true,
+  "quad": null,
+  "method": "fallback"
+ }
+}

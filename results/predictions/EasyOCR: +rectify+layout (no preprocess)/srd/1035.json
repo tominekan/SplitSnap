@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 81.45
+  },
+  {
+   "name": "Tea",
+   "qty": 1,
+   "price": 51.45
+  },
+  {
+   "name": "Waff le",
+   "qty": 1,
+   "price": 85.5
+  },
+  {
+   "name": "Ola Fashion French Toast",
+   "qty": 1,
+   "price": 84.5
+  },
+  {
+   "name": "Side Home Fries",
+   "qty": 1,
+   "price": 52.95
+  },
+  {
+   "name": "Banana",
+   "qty": 1,
+   "price": 82.95
+  },
+  {
+   "name": "Whipped Cream",
+   "qty": 1,
+   "price": 82.5
+  },
+  {
+   "name": "EGGS",
+   "qty": 2,
+   "price": 82.95
+  }
+ ],
+ "subtotal": 824.25,
+ "tax": null,
+ "tip": null,
+ "total": 826.38,
+ "raw_text": "Argonaut Dinerzooo Jle Delliver\nPlease Pay at Cashier\n1084 Yonkers Avenue Yonkers , NY 10704\n(914) 237-5055\nCopy of Receipt\nCoffee 81.45\nTea 51. 45\nWaff le 85.50\nOla Fashion French Toast 84.50\nSide Home Fries 52 .95\nBanana 82 .95\nWhipped Cream 82.50\n2 EGGS 82. 95\nSubtotal= 824,25\n82, 13\nTotal; 826,38\nServer Nalie MIKE",
+ "checksum": false,
+ "runtime_s": 1.3301230000070063,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    82.41876220703125
+   ],
+   [
+    542.1312255859375,
+    82.41876220703125
+   ],
+   [
+    542.1312255859375,
+    797.918701171875
+   ],
+   [
+    0.0,
+    797.918701171875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

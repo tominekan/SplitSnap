@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Iiang",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 22.03,
+ "raw_text": "Yum\"S 2 RESTAURANT\nWalk In\nM4:0i 01191M 347\n3\nSjk Cra\" &0 1 Mh (1\nWint FeRS\nMut\nWint Fe\n6a0ias\nHcnemnace Hk\nFond %ubtoinl: 20.\"'8\nElgv Subtolal:\nFood Tax\nBcte\nTotal: 22.03\nReceived: 22 0$\nIiang? 0,00\nPAID Cash\nMuuk",
+ "checksum": null,
+ "runtime_s": 0.6387829580053221,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    13.042510986328125,
+    0.0
+   ],
+   [
+    283.87249755859375,
+    0.0
+   ],
+   [
+    283.87249755859375,
+    374.00750732421875
+   ],
+   [
+    13.042510986328125,
+    374.00750732421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

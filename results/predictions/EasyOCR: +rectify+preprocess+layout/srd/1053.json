@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "J Pced Glass",
+   "qty": 1,
+   "price": 2.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Prim\nFamilyR Restaurant\nB:14 pm\n4wzI 0. Teblo:10 Geck;137\nJ Pced Glass 02.50 G8\nRo Nctnio 027.0\nSo-Tota) %3\nsl Te\nT.n\nTctal:\nAsTea8k = {es1m0 $s2.47\nM.W_\nIsuurt |e\nGare? Rexipt\nSrer: OARTIN 0,\nTable @: I0\nDe 0 137\nSLE",
+ "checksum": null,
+ "runtime_s": 3.3680288339965045,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    29.44750213623047,
+    0.0
+   ],
+   [
+    253.6374969482422,
+    0.0
+   ],
+   [
+    253.6374969482422,
+    399.0
+   ],
+   [
+    29.44750213623047,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

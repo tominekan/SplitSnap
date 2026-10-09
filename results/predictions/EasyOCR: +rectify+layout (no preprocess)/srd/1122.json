@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "KOUSE MARGARITA JunbO",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "HOUSE MARGARITA JUMBO",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "Iax I",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 44.2,
+ "tax": null,
+ "tip": null,
+ "total": 847.7,
+ "raw_text": "El Heson Hexican Restaurant\nEenlnn Unit\nCASTLE ROCR CO 80104\n(720) 733-9705\nServer: ICOR Stat ion: 33\nOrder 18533 Dine\nTable: Guests:\nSOPA DE TORTILA BOML\nTaco SaLad\nChkM\nKOUSE MARGARITA JunbO 12,50\nDr Pepper\nSIDE cheese\nHOUSE MARGARITA JUMBO 12.50\nSUB TOTAL: 44.20\nIax I: 3.50\nTOTAL; 847,70",
+ "checksum": false,
+ "runtime_s": 0.6208802079927409,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    33.505889892578125,
+    0.0
+   ],
+   [
+    327.2265625,
+    0.0
+   ],
+   [
+    327.2265625,
+    347.0
+   ],
+   [
+    33.505889892578125,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

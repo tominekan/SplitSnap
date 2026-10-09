@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "BBQ DIanor",
+   "qty": 1,
+   "price": 647.15
+  },
+  {
+   "name": "bevorago x2",
+   "qty": 1,
+   "price": 4.91
+  },
+  {
+   "name": "Subtota",
+   "qty": 1,
+   "price": 848.54
+  },
+  {
+   "name": "Yotal",
+   "qty": 1,
+   "price": 852.06
+  }
+ ],
+ "subtotal": null,
+ "tax": 53.52,
+ "tip": null,
+ "total": null,
+ "raw_text": "( Kongo_ B8Q\n6661 8tjn.ord Ranch Rd ,\nRock]Jn, CA 95677\n916-632-8020\nRecoJpt ; Bongo-042441\nDato; Jan 28 , 2018 5:48;07 PM\nServed by: Kanaqar\nIcC? PrJco Qty Faluo\nBBQ DIanor 810.99 647,15\nbevorago 52 .29 x2 4.91\nIcC3} Count: 6\nSubtota): 848 .54\nTax 7.250: 53 .52\nYotal 852.06\nCasb\nTeadered: S52 .06\nChanga: S0 0d",
+ "checksum": null,
+ "runtime_s": 5.961439000006067,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    8.580001831054688,
+    0.0
+   ],
+   [
+    294.25,
+    0.0
+   ],
+   [
+    294.25,
+    399.0
+   ],
+   [
+    8.580001831054688,
+    399.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Fotal",
+   "qty": 1,
+   "price": 7.61
+  }
+ ],
+ "subtotal": 6.88,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "IKIKKKI KKRKKIRKRRRIRERKKKRRRRIKKRR\nFor & Chance\nSurvey See \" le: Back of Rece to NIN |pt 8\n(Diganos 0229-4u55-2211-1308 e Espanol ) 8\nKtEI#IAIEKKRKKIAAAIKKRKKKEt*ttKAKK\nTaco Bell 017814\n7230 73; Pendieton\" ence IN 46226 Pike 9\n7)541\" 1895\n8rdez0398752 Cashler 8.39,38 DAJA Ph 8\n1 Power No Vea Sour Bowl Cream 8 8\nRg Orongoeesen Fz 8 2\nSubTotal Tax 6.88\nFotal 7.61 L\nAcct : XXXXXXXX2276 61\nApproval ;571883 9\n88\nDRIVe THRU\nThank you tor Visitingl 3\ne\nA\n9\nMObILE\n1\nORDebihg 2\nIS IERE 1\nWOJQLOLDTHEAPP\n8",
+ "checksum": null,
+ "runtime_s": 4.887024750991259,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    428.26873779296875,
+    0.0
+   ],
+   [
+    428.26873779296875,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

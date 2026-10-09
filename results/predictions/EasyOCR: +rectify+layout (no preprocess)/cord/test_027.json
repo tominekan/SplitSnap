@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "CHARGES",
+   "qty": 1,
+   "price": 61600.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 5600.0,
+ "tip": null,
+ "total": 61600.0,
+ "raw_text": "Foo\nPKT AYAM 33 00o\nGULAI OTAK 23 000\n2,00 ITEHS\nSUBTOTAL 56 , 000\nTaX 10x 5,600\nTOTAL 61,600\nCHARGES 61,600",
+ "checksum": null,
+ "runtime_s": 4.138206166011514,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

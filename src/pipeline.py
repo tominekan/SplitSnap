@@ -74,6 +74,9 @@ def checksum(r, rel_tol=0.005):
 
 def _ocr_stage(rec, rectify, pre, psm, engine="tesseract"):
     """rectify -> preprocess -> OCR for one image, cached on disk."""
+    if engine == "easyocr":  # the downscale cap changes EasyOCR output, so it is part of the cache key
+        from ocr import EASYOCR_MAX_SIDE
+        engine = f"easyocr@{EASYOCR_MAX_SIDE}"
     parts = [rec["dataset"], rec["id"], rectify, pre, psm] + ([engine] if engine != "tesseract" else [])
     key = json.dumps(parts, sort_keys=True)
     path = CACHE / "ocr" / (hashlib.md5(key.encode()).hexdigest() + ".json")
@@ -90,7 +93,7 @@ def _ocr_stage(rec, rectify, pre, psm, engine="tesseract"):
         from preprocess import preprocess
         img = preprocess(img, pre)
     t2 = time.perf_counter()
-    if engine == "easyocr":
+    if engine.startswith("easyocr"):
         from ocr import run_easyocr
         text, words = run_easyocr(img)
     else:

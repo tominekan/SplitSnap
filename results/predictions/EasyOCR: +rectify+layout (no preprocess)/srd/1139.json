@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "FISH BIRIYANI",
+   "qty": 1,
+   "price": 617.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "PARADISE\nindhra Style Falily Rebeiusine\nVidrarany pura BANGALORE-560097\nContace 91*8436557/58\nGST = 29ADDF807.03128\n3111 00027 Bill Dace 06 07.2017\n8111 Tine 22:06 Pereeng\nTable Wer\nIcem Name Rate Qty Aoune\nTANDOORI CHICREY 479\nMUTTON RaGoy Josh 209 209\nFISH BIRIYANI 229 229\n617.00\n617.00\nTotal\n~1 Grand Total 617\nHO",
+ "checksum": null,
+ "runtime_s": 1.0456219580082688,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.3584136962890625,
+    0.0
+   ],
+   [
+    467.09759521484375,
+    0.0
+   ],
+   [
+    467.09759521484375,
+    511.0
+   ],
+   [
+    0.3584136962890625,
+    511.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

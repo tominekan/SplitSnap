@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "FRIES LRG",
+   "qty": 1,
+   "price": 53.66
+  },
+  {
+   "name": "F FRIES LRG",
+   "qty": 1,
+   "price": 83.66
+  },
+  {
+   "name": "PFREM MED dRINK",
+   "qty": 1,
+   "price": 82.15
+  },
+  {
+   "name": "CHI BURGER SPEC",
+   "qty": 1,
+   "price": 87.57
+  },
+  {
+   "name": "TAKABLE SALES",
+   "qty": 1,
+   "price": 525.85
+  },
+  {
+   "name": "TKX",
+   "qty": 1,
+   "price": 2.46
+  },
+  {
+   "name": "TL",
+   "qty": 1,
+   "price": 528.31
+  },
+  {
+   "name": "CG",
+   "qty": 1,
+   "price": 811.69
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "ChR1S\n3950 HAMBURGERS SLAUSON MaywOOD 90270\nPHONE 323-588-1607\nREG CASHIER 11-24-2017 12:13 MC #01 PM 000072\nM] SC S0.01\nB CHZ B SPC 33 . 80\nI) pickles\nFRIES LRG 53.66\nCRISPY\nCRISPY\nF FRIES LRG 83.66\nCRISPY\nPFREM MED dRINK 82.15\nhorchata\nCHI BURGER SPEC 87.57\nT) onions\nEAT-IN\nTAKABLE SALES 525.85\nTKX $2. 46\nTL 528.31\nCASH 840.00\nCG; 811.69\nORDER 000000052\nPLEASE HELp US SERVE YOU BETTER\nSERVICE WAS VERY GOOD\nGOOD\nPOOR",
+ "checksum": null,
+ "runtime_s": 1.8008604160131654,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    171.0562744140625
+   ],
+   [
+    507.7562255859375,
+    171.0562744140625
+   ],
+   [
+    507.7562255859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

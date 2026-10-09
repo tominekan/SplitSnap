@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "EGG TART",
+   "qty": 1,
+   "price": 13000.0
+  },
+  {
+   "name": "L Hhoco CuS\" 'ARD PASTRY",
+   "qty": 1,
+   "price": 24800.0
+  },
+  {
+   "name": "REDBEAN BIREAD",
+   "qty": 1,
+   "price": 9000.0
+  },
+  {
+   "name": "ZASH",
+   "qty": 1,
+   "price": 50000.0
+  },
+  {
+   "name": "CHANCE",
+   "qty": 1,
+   "price": 4000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 46000.0,
+ "raw_text": "Ha\nEGG TART 13,000\nL Hhoco CuS\" 'ARD PASTRY 24,800\nREDBEAN BIREAD 9,000\nTotAL 46 ,000\nZASH 50,000\nCHANCE 4,000",
+ "checksum": null,
+ "runtime_s": 4.566739208996296,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    863.0,
+    0.0
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    0.0,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

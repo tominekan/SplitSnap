@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "name": "choco PUFF",
+   "qty": 1,
+   "price": 29091.0
+  },
+  {
+   "name": "CREAMY BEEF CLS FTC",
+   "qty": 1,
+   "price": 42727.0
+  },
+  {
+   "name": "NEW ORIENTAL ChK RICE",
+   "qty": 1,
+   "price": 34545.0
+  },
+  {
+   "name": "LIPTON PITCHER",
+   "qty": 1,
+   "price": 54545.0
+  },
+  {
+   "name": "SC/P SUPER SUPRENE",
+   "qty": 1,
+   "price": 47273.0
+  },
+  {
+   "name": "CB/P BLACK PEPP BEEF",
+   "qty": 1,
+   "price": 48182.0
+  }
+ ],
+ "subtotal": 256363.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "choco PUFF 29,091\nCREAMY BEEF CLS FTC 42,727\nNEW ORIENTAL ChK RICE 34,545\nLIPTON PITCHER 54,545\nSC/P SUPER SUPRENE 47,273\nCB/P BLACK PEPP BEEF 48,182\nSUBTOTAL 256,363",
+ "checksum": null,
+ "runtime_s": 0.9117810419993475,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    431.0,
+    0.0
+   ],
+   [
+    431.0,
+    482.3792724609375
+   ],
+   [
+    0.0,
+    482.3792724609375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

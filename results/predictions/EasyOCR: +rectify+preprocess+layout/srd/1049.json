@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "name": "MargarIta",
+   "qty": 1,
+   "price": 66.0
+  },
+  {
+   "name": "Add Tequi la",
+   "qty": 1,
+   "price": 84.0
+  },
+  {
+   "name": "Strawberry Daiquiri",
+   "qty": 1,
+   "price": 86.0
+  },
+  {
+   "name": "Add Vodca",
+   "qty": 1,
+   "price": 54.0
+  },
+  {
+   "name": "Snow Combo",
+   "qty": 1,
+   "price": 854.0
+  },
+  {
+   "name": "Kickin Sauce",
+   "qty": 1,
+   "price": 80.0
+  },
+  {
+   "name": "Mfld",
+   "qty": 1,
+   "price": 80.0
+  }
+ ],
+ "subtotal": 874.0,
+ "tax": 477.49,
+ "tip": null,
+ "total": 38.75,
+ "raw_text": "KICKIn KAJUN KAPOLEI\nKa Makana AI) 1\n91-5431 Kapolel Parkway Suite 426\nKapolet HI 96707\n(808) 628-4771\nServer ; Chenay B\nTable: Table 2\nDate: 1/18/19, 5:47 PM\nMargarIta 66.00\nAdd Tequi la +84.00\nStrawberry Daiquiri 86. 00\nAdd Vodca +54.00\nSnow Combo 854,00\nKickin Sauce +80,00\nMfld +80.00\nSubtotal: 874.00\n83.49\nTotal Tax;\n477.49\nTotal:\n$38. 75\nReceipt Total:\nSuggested Gratuity Iotal\nUp",
+ "checksum": false,
+ "runtime_s": 4.311925582005642,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    160.91876220703125,
+    150.70001220703125
+   ],
+   [
+    627.3187255859375,
+    154.67501831054688
+   ],
+   [
+    675.0187377929688,
+    990.75
+   ],
+   [
+    175.49375915527344,
+    999.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

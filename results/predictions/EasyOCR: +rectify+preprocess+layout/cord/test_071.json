@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Cuka Apel Teles TIS000",
+   "qty": 1,
+   "price": 198000.0
+  },
+  {
+   "name": "Sub Tolal",
+   "qty": 1,
+   "price": 198000.0
+  },
+  {
+   "name": "Kombalian",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Cuka Apel Teles 1 TIS000\n198000\nSub Tolal 198000\nTunai 200200\nKombalian 22000",
+ "checksum": null,
+ "runtime_s": 6.2046640000044135,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    18.87841796875,
+    0.0
+   ],
+   [
+    575.0,
+    17.037017822265625
+   ],
+   [
+    575.0,
+    863.0
+   ],
+   [
+    0.0,
+    825.2657470703125
+   ]
+  ],
+  "method": "paper"
+ }
+}

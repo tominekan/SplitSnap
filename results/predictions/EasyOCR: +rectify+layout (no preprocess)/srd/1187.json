@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Rea Smooth",
+   "qty": 1,
+   "price": 87.99
+  },
+  {
+   "name": "Short Stack",
+   "qty": 1,
+   "price": 88.59
+  },
+  {
+   "name": "NO Sausage",
+   "qty": 1,
+   "price": 80.0
+  },
+  {
+   "name": "GriIled Spinach",
+   "qty": 1,
+   "price": 81.99
+  },
+  {
+   "name": "Southern Comfort",
+   "qty": 1,
+   "price": 810.99
+  }
+ ],
+ "subtotal": 846.54,
+ "tax": 83.84,
+ "tip": null,
+ "total": 850.38,
+ "raw_text": "Spiral 608 E Diner Hickory Bakery St\nDenton TX 76205\nOrder# 185736\nEat In Order\nServer ; Sarah A\nTable: 9\nDate: 6/16/19, 10;04 AM\nRea 1 Smooth 87.99\nShort Stack 88,59\nCoffee\nBreakfast Quesadi ] Ia 82 , 99\nNO . Sausage 813.99 +80,00\nGriIled Spinach +81.99\nSouthern Comfort 810.99\nSubtotal ; Aaper Cot 846 ,54\nTota] Tax: 83, 84\nTotal: 850. 38\nOrder Balance due; 850,38\nWww . spiraldiner . coM\nFo] Iow Us On\nfacebook.com/spiraldiner\ninstagram.com/spiraldiner\nThanks for your business!",
+ "checksum": false,
+ "runtime_s": 10.3539357510017,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    1023.0,
+    0.0
+   ],
+   [
+    1023.0,
+    1293.482421875
+   ],
+   [
+    0.0,
+    1293.482421875
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

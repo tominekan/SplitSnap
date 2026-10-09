@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "Pre- Glass",
+   "qty": 1,
+   "price": 322.5
+  },
+  {
+   "name": "MED Vesgle",
+   "qty": 1,
+   "price": 527.0
+  },
+  {
+   "name": "Suo-Tta",
+   "qty": 1,
+   "price": 849.5
+  },
+  {
+   "name": "Sales Iax",
+   "qty": 1,
+   "price": 92.97
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 3.77
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "primo\nFamily Restaurant\n5/3/19 8:14 PH\nEain D. Table: I0 Creck; 137\nPre- Glass 07.50 322.50\nMED Vesgle #27,00 527 ,00\nSuo-Tta 849.50\nSales Iax 92.97\nTota] 3,77\nMASTERCARD Paynents *4*6170 852,47\nArwnt M S0,00\n0n0 Rexipt\nServer: darhin\nTah",
+ "checksum": null,
+ "runtime_s": 0.5688605409959564,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    18.511428833007812,
+    0.0
+   ],
+   [
+    289.1771240234375,
+    0.0
+   ],
+   [
+    289.1771240234375,
+    347.0
+   ],
+   [
+    18.511428833007812,
+    347.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "And COMbO",
+   "qty": 1,
+   "price": 8.45
+  },
+  {
+   "name": "And cOhBO",
+   "qty": 1,
+   "price": 1.95
+  },
+  {
+   "name": "FOUNTAIM HEDIUM",
+   "qty": 2,
+   "price": 3.5
+  },
+  {
+   "name": "Akount DUE",
+   "qty": 1,
+   "price": 1.69
+  }
+ ],
+ "subtotal": 19.9,
+ "tax": 1.79,
+ "tip": null,
+ "total": 0.0,
+ "raw_text": "OHANA HAWAIIAN BBO\n4469 SLAUSON AVE\nMaywood , CA 90270\n323) 771-9888\nServer : kar Ia Stat ion: 3\nOrder 65193 Dine In\nSETTLED\n1/2 And 1/2 COMbO 8. 45\nFRIED SHRRIMP\nSHORT RIB\n1/2 And 1/2 cOhBO 1.95\nBBQ BEEF\nFRIED SHRIMP\n2 FOUNTAIM HEDIUM 3.50\nBar Sbtotal: 0 .00\nFood Subtotal: 19.90\nTax I; 1.79\nL==\nAkount DUE : 62 1.69\nCash Tendered: 22 .00\nEZ3\nCHANGE : ~0,31\nTicket #: 94\nCreated: 6/1/2013 7:43:46 PM\nSETTLED: 6/1/2013 7:44:18 PM\nTHANK YOUl",
+ "checksum": false,
+ "runtime_s": 3.9154676250036573,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    62.987518310546875,
+    0.0
+   ],
+   [
+    557.2125244140625,
+    0.0
+   ],
+   [
+    561.0,
+    994.46875
+   ],
+   [
+    81.53750610351562,
+    999.0
+   ]
+  ],
+  "method": "otsu"
+ }
+}

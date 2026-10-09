@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "FREEBIRD",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "ICE CREAM",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "LONESTAR",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "ORIGINAL TTL",
+   "qty": 1,
+   "price": 11.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.91,
+ "tip": null,
+ "total": 11.91,
+ "raw_text": "Gourdough' Public House\n2700 South Larar Blvd\nHustIn TX 78704\nPhone; (512) 912-9070\n3008 BAR PM B\nChk 7862 Jan2i' 17 08;56P Gst\nFREEBIRD 5.50\nICE CREAM 2.00\nLONESTAR 3,50\nORIGINAL TTL 11.00\nTaX 0.91\n09,38PM TOTAL 11.91\nFolIow us @ggurdoughspub On\nFacebook or Twitter for the\nTatest and greatest specials!",
+ "checksum": null,
+ "runtime_s": 0.6235445829952369,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    7.5909576416015625
+   ],
+   [
+    332.94091796875,
+    7.5909576416015625
+   ],
+   [
+    332.94091796875,
+    449.0
+   ],
+   [
+    0.0,
+    449.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

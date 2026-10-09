@@ -1,0 +1,78 @@
+{
+ "items": [
+  {
+   "name": "Box",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Star Mea",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Db] Chbgr",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Hot Dog",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Baked Cook ie",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Lg Fries",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Lg Bev Bar",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "SubTota",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 7.61
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.61,
+ "tip": null,
+ "total": null,
+ "raw_text": "CARL '$ JR\nRestaurant 1100580\n11961 Beach Bvd ,\nStanton , CA 90880\n(714)895-5114\n9/27/2017 12:13:06 PM\nOrder 375719 Cashier: Alvaro I\nBox #1 0.00\n411 Star Mea] #1 1,00\nDb] Chbgr 0,00\nHot Dog 0,00\nBaked Cook ie 0,00\nLg Fries 3.00\nLg Bev Bar 3. 00\nSubTota] 7 ,00\nTax 0.61\nTota] 7,61\nCash 8 .00\nChange 0.39\nTo Go\nThank you for visiting!\nTicket #45\nItems in bag(s): 4",
+ "checksum": null,
+ "runtime_s": 2.276330374996178,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    91.3062744140625,
+    34.13751220703125
+   ],
+   [
+    622.6312255859375,
+    36.78753662109375
+   ],
+   [
+    643.8312377929688,
+    984.1624755859375
+   ],
+   [
+    63.48126220703125,
+    997.4124755859375
+   ]
+  ],
+  "method": "paper"
+ }
+}

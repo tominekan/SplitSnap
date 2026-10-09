@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Specia] Combo Pho",
+   "qty": 1,
+   "price": 812.95
+  },
+  {
+   "name": "of sa le",
+   "qty": 1,
+   "price": 816.51
+  },
+  {
+   "name": "O0K_nf sale",
+   "qty": 20,
+   "price": 816.77
+  }
+ ],
+ "subtotal": 812.95,
+ "tax": 81.23,
+ "tip": null,
+ "total": 814.18,
+ "raw_text": "Tay Ho Cakiand\nElegant Victnamesc Cuisine\nFo] low us on Instagram & Facebook\n@tayhooak Iand #tayhooak land our\nPlease help us going Green & Save\nPlease ask for resources Credit Card Receipt\nif you'd Tike one printed for your\nrecord_\nOrder# 142750\nTable: Table\nDate: 2/19/19, 1;20 PM\n#19-D.B.B,V Specia] Combo Pho 812,95\nSubtotal: 812.95\nTota Tax: 81,23\nTotal 814.18\nOrder Ba lance due: S14,18\nSuggested Gratuity\nTip Total\n18,00X of sa le: 82,33 816,51\n20 O0K_nf sale: 82.59 816,77",
+ "checksum": false,
+ "runtime_s": 1.861780458013527,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    95.26251220703125
+   ],
+   [
+    594.9749755859375,
+    95.26251220703125
+   ],
+   [
+    594.9749755859375,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Descr ipt ion",
+   "qty": 1,
+   "price": 5.25
+  },
+  {
+   "name": "PARIS",
+   "qty": 1,
+   "price": 4.95
+  }
+ ],
+ "subtotal": 10.2,
+ "tax": 0.84,
+ "tip": null,
+ "total": 11.04,
+ "raw_text": "UMIX\n4327 N Expressway 77/83\n956-350-8686\nBr ownsvi lle; TX 78521\n956-543-5089\nTicket #215406 User : KRIST\nStation:1 Sales Rep KRIST\n4/24/2016 6:30:31 PM\nItem Qty Price Total\nDescr ipt ion\n100027 5 .25 5.25\nPARIS\n100026 4.95 4.95\nLE CLASSIQUE\nSubtotal 10. 20\nTax 0. 84\nTotal 11. 04\nTender\nCASH 20. 00\nChange (CASH) -8.96\nNumber of items purchased:2",
+ "checksum": true,
+ "runtime_s": 3.406737208002596,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    749.0,
+    0.0
+   ],
+   [
+    749.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

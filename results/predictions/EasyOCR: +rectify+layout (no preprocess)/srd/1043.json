@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "Adnin",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "VAMS",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "CATERING\nBKSOULFOOD YONKERS & AVE\n11318 onkeRS NY 14704\n914-237 -5083\nJune 23. 2019 at 2:33 PM\nORDER # 1019\nAdnin\n12.50\nHINGS\nMAC & CHEESE\nVAMS 12.00\nSIDE (SH) x3\nYAHS\nMAC & CHEESE\nCOLLARD GREENS\nSubtotal 24.5\nTex 2\nDiscount 0\nTota 26\n0011477216613",
+ "checksum": null,
+ "runtime_s": 1.552211709000403,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    110.02500915527344,
+    0.0
+   ],
+   [
+    608.2249755859375,
+    0.0
+   ],
+   [
+    608.2249755859375,
+    989.6312255859375
+   ],
+   [
+    110.02500915527344,
+    989.6312255859375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

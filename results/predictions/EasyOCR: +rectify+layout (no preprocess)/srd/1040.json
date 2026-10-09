@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "IOTHAI\nSushi ASIAN\nSION AVE UNiT 36\n33196\n4888\nIkhothaius com\nsukhothaius.com**tt\n3: 0003\nE-IN\nAnd Egg S7.99\nnd Miso S7.99\nS1.00\nS2.50\nVater S3.50\nS22.98\nS1.61\nS3.45\nS28.04\nS28.04",
+ "checksum": null,
+ "runtime_s": 1.0280937919887947,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    352.2750244140625,
+    11.90625
+   ],
+   [
+    666.2999877929688,
+    11.90625
+   ],
+   [
+    666.2999877929688,
+    999.0
+   ],
+   [
+    352.2750244140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "TAHU GORENG",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "CAKWE",
+   "qty": 1,
+   "price": 17000.0
+  },
+  {
+   "name": "PHO TAI CHIN R",
+   "qty": 1,
+   "price": 63000.0
+  },
+  {
+   "name": "TEA",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "Serv",
+   "qty": 1,
+   "price": 8330.0
+  }
+ ],
+ "subtotal": 119000.0,
+ "tax": null,
+ "tip": null,
+ "total": 140063.0,
+ "raw_text": "0)\n1 2\n2\n1 8\n0\n2\n1 1 TAHU GORENG 28,000\n1 CAKWE 17,000 2\n1 PHO TAI CHIN ( R} 63,000\n1 TEA 11,000\nSub Total 119,000\n: Serv , 7,0Y6 8,330 3\nPB ] 10,0% 12,733\n< Grand Total 140,063 0\n2 9H CREDIT CAR: 140,063 2\nF\nW:::: 3888822",
+ "checksum": false,
+ "runtime_s": 5.377416250004899,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    27.491424560546875,
+    85.22015380859375
+   ],
+   [
+    863.0,
+    85.22015380859375
+   ],
+   [
+    863.0,
+    1295.0
+   ],
+   [
+    27.491424560546875,
+    1295.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

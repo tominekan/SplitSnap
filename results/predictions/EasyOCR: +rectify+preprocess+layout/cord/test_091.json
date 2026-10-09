@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "0aA+o U6trs 15 Ooo\nLmi Ngan 6 , Ou\n2 1 , 00o\n~rsis 30 . Q00\nCg 9 000",
+ "checksum": null,
+ "runtime_s": 2.223547583009349,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    227.0,
+    0.0
+   ],
+   [
+    227.0,
+    276.8345947265625
+   ],
+   [
+    0.0,
+    276.8345947265625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Plate",
+   "qty": 1,
+   "price": 9.1
+  },
+  {
+   "name": "KUNG PAOICKN",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "XTRA ENTREE",
+   "qty": 1,
+   "price": 1.5
+  }
+ ],
+ "subtotal": 25.2,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Kk PURHESE xx\nPanda Express 42614\n(7186246-3898 BrookIyn NY\n12/22/2017 4:58;01 PM ~To GO-\nOrder: 196812 Server: Cheryfia M\n1 Plate 9.10\nCHOW MEIN-1/2\nCHOW MEIN-1/2\nBROCCOLI BEEF\nBEIJING BEEF 9..0\n1 Plate Chow MEIN-1/2\nCHon MEIN-1/2\nCKN EGO ROLL\nKUNG PAOICKN 1,50\n1 XTRA GRELL HAIYAKI cKN\nXTRA ENTREE 1.50\nGRILU BERIYAKI CKN % .88\nPEPSI 28 82\nISubTotal 25.20\nTaX 2,.24\nTotal 27.,44\nVisa 21,44\nAcct:XXXXXXXXO1OB\nAuthCode:027764\nIETTEEETETEN\"7,\nFDEE ENTREE",
+ "checksum": null,
+ "runtime_s": 6.549055374998716,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    37.9937744140625,
+    0.0
+   ],
+   [
+    720.3687744140625,
+    0.0
+   ],
+   [
+    720.3687744140625,
+    999.0
+   ],
+   [
+    37.9937744140625,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

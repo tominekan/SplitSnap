@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "pat Rut\nCoco\nTable 4520\nHterat w\nWneil 0u;oR Cht\neecncio\nG$ Cirig LAseR\nWInes SulL\nFRESH QW\nSHELLFISH Fqi\nFISH CaeS\nRIRTICN Bread Lege\nTOTAL: 65\nBAR RUA\nFacebook @BBRRUAQUB\nTwitter TRIPADVISOR\nREVIEW\n<~REPRINTED->",
+ "checksum": null,
+ "runtime_s": 0.5848898330004886,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    6.4575042724609375,
+    32.50688171386719
+   ],
+   [
+    252.0,
+    32.50688171386719
+   ],
+   [
+    252.0,
+    449.0
+   ],
+   [
+    6.4575042724609375,
+    449.0
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

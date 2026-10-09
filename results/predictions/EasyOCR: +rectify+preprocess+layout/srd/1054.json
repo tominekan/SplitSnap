@@ -1,0 +1,58 @@
+{
+ "items": [
+  {
+   "name": "French Fries x2",
+   "qty": 1,
+   "price": 52.5
+  },
+  {
+   "name": "Combo, Grilled Onion",
+   "qty": 1,
+   "price": 50.75
+  },
+  {
+   "name": "CB x2",
+   "qty": 1,
+   "price": 57.85
+  },
+  {
+   "name": "Regular Price, Grilled Onion",
+   "qty": 1,
+   "price": 0.75
+  },
+  {
+   "name": "Chlll Frles",
+   "qty": 1,
+   "price": 54.35
+  }
+ ],
+ "subtotal": 551.25,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "big Jo's\n1955 BROADWAY Jan 25. 2018\nSANTA MONICA, CA 90404 11*47 AM\n(310) 828-3191\nwwwbiglosburgers.com\nTlcket: Shlrley Cash\nReceipt Olxi\nPICKUP\nHB S4.00\nRegular Prlce\nFrench Fries x2 S5.00\n(52.50 each)\nTurkey Burger S8.85\nCombo\nHb S8.35\nCombo, Grilled Onion (50.75)\nCB x2 S15.70\n(57.85 each)\nCombo\nCB S5.00\nRegular Price, Grilled Onion ($0.75)\nChlll Frles 54.35\nSubtotal 551,25\nSales Tax S5.25\nTotal S56.50\nCash S60.00\nChange S3.50",
+ "checksum": null,
+ "runtime_s": 5.480107666997355,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    610.0,
+    0.0
+   ],
+   [
+    610.0,
+    999.0
+   ],
+   [
+    0.0,
+    999.0
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

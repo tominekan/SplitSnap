@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "MIal 2m",
+   "qty": 1,
+   "price": 17.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "lac Source\n74t5t\"\nBee Trin -lA\nNOTC\n54 528 8\nMIal 2m *17.00\nDoNT Toia TE\nTel: 04ik8.28.44.81\nhorci 0VoIRE VISITE",
+ "checksum": null,
+ "runtime_s": 0.4007081680028932,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    246.19374084472656,
+    0.0
+   ],
+   [
+    226.31874084472656,
+    249.0
+   ],
+   [
+    0.0,
+    249.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

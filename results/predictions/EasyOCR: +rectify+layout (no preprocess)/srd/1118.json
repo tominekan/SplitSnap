@@ -1,0 +1,38 @@
+{
+ "items": [
+  {
+   "name": "Plaln Potato",
+   "qty": 1,
+   "price": 1.79
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Mdi Rcatcurant 400012375\n201 Pargan\nChre567 RJ 07029\n'913) 493-8704\n#3264\ntat: JULIARA 03/18/201\n03404 B:435\n4063\nOrcer Iyeo:\nNeaje Sancaich 01399\nKec Ican @reese\nKo Hayo\nSul FrIcs\nPlaln Potato 1,79\nAC0 Cnlves\nTotal Iteas\nPUW Total 99\nEalerce Due\n7\nHox was Your vIsIt?\nCall us at 888-624-8140",
+ "checksum": null,
+ "runtime_s": 0.5940032909857109,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    35.55000305175781,
+    0.0
+   ],
+   [
+    269.2799987792969,
+    0.0
+   ],
+   [
+    269.2799987792969,
+    389.8699951171875
+   ],
+   [
+    35.55000305175781,
+    389.8699951171875
+   ]
+  ],
+  "method": "otsu+crop"
+ }
+}

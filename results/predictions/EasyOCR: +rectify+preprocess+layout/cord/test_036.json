@@ -1,0 +1,32 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 60000.0,
+ "raw_text": "D*dr8r44DD Dr5 05580O\nHOIL Crispy Chicken 40,d0Q\nSedang\nITEMS :1 48; 3,888\nPay Total Cak10o,oo0 Change :60,000\n557553835453583553838688300858322358353335832457557338\nNL",
+ "checksum": null,
+ "runtime_s": 6.804810790999909,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    68.3009033203125
+   ],
+   [
+    2303.0,
+    68.3009033203125
+   ],
+   [
+    2303.0,
+    3606.835205078125
+   ],
+   [
+    0.0,
+    3606.835205078125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "name": "Lemon Tea (L",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Mike Ike Or Iglnal",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "Mike Berry",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "Rot| KeJu Manls",
+   "qty": 1,
+   "price": 7000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Lemon Tea (L) _ 25. 000\nMike & Ike Or Iglnal 28, 000\nMike & Berry 28. 000\nRot| KeJu Manls: 7, 000\nTOTAL BB, O00\nCASH 88, Q00\nCHANGED",
+ "checksum": null,
+ "runtime_s": 5.40318016600213,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    84.555908203125,
+    30.4884033203125
+   ],
+   [
+    831.537841796875,
+    30.4884033203125
+   ],
+   [
+    831.537841796875,
+    1282.3271484375
+   ],
+   [
+    84.555908203125,
+    1282.3271484375
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "Chocolate Log Cake Ix",
+   "qty": 1,
+   "price": 115000.0
+  },
+  {
+   "name": "Snowman Cake Chocolate Ix",
+   "qty": 1,
+   "price": 60000.0
+  },
+  {
+   "name": "Strawberry Log Cake 2x",
+   "qty": 1,
+   "price": 210000.0
+  }
+ ],
+ "subtotal": 385000.0,
+ "tax": null,
+ "tip": null,
+ "total": 385000.0,
+ "raw_text": "40\nChocolate Log Cake Ix 115,000 115,000\nSnowman Cake Chocolate Ix 60,000 60 ,000\nStrawberry Log Cake 2x 105, 000 210,000 RRA\nSub Total 385,000\nGRAND TOTAL 385, 000\nVISA MASTER 385,000\n8213\nCHANGE",
+ "checksum": true,
+ "runtime_s": 6.138936999996076,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    12.3768310546875,
+    49.07794189453125
+   ],
+   [
+    863.0,
+    49.07794189453125
+   ],
+   [
+    863.0,
+    1228.794189453125
+   ],
+   [
+    12.3768310546875,
+    1228.794189453125
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

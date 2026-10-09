@@ -1,0 +1,73 @@
+{
+ "items": [
+  {
+   "name": "Sicita Dabi",
+   "qty": 1,
+   "price": 65000.0
+  },
+  {
+   "name": "Ilotplate Tahu",
+   "qty": 1,
+   "price": 58000.0
+  },
+  {
+   "name": "DF Fish Fillet Garkc",
+   "qty": 1,
+   "price": 108000.0
+  },
+  {
+   "name": "Siew Mai",
+   "qty": 1,
+   "price": 38800.0
+  },
+  {
+   "name": "Kwan Yin Cup",
+   "qty": 1,
+   "price": 50000.0
+  },
+  {
+   "name": "Onde-Onde",
+   "qty": 1,
+   "price": 38003.0
+  },
+  {
+   "name": "PCI",
+   "qty": 1,
+   "price": 60394.0
+  },
+  {
+   "name": "Tejailore--tzs",
+   "qty": 1,
+   "price": 4329.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": 42135.0,
+ "total": null,
+ "raw_text": "1 XLB Org Park: 10x T8,00\nSicita Dabi 65,000\n1 Ilotplate Tahu 58,000\nDF Fish Fillet Garkc: 108,000\nLM Pork Belly 88,C00\n1 Siew Mai 38,800\nKwan Yin Cup 50,000\nHerbal Jellv 38,00\nOnde-Onde 38,003\nITEMS :13 561,300\nService charge 42,135\nPCI 60,394\nTejailore--tzs 004,329",
+ "checksum": null,
+ "runtime_s": 6.574955709016649,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    147.14886474609375,
+    263.142578125
+   ],
+   [
+    1948.979248046875,
+    263.142578125
+   ],
+   [
+    1948.979248046875,
+    3215.5390625
+   ],
+   [
+    147.14886474609375,
+    3215.5390625
+   ]
+  ],
+  "method": "paper+crop"
+ }
+}

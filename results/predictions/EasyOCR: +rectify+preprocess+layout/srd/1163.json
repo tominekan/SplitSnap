@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "name": "past [Box] tarieb",
+   "qty": 1,
+   "price": 27.98
+  },
+  {
+   "name": "KNISH",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "GRAT 15X",
+   "qty": 1,
+   "price": 5.69
+  }
+ ],
+ "subtotal": 37.95,
+ "tax": 3.37,
+ "tip": null,
+ "total": 41.32,
+ "raw_text": "BEN'$ BAYSIDE\n211-37 2oth Avenue\nBayside_ nY 11360\nPhone: (718)229-2367\nEna } I: BaysidefBensdeli net\n0032 Table 45 #Party 3\nJESSICA M Svrck: 12:05 03/05/17\nDINING ROOM\n2 DOUBLE OIP . tky_ bow| barley _\npast [Box] tarieb 27 .98\nKNISH 0.00\nRouim 3 3\nKASHE SIOE\nCOFFEE 8.8\nWATER\nSub Total 37. 95\nTax 3.37\n03/05 12:41 TOTAL : 41.32\nSuggested Gratuity\nGRAT 15X 5.69\nCrat 187",
+ "checksum": false,
+ "runtime_s": 3.12832212500507,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    332.04656982421875,
+    0.0
+   ],
+   [
+    337.0,
+    449.0
+   ],
+   [
+    10.667816162109375,
+    449.0
+   ]
+  ],
+  "method": "paper"
+ }
+}

@@ -75,7 +75,7 @@ def guess_rect_cause(row, gt_area_frac, pred_area_frac):
 
 def main():
     df = pd.read_csv(RESULTS / "summary.csv")
-    ours = df[~df.config.str.startswith("oracle")]
+    ours = df[~df.config.str.startswith(("oracle", "EasyOCR"))]  # failure analysis is for the Tesseract pipeline
     best = ours.loc[ours.CORD_item_F1.idxmax(), "config"]
     per = pd.read_csv(RESULTS / "cord_per_receipt_f1.csv", index_col="id")[best].dropna()
     cord = {r["id"]: r for r in load_cord("test")}

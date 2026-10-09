@@ -1,0 +1,43 @@
+{
+ "items": [
+  {
+   "name": "BASO TAHUU",
+   "qty": 1,
+   "price": 43184.0
+  },
+  {
+   "name": "ES JERUK",
+   "qty": 1,
+   "price": 13000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 5618.0,
+ "tip": null,
+ "total": 56181.0,
+ "raw_text": "F\nBASO TAHUU 1 43.* 181 43.184\nES JERUK 1 13.000 13.(O\nTOTAL 56. 181\nTAX 10.00 \" 5.618\nGd 101rL 61.79\nTAAI 62,Can\nAFRAI",
+ "checksum": null,
+ "runtime_s": 8.463676707993727,
+ "rectify_info": {
+  "fallback": false,
+  "quad": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    830.1365966796875,
+    0.0
+   ],
+   [
+    863.0,
+    1175.6339111328125
+   ],
+   [
+    0.0,
+    1227.1500244140625
+   ]
+  ],
+  "method": "paper"
+ }
+}
