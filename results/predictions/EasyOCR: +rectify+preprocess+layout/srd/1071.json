@@ -42,7 +42,7 @@
  "total": 75.5,
  "raw_text": "Order 217510\n02/18/17 10:20 PH Check 101244\nTable 15 Cust. 2 Server 21 Kel ly Bowe\nXxxmrxxxxxxxxxxxrxmrrxxrXr XKrKxxe\n1 Quesadi I Ia 11.00\nPot Roast 18,00\n1 Fish An Chips 16. 00\nSide Salad 4.00\nDft Shock top 5.50\n2 Dft Guiness 15, 00\nIaxable: 69. 50\nSub-total: 69. 50\nTax: 6.00\nTotal Due: 75.50",
  "checksum": false,
- "runtime_s": 2.501536625000881,
+ "runtime_s": 2.501437833008822,
  "rectify_info": {
   "fallback": false,
   "quad": [

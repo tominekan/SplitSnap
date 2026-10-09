@@ -3,10 +3,10 @@
  "subtotal": 6.0,
  "tax": 0.4,
  "tip": null,
- "total": null,
+ "total": 7.55,
  "raw_text": "LANDFALL RESTAURANT\nAPRIL To DECEMBER\n0084 Table 31 #Party 3\nDWYER M SvrCk: 13 II47a 06/10/17\nSeparate checks: 6-0f-6\nCUp CHOWDER 00\nSub Total: 6.00\nTax 0 ,40\nGRAT 18 1,.15\n06/10 1;39pTOTAL : 7 . 55\nLUNCH & DINNER\nWE TAKE RESERVATIONS\nEST 1946\n508-548-1758",
  "checksum": null,
- "runtime_s": 4.777243874996202,
+ "runtime_s": 4.777171374982572,
  "rectify_info": {
   "fallback": false,
   "quad": [

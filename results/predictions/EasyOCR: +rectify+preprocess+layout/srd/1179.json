@@ -4,15 +4,45 @@
    "name": "Receipt",
    "qty": 1,
    "price": 5.38
+  },
+  {
+   "name": "Lamb Burger",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Kids Grilled Cheese",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Kids Fries",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Kids Cheeseburger",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "Beef Burger",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Sides",
+   "qty": 1,
+   "price": 3.5
   }
  ],
- "subtotal": null,
- "tax": null,
+ "subtotal": 49.5,
+ "tax": 4.7,
  "tip": null,
- "total": null,
+ "total": 54.2,
  "raw_text": "FourthStreetMIll\n2124 BONITA AVENUE\nLA VERNE, CA 91750\n(909) 596-1564\nDine In\nServer: Chris D. Sep 29,2018\nReceipt: 4J33 5.38 PM\nTable: P5\nItem(s)\nLamb Burger S13.00\nNO Goat Cheese\nNO Bread\nMedium\nSauce On Side\nKids Grilled Cheese S5.00\nKids Fries S3.00\nSweet Potato Fries $8.Q0\nKids Cheeseburger S7.00\nNO Ketchup\nNo bun\nSub sourdough\nBeef Burger S10.00\nMedium Rare\nSides S3.50\nBacon (2) Slices\nSubtotal S49.50\nSales Tax (Incl. 9.5%) S4.70\nTotal S54.20",
- "checksum": null,
- "runtime_s": 5.236164959002053,
+ "checksum": false,
+ "runtime_s": 5.236156041995855,
  "rectify_info": {
   "fallback": false,
   "quad": [

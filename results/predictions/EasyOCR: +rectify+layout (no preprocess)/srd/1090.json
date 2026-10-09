@@ -11,9 +11,34 @@
    "price": 0.0
   },
   {
+   "name": "Pustard",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Ketchup",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
    "name": "Large Fry",
    "qty": 1,
    "price": 85.79
+  },
+  {
+   "name": "Kovo",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Pickles",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "8BQ Souce",
+   "qty": 1,
+   "price": 0.0
   },
   {
    "name": "Rogular Soda",
@@ -21,13 +46,13 @@
    "price": 52.7
   }
  ],
- "subtotal": 830.31,
- "tax": 82.35,
+ "subtotal": 30.31,
+ "tax": 2.35,
  "tip": null,
- "total": 532.66,
+ "total": 32.66,
  "raw_text": "FIVE GUYS\nSTCRE CA-1631\n2640 Reynolds Ranch Fray Ste 140\nLoO] CA 95240\nPhono (209) 333-9750\n5/25/2017 I:00:17 PH\nurder AAAPZFIAAEBP\nFIVE GuYS\nEmolorea : Robert\nLittle Harburger {5.19\nLettuce So.00\nPickles So.C0\nTomatces Sl.00\nGr(led Onions {0.C0\nGr[Tled Hushroors {0.00\nPustard S0.00\nKetchup S0.00\nJalapono Peppars So.C0\nLarge Fry (85.79)\nLargu Soda\nCheosoburgor\nKovo S0.00\nLettuco So.c0\nPickles S0.00\n8BQ Souce S0.00\nRogular Soda 52.70\nSub Total 830.31\nSalos Tax 82.35\nOrder Total 532.66\nHesterCard {32.65\nCard: *2931\nAuthorization; 728762\nOrder Closed\n4aaa 4aaa\nDon\" thron anay your receipti!!\nHolp Five Guys and you could ninl\nLog onlin to WamS fivoguys.Con/sur vey\nand fMll out brief survey!\n10 Jucky people Kill win\nFive Guys Gift Card each conth\nworth 325 eachl\nNo purchase necessary\nSneepstakes ends 12/31/2017 .\nMust be at least 18 years old ad\nsuomit survey nithin 30 days\nof the recelpt date to enter _\nPlease visit %.fiveguys Cos /survey\nfor Official Rules and hon to enter\nnithout naking Purcnase Or\ncorpleting survey -\nVoid where prohibited\nHa",
  "checksum": false,
- "runtime_s": 2.5858875420090044,
+ "runtime_s": 2.586130042007426,
  "rectify_info": {
   "fallback": false,
   "quad": [

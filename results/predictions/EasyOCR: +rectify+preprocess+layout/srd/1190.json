@@ -1,12 +1,33 @@
 {
- "items": [],
- "subtotal": null,
- "tax": null,
+ "items": [
+  {
+   "name": "Onion Bhajia",
+   "qty": 1,
+   "price": 5.95
+  },
+  {
+   "name": "Konkan Fish Curry",
+   "qty": 1,
+   "price": 16.95
+  },
+  {
+   "name": "Shrimp Briyant",
+   "qty": 1,
+   "price": 16.95
+  },
+  {
+   "name": "Garlic Naan",
+   "qty": 1,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 108.8,
+ "tax": 9.66,
  "tip": null,
- "total": null,
+ "total": 118.46,
  "raw_text": "Ex u} s+,\nFa\nfef\nBona7Grm\nHoust\nBombay Grill House\n764 9ThAVE\nN[W YoRk NY 10019\n2129771010\nAny Special Offer will be at End ol Receipt\nORDER: Table 2\nDine In\n30: Jun 2018 10.36.38P\nTransaction 104379\nOnion Bhajia S5.95\nLamb Vindaloo S14 95\nmedium\nKonkan Fish Curry S16.95\nmedium\nShrimp Briyant S16.95\nmedium\nGarlic Naan S4.00\nHless Cabernet S50 00\nSubtotal S108.80\nTax S9.66\nTotal S118.46\nCREDIT CARD AUTH S118 46\nMASTERCARD 0148\n35.5\nTip\nTotal ISH-OU\nzahl_\nFdinin ^ifxandfR",
- "checksum": null,
- "runtime_s": 5.31020074999833,
+ "checksum": false,
+ "runtime_s": 5.310203041997738,
  "rectify_info": {
   "fallback": false,
   "quad": [

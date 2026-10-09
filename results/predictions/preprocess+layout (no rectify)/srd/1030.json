@@ -36,13 +36,13 @@
    "price": 94.78
   }
  ],
- "subtotal": null,
+ "subtotal": 7.53,
  "tax": null,
  "tip": null,
- "total": 7.53,
+ "total": null,
  "raw_text": "ao Esi€ RESTAURAN!\nvibe Tpke\n1 park.\nfroregig) 354-1955\nstation’ 6\nServer Jerry\n- pine In Guests: 2\ntate, 300\n. 3.50\n1 Coffee 9.95\n+ Jusbo Coctai! Sariap 10.95\n1 Escargot Bourguigonne 73.95\n1 Veal Zingarta 25.99\n1 Ducking ala Arancio .\n$UB TOTAL: 87.29\nax 1: 7.53\nTOTAL. $94.78\n>> Ticket #: 7 <<\n12/8/2017 4:44:05 PM\nSTSESESESAESERSS ESSEESESS EERE EES ES EE STE\nThank you for dining at Villa D'Este\nPlease come again soon.",
  "checksum": null,
- "runtime_s": 1.4481928330833398,
+ "runtime_s": 1.4483419580792543,
  "rectify_info": {
   "fallback": null,
   "quad": null

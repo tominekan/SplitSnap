@@ -22,7 +22,7 @@
  "total": null,
  "raw_text": "Chicken Mary land 47619,00\nCappucino (Hot /Iced) 30303,un\nNaga Lycnee Juice 34632\nCafe Latte 30303.00\nHot Chocolate Marshial 1o 30302 . UU\nChicken Cesar Salad 43290.0U\nMinera Hater 12987 , 00\nMinera Hater 12987 .UU\nLychee/ Peach/Lemon/Mango 22474.00\nChicken Mary land 47619,00\nSubtotal 316017,00\nService Charge 5x 48982 .68\n365000,60\nTTA",
  "checksum": null,
- "runtime_s": 2.677077126005315,
+ "runtime_s": 2.676968542014947,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -12,7 +12,7 @@
  "total": 20000.0,
  "raw_text": "ICED Tt '20 ,000\nToTAL 20 ,000\ncash .50 ,000\nChANGE '30 _ ,000",
  "checksum": null,
- "runtime_s": 1.80561945901718,
+ "runtime_s": 1.8054550840024604,
  "rectify_info": {
   "fallback": false,
   "quad": [

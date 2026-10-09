@@ -6,13 +6,13 @@
    "price": 61600.0
   }
  ],
- "subtotal": null,
+ "subtotal": 56000.0,
  "tax": 5600.0,
  "tip": null,
  "total": 61600.0,
  "raw_text": "Foo\nPKT AYAM 33 00o\nGULAI OTAK 23 000\n2,00 ITEHS\nSUBTOTAL 56 , 000\nTaX 10x 5,600\nTOTAL 61,600\nCHARGES 61,600",
- "checksum": null,
- "runtime_s": 4.138206166011514,
+ "checksum": false,
+ "runtime_s": 4.138082417004625,
  "rectify_info": {
   "fallback": false,
   "quad": [

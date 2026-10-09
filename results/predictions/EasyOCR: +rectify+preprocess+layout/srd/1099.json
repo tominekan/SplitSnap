@@ -19,11 +19,6 @@
    "name": "Coloradito",
    "qty": 1,
    "price": 15.95
-  },
-  {
-   "name": "Ba Iance Due",
-   "qty": 1,
-   "price": 64.52
   }
  ],
  "subtotal": 50.05,
@@ -32,7 +27,7 @@
  "total": 55.51,
  "raw_text": "Mexican Restaurant & Bar\n25 West San Fernando St _\nSan Jose, CA 95113\n408) 283-9595\nServer: Pablo 12/29/2017\nTab le 40/1 I;17 PM\nGuests: 3 30001\nReprint #: 1\nCoffee 3.25\nEnmoladas with Meat 14,95\npo] = Io\nChicken Tenders 5.95\nFautas Chicken 9,95\nColoradito 15,95\nSubtotal 50 .05\nTax 5.46\nTotal 55,51\nGratuity 18.O0% 9.01\nTotal 64,52\nBa Iance Due 64.52\nBecome a friend of US on\nFACEBOOK to receive news of\nevents & special offers\n4! THANK YOU FOR COMING",
  "checksum": false,
- "runtime_s": 5.039884042009362,
+ "runtime_s": 5.039844958999311,
  "rectify_info": {
   "fallback": false,
   "quad": [

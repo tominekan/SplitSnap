@@ -26,11 +26,6 @@
    "price": 1.19
   },
   {
-   "name": "totl",
-   "qty": 1,
-   "price": 2.43
-  },
-  {
    "name": "CHNG",
    "qty": 1,
    "price": 40.0
@@ -39,10 +34,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 2.43,
  "raw_text": "Ca\nN)\nWINGS & THINGS\n519 FULTON AVE , HEMPSTEAD NY\nTHANKS CALL AGAIN 516-483-0936\nOpc #195 IN\n0Op' #7 2PC RaB MEAL 5.99\npoop ICED TEA\nSUB CORNBREAD\n50p' 1 #3 3WING MEAL 6, 99\n80p SIERRA\n10( SUB FIXN\nMACRCHZ\n#3 3WING MEAL 6.99\nICED TEA\nSUB FIXN\nSP RICE\n#3 3WING MEAL 6,99\nICED TEA\nSUB FIXN\nMACBCHz\nCOLL GRN SMALL\n1.19\ntXTL\ntotl 2.43\nCASH 30 58\nCHNG 40,00",
  "checksum": null,
- "runtime_s": 2.06814083197969,
+ "runtime_s": 2.0681360000016866,
  "rectify_info": {
   "fallback": false,
   "quad": [

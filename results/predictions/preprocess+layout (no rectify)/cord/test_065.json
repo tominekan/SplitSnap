@@ -4,20 +4,15 @@
    "name": "tubur Polos Telur",
    "qty": 1,
    "price": 13660.0
-  },
-  {
-   "name": "otal",
-   "qty": 1,
-   "price": 13080.0
   }
  ],
- "subtotal": null,
+ "subtotal": 13866.0,
  "tax": null,
  "tip": null,
- "total": 13866.0,
+ "total": 13080.0,
  "raw_text": "\\ \"\n) tubur Polos + Telur\n'-13.668 13.660\n* §ubtotal 13.866\nt ¢ajak -\n~,otal 13.080\n‘\n~Cissnseresasengngnagaannnansnianniansssasannisitssenieene—",
- "checksum": null,
- "runtime_s": 1.781196500108308,
+ "checksum": false,
+ "runtime_s": 1.7812510420917533,
  "rectify_info": {
   "fallback": null,
   "quad": null

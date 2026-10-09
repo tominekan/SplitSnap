@@ -1,12 +1,18 @@
 {
- "items": [],
+ "items": [
+  {
+   "name": "Thai ICED GREEN TEA",
+   "qty": 1,
+   "price": 24000.0
+  }
+ ],
  "subtotal": 24000.0,
  "tax": null,
  "tip": null,
  "total": 24000.0,
  "raw_text": "Ra1\nThai ICED GREEN TEA\n024 , 000 24.0Q0\nSUB-TOTAL 24.000\nGRANDTOTAL 24,000\nCASH 50 . @O0\nCHANGED 26 , Q00",
- "checksum": null,
- "runtime_s": 11.233579374995315,
+ "checksum": true,
+ "runtime_s": 11.231007791007869,
  "rectify_info": {
   "fallback": false,
   "quad": [

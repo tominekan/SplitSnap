@@ -11,6 +11,11 @@
    "price": 7.99
   },
   {
+   "name": "WEEKEND DINNER KIDS",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
    "name": "SQDA DRINK",
    "qty": 1,
    "price": 7.96
@@ -26,8 +31,8 @@
  "tip": null,
  "total": 92.22,
  "raw_text": "Gubp _ d e\nTablo Gueste Server 0741060\nDate\nPOLEDESSEL-BEI\nJTTPISALETIN hmV\nApI\nNewark Buffet\n35201 Newark Blvd , #4 Newark CA 94560\n510-818- 1136\nhttp:/ /iww.newarkbuffet.com\n05:25 PM 06/29/2019\nServer : Tim-11\nTab B11 IP\nQtY MAME L/p PRICE\n2 WEEKEND DINNER BUFFET 19.99 39.98\nWEEKEND DINNER KIDS (3-5Y) 7.99\nWEEKEND DINNER KIDS (6- 10v)\n10 . 00\nSQDA DRINK 1.39 7.96\nWEEKEND SENIOR DINNER 18.09\nSUBTOTAL : 84.02\nTax(9. 758) ; 8.20\nTOTAL: 92.22\n(: Thank Youl\nPlease Come Agaj)_",
- "checksum": false,
- "runtime_s": 6.329829456997686,
+ "checksum": true,
+ "runtime_s": 6.329767249000724,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -4,15 +4,35 @@
    "name": "Person PM",
    "qty": 1,
    "price": 3.03
+  },
+  {
+   "name": "Scallion Pancake",
+   "qty": 1,
+   "price": 5.25
+  },
+  {
+   "name": "Little Juicy Pork Buns",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Beef w Fak: Choy (L",
+   "qty": 1,
+   "price": 8.75
+  },
+  {
+   "name": "Hunan Beef (L",
+   "qty": 1,
+   "price": 8.75
   }
  ],
- "subtotal": 532.7,
- "tax": null,
+ "subtotal": 32.7,
+ "tax": 2.82,
  "tip": null,
- "total": null,
+ "total": 35.52,
  "raw_text": "Chef Wang\n1902 Jericho Turpike\nTel New Hyde Park NY 11040\n516.354.2858 Fax 516.776.0587\n[ As J\nDine In\nServer: lily # 1022\nPerson 02.14 PM 03.03 02/02/19 PM\nScallion Pancake S5.25\nLittle Juicy Pork Buns S9.95\nBeef w Fak: Choy (L) S8.75\nHunan Beef (L) S8.75\nSubTotal 532.70\nSales 'Tax S2.82\nTotal S35.52\nThank You\nHave A Nice Day",
- "checksum": null,
- "runtime_s": 1.9081844159954926,
+ "checksum": false,
+ "runtime_s": 1.9080361660016933,
  "rectify_info": {
   "fallback": false,
   "quad": [

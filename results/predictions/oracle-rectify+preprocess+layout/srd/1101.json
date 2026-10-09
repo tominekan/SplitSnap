@@ -42,7 +42,7 @@
  "total": 14.06,
  "raw_text": "KAZ RAMEN\n22413 BARTON ROAD\nGRAND TERRACE, CA 92313\n9094229532\nORDER: T4G1\nDINE IN\nCashier: Mickey\n04-Nov-2018 9:07:13P\nGuest 1\n1 Tonkotsu $9.50\nTofu $0.00\nEgg $1.30\nCorn $0.50\nBamboo shoots $1.00\nNaruto $0.75\nSpicy $0.00\nSubtotal $13.05\nTax $1.01\nTotal $14.06\nOrder 4AW465NDFNMVRT",
  "checksum": true,
- "runtime_s": 1.8006975831244745,
+ "runtime_s": 1.8008166661311407,
  "rectify_info": {
   "fallback": false,
   "quad": [

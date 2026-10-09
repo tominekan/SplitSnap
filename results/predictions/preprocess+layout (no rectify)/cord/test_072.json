@@ -1,18 +1,12 @@
 {
- "items": [
-  {
-   "name": "otal",
-   "qty": 1,
-   "price": 20000.0
-  }
- ],
+ "items": [],
  "subtotal": 15909.0,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 20000.0,
  "raw_text": "an O02 Gm a= © a «a\nmmeses weoweaeene-\nana 2 en on oe\n{ Choco Devil\nSubTotal: 15,909¢!\nee Loot |\notal: ~\nChanges 20,000 y\n& 7300\nas ow Sow oe ~.\n== TSN eae ee wo —\n- ee",
  "checksum": null,
- "runtime_s": 6.585070458873361,
+ "runtime_s": 6.585163249867037,
  "rectify_info": {
   "fallback": null,
   "quad": null

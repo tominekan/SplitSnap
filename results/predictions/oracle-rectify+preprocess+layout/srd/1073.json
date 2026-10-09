@@ -6,13 +6,13 @@
    "price": 13.22
   }
  ],
- "subtotal": null,
+ "subtotal": 1.99,
  "tax": null,
  "tip": null,
- "total": 1.99,
+ "total": 13.22,
  "raw_text": "Sue way#44969-0 Phone 626-566-9999\n625 S$ Fair Gaks Ave\nPasadena, CA, 91105\nServed by: 41 5/1/2019 2:25:37 pe\nTera 1D-Trans@ 1/A-297424\nQty Size Itea Price\n\\ 85S $11.99 Any 2 Felorg 1 99\n1 12\" Steak & Crise Sb\n1 12° 6.4.7 Sa\nSb Total 1.99\nSales Tex (10.258) 1.2\nTotal (£at In) 13.22\nCredit Card 13.22\nOe eval Ro: 051140 ”\nRe eee Wo: S21Z1NI2\nCard Issuer: Vise\nt MO: Se8eesseseeeQni2\nAmount: $13.22\nKeel ication: Ouse VISZ\nAld; 430000000310 19\nWR: 0580008009\nvet ISI: €509\n‘ate/Tipe: $/1/2019 2:25:37 Py\nee ae\n—.\nee,",
- "checksum": null,
- "runtime_s": 1.5250175411806595,
+ "checksum": false,
+ "runtime_s": 1.5251530421664938,
  "rectify_info": {
   "fallback": false,
   "quad": [

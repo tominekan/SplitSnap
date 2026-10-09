@@ -6,7 +6,7 @@
  "total": 25000.0,
  "raw_text": "1 Viet Milk Coffee\n+Ice\n+H\nSubtotal 25.000\nTotal 25.000\nCASH\nKesbal ian & 0",
  "checksum": null,
- "runtime_s": 1.8600650001008034,
+ "runtime_s": 1.8600858341087587,
  "rectify_info": {
   "fallback": false,
   "quad": [

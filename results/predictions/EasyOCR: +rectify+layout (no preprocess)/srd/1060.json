@@ -14,25 +14,15 @@
    "name": "PKLI Piri Piri Chicken",
    "qty": 1,
    "price": 23.75
-  },
-  {
-   "name": "Subtota",
-   "qty": 1,
-   "price": 74.7
-  },
-  {
-   "name": "Tota",
-   "qty": 1,
-   "price": 83.5
   }
  ],
- "subtotal": null,
+ "subtotal": 74.7,
  "tax": 6.0,
  "tip": null,
- "total": null,
+ "total": 83.5,
  "raw_text": "1660 India Street\n12/17/2017\nServer : Jake 6;29 PM\nTable 24/1 20018\nGuests: 2\nG1 Karma Cab Sauv 12.00 11.00\nG1 Douglass Green SB_ 27.95\nPKLI Green Curry Sca] Iops\nPKLI Piri Piri Chicken 23.75\nSubtota] 74.70\nTax 6,00\nSurcharge 3.75% SC* 2.80\nTota] 83, 50\nBa Tance Due 83 50\n*3.75% SC In support\nof the increases to min Wage\nTo find out Why, Visit\nWWw . wnhosp . com/rttd",
- "checksum": null,
- "runtime_s": 2.73547541598964,
+ "checksum": false,
+ "runtime_s": 2.7354692090011667,
  "rectify_info": {
   "fallback": false,
   "quad": [

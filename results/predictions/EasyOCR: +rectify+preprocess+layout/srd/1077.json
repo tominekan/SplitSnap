@@ -1,23 +1,48 @@
 {
  "items": [
   {
+   "name": "Chicken Lollipop",
+   "qty": 1,
+   "price": 9.0
+  },
+  {
    "name": "Mecl",
    "qty": 1,
    "price": 0.0
   },
   {
+   "name": "Thal Frlecl Rice",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Chlcken Tikka Masala",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
    "name": "Naan",
    "qty": 1,
    "price": 83.0
+  },
+  {
+   "name": "Vegetable Blryanl",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Mango Lassl",
+   "qty": 1,
+   "price": 4.0
   }
  ],
- "subtotal": null,
- "tax": null,
+ "subtotal": 56.0,
+ "tax": 3.71,
  "tip": null,
- "total": null,
+ "total": 69.79,
  "raw_text": "NAANCHING\n103 MONTGOMERRRY ST\nJERSEY CITY, N,J 07302\n2019840709\nORDER: SECOND FLOOR 19\nDine-In\nCashler: Klran\n24-Mar 2019 7:14.55P\nChicken Lollipop S9.00\nMecl $0.00\nThal Frlecl Rice S12.00\nVegetables SO.0O\nMed SO.00\nChlcken Tikka Masala S16.00\nMILD PLEASE\nNaan 83.00\nVegetable Blryanl S12.00\nMAKE IT MILD PLEASE\nMango Lassl S4.00\nSubtotal S56.00\nTax S3.71\nServlce Charge (18.0%) S10,08\nTotal S69.79",
- "checksum": null,
- "runtime_s": 7.736707416988793,
+ "checksum": false,
+ "runtime_s": 7.7366435829753755,
  "rectify_info": {
   "fallback": false,
   "quad": [

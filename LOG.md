@@ -117,3 +117,27 @@ This whole run was carried out by an AI coding agent (Claude Code, model Claude 
 - Reading: EasyOCR without preprocessing gives the best CORD numbers so far (item F1 0.477, total accuracy 0.411), and its SRD CER is about the same as Tesseract's. But SRD total accuracy collapses (0.514 -> 0.199). I looked at 8 SRD receipts where Tesseract got the total and EasyOCR did not: EasyOCR reads the `$` sign as `S`, `8` or `5` (`Total S64.43`, `Total 8143.71`, `SubTotal 532.70`) and breaks keywords (`Ba Tance Due`, `Tota | Due`). Our USD price pattern then finds no total, or a wrong one. So the gap is mostly a parser/format mismatch, not worse reading. I did **not** patch the parser on these test receipts (that would be tuning on test); the fix belongs in a validation-split iteration.
 - Preprocessing (binarization etc.) does not help EasyOCR on CORD (0.441 vs 0.477): it is a learned model trained on natural images.
 - Figures regenerated: `figures/ablation_cord_f1.png` and `figures/srd_cer.png` now include the EasyOCR rows in orange. The failure analysis (`results/failures.md`) is still for the Tesseract pipeline; `src/failures.py` and `src/figures.py` now exclude EasyOCR rows when choosing the "best configuration".
+
+## Parser v2: robustness to OCR errors in critical characters (2026-10-09)
+- Motivation: with EasyOCR, SRD total accuracy collapsed (0.514 -> 0.199) although CER was unchanged. A breakdown of the 117 SRD test receipts where EasyOCR's total was wrong: 40 genuine OCR misses; 33 `$` read as `S`/`5`/`8`; 26 broken "Total" keyword (`Tota | Due`); 8 amounts split by spaces; 10 other. That breakdown was looked at on test data, so the fixes were **developed and checked on the validation splits only**; the test splits were evaluated once at the end.
+- Changes, all in `src/parse_layout.py` (the iteration-3 parser; the regex baseline and its rows are untouched):
+  1. USD `$` misread as `S` is accepted (`S64.43` -> 64.43). A leading `8`/`5` before 3+ integer digits without a comma is read as a misread `$` (`8143.71` -> 143.71); before 1-2 digits it gives an alternative amount (`532.70` -> 532.70 or 32.70), and subtotal/total/tax pick the alternative that fits the receipt arithmetic (subtotal ~ items sum, total ~ subtotal + tax + tip).
+  2. Keywords: a `|` after a letter is read as `l` (`Tota | Due` -> `Total Due`); if no keyword matches, fuzzy matching (rapidfuzz partial_ratio >= 85) on the letters-only row (`Ba Tance Due`); `UB TOTAL` / `Stbtotal` is a subtotal, not the total.
+  3. Prices split into three tokens (`27 . 48`) are joined; on subtotal/tax/tip/total rows a decimal point read as a space or junk (`$13 03`, `$88 _ 62`) is accepted.
+- Development script: `python src/dev/parser_dev.py [--easyocr --srd-only --workers 1]` (validation splits only).
+  - Tesseract, validation (`results/logs/parser_dev_tesseract_val_v1.txt` -> `_v2.txt`): CORD F1 0.411 -> 0.421, CORD total 0.296 -> 0.306, SRD total 16/25 -> 16/25 (no regression).
+  - EasyOCR, SRD validation (`results/logs/parser_dev_easyocr_srdval.txt`): total 4/25 -> 17/25.
+  - EasyOCR on CORD validation could not be run: on the first attempt the memory watchdog stopped it under critical memory pressure (the large CORD photos with other apps open; 5 of 130 images done). SRD validation alone (small photos) ran fine. So the parser changes were not validated on EasyOCR + CORD; the `$`-related rules do not apply to IDR, only the keyword rules do.
+  - One bug caught during development: a fuzzy "subtotal" check classified plain `TOTAL` as subtotal (partial matching finds "total" inside "subtotal"); replaced with an explicit pattern for damaged "sub" spellings.
+- Test evaluation, once: `SPLITSNAP_EASYOCR=1 python src/evaluate.py --workers 2` (all OCR cached; parsing only). Layout-parser rows changed, regex rows unchanged:
+
+| | CORD item F1 | CORD total acc | SRD total acc |
+|---|---|---|---|
+| Tesseract +rectify+preprocess+layout | 0.451 -> 0.457 | 0.295 -> 0.305 | 0.514 -> 0.555 |
+| Tesseract oracle-rectify+preprocess+layout | 0.457 -> 0.464 | 0.284 -> 0.295 | 0.527 -> 0.555 |
+| Tesseract preprocess+layout (no rectify) | 0.437 -> 0.442 | 0.305 -> 0.316 | 0.459 -> 0.507 |
+| EasyOCR +rectify+preprocess+layout | 0.441 -> 0.478 | 0.379 -> 0.432 | 0.315 -> 0.610 |
+| EasyOCR +rectify+layout (no preprocess) | 0.477 -> **0.512** | 0.411 -> **0.474** | 0.199 -> **0.610** |
+
+- Re-ran `python src/failures.py` and `python src/figures.py`. The 8 worst CORD receipts are unchanged (still F1 = 0), so the manual notes still apply. Prediction files of the regex configurations only had runtime jitter and were restored to their committed versions.
+- Not updated: `PRESENTATION.md` (uncommitted, still quotes the old numbers), and the demo notebook's stored output (it uses the layout parser; re-run it to refresh).

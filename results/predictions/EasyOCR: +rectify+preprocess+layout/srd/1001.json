@@ -16,11 +16,6 @@
    "price": 13.95
   },
   {
-   "name": "JTAL",
-   "qty": 1,
-   "price": 69.25
-  },
-  {
    "name": "ity",
    "qty": 1,
    "price": 13.85
@@ -29,10 +24,10 @@
  "subtotal": 63.75,
  "tax": 5.5,
  "tip": null,
- "total": null,
+ "total": 69.25,
  "raw_text": "I) IXCSFE\nsevelt Field\n101 #Party 3\nCk: 4 16,43 04/25/15\n2.95\nn 17.95\nin 25,95\ne Burger 13.95\n2,95\nSub Total: 63. 75\nTax: 5.50\nSub Total: 69.25\nJTAL : 69.25\n1c luded\nity:\n13.85\n12.47\n10.39\npleasure to serve you.\nfor dining with us",
- "checksum": null,
- "runtime_s": 3.8232122089975746,
+ "checksum": false,
+ "runtime_s": 3.8231429170118645,
  "rectify_info": {
   "fallback": false,
   "quad": [

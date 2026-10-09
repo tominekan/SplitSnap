@@ -4,15 +4,20 @@
    "name": "Server: Kimberly L",
    "qty": 1,
    "price": 10.29
+  },
+  {
+   "name": "CROISSANT AUX RAISINS",
+   "qty": 1,
+   "price": 4.75
   }
  ],
- "subtotal": null,
- "tax": null,
+ "subtotal": 0.83,
+ "tax": 9.58,
  "tip": null,
  "total": null,
  "raw_text": "CAFE PARISIEN LARCHMONT LLC\n242 N LARCHMONT BLVD\nLOS ANGELES, CA 90004\n(310) 815-8222\nDine In Jan 24, 2019\nServer: Kimberly L_ 10.29 AM\nReceipt: YWGS Table: 36\nItem(s)\nS4.00\nCROISSANT AUX RAISINS\nS4.75\nCappucino\ns8.,75\nSubtotal S0.83\nSales Tax (9.5%)\ns9.58\nTotal\nCustomer Copy",
  "checksum": null,
- "runtime_s": 2.639329625002574,
+ "runtime_s": 2.639257415998145,
  "rectify_info": {
   "fallback": false,
   "quad": [

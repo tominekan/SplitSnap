@@ -6,14 +6,14 @@
    "price": 48.0
   },
   {
+   "name": "Grey Goose",
+   "qty": 1,
+   "price": 28.5
+  },
+  {
    "name": "Rocks",
    "qty": 1,
    "price": 3.0
-  },
-  {
-   "name": "Subtota",
-   "qty": 1,
-   "price": 79.5
   },
   {
    "name": "Iax",
@@ -21,13 +21,13 @@
    "price": 5.57
   }
  ],
- "subtotal": null,
+ "subtotal": 79.5,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "ijvcin K)l um Yai\n1J,) 1Jiavoim. ( (Im\nIJu Mass MA 02 Ave 139 - ~ 3300\nAnf; e Idge 6 17-868 - - 8800\n09/23/2017 45757\nMegan 9;40 PM\n7} 3/1 30062\nJsls . 2\n(imt 0\nMJdiltan (3 016,00) 48 ,00\n(3)Makers Mark\nGrey Goose (3 09.50) 28 , 50 SS5\nRocks (3 01,00) 3, 00\nSubtota/ 79, 50\nIax 5,57\nTotal 85 , (7\nBa lance Oue 85 , (7\nCiJcsOf 'T) (hra uy p'R| Iu IIN OHen/",
  "checksum": null,
- "runtime_s": 8.042319707994466,
+ "runtime_s": 8.04226566698344,
  "rectify_info": {
   "fallback": false,
   "quad": [

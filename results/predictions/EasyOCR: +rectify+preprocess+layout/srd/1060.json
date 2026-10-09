@@ -14,20 +14,15 @@
    "name": "PKLI Green Curry Sca] Iops",
    "qty": 1,
    "price": 23.75
-  },
-  {
-   "name": "Ba Iance Due",
-   "qty": 1,
-   "price": 83.5
   }
  ],
  "subtotal": 74.7,
  "tax": 6.0,
  "tip": null,
- "total": null,
+ "total": 83.5,
  "raw_text": "1660 India Street\nServer: Jake 12/1122p7\nTable 24/1 20018\nGuests: 2\nGI Karma Cab Sauv 12.00 11.00\nGI Douglass Green SB_ 27.95\nPKLI Green Curry Sca] Iops 23.75\nPKLI Piri Piri Chicken\nSubtotal 74,70\nTax 6.00\nSurcharge 3.75% SC* 2.80\nTotal 83 . 50\nBa Iance Due 83.50\n*3.75X SC In support\nof the increases to min Wage\nTo find out why, visit\nWww . wnlhosp ,com/rttd",
- "checksum": null,
- "runtime_s": 4.995777624004404,
+ "checksum": false,
+ "runtime_s": 4.995721457002219,
  "rectify_info": {
   "fallback": false,
   "quad": [

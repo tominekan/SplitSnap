@@ -4,15 +4,30 @@
    "name": "Person",
    "qty": 1,
    "price": 8.38
+  },
+  {
+   "name": "Hf- Peking Duck",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Pork w: Spicy Capsicum",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "White Rice (S",
+   "qty": 1,
+   "price": 12.95
   }
  ],
- "subtotal": null,
- "tax": null,
+ "subtotal": 70.25,
+ "tax": 4.9,
  "tip": null,
- "total": null,
+ "total": 75.15,
  "raw_text": "Lan Sheng\n209 Paterson Ave\nWallington N: J. 07057 '773. .7101\nTel 973.773.7100 Fax 973,\n1 B2\nDine In # 10H1\nServer: Mary 06/13/17 09:17 P\nPerson 08.38 PM\n87.95\nSpicy Chicken Spicy Garli\nSoy V S18. 95\nHf- Peking Duck S15.95\nStir Beef Fillet W Tofu S12.5 95\nPork w: Spicy Capsicum S1.50\nWhite Rice (S) S12.95\nPork W: Spicy Tofu & Cayen\nne Chili\nSubTotal S70.25\nSales Tax S4.90\nTotal S75.15\nThank You\nHave A Nice Day",
- "checksum": null,
- "runtime_s": 2.0395640410133637,
+ "checksum": false,
+ "runtime_s": 2.039591166001628,
  "rectify_info": {
   "fallback": false,
   "quad": [

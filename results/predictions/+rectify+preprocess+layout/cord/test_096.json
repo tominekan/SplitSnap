@@ -4,20 +4,15 @@
    "name": "TEMS:‘1",
    "qty": 1,
    "price": 44000.0
-  },
-  {
-   "name": "otal",
-   "qty": 1,
-   "price": 41000.0
   }
  ],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 41000.0,
  "raw_text": "|\n|\n1 BRQChicken-—s«41,000\n1 -Tidak Pedas 0\nTEMS:‘1 SOt~CSN 44,000\notal......... 41,000\nPay ¢ Cash 50,000 ¢ Ghange 9, 000\n{io boobd bo, ee\n, a a Pea we wren y\n|",
  "checksum": null,
- "runtime_s": 9.270058708101715,
+ "runtime_s": 9.270135875121923,
  "rectify_info": {
   "fallback": false,
   "quad": [

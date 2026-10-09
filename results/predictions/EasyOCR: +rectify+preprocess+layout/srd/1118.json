@@ -3,10 +3,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 4.99,
  "raw_text": "1\nIndy\"9 81etergent Si0003675\nmrriso, W 07029\n(9T3) 433-8704 8\n#3264\nIat: MLIANLA B:\n064\n1\nOreer Ixc: Pur\nVezle Sstlch\nN perIcm Ctreso\nN Koyo\nSwl) Frles #\nPlaln Potato\nN Wlves\nTota) Iteds 3 4\nTax\nPUw Tota1 4 _ 99\n@lare Qe\nKou ws your vlsit? T\nCall us at 888-624-8140",
  "checksum": null,
- "runtime_s": 3.8828723749902565,
+ "runtime_s": 3.8828574999934062,
  "rectify_info": {
   "fallback": false,
   "quad": [

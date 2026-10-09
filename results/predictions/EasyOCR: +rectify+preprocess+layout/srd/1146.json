@@ -1,12 +1,18 @@
 {
- "items": [],
- "subtotal": null,
- "tax": null,
+ "items": [
+  {
+   "name": "Beel Pattie",
+   "qty": 1,
+   "price": 2.25
+  }
+ ],
+ "subtotal": 12.25,
+ "tax": 1.01,
  "tip": null,
- "total": null,
+ "total": 13.26,
  "raw_text": "Rihanna's Caribbean Restaurant\n12709 BEECHNUT ST STEIOO\nHIOUSTON, TX 77072\n8328902382\nORDER: 12\nCashier. LeeLee\n12 Aug 2018 3.01.AOP\n1 Cuiry Chicken S10.O0\nBeel Pattie S2.25\nSubtotal S12.25\nTax S1.01\nTotal S13.26\nOrder SVccDGOL",
- "checksum": null,
- "runtime_s": 2.4521446250000736,
+ "checksum": false,
+ "runtime_s": 2.4520854580041487,
  "rectify_info": {
   "fallback": false,
   "quad": [

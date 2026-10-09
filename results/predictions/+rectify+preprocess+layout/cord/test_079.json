@@ -4,20 +4,15 @@
    "name": "1001-Chorco Bun",
    "qty": 1,
    "price": 22000.0
-  },
-  {
-   "name": "otal",
-   "qty": 1,
-   "price": 22000.0
   }
  ],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 22000.0,
  "raw_text": "SLL ee LO Oe ee Se OE TS OS OY NE ES oie SS SD em Soe ee\n1001-Chorco Bun\n22.000 “1 22.000\n6001-Plastic Bag Small\n0 x1 0\n‘otal Itens: 2\notal. 22.000\n35h\na ae ae An nnn",
  "checksum": null,
- "runtime_s": 2.761567707910217,
+ "runtime_s": 2.7616122919134796,
  "rectify_info": {
   "fallback": false,
   "quad": [

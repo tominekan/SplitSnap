@@ -29,20 +29,15 @@
    "name": "Iiquor",
    "qty": 1,
    "price": 24.0
-  },
-  {
-   "name": "02;23FM Tota| Due",
-   "qty": 1,
-   "price": 84.78
   }
  ],
  "subtotal": null,
  "tax": 3.98,
  "tip": null,
- "total": null,
+ "total": 84.78,
  "raw_text": "Bar Arthur $ Burqer tChsB leu 13.95\nOwr\" Bureer '#tAvocado 15.95\nLcaded kachos 12.95\nFint oston Lager\nPint YelmalIng 12 #3\nYoa loboard 6 _\nCuesadi | Ia 13.95\nfopd 56.80\nIiquor 24.00\nTax 3.98\n02;23FM Tota| Due 84 .78\n20X added to part les 8 or more\nThiank You for Dining with Us!\nPrivato Rooms\nAva) Iable for\nYour Next Party !",
  "checksum": null,
- "runtime_s": 4.982236000010744,
+ "runtime_s": 4.982225124986144,
  "rectify_info": {
   "fallback": false,
   "quad": [

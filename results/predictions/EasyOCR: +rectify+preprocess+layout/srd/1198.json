@@ -1,12 +1,18 @@
 {
- "items": [],
+ "items": [
+  {
+   "name": "due",
+   "qty": 1,
+   "price": 54.78
+  }
+ ],
  "subtotal": null,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "180) Reach\n1io5 Ave\n13'4\n~t8'tr\n1 0 3 1959\n[Sa\"m 1 8 iSpm\n0 1n1ng\nSfaul 6\non S1 Ye\n94 1(8 rX\nDe ioorico\nuf fie Fr 'es\nNaceEreese 1\nBaked cOOk[€ (16+\nSubToiat\nadd-On Y8x F00o\nadd-On Tar Bev 6\nResot Tax } .\n'0*a1 due $ 1 54 . 78\nFor You/ convenience\nSuggested gratuif ies\n8r e shomn De |ow\n'8* Qratuity 525 56\n20s Oratuity 528 40\n22f 9r0 +u | 531 24",
  "checksum": null,
- "runtime_s": 5.20112858300854,
+ "runtime_s": 5.201157124014571,
  "rectify_info": {
   "fallback": false,
   "quad": [

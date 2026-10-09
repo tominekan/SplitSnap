@@ -6,13 +6,13 @@
    "price": 810.0
   }
  ],
- "subtotal": null,
+ "subtotal": 810.0,
  "tax": 0.7,
  "tip": null,
  "total": 10.7,
  "raw_text": "GENERAL POOR\"S\nTAVERN\n45 MAIN STREET\nHACKENSACK , NJ 07601\n(201)487-5882\nCheck#:555149 Guests:\nDate:04/10/16 Time: 12:30pm\nTable: Server :VERONIQUE\n40 BONELESS WINGS SPEC 810.00\nSubtotal; 810 . 00\nTax: $0.70\nSbt1 w/Tax: 810,70\nAmt Due: $10.70\nTHANK YOU\nFOR CHOOSING\nGENERAL POOR ' S! !\nTIM",
- "checksum": null,
- "runtime_s": 4.306837041978724,
+ "checksum": false,
+ "runtime_s": 4.306746165981167,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -24,25 +24,15 @@
    "name": "Lobster RolI",
    "qty": 1,
    "price": 21.0
-  },
-  {
-   "name": "SubTota",
-   "qty": 1,
-   "price": 47.0
-  },
-  {
-   "name": "Tota Due",
-   "qty": 1,
-   "price": 50.29
   }
  ],
- "subtotal": null,
+ "subtotal": 47.0,
  "tax": 3.29,
  "tip": null,
- "total": null,
+ "total": 50.29,
  "raw_text": "HAMMOCKS TRADING COMPANY\nWWW . hammockstradingcompany Com\n7285 Roswe Road\nSandy Springs Georgia\n'30328'\n770-395-9592\nNice_~foMlu l You\nTb] ;40 Ref : 155091\nChk ;202524\nShannon 3/10/2017 6:23 pm\nCoke 2.50\nShrimp Entree 21,00\nMac n Cheese\nFrench Fries\nBBQ & Blue Chz chips 6,00\nDiscount:BBQ & Blue Chz -6,00\nSprite 2.50\nLobster RolI 21,00\nSubTota] 47.00\nState Tax 3.29\nTota] 50 ,.29\nTota | Due 50.29\n1/2 Priced Oysters 0n the Ha If She] ] 4\n6 pM daily",
- "checksum": null,
- "runtime_s": 2.6142140009906143,
+ "checksum": false,
+ "runtime_s": 2.614242708994425,
  "rectify_info": {
   "fallback": false,
   "quad": [

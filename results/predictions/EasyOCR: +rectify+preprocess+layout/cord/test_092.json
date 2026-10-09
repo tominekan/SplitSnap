@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "901016 ~TICKET CP\n60,Q0d 240,000\nTOTAL (Qty=4.00) 240.000\nCASH 250,000\nCHANGE 10,000\nTXX",
  "checksum": null,
- "runtime_s": 3.301272249998874,
+ "runtime_s": 3.3002119159937138,
  "rectify_info": {
   "fallback": false,
   "quad": [

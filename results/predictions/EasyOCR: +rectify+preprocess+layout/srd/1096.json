@@ -4,15 +4,20 @@
    "name": "Ibundigas",
    "qty": 1,
    "price": 89.45
+  },
+  {
+   "name": "Mole",
+   "qty": 1,
+   "price": 816.95
   }
  ],
  "subtotal": null,
  "tax": 84.08,
  "tip": null,
- "total": null,
+ "total": 46.98,
  "raw_text": "223 N, Citrus Ave\nCovina CA 91723\n(626 ) 339-9496\nLheck ;2208/74\nTable:BARg\nSer ver :Ryan\n09/25/18 08 : 441um\n(Seat 1]\n2 Boheriia 816 , OU\nTall\nIbundigas 89.45\nMole 816 . 95\nStbtotal: S42 . 90\nTax; 84,08\nSub w/Tax; 846 . 98\nTotal: $46 . 98\n'Thank-Youl\nIe lock forward to see- ing Yul ag II) .",
  "checksum": null,
- "runtime_s": 5.447067959001288,
+ "runtime_s": 5.447013042008621,
  "rectify_info": {
   "fallback": false,
   "quad": [

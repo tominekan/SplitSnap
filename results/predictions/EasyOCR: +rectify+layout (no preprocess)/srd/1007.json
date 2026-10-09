@@ -41,13 +41,13 @@
    "price": 811.0
   }
  ],
- "subtotal": null,
- "tax": 812.71,
+ "subtotal": 131.0,
+ "tax": 12.71,
  "tip": null,
- "total": null,
+ "total": 143.71,
  "raw_text": "Katana sushi\n2818 Hewitt Ave\nEverett. WA 98201\n425-512-9361\n#MtKK#*\nServer: Michae| C\n05/11/18 8 : 47 PM\nCheck #93 TabTe 02\nHamachi Collar 812.00\nMega Poke Bow 1 817.00\nHamachi Sashimi 812.00\nMaguro Sashimi 811.00\nSalmon Sashimi 810.00\n3 Sockeye Salmon Sashimi\n836 - 00\nHamachi Japapeno 812.00\nSalmon Collar 810.00\nEscolar Sashimi 811.00\nSubtotal 8131.00\nTax 812.71\nTotal 8143.71\n15741\n#*******\nThank You for your visit.",
- "checksum": null,
- "runtime_s": 3.5998850830073934,
+ "checksum": false,
+ "runtime_s": 3.599926291994052,
  "rectify_info": {
   "fallback": false,
   "quad": [

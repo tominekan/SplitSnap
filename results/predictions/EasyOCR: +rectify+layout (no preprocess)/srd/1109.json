@@ -1,12 +1,38 @@
 {
- "items": [],
+ "items": [
+  {
+   "name": "SQ",
+   "qty": 1,
+   "price": 4.39
+  },
+  {
+   "name": "Spicy mild",
+   "qty": 1,
+   "price": 6.75
+  },
+  {
+   "name": "Eraisec Beef flee/Noodle",
+   "qty": 1,
+   "price": 6.25
+  },
+  {
+   "name": "Cold Noodle With Chicken",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 25.34
+  }
+ ],
  "subtotal": 27.62,
  "tax": 52.28,
  "tip": null,
  "total": null,
  "raw_text": "Hacienda Heights; -6555 CA\nTel: (6261937\nTable: A2 Guests:\nServer: Iinda\nDine In#:137\nDate: 06/14/2017 18.38.46\nSQ# 10038\nS4.39\n[1]#644\n( mild\nFopcom Chicken\n(Spicy mild\nS6.75\n[1eMtx\nEraisec Beef flee/Noodle\nS6.25\n[1]4\"L0i\nCold Noodle With Chicken\nS7.95\n[1]4 Qmi\nBeef Noodles\nAmount- S25.34\nTax Rate (9.00%): 52.28\nSub-Total: $27.62\nTIP GUIDE\n15% 53.80\n18% S4.56\n20% S5.07",
  "checksum": null,
- "runtime_s": 1.189660998992622,
+ "runtime_s": 1.1897983329981798,
  "rectify_info": {
   "fallback": false,
   "quad": [

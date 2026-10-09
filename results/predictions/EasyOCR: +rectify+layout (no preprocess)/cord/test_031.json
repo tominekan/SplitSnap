@@ -1,12 +1,23 @@
 {
- "items": [],
- "subtotal": null,
+ "items": [
+  {
+   "name": "SALMON PESTO",
+   "qty": 1,
+   "price": 85500.0
+  },
+  {
+   "name": "SALMON PESTO",
+   "qty": 1,
+   "price": 85500.0
+  }
+ ],
+ "subtotal": 85500.0,
  "tax": null,
  "tip": 10280.0,
  "total": 113886.0,
  "raw_text": "SALMON PESTO 85 , 500\nSALMON PESTO 85 , 500\nDisc 1OO ( ITMO6) -85,500\nSUBTTL 85 , 500\nSVC CHG 6X 10,280\nPB1 10X 18 , 1 126\nTOTAL 113,886",
- "checksum": null,
- "runtime_s": 13.688409333000891,
+ "checksum": false,
+ "runtime_s": 13.687960290990304,
  "rectify_info": {
   "fallback": false,
   "quad": [

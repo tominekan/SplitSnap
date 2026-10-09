@@ -19,20 +19,15 @@
    "name": "G Hands Cab",
    "qty": 1,
    "price": 10.0
-  },
-  {
-   "name": "Subtota",
-   "qty": 1,
-   "price": 62.5
   }
  ],
- "subtotal": null,
+ "subtotal": 62.5,
  "tax": 5.99,
  "tip": null,
  "total": 67.89,
  "raw_text": "n Grill\nola Bivd\ny 11501\n‘s Tus\n/ “ifaa nined\nineola\nfn e6-747-2545\nwow nickstuscangr]\nMinimum Credit/Debit Paymen\nom\n11-¢ \" 520\ngo7 Victor VO ne\nary a Gst 2\nMar18°18 10:54AM _\nBar\nFUSSILLI SP\n1 Open Food 22.00\n1 Ossobuco 58 .00\n1 Diet Coke 2.50\n1 G 14 Hands Cab 10.00\nSubtota] 62.50\nTax 5,99\nTotal 67.89\nMinimum Credit/Debit Payment $20\nThank you for joining us today.",
- "checksum": null,
- "runtime_s": 2.7576369580647224,
+ "checksum": false,
+ "runtime_s": 2.7578350830590352,
  "rectify_info": {
   "fallback": null,
   "quad": null

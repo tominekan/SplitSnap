@@ -1,18 +1,12 @@
 {
- "items": [
-  {
-   "name": "Tota",
-   "qty": 1,
-   "price": 17.8
-  }
- ],
+ "items": [],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 17.8,
  "raw_text": "Micros Deino System\nNelcole to Yogurtland\n12302 Worth Kenda/1 Drive\nMiemi, FL 33186\n(305) 279-3478\nDate: Sepo7 ' 18 09:28PM\nCard Type : VISA\nAcct #: XXXXXXXXXXXX3862\nCard Entry; SWIPED\nTrans Type: PURCHASE\nTrans Key = IIIO08007193348\nAuth zode: 071410\nCheck : 1082\nServer: 1041 melanie\nTota 17.80\n#*No SIGVATURE REQUIRED\nFJR PURCHASES UNDER $20 . OO*t",
  "checksum": null,
- "runtime_s": 6.6066669580031885,
+ "runtime_s": 6.6065395409968914,
  "rectify_info": {
   "fallback": false,
   "quad": [

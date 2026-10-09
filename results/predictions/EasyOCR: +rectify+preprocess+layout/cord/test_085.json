@@ -1,6 +1,11 @@
 {
  "items": [
   {
+   "name": "Nasi Tambah",
+   "qty": 1,
+   "price": 7000.0
+  },
+  {
    "name": "IKan Bawal Besa",
    "qty": 1,
    "price": 28500.0
@@ -14,10 +19,10 @@
  "subtotal": 179588.0,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 497450.0,
  "raw_text": "Rxxxrrrrxrxxrrrrrrrrrrr*\n3 Nasi Put ib 30 000\nNasi Tambah 7 . 000\n1 Ayam Pop 40 000\nsamabal SP 11 0o0\nsambal Gabus Asin Cb\nKerupuk Kuah 18.%88\nIKan Bawal Besa 28. 500\nTeluc Dadar 1 00\nTeh Fanis 9 0e\nTeh Es Batu Ooc\nSUbtotal Rest 10/ 179.588\nPajak\n14 Total 497 . 450\nFE} Hanbrar 158.588\nCash 197 . 450",
- "checksum": null,
- "runtime_s": 5.3743977090052795,
+ "checksum": false,
+ "runtime_s": 5.374382334004622,
  "rectify_info": {
   "fallback": false,
   "quad": [

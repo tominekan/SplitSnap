@@ -14,10 +14,10 @@
  "subtotal": 13.5,
  "tax": 0.86,
  "tip": null,
- "total": 814.36,
+ "total": 14.36,
  "raw_text": "SmokeboxbBQ\n2361 Whitney Ave\nHamden CT 06518\n203 909 6545\nORDER# 39\n52701IE08.48 PM_ GUESTS\nFXN DIET BIRCH 1.50\nFULL BOX 12.00\nSUBTOTAL : 13.50\nTAX: 0.86\nSERVER T#0000074\nTOTAL: 814.36\nCash 20,00\nChange 5,64\nCLOSED 5/22/2014 2:02:00 PM\nTHANK YOU ! !",
- "checksum": false,
- "runtime_s": 1.5019902500062017,
+ "checksum": true,
+ "runtime_s": 1.5020609160128515,
  "rectify_info": {
   "fallback": false,
   "quad": [

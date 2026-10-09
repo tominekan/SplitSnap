@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "name": "Bottled kater F37",
+   "qty": 1,
+   "price": 2.45
+  },
+  {
+   "name": "IL Sales",
+   "qty": 1,
+   "price": 1.52
+  },
+  {
    "name": "Restaurant",
    "qty": 1,
    "price": 90.04
@@ -22,12 +32,12 @@
   }
  ],
  "subtotal": null,
- "tax": null,
+ "tax": 0.15,
  "tip": null,
- "total": 816.56,
+ "total": 14.85,
  "raw_text": "\"1 | \" | 4+\nMxi 4i 9' Arn'y F pi\nTr ans #: Table 64142 0#1 Serv: ( laudia\n8/24/2017 5:29 PM =222- Cust:1 223 =222\n=== Ouan =7828856= Descript Cost\n=8=52==3323 Bottled kater F37 S2.45\nAdd Pollo Taco S4,\nAdd Carnitas Taco 0\nSour Cream S1\nChihuahua Cheese S1\nNet Total: S14.85\nIL Sales S1,52\nMPEA Tax S0,15\nRestaurant 90.04\nTOTAL : 816.56\nFood: $12,40\nBeverage; $2.45\nEMUS 816.55\nRobinson HILL Capany\nIl S Ie Expcl iHlence That Countsi\nTell us &out your vlsiti\nW robinsomi I lusa cMVguest-survev",
  "checksum": null,
- "runtime_s": 5.463049290992785,
+ "runtime_s": 5.462970332984696,
  "rectify_info": {
   "fallback": false,
   "quad": [

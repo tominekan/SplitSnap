@@ -29,10 +29,10 @@
  "subtotal": 22.98,
  "tax": 3.45,
  "tip": null,
- "total": null,
+ "total": 28.04,
  "raw_text": "SUKHWTHAI\noe\nSUKHOTHAI SUSHI + ASIAN\nFUSION\n19735 SW 147 AVE UNIT 36\nMIAMI. FL 33196\n(8091 (4888\nhttp://www.sukhothaius.com\n**Order online www.sukhothaius.com*«+\nORDER: 0003\nDINE-IN\ncashier: Sergio\n19-Apr-2019 2:02:26P\nFransaction 211209\nChicken Fried Rice And Egg $7.99\nLunch\n1 California Tropic And Miso $7.39\nLunch\n1 Add Two Tostones $1.00\n1 Sprite $2.50\n1 Perrier Sparkling Water $3.50\n'\nSubtotal ; $22.98\nTax $3.45\nService fees on tables\nRestaurant (15 0%)\n$28.04\nTotal\n$28 04\nearnit CARD AUTH",
- "checksum": null,
- "runtime_s": 2.5603228338418376,
+ "checksum": false,
+ "runtime_s": 2.5605010838480666,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -11,9 +11,19 @@
    "price": 13.0
   },
   {
+   "name": "CRABCAKES",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
    "name": "BLACK PEPPER BACON",
    "qty": 1,
    "price": 12.0
+  },
+  {
+   "name": "Mi ]Ienium",
+   "qty": 1,
+   "price": 52.0
   },
   {
    "name": "NY SIRLOIN",
@@ -34,20 +44,15 @@
    "name": "LAUREN 'S HAZELNUT TORTE",
    "qty": 1,
    "price": 9.0
-  },
-  {
-   "name": "Sub Tota",
-   "qty": 1,
-   "price": 193.35
   }
  ],
- "subtotal": null,
+ "subtotal": 178.0,
  "tax": 15.35,
  "tip": null,
- "total": null,
+ "total": 193.35,
  "raw_text": "ttttttttrtttrttt#tttrttttttorttttttttttt\n0193 Table 54 #Party 2\nWILLIAM L SvrCk: 10 8 O7p 03/22/13\nDINING ROOM\nTs MAIN DINING\nBEEFEATER-MARTINI 11,50\nROSEMARY CAIPIRINHA 13,00\nCRABCAKES 17 , 00\nBLACK PEPPER BACON 12.00\nMi ]Ienium 2# 52 , 00\nNY SIRLOIN 46. 00\nBRUSSEL SPROUTS 13,00\nESPRESSO 4.50\nLAUREN 'S HAZELNUT TORTE 9,00\nSub Tota]: 178 . 00\nTax 15,35\nSub Tota]: 193,35\n03/22 9:53pTOTAL: 193 35\nSS",
- "checksum": null,
- "runtime_s": 9.7469565430074,
+ "checksum": true,
+ "runtime_s": 9.74663720902754,
  "rectify_info": {
   "fallback": true,
   "quad": null,

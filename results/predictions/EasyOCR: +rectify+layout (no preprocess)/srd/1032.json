@@ -14,20 +14,15 @@
    "name": "WINGS",
    "qty": 5,
    "price": 5.75
-  },
-  {
-   "name": "TOTL",
-   "qty": 1,
-   "price": 9.5
   }
  ],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 9.5,
  "raw_text": "WINGS & THINGS\n1717 DuTCH BRDY ELMONT NY 11003\nTHANKS CALL AGAIN 516-341-7075\n#168 OUT\nMACRCHZ SMNLL 1.19\nCOLL GRN SMALL 1,19\n1 CORN BREAD 62\n5 WINGS 5,75\nSPCY FRY\nTXTL 75\nTOTL 9.50\nCASH 9.50\nCHNG 00\nTHANK YOU COME AGAIN\nPM #1\n0168 20:14 #04 MAR.19 17 REGOOO1",
  "checksum": null,
- "runtime_s": 2.7111635000037495,
+ "runtime_s": 2.711126082984265,
  "rectify_info": {
   "fallback": false,
   "quad": [

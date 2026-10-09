@@ -17,7 +17,7 @@
  "total": 74000.0,
  "raw_text": "1 [MD] SOFT MORNING ROLL 18,000\n2 EAL HONEY PANCAKE BREAD 20,000\n6,\n4 CUSTARD BRIOCHE\nTOTAL 74,000\nHANGE 26, 000",
  "checksum": null,
- "runtime_s": 15.846140708919393,
+ "runtime_s": 15.846195207937853,
  "rectify_info": {
   "fallback": null,
   "quad": null

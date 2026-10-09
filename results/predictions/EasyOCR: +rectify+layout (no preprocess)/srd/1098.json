@@ -6,6 +6,11 @@
    "price": 22.0
   },
   {
+   "name": "Ossobuco",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
    "name": "Diet Coke",
    "qty": 1,
    "price": 2.5
@@ -16,13 +21,13 @@
    "price": 10.0
   }
  ],
- "subtotal": null,
+ "subtotal": 62.5,
  "tax": 5.39,
  "tip": null,
- "total": null,
+ "total": 67.89,
  "raw_text": "Nick Mineola Tuscan Blvd Grill\nMineola 149 NY 11501\n516- 747-2545 TII- cOm\nWmw .nickstuscangr Payment $20\nMinimum Credit/Debit\n907 Victor\nGst 2\nTb1 12/1\nMar18'18 10:54AM\nBar\nFUSSILLI SP\nOpen Food 22.00\nOssobuco 28 . 00\nDiet Coke 2.50\nG 14 Hands Cab 10.00\nSubtota] 62 . 50\nTax 5.39\nTota1 67 89\nMinimum Credit/Debit Payment $20\nThank you for joining us today _",
- "checksum": null,
- "runtime_s": 3.4817179160017986,
+ "checksum": true,
+ "runtime_s": 3.4817112080199877,
  "rectify_info": {
   "fallback": false,
   "quad": [

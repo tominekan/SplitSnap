@@ -44,20 +44,15 @@
    "name": "Coke Bt1",
    "qty": 6,
    "price": 24.0
-  },
-  {
-   "name": "09:14PM TOJAt DUE",
-   "qty": 1,
-   "price": 439.86
   }
  ],
  "subtotal": 404.0,
  "tax": 35.86,
  "tip": null,
- "total": null,
+ "total": 439.86,
  "raw_text": "DEL FRISCO S 08620\n1221 Avenue 0f the Aner Icas\nNew York , New York 10020\n1075 Rebekkah\nTbl 240/1 Chk 1061 Gst 5\nApro7' 16 07:53PM\nDIne In\nStrip 1602 212.00\nRibeye Bone In 69,50\nCaul If lower 16.50\nBaked Potato 10.50\nAsparagus 15.50\nOnton RIngs 14,50\nSauteed Spinach 16.00\n3 VOSS Spark1 ing 25,50\n6 Coke Bt1 24.00\nSUBTOTAL 404.00\nTaX 35.86\n09:14PM TOJAt DUE 439.86\nMmama v(W: : ( '[SITING",
- "checksum": null,
- "runtime_s": 5.137365126007353,
+ "checksum": true,
+ "runtime_s": 5.137336333980784,
  "rectify_info": {
   "fallback": false,
   "quad": [

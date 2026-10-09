@@ -6,11 +6,6 @@
    "price": 22000.0
   },
   {
-   "name": "otal",
-   "qty": 1,
-   "price": 22000.0
-  },
-  {
    "name": "ndereds",
    "qty": 1,
    "price": 22000.0
@@ -19,10 +14,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 22000.0,
  "raw_text": "eee een eee\nOR ee ee ee ee cy ae ae OD a SD AED EO ONS ES cD eS ee OE A\n1001-Choco Bun\n22.000 “1 22.000\n6001-Plastic Bag Small\n__ 0 x1 )\nsea otal Iten: 2\notal. 22.000\n==sh\n=——=ndereds ‘ 22,000\n_\n“",
  "checksum": null,
- "runtime_s": 2.342392707997078,
+ "runtime_s": 2.3424784170056228,
  "rectify_info": {
   "fallback": false,
   "quad": [

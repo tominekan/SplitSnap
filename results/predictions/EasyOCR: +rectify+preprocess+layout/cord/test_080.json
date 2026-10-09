@@ -12,7 +12,7 @@
  "total": 25000.0,
  "raw_text": "4\n1 Viet Milk Coffee 25,000\n#Ice\nSubtotal 25,000\nTotal 25.000\nCISH 25.00\nKezbalian",
  "checksum": true,
- "runtime_s": 5.891432957985671,
+ "runtime_s": 5.891262249002466,
  "rectify_info": {
   "fallback": false,
   "quad": [

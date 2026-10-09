@@ -6,7 +6,7 @@
  "total": 24000.0,
  "raw_text": "@1\nTHAI ICED GREEN TEA\n024 , OQ0 24,0Q0\nSUB-TOTAL 24,000\nGRANDTOTAL 24,000\nCASH 50 , QQ0\nCHANGED 26, QQ0",
  "checksum": null,
- "runtime_s": 6.338633999010199,
+ "runtime_s": 6.338508667002316,
  "rectify_info": {
   "fallback": false,
   "quad": [

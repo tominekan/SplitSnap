@@ -6,13 +6,13 @@
    "price": 87.25
   }
  ],
- "subtotal": null,
+ "subtotal": 7.53,
  "tax": null,
  "tip": null,
- "total": 7.53,
+ "total": 94.78,
  "raw_text": "VILLA 166 0 Jer ES1E Icto ReStMilaMI Teke\nfloral cark , Ky 1ic'\n(516) 354-1355\nStatIon' 6\nServer Jerry\nOire [0 Quests. 2\nTable. 3\nCotfee\ndeCosaiere H\nEscarat Bouraulaore\nVeal ZImurla\nDrklin &la Arerclo\n87 ,25\nSb TOTAL : 7.53\nTax 1 ==Z33333\nTOTAL , 594,78\n2) Tlcket & 7 <<\n12/8/2017 4:44:05 PH\n##########t#t#########ttttttttttttttrtt*\nThank you for dining at Ville 0'Este\nPlease cone again scon .",
- "checksum": null,
- "runtime_s": 5.573312750988407,
+ "checksum": false,
+ "runtime_s": 5.573317625996424,
  "rectify_info": {
   "fallback": false,
   "quad": [

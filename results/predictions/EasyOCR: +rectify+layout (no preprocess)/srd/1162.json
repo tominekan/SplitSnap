@@ -49,15 +49,20 @@
    "name": "HALIBUT",
    "qty": 1,
    "price": 38.0
+  },
+  {
+   "name": "SNAPPER",
+   "qty": 1,
+   "price": 28.0
   }
  ],
  "subtotal": 309.0,
  "tax": 24.72,
  "tip": null,
- "total": null,
+ "total": 333.72,
  "raw_text": "Ivy\nJuniper 2228 Kettner Blvd 92101\nSan Diego , CA\n1045 SAGE Gst\nChk 4530\nTbl 71/1 Octo6 16 07 I#O8PM\nDine In 17,00\nBUCATInI 18.00\nRAVIOLO 90,00\nBT TURNBULL NAPA 38,00\nHALIBUT 12,00\nYODEL 10,00\nMiLK & HONEY 6.00\nCOFFEE GL ROUND SM_ POND SB 13,00\n16,00\nOCTOPUS 12.00\nBEEF TARTARE SMARTINI 11,00\nFINLANDIA (WELL)\nHALIBUT 38, 00\nSNAPPER 28 , 00\nSubtotal 309,00\nTax 24,72\n09;19PM Tota] 333 72",
- "checksum": null,
- "runtime_s": 3.1836256670067087,
+ "checksum": false,
+ "runtime_s": 3.1832390000054147,
  "rectify_info": {
   "fallback": true,
   "quad": null,

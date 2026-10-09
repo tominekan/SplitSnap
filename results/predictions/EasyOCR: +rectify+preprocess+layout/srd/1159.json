@@ -4,25 +4,15 @@
    "name": "Stt TAcO BF",
    "qty": 1,
    "price": 5.99
-  },
-  {
-   "name": "Subtota",
-   "qty": 1,
-   "price": 5.99
-  },
-  {
-   "name": "Drive Thru Tota",
-   "qty": 1,
-   "price": 6.59
   }
  ],
- "subtotal": null,
+ "subtotal": 5.99,
  "tax": 0.6,
  "tip": null,
- "total": null,
+ "total": 6.59,
  "raw_text": "'jcd Jir Kereore\n(425) 486-4472\n6733 NE IbiTH ST\nNERSE NA 93028\nOT>248\n04/24/2018\nHust\nCashier 1;03 Pm\n0T>248 30126\nOrder Typu Or ive Ihru\nStt TAcO BF 5.99\nSubtota) 5.99\nTax 0.60\nDrive Thru Tota) 6.59\nCASH Sio.0\nChange 83.41\nThank you:\nPlease ccse acain4",
- "checksum": null,
- "runtime_s": 3.4827116670057876,
+ "checksum": true,
+ "runtime_s": 3.482294000015827,
  "rectify_info": {
   "fallback": false,
   "quad": [

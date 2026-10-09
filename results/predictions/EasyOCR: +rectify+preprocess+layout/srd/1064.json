@@ -22,12 +22,12 @@
   }
  ],
  "subtotal": null,
- "tax": null,
+ "tax": 1.44,
  "tip": null,
  "total": 19.44,
  "raw_text": "3o13-(S- 10 L1 T2 3:04 PM\nYOur GUEST NUMBER IS\n25\nIn-N-Qut BURcer ESCONDIDO\n7013-08-10 3;02 PM\n247 2 480 2152\nAnier: ADAM EL\nCheck 25\nCanter-Eat In\nC Db | 3,30\nNQ K M\n3X3 4,35\nGR $ only\nF\nAntma ] 3_\nLo Coke 1\nMed Coke\nc Shk 2,05\nCounter-Eat In 18.00\nTAX 8. 00% 1 44\nAmount Due $19.44",
  "checksum": null,
- "runtime_s": 3.68499895799323,
+ "runtime_s": 3.6849160009878688,
  "rectify_info": {
   "fallback": false,
   "quad": [

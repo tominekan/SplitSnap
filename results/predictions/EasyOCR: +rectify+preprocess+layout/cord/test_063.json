@@ -11,13 +11,13 @@
    "price": 38000.0
   }
  ],
- "subtotal": null,
+ "subtotal": 57000.0,
  "tax": null,
  "tip": null,
  "total": 57000.0,
  "raw_text": "( : 8z? r {/3\" &\nKopi Susu Kampung. xl 19.000\nIce\nKopi Susu Kampung Less Ice\nKopi Susu Kampung. x2 38.000\nIce\nSubtota] 57 , 000\nTotal 57.000\nCash 60,000\nChange 3.000",
- "checksum": null,
- "runtime_s": 4.807293125020806,
+ "checksum": true,
+ "runtime_s": 4.807169625011738,
  "rectify_info": {
   "fallback": true,
   "quad": null,

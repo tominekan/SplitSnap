@@ -14,10 +14,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 40000.0,
  "raw_text": "9\nIX S-Bubble Milk Tea @20 ,000 20,000\n100x\nIX $-Caramel Milk Tea @20 ,000 20,000\nIoox\nTotal 40 , 000\nCash: 40 ,000\nCHANCF",
  "checksum": null,
- "runtime_s": 4.399052540989942,
+ "runtime_s": 4.398869373981142,
  "rectify_info": {
   "fallback": false,
   "quad": [

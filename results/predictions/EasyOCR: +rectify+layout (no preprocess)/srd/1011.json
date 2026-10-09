@@ -9,15 +9,45 @@
    "name": "ID",
    "qty": 1,
    "price": 536.86
+  },
+  {
+   "name": "Weight' Beef Ribs Ibs b0lb5",
+   "qty": 1,
+   "price": 8.5
+  },
+  {
+   "name": "Reg",
+   "qty": 1,
+   "price": 3.35
+  },
+  {
+   "name": "Longhorn Mac Cheese[sm",
+   "qty": 1,
+   "price": 4.2
+  },
+  {
+   "name": "Chocolate Cake[Slice",
+   "qty": 1,
+   "price": 3.95
+  },
+  {
+   "name": "Fountain Soda",
+   "qty": 1,
+   "price": 2.25
+  },
+  {
+   "name": "Wells Fargo",
+   "qty": 1,
+   "price": 64.43
   }
  ],
- "subtotal": null,
- "tax": null,
+ "subtotal": 59.11,
+ "tax": 5.32,
  "tip": null,
- "total": null,
+ "total": 64.43,
  "raw_text": "Quick stnone 73 City Market\n5242 van Nuys BLVD\nSherman Oaks; CA 91401\n818.855 1280\nServer; Rebecca B S1\nPrinted By Rebecca B Jun 26, 15 04.55 PM\nID 234673 #1\n536.86\nWeight' Beef Ribs 89 Ibs @ 519 b0lb5 S8.50\nPulled Pork Sand SO.00\nReg S3.35\nCreamed Corn[Small]\nLonghorn Mac & Cheese[sm] S4.20\nChocolate Cake[Slice] S3.95\nFountain Soda S2.25\nSubtotal S59.11\nCA Sales Tax S5.32\nTotal S64.43\nWells Fargo S64.43\nChange So.00\nThank You for Visiting\nPlease visit our website:\nW smokecitymarket com\nEnjoy our BBQ? 'Like' us on\nfacebook and Yelp\nPlease rate us on Zagat\nM zagat com/rismoke-city-market-van-nuy",
- "checksum": null,
- "runtime_s": 2.231367083004443,
+ "checksum": false,
+ "runtime_s": 2.231417375005549,
  "rectify_info": {
   "fallback": false,
   "quad": [

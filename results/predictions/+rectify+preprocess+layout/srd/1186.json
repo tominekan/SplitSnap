@@ -11,13 +11,13 @@
    "price": 27.0
   }
  ],
- "subtotal": null,
+ "subtotal": 49.59,
  "tax": null,
  "tip": null,
- "total": 49.59,
+ "total": null,
  "raw_text": "i FIN |\nFamily Restaurant\n/3\nCARMIN DO. Table: 10 Check: 137\n3 Prea Glass @7.50 $22.50\n1 RED Veggie €27. 00 $27.00\n‘Sb-Total \"$49.59\nSales Re cdl\nLe Le stl\nPatella #496170 S82 AT\nAcount Dee 40.0\nCharge Revelot\nServer NO.\nTable No: 10\ni fi\nf",
  "checksum": null,
- "runtime_s": 1.263353457903122,
+ "runtime_s": 1.2634483748988714,
  "rectify_info": {
   "fallback": false,
   "quad": [

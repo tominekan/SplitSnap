@@ -3,10 +3,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 17.8,
  "raw_text": "Micros Deio System\nNe Icome to Yogurt larid\n12502 Worth Kendal1 Drive\nMiami FL 33186\n(305) 279-3478\nDate Sep07 ' 18 09:28PM\nCard Type: VISA\nAcct #: XXXXXXXXXXXX3862\nCard Entry; SWIPED\nTrans Type PURCHASE\nTrans; Key : IIio08007193348\nAuth ode 071410\nCheck: ; 1082\nServer 1041 melanie\nTota 17 80\n#*NO SIGVATURE REQUIRED\nFJR PURCHASES UNDER $20.O0**",
  "checksum": null,
- "runtime_s": 2.728653124999255,
+ "runtime_s": 2.7287027909915196,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -11,28 +11,18 @@
    "price": 818.0
   },
   {
-   "name": "Subtota",
+   "name": "Arrachera solo",
    "qty": 1,
-   "price": 842.5
-  },
-  {
-   "name": "Tota",
-   "qty": 1,
-   "price": 845.79
-  },
-  {
-   "name": "Order Ba lance due",
-   "qty": 1,
-   "price": 845.79
+   "price": 9.5
   }
  ],
- "subtotal": null,
- "tax": 83.29,
+ "subtotal": 842.5,
+ "tax": 3.29,
  "tip": null,
- "total": null,
+ "total": 845.79,
  "raw_text": "Taco Maria\n3313 Hy land Ave Ste C21\nCosta Mesa , CA 92626\n714 538 8444\nWWW , tacomaria, CCn\nOrder# 118888\nServer : Jesa R\nTable: Bar\nDate: 1/23/18 , 12:16 PM\nChicken 815,00\nPescado 818,00\nArrachera solo s9,50\nSubtota] 842,50\nTota] Tax: 83,29\nTota] 845.79\nOrder Ba lance due 845,79\nSuggested Gratuity\n% Tip Tota]\n18, 0O% of sale: 87,65 853,44\n20,QO% of sa le: $8 , 50 854.29\n22,00% of sale: 89,35 S55,14",
- "checksum": null,
- "runtime_s": 2.218203665994224,
+ "checksum": false,
+ "runtime_s": 2.2182700830016984,
  "rectify_info": {
   "fallback": false,
   "quad": [

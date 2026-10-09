@@ -21,28 +21,18 @@
    "price": 14.06
   },
   {
-   "name": "Reg Kete One",
-   "qty": 4,
-   "price": 52.0
-  },
-  {
    "name": "House Cab",
    "qty": 1,
    "price": 6.6
-  },
-  {
-   "name": "Sub Tota",
-   "qty": 1,
-   "price": 81.0
   }
  ],
- "subtotal": null,
+ "subtotal": 1.0,
  "tax": 0.6,
  "tip": null,
  "total": null,
  "raw_text": "Blue Bear Tavern\n216 S Ith Street\n(215)922-3427\nWWW, b Tuebeartavern.coM\nCheck #; 00225\nDate; 01/13/2012 10:16 PM Check CCE\nStat Ion; Pos3 Server : Arcrex\nGues ts ; 1\nCr Imini 3.00\nSa |ami 3.00\n01ives 3.00\nLrg C lams |usse Is 14.06\n4 Reg Kete | One 52.00\nHouse Cab 6.60\nSub Tota] 81.00\nPhi) Tly Liquor Tax 0,60\nPhi Ily Pa Sales Tex\n1.8\nTOTAL 64",
  "checksum": null,
- "runtime_s": 3.326566500007175,
+ "runtime_s": 3.322691332985414,
  "rectify_info": {
   "fallback": false,
   "quad": [

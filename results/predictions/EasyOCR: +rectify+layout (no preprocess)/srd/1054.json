@@ -11,14 +11,39 @@
    "price": 54.0
   },
   {
+   "name": "French Fries x",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
    "name": "Turkey Burger",
    "qty": 1,
    "price": 58.85
   },
   {
+   "name": "HB",
+   "qty": 1,
+   "price": 8.35
+  },
+  {
+   "name": "Combo, Grilled Onion",
+   "qty": 1,
+   "price": 0.75
+  },
+  {
    "name": "CB x",
    "qty": 1,
-   "price": 57.85
+   "price": 15.7
+  },
+  {
+   "name": "CB",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Regular Price, Grilled Onion",
+   "qty": 1,
+   "price": 0.75
   },
   {
    "name": "Chlll Fries",
@@ -26,13 +51,13 @@
    "price": 54.35
   }
  ],
- "subtotal": 551.25,
- "tax": null,
+ "subtotal": 51.25,
+ "tax": 5.25,
  "tip": null,
- "total": null,
+ "total": 56.5,
  "raw_text": "BIG Jo's\n1955 BROADWAY Jan 25 2018\nSANTA MONICA, CA 90404 11.47 AM\n(310) 828-3191\nwwwbigjosburgers com\nTicket: Shirley Cash\nReceipt Qlxi\nPICKUP\nHB 54.00\nRegular Price\nFrench Fries x 2 S5.00\n(S2.50 each)\nTurkey Burger 58.85\nCombo\nHB S8.35\nCombo, Grilled Onion (S0.75)\nCB x 2 S15.70\n(57.85 each)\nCombo\nCB S5.00\nRegular Price, Grilled Onion (S0.75)\nChlll Fries 54.35\nSubtotal 551.25\nSales Tax S5.25\nTotal S56.50\nCash $60.00\nChange 53.50",
- "checksum": null,
- "runtime_s": 2.524420583009487,
+ "checksum": false,
+ "runtime_s": 2.5244301250058925,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -12,12 +12,12 @@
   }
  ],
  "subtotal": 410.28,
- "tax": 80.62,
+ "tax": 0.62,
  "tip": null,
- "total": null,
+ "total": 10.9,
  "raw_text": "Rvozllr\nRiver Vi I lage Fanl Iy Restaurant\n22825 Huron Riger Dr\nRockwood,WI 48173\n(734)236-4033\nServer : Jasmine G '08/12/19 8:02 AM\nCheck #7 Table 23\nApple French Toast 37,99\nCoffee 82.29\nSubtotal 410.28\nTax 80,62\nTotal S10.90\n2.99 early bird breakfast speclal\nMonday- FrIday 7am 8am\nRiver village kayaking now open\nSunday-Thursday 7:O0an-8;0Opm\nFriday/Saturday 7:00am-9;OOpm\nPay at the cash reglster\nThank youl!",
- "checksum": null,
- "runtime_s": 3.9047835410019616,
+ "checksum": false,
+ "runtime_s": 3.902685291977832,
  "rectify_info": {
   "fallback": false,
   "quad": [

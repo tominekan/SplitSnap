@@ -29,20 +29,15 @@
    "name": "Hh MIGUELS HARGARIT",
    "qty": 1,
    "price": 13.52
-  },
-  {
-   "name": "I9PH Tota",
-   "qty": 1,
-   "price": 85.14
   }
  ],
  "subtotal": 60.87,
  "tax": 4.27,
  "tip": null,
- "total": null,
+ "total": 85.14,
  "raw_text": "MiuClS 3035#= KENNEDY MEXICAN BLVD\nTAMPA FL_\n(813) 876 2587\n127 MISSY\nTbl 82/1 Chk 55 Gst 3\nDecz6 ' 12 04:41PH\n3 HATER 0,00\nCRAB SUIZA 13.25\nSHRIMP VERACRUZ 14.95\nENCHILADA 4.95\nFAJITA BF 13,.95\n##TAkE OUT#+ 0.25\nHh MIGUELS HARGARIT 0 3,38 13.52\nSubtotal 60,87\nTax 4.27\n05; I9PH Tota) 85.14\nPi FASF Dav Vqiir SFRVFR",
- "checksum": null,
- "runtime_s": 1.5366961670079036,
+ "checksum": false,
+ "runtime_s": 1.5367907089821529,
  "rectify_info": {
   "fallback": false,
   "quad": [

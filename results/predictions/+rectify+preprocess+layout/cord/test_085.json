@@ -51,11 +51,6 @@
    "price": 4000.0
   },
   {
-   "name": "cprotal",
-   "qty": 1,
-   "price": 29500.0
-  },
-  {
    "name": "subr Rest.107",
    "qty": 1,
    "price": 17950.0
@@ -74,10 +69,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": 197450.0,
+ "total": 29500.0,
  "raw_text": "O\neb bd bats\n2 IOI IOK\n3 Nasi Putih 30.000\n1 Nasi Tambah 7.000\n2 Ayam Pop 40.000\n1 Samabal SP 11.000\n4 Sambal Gabus ASin Cb\nK Kuah 18000\neruPpU va\ntean Bawal Besa 28.500\n1 Telur Dadar 10.000\n17 Ss 7.000\nTeh Manis 3.000\n; Es Batu_ 4.000\ncprotal 29.500\nsubr Rest.107 17950\n14 Total 197.450\nTt MaKanan 159.500\nTet Minvman 20.000\ncash 197.450",
  "checksum": null,
- "runtime_s": 10.364401793115121,
+ "runtime_s": 10.364487042126711,
  "rectify_info": {
   "fallback": false,
   "quad": [

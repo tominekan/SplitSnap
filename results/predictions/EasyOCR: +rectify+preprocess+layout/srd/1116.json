@@ -24,10 +24,10 @@
  "subtotal": 31.01,
  "tax": 3.11,
  "tip": null,
- "total": null,
+ "total": 34.12,
  "raw_text": "Vleooio 29\nG R I L L E\nVi | laggio Gri | /0\n4780 Wharf Parkway\nOrange Beach , AL 36561\nPHONE = 251-224-6510\n{rder 9862_ 06/08/19 11:45 AM\n14 Cust 3 Server 156 JAMIE\nP-VILLAGIO BREEZE 0.01\nADD SALAD 3.00\nLunch SEAFOOD PASTA 14,.00\nKID PEPERONI PIZZA 7.00\nKid ALFREDO 7.00\nSub-total: 31.01\nTax: 3.11\nTotal Que : 34 . 12",
- "checksum": null,
- "runtime_s": 5.199397876000148,
+ "checksum": false,
+ "runtime_s": 5.199307750968728,
  "rectify_info": {
   "fallback": false,
   "quad": [

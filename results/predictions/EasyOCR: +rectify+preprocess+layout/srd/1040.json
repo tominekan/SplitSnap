@@ -1,9 +1,19 @@
 {
  "items": [
   {
+   "name": "And Egg",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "nd Miso",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
    "name": "Yater",
    "qty": 1,
-   "price": 522.98
+   "price": 3.5
   }
  ],
  "subtotal": null,
@@ -12,7 +22,7 @@
  "total": null,
  "raw_text": "IDTHA\nSushi ASIAN\nSION AVC UNiT 36\nF\" 33196\n14888\nIkhothaius.com\nsukhothaius comtttt\nR: 0003\nE-IN\nAnd Egg S7.99\nnd Miso S7.99\nS1.00\nS2.50\nYater S3.50\n522.98\nS1.61\nS3.45\nS28.04\nS28.04",
  "checksum": null,
- "runtime_s": 2.6638458750094287,
+ "runtime_s": 2.6638004170090426,
  "rectify_info": {
   "fallback": false,
   "quad": [

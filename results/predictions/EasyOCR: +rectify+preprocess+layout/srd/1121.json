@@ -11,13 +11,13 @@
    "price": 816.0
   }
  ],
- "subtotal": null,
- "tax": 85.68,
+ "subtotal": 65.9,
+ "tax": 5.68,
  "tip": null,
- "total": null,
+ "total": 71.58,
  "raw_text": "HEART 0f PORTUGAL\nHeart 0f Portugal Restaurant\n241 MIneola Blvd\nHineola, NY 11501\n516-742-9797\nServer: oscar d 09/10/17 3;28 PM\nCheck #11 Table 02\nTraditlona| Pork & Clams S20. 95\nOsso Buco Sp 828, 95\nHouse Wines Half PItcher 816,00\nSubtotal S65,90\nTax 85,68\nTotal S71,58\nThanks for Dining With Us!\nSee you soon! ! !",
- "checksum": null,
- "runtime_s": 8.162234874005662,
+ "checksum": false,
+ "runtime_s": 8.1621652909962,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -12,7 +12,7 @@
  "total": 22000.0,
  "raw_text": "1001-Choco Bun\n22.000 xi 22.000\n6001-Plastic Bag Small\n0 xl\nTotal Item:\nTotal. 22 .000\nCash\nTendered: 25 . 000\n3 .000\nChange:",
  "checksum": null,
- "runtime_s": 4.9821206250053365,
+ "runtime_s": 4.981983332982054,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -14,20 +14,15 @@
    "name": "Rocks",
    "qty": 1,
    "price": 3.0
-  },
-  {
-   "name": "Subtota",
-   "qty": 1,
-   "price": 19.5
   }
  ],
- "subtotal": null,
+ "subtotal": 19.5,
  "tax": null,
  "tip": null,
- "total": 85.07,
+ "total": 5.07,
  "raw_text": "ET\nKifchon @ Batva NOU\nn\n73) Tae ern.cam .\n730ta N\n3 Ave .\nio MYA 02139-3300 rs \\\ncant M51 7868- 8800\n09/23/2017 asidt\n«Megan 9:40 PM\nve VI 30062\nsts. 2\nrant @: 1\n” ayrattan (3 016.00) 48.00\n° (3)Makers Mark\nGrey Goose (3 @9.50) 28.50 55\nRocks (3 @1.00) 3.00\n| Subtota| 19.50\n. Tax 5 57 -_\n\\ Total 85.07\nBalance Due 85.07\nSUAGEG TED GRATUTEY PREOR TO OES COUNT\nJ/s DO V7 an\nmHy ? th. ete\n‘ e ¢@ te os\ncoun Yd sy\n; ON -_ os)",
- "checksum": null,
- "runtime_s": 3.7325657501623937,
+ "checksum": false,
+ "runtime_s": 3.7327110001642723,
  "rectify_info": {
   "fallback": null,
   "quad": null

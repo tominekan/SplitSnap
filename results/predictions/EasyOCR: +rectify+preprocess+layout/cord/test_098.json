@@ -9,10 +9,10 @@
  "subtotal": null,
  "tax": 22790.0,
  "tip": 12900.0,
- "total": null,
+ "total": 250690.0,
  "raw_text": "pamci4\nFOOD\nQualitylK\nPresenta\nTastelRa=\nBEVERAc\nQualitylKl\nPresenta\nTaste/Ra} BLACK PEPPER MEATBALL PAS 79 ,0oo\nTRIJFFLE CREAM 17,000\nSERVICE EARL GREY MILK TEA 59 ,OOQ\nSUBTTL 215 _ ,00Q\nFriendlin Service Charge 6i% 12,900\nPromptr TAX 10% 22,790\nAttentiv\nTime/Wa TOTAL 250 , 690\nOTHERS\nCleanline\nAmbiance\nValue for /",
  "checksum": null,
- "runtime_s": 11.006885209004395,
+ "runtime_s": 11.006811499973992,
  "rectify_info": {
   "fallback": false,
   "quad": [

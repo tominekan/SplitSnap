@@ -32,7 +32,7 @@
  "total": null,
  "raw_text": "Order 217510\n02/18/17' 10:20 PM Check 101244\nTable 15 Cust. Server 21 Kelly Bowe\nXxXx: KXxx\nQuesadi I Ia 11.00\nPot Roast 18. 00\nFish An Chips 16. 00\nSide Salad 00\nDft Shock top 5.50\n2 Dft Guiness 15.00\nTaxable: 69. 50\nSub-total 69.50\nTax: 6.00\nTotal Due 75_ 50",
  "checksum": null,
- "runtime_s": 0.8945317500038072,
+ "runtime_s": 0.8946106660005171,
  "rectify_info": {
   "fallback": false,
   "quad": [

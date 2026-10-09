@@ -4,20 +4,15 @@
    "name": "A Nau age",
    "qty": 1,
    "price": 16343.0
-  },
-  {
-   "name": "Sub Tatal",
-   "qty": 1,
-   "price": 14363.0
   }
  ],
- "subtotal": null,
+ "subtotal": 14363.0,
  "tax": 1434.0,
  "tip": null,
  "total": 17999.0,
  "raw_text": "a\n“A Nau age\n1 16,343 16,343\nJumilsh Item 1\nSub Tatal 14,363\nPajak Resto 1,434\nGrand Total 17,999\nMAAAMANAAAAAAA\nAAAAAAIDAASARAARADADAOAAAA DAA MAOADARAARDDP*",
- "checksum": null,
- "runtime_s": 6.335765999855084,
+ "checksum": false,
+ "runtime_s": 6.335795833845623,
  "rectify_info": {
   "fallback": null,
   "quad": null

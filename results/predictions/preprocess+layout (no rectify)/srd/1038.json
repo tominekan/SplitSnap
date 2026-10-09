@@ -1,11 +1,6 @@
 {
  "items": [
   {
-   "name": "Tota",
-   "qty": 1,
-   "price": 17.8
-  },
-  {
    "name": "FOR PURCHASES UNDER",
    "qty": 1,
    "price": 20.0
@@ -14,10 +9,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 17.8,
  "raw_text": "Micros Demo System\nAelcome to Yogurtland\n12502 North Kendal] Drive\nMiemi, FL 33186\n(05) 279-3478\nDate: $ep07'18 09:28PM\nCard Typ3: VISA\nAcct #: XXXXXXXXXXXX3B6Z\nCard Entry; SWIPED\nTrans Type: PURCHASE\nTrans Key: 111008007193348\nAuth toda: 071410\nChecl:: 1082\nServer: 1041 melanie\nTota 17.80\n*#NO SIGYATURE REQUIRED\nFOR PURCHASES UNDER $20.00+«",
  "checksum": null,
- "runtime_s": 2.7547856669807516,
+ "runtime_s": 2.7548772919981275,
  "rectify_info": {
   "fallback": null,
   "quad": null

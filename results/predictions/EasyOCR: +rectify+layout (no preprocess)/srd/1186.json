@@ -21,18 +21,18 @@
    "price": 92.97
   },
   {
-   "name": "Tota",
+   "name": "Arwnt M",
    "qty": 1,
-   "price": 3.77
+   "price": 0.0
   }
  ],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 3.77,
  "raw_text": "primo\nFamily Restaurant\n5/3/19 8:14 PH\nEain D. Table: I0 Creck; 137\nPre- Glass 07.50 322.50\nMED Vesgle #27,00 527 ,00\nSuo-Tta 849.50\nSales Iax 92.97\nTota] 3,77\nMASTERCARD Paynents *4*6170 852,47\nArwnt M S0,00\n0n0 Rexipt\nServer: darhin\nTah",
  "checksum": null,
- "runtime_s": 0.5688605409959564,
+ "runtime_s": 0.5689462910086149,
  "rectify_info": {
   "fallback": false,
   "quad": [

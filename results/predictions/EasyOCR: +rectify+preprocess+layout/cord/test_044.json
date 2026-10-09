@@ -12,7 +12,7 @@
  "total": 30000.0,
  "raw_text": "~W<\nCombo 1 30, 000\nTOTAL 30,000\nCASH 60 , 000\nCHANGED 20. 000\nK",
  "checksum": null,
- "runtime_s": 6.515535000988166,
+ "runtime_s": 6.515389250009321,
  "rectify_info": {
   "fallback": false,
   "quad": [

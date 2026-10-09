@@ -27,7 +27,7 @@
  "total": 93.58,
  "raw_text": "20186-41.16 16 66 34\n37 PICKUP ae\nNoose $200\n1 Sushi Deluxe $20.75\n4 Glenmont Rol $15.95\n1 PhilyR $6.50\n2 SpTunaR $13.00\nt $5.50\n1 Sustotal $865\nTex $693\nTotal: $93.58\n= Unpaid **",
  "checksum": null,
- "runtime_s": 1.3365205420323036,
+ "runtime_s": 1.336605918040732,
  "rectify_info": {
   "fallback": false,
   "quad": [

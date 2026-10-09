@@ -1,6 +1,11 @@
 {
  "items": [
   {
+   "name": "TIKKA chiSaEn",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
    "name": "PALak ReLolRoh",
    "qty": 1,
    "price": 518.02
@@ -17,7 +22,7 @@
  "total": null,
  "raw_text": "$44T0 € 48\nNaHE: ChareS\nExeska To\"Zfedit Card\n12/31/2018 6:06;02 Px\nHEa\nSo happy about ycur visit!\nIte- Count:\nTIKKA chiSaEn S20,00\nPALak ReLolRoh) 518.02\nVECAM Eeur Eue5se2 817.00\nJabtota 33\nTota] before tip: 938_\nTip amount:",
  "checksum": null,
- "runtime_s": 0.4389517919917125,
+ "runtime_s": 0.43944466700486373,
  "rectify_info": {
   "fallback": false,
   "quad": [

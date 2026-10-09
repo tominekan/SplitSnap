@@ -1,18 +1,12 @@
 {
- "items": [
-  {
-   "name": "otal",
-   "qty": 1,
-   "price": 13660.0
-  }
- ],
+ "items": [],
  "subtotal": 13060.0,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 13660.0,
  "raw_text": "~ Subtotal 13,060\n' dajak -\n) otal 13,660",
  "checksum": null,
- "runtime_s": 1.3691708330352412,
+ "runtime_s": 1.3691803760593757,
  "rectify_info": {
   "fallback": false,
   "quad": [

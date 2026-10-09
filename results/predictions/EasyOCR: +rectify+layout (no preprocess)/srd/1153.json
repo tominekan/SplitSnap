@@ -14,20 +14,15 @@
    "name": "Choc Pot De Cren",
    "qty": 1,
    "price": 13.0
-  },
-  {
-   "name": "Tota",
-   "qty": 1,
-   "price": 313.49
   }
  ],
  "subtotal": 290.0,
  "tax": 23.49,
  "tip": null,
- "total": null,
+ "total": 313.49,
  "raw_text": "Gordon Rarsay Steak\nParis Las Vegas\n10/21/2014 19:41\nGordon Ransay Steak\nChack: 2042367 Table: T-35\nServer : Lomberto Guests: 2\nTeraina ]: 42\nReguilar\nPica\" Cup 14.00\nThe DrIfter 28.00\n14,00\nKobe Beef Sl ider\nKen York\nAner Kobe Filet\nLobster Tall\nPotato Puree\nGr | Id Asparagus\nPeppercorn\nPeps] .00\nChoc Pot De Cren 13.00\nSubtotal 290,00\nTax 23,49\nTota} 313,49",
- "checksum": null,
- "runtime_s": 0.612067501002457,
+ "checksum": false,
+ "runtime_s": 0.6121692080050707,
  "rectify_info": {
   "fallback": false,
   "quad": [

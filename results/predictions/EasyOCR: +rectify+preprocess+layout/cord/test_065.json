@@ -4,20 +4,15 @@
    "name": "jubur Polos Telur",
    "qty": 1,
    "price": 13000.0
-  },
-  {
-   "name": "otal",
-   "qty": 1,
-   "price": 13000.0
   }
  ],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 13000.0,
  "raw_text": "jubur Polos Telur\n13.O0q 13.000\nSubtotal 13,O80\nYajak\n'otal 13.000",
  "checksum": null,
- "runtime_s": 4.648071584000718,
+ "runtime_s": 4.647117541011539,
  "rectify_info": {
   "fallback": false,
   "quad": [

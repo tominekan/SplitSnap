@@ -34,10 +34,10 @@
  "subtotal": null,
  "tax": 18.0,
  "tip": null,
- "total": null,
+ "total": 128.33,
  "raw_text": "Suni Alo\nem 569\n310-770-4855\n05421/17 9.33 #\nSurah\nTurtarg onno 10.2\nCinnim Sciti J.\n28.00\nai4 Aech Icana\nCarrot Cake 12.00\ncal 107eo 12.00\nMer lot 13.00\nHisc Focd 2.09\nTaxable: 18.00\nSub-total: VBOQ\nIaxes: J0 3\nTotal Due : 128 33",
  "checksum": null,
- "runtime_s": 0.5331292090122588,
+ "runtime_s": 0.5333892909839051,
  "rectify_info": {
   "fallback": false,
   "quad": [

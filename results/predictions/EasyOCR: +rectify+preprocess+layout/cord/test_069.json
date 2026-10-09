@@ -11,6 +11,11 @@
    "price": 20000.0
   },
   {
+   "name": "USTARD BRIOCHE",
+   "qty": 1,
+   "price": 36000.0
+  },
+  {
    "name": "ZASH",
    "qty": 1,
    "price": 100000.0
@@ -22,7 +27,7 @@
  "total": 74000.0,
  "raw_text": "23/* )/2017\n[MD] SOFT MORNING ROLL 18,000\n2 REAL HONEY PANCAKE BREAD 20,000\n~USTARD BRIOCHE 36 , 000\nTOTAL 74,000\nZASH '100,000\nCHANGE 26, 000\nThar",
  "checksum": null,
- "runtime_s": 6.056307499995455,
+ "runtime_s": 6.056190207993495,
  "rectify_info": {
   "fallback": false,
   "quad": [

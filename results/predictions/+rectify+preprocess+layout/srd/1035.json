@@ -52,7 +52,7 @@
  "total": null,
  "raw_text": "7 Please Pay at Cashier\n1084 Yonkers Avenue Yonkers, NY 10704\n(914) 237-5055\nCopy of Receipt\n1 Coffee $1.45\n1 Tea $1.45\n1 Waffle $5.50\n1 Old Fashion French Toast $4.50\n1 Side Home Fries $2.95\n1 Banana $2.95\n1 Whipped Cream $2.50\n1 W/ 2 EGGS $2.95\nSubtotal: $24.25\nps $2.13\nlotal: 2 a\nServer ‘Name MIKE, |",
  "checksum": null,
- "runtime_s": 1.2232217919149662,
+ "runtime_s": 1.2233468339254614,
  "rectify_info": {
   "fallback": false,
   "quad": [

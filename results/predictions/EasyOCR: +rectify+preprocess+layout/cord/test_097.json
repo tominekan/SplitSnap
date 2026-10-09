@@ -6,6 +6,11 @@
    "price": 20000.0
   },
   {
+   "name": "BUBUR Go",
+   "qty": 1,
+   "price": 40000.0
+  },
+  {
    "name": "Puyuh G0",
    "qty": 1,
    "price": 6000.0
@@ -22,7 +27,7 @@
  "total": 55000.0,
  "raw_text": "Tdrbi Aiam\nVmimAY\nIco\n=ZZ==3==\n1CC{l XC= '3\n2 (20, 000\nBUBUR Go 40 , 000\nPuyuh G0 6,000\n3 03, 000\nSATEZATITGO 9,000\n6. OOxITEMS\nTOTAL 55,000\nCASH 55.000",
  "checksum": null,
- "runtime_s": 2.647561833000509,
+ "runtime_s": 2.6474107920075767,
  "rectify_info": {
   "fallback": true,
   "quad": null,

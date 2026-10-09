@@ -4,20 +4,15 @@
    "name": "KAcAnG HERAH",
    "qty": 1,
    "price": 10000.0
-  },
-  {
-   "name": "Tota",
-   "qty": 1,
-   "price": 10000.0
   }
  ],
  "subtotal": 10000.0,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 10000.0,
  "raw_text": "D7 t\nKAcAnG HERAH 10 ,000\nSUBTOTAL 10 ,000\nTota 10 ,000\ncaSH 10,000",
- "checksum": null,
- "runtime_s": 3.1069959169981303,
+ "checksum": true,
+ "runtime_s": 3.106852583005093,
  "rectify_info": {
   "fallback": false,
   "quad": [

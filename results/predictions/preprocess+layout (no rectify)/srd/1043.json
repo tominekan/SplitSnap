@@ -9,20 +9,15 @@
    "name": "SIDE (SM) x3",
    "qty": 1,
    "price": 12.0
-  },
-  {
-   "name": "Tota",
-   "qty": 1,
-   "price": 26.67
   }
  ],
  "subtotal": 24.5,
  "tax": 2.17,
  "tip": null,
- "total": null,
+ "total": 26.67,
  "raw_text": "~~\nee\nse\n5 ;\nso.\nVOMERS, NY 34\n934-237-5083\njure 23, 2019 at 2:33 PM\nORDER # 1019\nWINGS (5) t 12,50\nwal & CHEESE\nvAMS\nSIDE (SM) x3 12.00\nYAMS\nWAC & CHEESE\nCOLLARD GREENS\nSubtotal 24.50\nTax 2.17\nDiscount 0,00\nTota! 26.67\nIN\n0011477216613\n|\nFY",
- "checksum": null,
- "runtime_s": 2.8410369179468944,
+ "checksum": true,
+ "runtime_s": 2.84111462594592,
  "rectify_info": {
   "fallback": null,
   "quad": null

@@ -42,7 +42,7 @@
  "total": null,
  "raw_text": "CARL’S UR\nRestaurant 1100580\n11961 Beach Blvd,\nStanton, CA 90680\n(714)895-5114\n9/27/2017 12:13:06 PM\nOrder 375719 Cashier: Alvaro I\n1 Box #1 0.00\n1 All Star Meal #1 1.00\nDb1 Chbgr 0,00\nHot Dog 0.00\nBaked Cookie 0.00\nLg Fries 3.00\nlg Bev Bar 3.00\nSubTotal 7.00\nTax 0.61\nTotal 1G\nCash 8.00\nChange 0.39\nTo Go\nThank you for visiting!\nTicket #45\nItens in bag(s): 4",
  "checksum": null,
- "runtime_s": 3.342965876100152,
+ "runtime_s": 3.343083042098442,
  "rectify_info": {
   "fallback": null,
   "quad": null

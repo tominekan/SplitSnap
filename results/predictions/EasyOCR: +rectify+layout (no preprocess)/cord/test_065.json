@@ -4,25 +4,15 @@
    "name": "iubur Polos Telur",
    "qty": 1,
    "price": 13000.0
-  },
-  {
-   "name": "Jubtota",
-   "qty": 1,
-   "price": 13000.0
-  },
-  {
-   "name": "otal",
-   "qty": 1,
-   "price": 13000.0
   }
  ],
- "subtotal": null,
+ "subtotal": 13000.0,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 13000.0,
  "raw_text": "3\niubur Polos + Telur\n13.000 13.000\nJubtota] 13,000\n'ajak\notal 13,000",
- "checksum": null,
- "runtime_s": 3.5551666669925908,
+ "checksum": true,
+ "runtime_s": 3.55505091699888,
  "rectify_info": {
   "fallback": false,
   "quad": [

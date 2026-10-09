@@ -4,6 +4,11 @@
    "name": "XXI Java Tea (M",
    "qty": 1,
    "price": 18000.0
+  },
+  {
+   "name": "Combo",
+   "qty": 1,
+   "price": 30000.0
   }
  ],
  "subtotal": null,
@@ -12,7 +17,7 @@
  "total": 48000.0,
  "raw_text": "T\ncalc\nXXI Java Tea (M) 18. 000\nCombo 2 30 , 000\nTOTAL 48,000\nCASH 50, 000\nCHANGED 2. 00o",
  "checksum": null,
- "runtime_s": 6.8810652079992,
+ "runtime_s": 6.8808924989862135,
  "rectify_info": {
   "fallback": false,
   "quad": [

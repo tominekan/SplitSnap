@@ -12,7 +12,7 @@
  "total": null,
  "raw_text": "=\nTRIPPLE CHEESE 17,000\nX 17,000\n17,000\nSUB TOTAL\n17,000\nGRAND TOTAL\nCASH IDR 22,000\nCHANGE DUE 5,000",
  "checksum": null,
- "runtime_s": 9.570507583994186,
+ "runtime_s": 9.569388834017445,
  "rectify_info": {
   "fallback": false,
   "quad": [

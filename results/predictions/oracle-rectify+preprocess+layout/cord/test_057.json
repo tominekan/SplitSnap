@@ -6,7 +6,7 @@
  "total": null,
  "raw_text": "‘22,000\n‘42> 000",
  "checksum": null,
- "runtime_s": 1.1797115419749389,
+ "runtime_s": 1.1797245429770555,
  "rectify_info": {
   "fallback": true,
   "quad": null,

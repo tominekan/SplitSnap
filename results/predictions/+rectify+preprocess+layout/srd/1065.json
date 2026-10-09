@@ -11,13 +11,13 @@
    "price": 18.0
   }
  ],
- "subtotal": null,
+ "subtotal": 42.59,
  "tax": 3.29,
  "tip": null,
  "total": 45.79,
  "raw_text": "Taco Maria\n3313 Hyland Ave. Ste C21\nCosta Mesa, CA 92626\n714 538 8444\nwww, tacomaria.cem\nOrder# 118888\nServer: Jesa R\nTable: Bar 7\nDate: 1/23/18, 12:16 PM\nChicken $15.00\nPescado $18.00\nArrachera solo $9 50\nSubtotal: $42 59\nTotal Tax: $3.29\nOrder Balance due: $45.79\nSuggested Gratuity\nTip Total\n18.00% of sale: $7.65 = $53.44\n20.00% of sale: $8.50 = $54.29\n22.00% of sale: $9.35 = $55.14",
- "checksum": null,
- "runtime_s": 2.53777183202601,
+ "checksum": false,
+ "runtime_s": 2.537859249016037,
  "rectify_info": {
   "fallback": false,
   "quad": [

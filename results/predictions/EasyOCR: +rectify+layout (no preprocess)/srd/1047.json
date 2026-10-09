@@ -1,6 +1,11 @@
 {
  "items": [
   {
+   "name": "Repr Quests: int",
+   "qty": 1,
+   "price": 48.0
+  },
+  {
    "name": "Hanhat tan",
    "qty": 1,
    "price": 416.0
@@ -19,20 +24,15 @@
    "name": "Rocks",
    "qty": 1,
    "price": 41.0
-  },
-  {
-   "name": "Tota1",
-   "qty": 1,
-   "price": 85.07
   }
  ],
  "subtotal": 79.5,
  "tax": 5.57,
  "tip": null,
- "total": null,
+ "total": 85.07,
  "raw_text": "Kitchen &Fato\n750 Havern 730tavetn. Ave COm Voz\n7730 Mass MA 021 139 -3308\nCambr idge , 068 8800\n617-( 09/23/2017 45757\n9:40 PM\nel Megan 30062\nHle 3/1\nRepr Quests: int :\n48 , 00\nHanhat tan (3 416.00)\n(3)Makers Mark 28. 50 585\nGrey Goose (3 09.50) 3.00\nRocks (3 41,00)\nSubtotal 79.50\nTax 5.57\nTota1 85.07\n85,07\nBa larce Due\nSUGGESTED GRATUIY FRH Iu DisuNI\n'x | 44",
- "checksum": null,
- "runtime_s": 1.406111709002289,
+ "checksum": false,
+ "runtime_s": 1.4061737920128508,
  "rectify_info": {
   "fallback": false,
   "quad": [

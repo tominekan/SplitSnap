@@ -1,12 +1,38 @@
 {
- "items": [],
- "subtotal": null,
- "tax": null,
+ "items": [
+  {
+   "name": "Guest",
+   "qty": 1,
+   "price": 9.5
+  },
+  {
+   "name": "Egg",
+   "qty": 1,
+   "price": 1.3
+  },
+  {
+   "name": "Corn",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "Bamboo shoots",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Naruto",
+   "qty": 1,
+   "price": 0.75
+  }
+ ],
+ "subtotal": 13.05,
+ "tax": 1.01,
  "tip": null,
- "total": null,
+ "total": 14.06,
  "raw_text": "KAZ RAMEN\n22413 BARTON ROAD\nGRAND 'TERRACE, CA 92313\n'9094229532\nORDER: T4GI\nDINE IN\nCashier: Mickey\n04-Nov-2018 9.07:13P\nGuest s9.50\nTonkotsu Tofu SO.00\nEgg S1.30\nCorn S0.50\nBamboo shoots S1.00\nNaruto S0.75\nSpicy SO.00\nSubtotal S13.05\nTax S1.01\nTotal S14.06\nOrdler 4AWA6SF NMVRT",
- "checksum": null,
- "runtime_s": 1.1652357499842765,
+ "checksum": true,
+ "runtime_s": 1.1653341659839498,
  "rectify_info": {
   "fallback": false,
   "quad": [

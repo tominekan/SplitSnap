@@ -14,20 +14,15 @@
    "name": "FRIED SHRIMP",
    "qty": 1,
    "price": 3.5
-  },
-  {
-   "name": "ANOUNT DUE",
-   "qty": 1,
-   "price": 821.69
   }
  ],
  "subtotal": 0.0,
  "tax": 1.79,
  "tip": null,
- "total": null,
+ "total": 21.69,
  "raw_text": "OHANA HAWAIIAN BBQ\n4469 SLAUSON AVE\nMaywood , CA 90270\n(323):771-9888\nServer: karla Station: 3\nOrder 65193 Dine In\nSETTLED 8.45\n1/2 AND 1/2 COMBO\nFRIED SHRIMP\nSHORT RIB 7.95\n1/2 AND 1/2 COMBO\nBBQ BEEF\nFRIED SHRIMP 3.50\n2 FOUNTAIN MEDIUM\nBar Subtotal: 0.00\nFood Subtotal 19.90\nTax 1.79\nANOUNT DUE : 821.69\nCash Tendered: 22.00\nCHANGE : -0.31\nTicket 94\nCreated: 6/1/2013 7:43:46 PM\nSETTLED: 6/1/2013 7:44:18 PM\nTHANK VOU?",
- "checksum": null,
- "runtime_s": 2.097626749004121,
+ "checksum": false,
+ "runtime_s": 2.0976352500001667,
  "rectify_info": {
   "fallback": false,
   "quad": [

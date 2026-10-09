@@ -6,23 +6,18 @@
    "price": 29.88
   },
   {
-   "name": "SUbTopAl",
-   "qty": 1,
-   "price": 29.88
-  },
-  {
    "name": "SALES TAL",
    "qty": 1,
    "price": 32.89
   }
  ],
- "subtotal": null,
+ "subtotal": 29.88,
  "tax": 3.01,
  "tip": 4.48,
  "total": 37.37,
  "raw_text": "Moonstar Restaurant\n383 Gel lert Blvd, Daly Cty, CA 94015\n(650) 992-2888\nP A I D REPRINT\nTab,332 Ip 191 #2406\nQTY/LB NAME U/p PRICE\nWEEKDAY DINNER $29.e8 29.88\nSUbTopAl: 29.88\n15X SERVICE CHRGE = 4.48\nTax(8, 75*) : 3.01\nSALES TAL: 32,89\nTOTAL: 37,37\nCASH; 100, 00\nCHANGE 62.63\n10/29/2018 19;51\nTHANK YOU",
- "checksum": null,
- "runtime_s": 5.215801417012699,
+ "checksum": false,
+ "runtime_s": 5.2157114159927005,
  "rectify_info": {
   "fallback": false,
   "quad": [

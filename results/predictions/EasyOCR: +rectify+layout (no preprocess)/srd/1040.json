@@ -1,12 +1,28 @@
 {
- "items": [],
+ "items": [
+  {
+   "name": "And Egg",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "nd Miso",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "Vater",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
  "subtotal": null,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "IOTHAI\nSushi ASIAN\nSION AVE UNiT 36\n33196\n4888\nIkhothaius com\nsukhothaius.com**tt\n3: 0003\nE-IN\nAnd Egg S7.99\nnd Miso S7.99\nS1.00\nS2.50\nVater S3.50\nS22.98\nS1.61\nS3.45\nS28.04\nS28.04",
  "checksum": null,
- "runtime_s": 1.0280937919887947,
+ "runtime_s": 1.0280825840018224,
  "rectify_info": {
   "fallback": false,
   "quad": [

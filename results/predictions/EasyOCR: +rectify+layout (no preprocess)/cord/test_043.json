@@ -1,18 +1,12 @@
 {
- "items": [
-  {
-   "name": "Tota/ Tar Included",
-   "qty": 1,
-   "price": 15000.0
-  }
- ],
+ "items": [],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 15000.0,
  "raw_text": "Re\n6 Pcs Cheese Tart 165o00 , O6\nbor of 6\nPP Carr ler\nSubtotal = ' Rp16500o , 0o\nTota/ Tar Included: Rp15000 ,Oo\nTotal; Rp165o00 . Oo\nGustomer Paid Cash; Rpzooooo , OO\nCustomer Change: Rp35o0o,oo",
  "checksum": null,
- "runtime_s": 6.009322041994892,
+ "runtime_s": 6.009073916997295,
  "rectify_info": {
   "fallback": false,
   "quad": [

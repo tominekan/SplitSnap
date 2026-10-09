@@ -22,7 +22,7 @@
  "total": 43000.0,
  "raw_text": "TWIST STRAWBERRY DONUT 10,000\nTLJ CROQUETTE 17,000\nPOTATO PEPPER BAGEL 16,000\nTOTAL 43,000\nCASH 50 ,000\nCHANGE 7,000",
  "checksum": null,
- "runtime_s": 3.638139249989763,
+ "runtime_s": 3.6379337499965914,
  "rectify_info": {
   "fallback": false,
   "quad": [

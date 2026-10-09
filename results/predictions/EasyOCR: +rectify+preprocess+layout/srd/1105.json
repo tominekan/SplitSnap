@@ -1,12 +1,33 @@
 {
- "items": [],
+ "items": [
+  {
+   "name": "American Coffee",
+   "qty": 1,
+   "price": 1.75
+  },
+  {
+   "name": "Nutella Coconut Pancakes",
+   "qty": 7,
+   "price": 8.0
+  },
+  {
+   "name": "American Coffee",
+   "qty": 1,
+   "price": 1.75
+  },
+  {
+   "name": "Cheddar Grits",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
  "subtotal": null,
- "tax": null,
+ "tax": 21.5,
  "tip": null,
  "total": null,
  "raw_text": "= THE\nPLACF\n2BE\n3 The Place 2 Be\n615 Franklinn Ave\nHartford, CT 06114\n8609047891\nhttps:/ (www.Place2BeCT.com\nJOIN US FOR BOTTOMLESS BRUNCH\nEVERY SATURDAY & SUNDAY\n*####* S15 BOTTOMLESS MIMOSAS *44#4##\nORDER: Table 17\nDine-In\nCashier: Mariah\n17-Feb-2018 9.41.47A\nGuest 1\n1 American Coffee S1.75\n7 Nutella Coconut Pancakes S8.00\nGuest 2\nAmerican Coffee S1.75\nCheddar Grits\nS10.00\nSubtotal\nTax S21.50\nS1.37\nTotel\nS22.87",
  "checksum": null,
- "runtime_s": 5.914958709006896,
+ "runtime_s": 5.914978707995033,
  "rectify_info": {
   "fallback": false,
   "quad": [

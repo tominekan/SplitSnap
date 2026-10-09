@@ -1,18 +1,12 @@
 {
- "items": [
-  {
-   "name": "Subtetal",
-   "qty": 1,
-   "price": 52.75
-  }
- ],
+ "items": [],
  "subtotal": null,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "(N\nRublo\nAt 037\nCrd ~toz\n(9291 320-Coso\nMeace: T\nrorh he\n420 00\nGnlied SaIre Stesk\nMs\" Gaco\nFcjnl Sadue Syol\nS3100\nSubtetal\n44# 52.75\n533.75",
  "checksum": null,
- "runtime_s": 0.41093458399700467,
+ "runtime_s": 0.4110405420069583,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -1,12 +1,63 @@
 {
- "items": [],
- "subtotal": null,
- "tax": null,
+ "items": [
+  {
+   "name": "Arroz",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Taco De Pescado",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "Taco Tuesday Pollo",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Taco D Carne Asada",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Taco D Chorizo",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Taco Tuesday Pastor",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Horchata",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Taco Tuesday Pollo",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Taco D Cochinita",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Taco D Carnitas",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": 28.95,
+ "tax": 2.03,
  "tip": null,
- "total": null,
+ "total": 30.98,
  "raw_text": "RINCON MEXICANO\n9g BROADWAY\nSOMERVILLE MA 02145\n6179661387\nORDER: 45\nDine In\nCashier: LORENZO REYES\n09 May 2017 7:19.46P\nArroz S3.00\nTaco De Pescado S7.00\nTaco Tuesday Pollo S2.00\nTaco D Carne Asada S2.99\n1 Taco D Chorizo S2.99\n1 Taco Tuesday Pastor S1.00\nHorchata S2.99\nTaco Tuesday Pollo S1.00\nTaco D Cochinita S2.99\nTaco D Carnitas S2.99\nSubtotal S28.95\nTax S2.03\nTotal S30.98\nOrcler 7 JTOGZZXGANR8",
- "checksum": null,
- "runtime_s": 2.770903625001665,
+ "checksum": true,
+ "runtime_s": 2.770957582979463,
  "rectify_info": {
   "fallback": false,
   "quad": [

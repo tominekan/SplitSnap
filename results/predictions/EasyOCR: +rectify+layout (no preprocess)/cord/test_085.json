@@ -1,12 +1,18 @@
 {
- "items": [],
+ "items": [
+  {
+   "name": "Nasi Tambah",
+   "qty": 1,
+   "price": 30000.0
+  }
+ ],
  "subtotal": null,
  "tax": null,
  "tip": null,
  "total": 197450.0,
  "raw_text": "***xxx*xxrx**x**xk******\n3 Nas i Put ih\nNasi Tambah 30 . 000\n2 Ayam Pop 7 000\nSamabal SP 40 000\n1 Sambal Gabus 1 1 0o0\nAsin Cb\n1 KerUPUk Kuah 1 8 000\n1 Ikan Bawa l Besa 28 1 500 0o0\nTe lur Dadar 1 000\nTeh Es 9 00\nTeh Manis OOE\nEs Batu 4 000\nSubtotal 179 500\nFajak Rest 10* 1? 950\n14 Total 197. 450\nTt} Harawar 159 500\n20 00o\nCash 197. 450",
  "checksum": null,
- "runtime_s": 9.084947042007116,
+ "runtime_s": 9.084928750002291,
  "rectify_info": {
   "fallback": false,
   "quad": [

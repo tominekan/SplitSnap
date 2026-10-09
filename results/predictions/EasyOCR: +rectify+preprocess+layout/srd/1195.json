@@ -11,11 +11,6 @@
    "price": 4.99
   },
   {
-   "name": "Subtctal",
-   "qty": 1,
-   "price": 19.27
-  },
-  {
    "name": "Tcta",
    "qty": 1,
    "price": 20.62
@@ -36,28 +31,18 @@
    "price": 0.99
   },
   {
-   "name": "Subtctal",
-   "qty": 0,
-   "price": 12.27
-  },
-  {
    "name": "Tctal",
    "qty": 1,
    "price": 13.13
-  },
-  {
-   "name": "Ba Iance Due",
-   "qty": 1,
-   "price": 33.75
   }
  ],
- "subtotal": 31.54,
+ "subtotal": 19.27,
  "tax": 1.35,
  "tip": null,
  "total": 33.75,
  "raw_text": "Anict Convers\n1805 Panker 18C5 RD Suite G110\nParker RD\n(678) 890-2005\nServer: Nicole 06/10/2018\nTable 52/1\nGuests: 2 1;02 PH\n30004\nSeat\n##\nCoke\nMargherita Ca Izcne 2.29\nSide Caesar 11.99 4,99\nSubtctal 19.27\nTax 1,35\nTcta] 20.62\nSeat 2\n#rrrrr=\nCoke 2.29\nDb| Stack Cheeseturger 8,99\nBacon 0.99\n0 Subtctal 12,27\nTax 0.86\nTctal 13.13\nSubtotal 31,54\nTax 2,21\nTotal 33,75\nBa Iance Due 33.75\nThank you for dining with usl\nsugGested GRATUITY:",
  "checksum": false,
- "runtime_s": 6.671360666005057,
+ "runtime_s": 6.671317541011376,
  "rectify_info": {
   "fallback": false,
   "quad": [

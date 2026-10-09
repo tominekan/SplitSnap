@@ -4,20 +4,15 @@
    "name": "fubur Palas: Telur",
    "qty": 1,
    "price": 13686.0
-  },
-  {
-   "name": "otal",
-   "qty": 1,
-   "price": 13660.0
   }
  ],
  "subtotal": 13668.0,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 13660.0,
  "raw_text": "{\n{ fubur Palas: + Telur\n.698 13.686\n* Subtotal 13.668\nt fajak -\n:otal 13,660\nme a a a solstenchaeieneantnnecedanten RMD",
- "checksum": null,
- "runtime_s": 3.235768749876115,
+ "checksum": true,
+ "runtime_s": 3.235802499897545,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -32,12 +32,12 @@
   }
  ],
  "subtotal": 869.9,
- "tax": 83.44,
+ "tax": 3.44,
  "tip": null,
  "total": 55.39,
  "raw_text": "FAIRVIEN;_ NJ 07022\nPhone (201) 840-8428\nCheck:832869 Guests:\nDate:02/11/19 Time:07 : 46pm\nTable:23 Server :DANIELA\nGuaca Chicharron 813.95\n2 EMPANADA 83.00\nPARGO FRITO 819.95\nEnsa lada\nAguacate\nNo Cebol Ia\nNo Cebo] Ia Roja\nMAR Y CHICKEN 817.00\nTostones\nTostones\nToGo 2 DrwwYrexP)\"= wrwww)}\n1 SALMON A LA PLANCHA 816,00\nEnsa lada\nEnsa Iada\nSubtotal: 869,90\nVoid: -817.95\nTax: 83.44\nSbt| w/Tax: 873,34\nAmt Due: $55.39",
  "checksum": false,
- "runtime_s": 5.190779873999418,
+ "runtime_s": 5.19078995801101,
  "rectify_info": {
   "fallback": false,
   "quad": [

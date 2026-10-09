@@ -6,6 +6,11 @@
    "price": 3.25
   },
   {
+   "name": "VONO RIPIENE",
+   "qty": 1,
+   "price": 9.75
+  },
+  {
    "name": "INO VONO",
    "qty": 1,
    "price": 22.75
@@ -37,7 +42,7 @@
  "total": null,
  "raw_text": "lav\nMaR !QmQcc !\nRe*Taukant\naale 403 CMECK 39\nUT SII iv1 0ti*m\nPREM UMITE 75\nPrem RED # 75\nOIET SDa 76\nUP 3.25\nVONO RIPIENE 9 . 75\nCRIckon pat0?1 . 75\nSCAHPI A)Lan2S. 75\nINO VONO 22.75\nV/2 pasta Sp16.75\n0IET Sda 3. 75\niip 3.25\n~Untoi 132.25\nTaz 9. 76\n0) | Al 0? 01",
  "checksum": null,
- "runtime_s": 3.8667312920006225,
+ "runtime_s": 3.8666822090017376,
  "rectify_info": {
   "fallback": false,
   "quad": [

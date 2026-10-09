@@ -17,7 +17,7 @@
  "total": 11000.0,
  "raw_text": "\"8840769\nD\nIX 11000\nDONAT GULA 11,000\n1.OOxITEMs\nSUBTOTAL 11,000\nTotAl 11,000\ncasH 11,000",
  "checksum": false,
- "runtime_s": 2.5622638750064652,
+ "runtime_s": 2.562139749992639,
  "rectify_info": {
   "fallback": false,
   "quad": [

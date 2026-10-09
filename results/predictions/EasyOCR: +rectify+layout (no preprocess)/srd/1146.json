@@ -4,15 +4,25 @@
    "name": "Auy",
    "qty": 1,
    "price": 3.01
+  },
+  {
+   "name": "Cuny Chicken",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Beel Paltie",
+   "qty": 1,
+   "price": 2.25
   }
  ],
- "subtotal": 512.25,
- "tax": null,
+ "subtotal": 12.25,
+ "tax": 1.01,
  "tip": null,
- "total": null,
+ "total": 13.26,
  "raw_text": "Rihanna's Caribbean Restaurant\n12709 BEECHNUT ST STEIOO\nHOUSTON, TX 77072\n8328902382\nORDER: 12\nCasliier: LeeLee\nAuy 2018 3. 01 4OP\nCuny Chicken S10.00\nBeel Paltie S2.25\nSubtotal 512.25\nTax S1.01\nTotal S13.26\nOuder",
- "checksum": null,
- "runtime_s": 0.42155087599530816,
+ "checksum": false,
+ "runtime_s": 0.4216437920113094,
  "rectify_info": {
   "fallback": false,
   "quad": [

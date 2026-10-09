@@ -13,11 +13,11 @@
  ],
  "subtotal": null,
  "tax": null,
- "tip": null,
+ "tip": 17909.0,
  "total": 3779859.0,
  "raw_text": "cashew nuts chkn 64,500\n1 garlic pepper beef 79 , So0\n1 red urry beef 69.500\nphad thal 64.S00\n4 steamed rice 47,6DD\nSUBTOTAL 325,B00\nService chrg 17 . 909\n107 PPI 34,351]\nTOTAL 3779859\n== ==EETE5==",
  "checksum": null,
- "runtime_s": 5.968662208993919,
+ "runtime_s": 5.968524709009216,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -41,13 +41,13 @@
    "price": 811.0
   }
  ],
- "subtotal": null,
+ "subtotal": 131.0,
  "tax": 12.71,
  "tip": null,
- "total": null,
+ "total": 143.71,
  "raw_text": "Katona Sush1\n2010 Hewitt AvB\nEverett, WA 90201\n425-512-9361\nXr*#**#x\nServer: Michuu| C\n05/11/18 8 : 47 PM\nCheck #93 Table 02\nHamachi Collar 812.00\nMega Poke Bow1 817.00\nHamach) Sashim 1 812.00\nMaguro Sashimi 811.00\nSalmon Sashimi 810.00\n3 Sockeye SaImon Sashim i\n536.00\nHamachi Japapeno 812-00\nSa]mon Collar 810.00\nEscolar S Sashimj 811.00\nSubtotal 8131.00\nTax $12.71\nTota) 8143.71\n#*xxxxxx 157.A1\nThank You for your visit.",
- "checksum": null,
- "runtime_s": 7.087231375000556,
+ "checksum": false,
+ "runtime_s": 7.087258749015746,
  "rectify_info": {
   "fallback": false,
   "quad": [

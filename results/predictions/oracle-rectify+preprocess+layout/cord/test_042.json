@@ -6,13 +6,13 @@
    "price": 15000.0
   }
  ],
- "subtotal": null,
+ "subtotal": 15000.0,
  "tax": null,
  "tip": null,
- "total": 15000.0,
+ "total": null,
  "raw_text": "aoae we ow\nmee women wwe ome wm: - -\n| Chicken HOC, IPcs\n-\n15.000\na dd\ncub Total 15,000\nP.Pest I % 1.590\nvot ‘Us\nKembal 33, £00\nwae wee eer em fe ew ewe\n-\n-—-\nwee\n| Jtens,\nwa-s*\n———ee",
  "checksum": null,
- "runtime_s": 15.159593499820858,
+ "runtime_s": 15.159662791818846,
  "rectify_info": {
   "fallback": true,
   "quad": null,

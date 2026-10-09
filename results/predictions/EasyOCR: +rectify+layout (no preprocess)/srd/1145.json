@@ -39,10 +39,10 @@
  "subtotal": 80.87,
  "tax": 4.27,
  "tip": null,
- "total": null,
+ "total": 65.14,
  "raw_text": "3035' IL8 W` KENNEDY MEXICAN BLVo\nTAMPA\n(813) 876 2587\n127 MISSY\nTb] 82/1 Chk 55 Gst\nDec26 ' 12 04;41PM\n3 WATER 0.00\nCRAB SUIZA 13.25\nSHRIMP VERACRUZ 14.95\nENCHILADA 4.95\nFAJITA BF 13.95\n*#TAKE OUT** 0.25\nHh MIGUELS MARGARIT 3.38 13.52\nSubtotal 80. 87\nTax 4.27\n05: I9PM Total 65 14\nPLEASE Pav Voir CfpiFR",
- "checksum": null,
- "runtime_s": 0.7124044169904664,
+ "checksum": false,
+ "runtime_s": 0.712480999995023,
  "rectify_info": {
   "fallback": false,
   "quad": [

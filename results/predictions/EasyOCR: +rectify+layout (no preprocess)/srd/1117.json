@@ -8,11 +8,11 @@
  ],
  "subtotal": null,
  "tax": null,
- "tip": null,
+ "tip": 15.0,
  "total": null,
  "raw_text": "KOBE 69838 HIRAGE JAPANESE highhay Ca: 92270 StEAK 441 -2837\nRANCHO 760-324-1717\nServer ID:\nSale\nXXX 'XXXX4757\nVISA Entry Hethod; Chip\nAmount:$ 158.07\nTip: 15 00\nTotal:\n02/249 20,31:12\nInv #; O0o000061 Appr Code; B39QUL\nApprvd; Online\nVISA DEBIT\nAID; A000D0OOOSIOLO\nTVR; 80 80 00 80 O\nTSI: 60 Q\nCustomer Copy",
  "checksum": null,
- "runtime_s": 2.7976669589988887,
+ "runtime_s": 2.7976058750064112,
  "rectify_info": {
   "fallback": false,
   "quad": [

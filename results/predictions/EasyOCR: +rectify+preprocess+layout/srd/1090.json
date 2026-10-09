@@ -1,6 +1,11 @@
 {
  "items": [
   {
+   "name": "LIttle Hanburger",
+   "qty": 1,
+   "price": 5.19
+  },
+  {
    "name": "Large Fry",
    "qty": 1,
    "price": 65.79
@@ -14,10 +19,10 @@
  "subtotal": 30.31,
  "tax": 92.35,
  "tip": null,
- "total": 532.68,
+ "total": 32.68,
  "raw_text": "FIVE GUYS\nSTCRE CA-1651\n2640 Reyrolds Ranch Fkw Ste 140\nLodl cA 95240\nPnono (209)/333-9750\nI:00:17 Pr\n5/25/2017 Ordar id: AAAPzfIhaebP\nFIv GUyS\nEnployee: Robert €\nLIttle Hanburger s5.19\nLettorce So.00\nPickles S.0\nTonatoes SL.CO\nGr Illed Olons So.00\nGrIIled Kushronas S.00\nKustard {.0\nKetchup S.0\nJolapeno Peppers S.C\nLarge Fry (65.79) S11.5e\nLarga Soda 82.9\nChaeseburger s7.6:\nHoyo {0.0\nLettuce S.0\nPIcklee So.00\nB8O Souko $.0\nRogular Sodo 92.70\nSub Total {30.31\nSoles Tax 92.35\nOrder Total 532.68\nKasterCard 532.68\nCardi: '849089888462331\nAuthorIzatlon; 728762\nOrder Closed\n010t06600660000000000000000000\nDon 't throm dway yolr recelet! !!\nHlp Flve Guye &d you could wlnl\nLog ollne to wni. flvoguys.coa/survey\nond fIll out brlef survey}\n10 uky people wIII wln\nFlve Guys Gift Card each eth\nworth $25 eachl\nN purchasa necessary\nSweapstakes ends 12/31/2017 .\nHust be at least 18 years old &d\nsubalt survey wlthln 30 days\nof tha recelpt date t enter _\nPlease vlslt Kan: flveguys coa/survey\nfor Officlal Rules &d hon to enter\nwlthout paklng & purchase or\ncopleting survey .\nVold where prohlblted,\n1t1",
  "checksum": false,
- "runtime_s": 5.068498583990731,
+ "runtime_s": 5.068724500975804,
  "rectify_info": {
   "fallback": false,
   "quad": [

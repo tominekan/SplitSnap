@@ -17,7 +17,7 @@
  "total": 47000.0,
  "raw_text": "Wmncim;c\nSTIX ECLAIRS\nX 19,000 19,000\nALMOND CREAM CHEESE\n28,000 28,000\nSUB TOTAL\n47,000\nGRAND TOTAL\n47,000\nVISA 8945\n47,000\nCHANGE DUE",
  "checksum": true,
- "runtime_s": 6.454865374995279,
+ "runtime_s": 6.454749708995223,
  "rectify_info": {
   "fallback": false,
   "quad": [

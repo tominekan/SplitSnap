@@ -19,10 +19,10 @@
  "subtotal": 44.2,
  "tax": null,
  "tip": null,
- "total": 847.7,
+ "total": 47.7,
  "raw_text": "El Heson Hexican Restaurant\nEenlnn Unit\nCASTLE ROCR CO 80104\n(720) 733-9705\nServer: ICOR Stat ion: 33\nOrder 18533 Dine\nTable: Guests:\nSOPA DE TORTILA BOML\nTaco SaLad\nChkM\nKOUSE MARGARITA JunbO 12,50\nDr Pepper\nSIDE cheese\nHOUSE MARGARITA JUMBO 12.50\nSUB TOTAL: 44.20\nIax I: 3.50\nTOTAL; 847,70",
  "checksum": false,
- "runtime_s": 0.6208802079927409,
+ "runtime_s": 0.6209573329833802,
  "rectify_info": {
   "fallback": false,
   "quad": [

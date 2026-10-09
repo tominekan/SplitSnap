@@ -14,10 +14,10 @@
  "subtotal": 25.3,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 27.08,
  "raw_text": "MIGUELS MEXICAN\n3035 Renyedy DlYu\nTada\n(813) 876 2587\n187 MEGAN\nTbl 42/1 Ck 3923\nJulcs\"17 05,5294\nDINE IN\nWaTER\nEncH MVERDE 12.50\nEwch MaMvEL 12.80\nSubtotal 25.30\n1.78\n05:IIPM Total 27 08\nPLEASE PaY YCUR SERVER\nThakK YW\nFor ChoCSING HIGUELS CAFE",
- "checksum": null,
- "runtime_s": 0.5924651239911327,
+ "checksum": false,
+ "runtime_s": 0.5925343739654636,
  "rectify_info": {
   "fallback": false,
   "quad": [

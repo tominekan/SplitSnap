@@ -1,6 +1,11 @@
 {
  "items": [
   {
+   "name": "TIKKA NASALA",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
    "name": "PALAK SINNCH",
    "qty": 1,
    "price": 818.0
@@ -12,7 +17,7 @@
  "total": null,
  "raw_text": "44$T0 C + $ +\nNAKE: CHARES\nEeces ?3yfelit Card\n81 {iket }2/31/2o18 6.06:02 Px\nStatiOn: 01\nSo happy ahut your vlsit!\nItea Count: 8\nTIKKA NASALA S20.00\nCHTCKEN (RGH)\nPALAK SINNCH 818.00\nPANEER (CHEESE)\nVEGAN BEMGAM B4RRTA? Si7.0\n= 73S\nSubtotal 855\nT8ta1 before tip: 5\nTip anount:",
  "checksum": null,
- "runtime_s": 3.1551557929924456,
+ "runtime_s": 3.1550834589870647,
  "rectify_info": {
   "fallback": false,
   "quad": [

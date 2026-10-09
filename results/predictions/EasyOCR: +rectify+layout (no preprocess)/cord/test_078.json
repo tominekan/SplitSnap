@@ -17,7 +17,7 @@
  "total": 30000.0,
  "raw_text": "F\nLemon Tea (L) 25, 000\nExtra Jelly Lychee 5, 000\nTOTAL 30,000\nCASH 30. 000\nCHANGED 0",
  "checksum": null,
- "runtime_s": 12.25647629199375,
+ "runtime_s": 12.25481695801136,
  "rectify_info": {
   "fallback": false,
   "quad": [

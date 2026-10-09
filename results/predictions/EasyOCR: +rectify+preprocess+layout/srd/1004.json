@@ -6,6 +6,11 @@
    "price": 9.39
   },
   {
+   "name": "AVOCADO",
+   "qty": 1,
+   "price": 1.95
+  },
+  {
    "name": "MD. DRINK",
    "qty": 1,
    "price": 2.29
@@ -17,12 +22,12 @@
   }
  ],
  "subtotal": null,
- "tax": null,
+ "tax": 1.4,
  "tip": null,
  "total": 16.03,
  "raw_text": "GOLDEN BOWL_TERIYAKI\n8610 GARFIELD AVE\nSQUTH GATE; CA _ 90280\nTEL: (662) 928-8999\nREG 05-18-2019 11;19 AM\nManager1 MC #01 0Q0141\nORDER# Coo14 1\n#1 CHKN PLATE $9.39\nAVOCADO S1.95\nMD. DRINK $2.29\nXHERE\nTAX S1.40\nTOTAL $16.03\nCASH S20. 00\nCG 84.97",
  "checksum": null,
- "runtime_s": 3.9738625420141034,
+ "runtime_s": 3.973763500005589,
  "rectify_info": {
   "fallback": false,
   "quad": [

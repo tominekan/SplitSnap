@@ -1,6 +1,11 @@
 {
  "items": [
   {
+   "name": "Shr Imp Scampi",
+   "qty": 1,
+   "price": 527.0
+  },
+  {
    "name": "Veal MI lanese",
    "qty": 1,
    "price": 527.0
@@ -29,10 +34,10 @@
  "subtotal": null,
  "tax": 512.51,
  "tip": null,
- "total": 157.51,
+ "total": 145.0,
  "raw_text": "Calager0' &\nCaloger0' s\n919 FrankI ln Ave:\nGarden Clty; Ny 11530\n516-2942922\nTable #2\nTr ans 0: 137017 Ser v: Manager 2\n4/20/2018 8:29 PM Cust:4 E==\nQuan Descr Ipt Cost\nShr Imp Scampi 527 . 00\n2 Chicken MI lanese S46. 00\n1 Veal MI lanese 527. 00\n3 Grey Goose 830. 00\nPIneapple Julce 53. 00\nBelvedere $12.00\nBecks Non Alcohol Ic $6. 68\nCorona $6.\nComp Item (S12. 00)\n~==38 33=\nNet Total: S145.00\nTax 512.51\nTOTAL: 5157. 51\nAmount Due: $157.51\nfOllOw US ON\nFACEBOOK AND INSTACRAM",
  "checksum": null,
- "runtime_s": 6.358047290996183,
+ "runtime_s": 6.35808191698743,
  "rectify_info": {
   "fallback": false,
   "quad": [

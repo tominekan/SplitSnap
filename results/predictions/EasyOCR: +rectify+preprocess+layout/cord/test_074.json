@@ -11,6 +11,11 @@
    "price": 32000.0
   },
   {
+   "name": "BEVERAGE",
+   "qty": 1,
+   "price": 64000.0
+  },
+  {
    "name": "GRILLED CALAMARI",
    "qty": 1,
    "price": 85000.0
@@ -32,7 +37,7 @@
  "total": null,
  "raw_text": "BLACKCURRANT 32 ,000\nSPRITE 32 ,000\n* BEVERAGE 64 , 000\nGRILLED CALAMARI 85, 000\nDINE FOR 2 129,000\nDANISH FISH & CHIPS DF\nNEW YORK FISH & CHIPS\n#* FooD 214,000\nSUBTTL 278,000\nService Charge 22,240\nTAX 30 ,024\nTOTAL 330 264",
  "checksum": null,
- "runtime_s": 6.501335625012871,
+ "runtime_s": 6.501232209004229,
  "rectify_info": {
   "fallback": false,
   "quad": [

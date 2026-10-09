@@ -44,30 +44,15 @@
    "name": "Make It Blue",
    "qty": 1,
    "price": 5.0
-  },
-  {
-   "name": "Subtota",
-   "qty": 1,
-   "price": 167.0
-  },
-  {
-   "name": "Tota",
-   "qty": 1,
-   "price": 179.94
-  },
-  {
-   "name": "Ba Tance Due",
-   "qty": 1,
-   "price": 179.94
   }
  ],
- "subtotal": null,
+ "subtotal": 167.0,
  "tax": 12.94,
  "tip": null,
- "total": null,
+ "total": 179.94,
  "raw_text": "SASKA 'S\n3768 Mission Blvd\nSan Diego CA 92109\n(858) 488-7311\nServer : Sue 08/15/2017\nTable 103/1 5.51 PM\nGuests; 2 10005\nReprint #:\nDraft Blackhouse 7.00\n\"Cowboy 1602 Ribeye 45.00\nMake It Blue 5,00\nAdd Lobster 21.00\nCK Manhattan (2 05,00) 10,00\nWhistle Pig Rye Oyr (2 020.00) 40.00\n(2)BMOD Up\n\"Duke 1602 Top Sirloin 34,00\nMake It Blue 5,00\nSubtota] 167 .00\nTax 12,94\nTota | 179,94\nBa Tance Due 179.94\nSUGGESTED TIP\nBEFORE DISCOUNTS\n18X =430,06\n20x =033.40}\n228 =1436,74",
- "checksum": null,
- "runtime_s": 1.792276166001102,
+ "checksum": false,
+ "runtime_s": 1.7924289580114419,
  "rectify_info": {
   "fallback": false,
   "quad": [

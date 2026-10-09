@@ -12,7 +12,7 @@
  "total": 40000.0,
  "raw_text": "74\n2 [MDi SOFT STEAMED CHEESEC 20,000\n2 [MD] SOFT STEAMED CHOCCCA 20,00o\nTOTAL 40 ,000\nCASH 106,000\nCHANGE 60,000",
  "checksum": null,
- "runtime_s": 4.502022165994276,
+ "runtime_s": 4.501390707999235,
  "rectify_info": {
   "fallback": true,
   "quad": null,

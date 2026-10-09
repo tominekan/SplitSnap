@@ -12,12 +12,12 @@
   }
  ],
  "subtotal": 836.0,
- "tax": 83.19,
+ "tax": 3.19,
  "tip": 87.2,
- "total": null,
+ "total": 46.4,
  "raw_text": "CHLOE81\n81 Ludlow St\nNew York, NY 10002\nTel 212 677-0067\nCheck Name: HHANG ,HYUN\nServer; Bar\nDate: 08/03/18\nTable: Guests:\n~[Seat 1]\n2 HOUSE VODKA 824.00\n1 HOUSE TEQUILA 812,00\nSubtotal; 836 ,00\nTax: : 83,19\nSub w/Tax: 839. 19\nGratuity: 87,20\nAmt Due: $46 40\nVisa EMV 846 , 40\nTe",
- "checksum": null,
- "runtime_s": 4.061466667015338,
+ "checksum": false,
+ "runtime_s": 4.061395042008371,
  "rectify_info": {
   "fallback": false,
   "quad": [

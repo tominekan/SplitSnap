@@ -4,15 +4,25 @@
    "name": "Sunnyvale; CA",
    "qty": 1,
    "price": 6.35
+  },
+  {
+   "name": "Koobldeh x7",
+   "qty": 1,
+   "price": 115.5
+  },
+  {
+   "name": "Nan-O-Sabzl",
+   "qty": 1,
+   "price": 8.95
   }
  ],
- "subtotal": null,
- "tax": null,
+ "subtotal": 146.85,
+ "tax": 13.22,
  "tip": 522.4,
- "total": null,
+ "total": 160.07,
  "raw_text": "L\nChelokababl\n1236 $ Wolfe Rd Aug 18, 2018\nSunnyvale; CA 94086 6.35 PM\n(408) 737-1222 Server\nchelokababi,com\nTlcket: D2\nFOR HERE\nKoobldeh x7 S115.50\n(S16,50 each)\nWell Done\nVery well done\nNan-O-Sabzl S8.95\n18% Gratuity Tanks:) 522.40\nSubtotal 5146.85\nSales Tax S13.22\nTotal S160.07\nMercil\nThank you very muchl",
- "checksum": null,
- "runtime_s": 5.657760083980975,
+ "checksum": false,
+ "runtime_s": 5.657685374986613,
  "rectify_info": {
   "fallback": false,
   "quad": [

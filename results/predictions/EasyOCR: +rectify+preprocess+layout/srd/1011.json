@@ -1,12 +1,18 @@
 {
- "items": [],
- "subtotal": null,
- "tax": null,
+ "items": [
+  {
+   "name": "Wells Fargo",
+   "qty": 1,
+   "price": 64.43
+  }
+ ],
+ "subtotal": 59.11,
+ "tax": 5.32,
  "tip": null,
- "total": null,
+ "total": 64.43,
  "raw_text": "Quick %n3} smoke City Market\nszzoan Nuys Bav8\nSherman aks C491401\n818 855 1280\nFenved Rebecca Rebeececca 8 8 Jun 26 15 04 55 S1 PM\nID 234673 #1 S36 86\nBeef Ribsg bs @ S19 sonbs S8 50\n1 Pelgd Pork Sand SO. 00\n'Reg S3 35\nCreamed Cac Scalese[sm] S4 20\n1 coogboate Gake[Slce; S3 95\nChocolate S2 25\nFountain Soda\nSubtotal S59 11\nCA Sales Tax S5 32\nTotal S64.43\nWells Fargo S64.43\nChange So.00\nThank You for Visiting\nPlease visit our website\nW smokecitymarket com\nEnjoy our BBQ? 'Like' us on\nfacebook and Yelp\nPlease rate US on Zagat\nN zagat com/rlsmoke-city-market-van-nuy",
- "checksum": null,
- "runtime_s": 7.536061916995095,
+ "checksum": false,
+ "runtime_s": 7.536211790997186,
  "rectify_info": {
   "fallback": false,
   "quad": [

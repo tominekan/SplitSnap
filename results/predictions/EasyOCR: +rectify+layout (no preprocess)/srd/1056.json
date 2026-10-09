@@ -11,6 +11,11 @@
    "price": 12.0
   },
   {
+   "name": "House Recipe",
+   "qty": 1,
+   "price": 26.0
+  },
+  {
    "name": "Sandia Margarita (013.00/ea",
    "qty": 2,
    "price": 11.0
@@ -24,6 +29,11 @@
    "name": "Queso Fresco Guacamole",
    "qty": 1,
    "price": 12.0
+  },
+  {
+   "name": "Queso Fundido Mexican Street Corn Dip",
+   "qty": 1,
+   "price": 8.0
   },
   {
    "name": "SaIsa Taquitos De MoIcajete Carne Asada (@15,00/ea",
@@ -49,11 +59,6 @@
    "name": "Queso Fundido Mexican Street Corn Dip",
    "qty": 1,
    "price": 12.0
-  },
-  {
-   "name": "Sub-tota",
-   "qty": 1,
-   "price": 152.0
   }
  ],
  "subtotal": 164.0,
@@ -62,7 +67,7 @@
  "total": null,
  "raw_text": "98 ZOCA GARFIELD RESTAURANT PARKWA\nBETHANY BEACH; DE 19930\n((302) 616-2120\nWWW. ZOCA. RESTAURANT\n7/30/19\nCheck #: 5033 7;53 PM\nServer : Madi Guests: 5\nTable; 31/2\n8,00\nFlying Dog Numero Uno BTL 12.00\nHouse Recipe 26 . 00\n2 Sandia Margarita (013.00/ea) 11.00\nTotem Honey Bee 12,00\nQueso Fresco Guacamole 12,00\nQueso Fundido Mexican Street Corn Dip 8 , 00\n2 SaIsa Taquitos De MoIcajete Carne Asada (@15,00/ea) 30, 00\nTaquitos Baja Ca] ifornia Shrimp 14,00\nMole Enchi Iada 19,00\nQuesadi I Ia Chicken 12.00\nSub-total 164,00\nCOMPLIMENTARY\nITEM COMPS ;\nQueso Fundido Mexican Street Corn Dip\n12,00\nSub-tota] 152, 00\nSa les Tax 0.00\ntotal",
  "checksum": null,
- "runtime_s": 3.3493833749962505,
+ "runtime_s": 3.349418207013514,
  "rectify_info": {
   "fallback": false,
   "quad": [

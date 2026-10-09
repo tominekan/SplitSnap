@@ -11,13 +11,13 @@
    "price": 20000.0
   }
  ],
- "subtotal": null,
+ "subtotal": 40000.0,
  "tax": null,
  "tip": null,
  "total": 40000.0,
  "raw_text": "J6\nTHAI ICED TEA 20 .000\n@20 . 000\nTHAI ICED TEA\n@20 . 000 20,000\nSUB-TOTAL 40 , 000\nGRAHDTOTAL 40,000\nCASH 100 , 000\nCHANGED 60 , 000",
- "checksum": null,
- "runtime_s": 3.885548000005656,
+ "checksum": true,
+ "runtime_s": 3.885415542026749,
  "rectify_info": {
   "fallback": false,
   "quad": [

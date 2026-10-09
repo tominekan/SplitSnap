@@ -16,13 +16,13 @@
    "price": 2.0
   }
  ],
- "subtotal": null,
+ "subtotal": 7.0,
  "tax": null,
  "tip": null,
  "total": 62.7,
  "raw_text": "KALOOKIS\n6-2 03/14/2015 8:12 Pm\n0 cte 5J00\nDlne Ia Denlte\nItam Unlt Prlce\nCrkcken Flngaro .0 B.00\nSplay Shrlp 20.00 2o.00\nsieamod Flan L9 25.00 25.00\nBotllad Watcr 2.00 600\nSubtotal S7.00\nServlce Charqe '0% 5.70\nTotal 62.70\nThawk You\nKalooklt\nBay Road, Blue Hxllo\n01649 Provldenclales\n6493321)88",
- "checksum": null,
- "runtime_s": 4.744837874997756,
+ "checksum": false,
+ "runtime_s": 4.744776125022327,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -6,6 +6,11 @@
    "price": 5.0
   },
   {
+   "name": "BRUSSELS SPROUTS",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
    "name": "GRILLED CHEESE",
    "qty": 1,
    "price": 12.0
@@ -17,12 +22,12 @@
   }
  ],
  "subtotal": 40.5,
- "tax": 3.85,
+ "tax": 40.5,
  "tip": null,
  "total": 44.35,
  "raw_text": "###########tt# ##t#ttttttttttmf#\nlaurel Tavern Hermosa Beach\n1220 Ilerinosa Beach\nHermosa Beach , CA 90254\nTel _\n01/12/19 1;23 PM\nWaiter 80 Sophie\nTable 501 Cust\nOrder 1388\n#\nBTL BEER 5.00\nBRUSSELS SPROUTS 8 . 00\nCANTONESE TENDERS 11.00\n'GRILLED CHEESE \"12.00\n$ ADD GARLIC FRIES 4.50\nTaxable: 40 . 50\nSub-total: 40, 50\nTaxes: 3.85\nTotal Due: 44.35\nTHANK YOU!\nALWAYS DRIVE SAFELY\nPlease visit our website:\nWWw , laureltavern coM\nINSTAGRAH; @laurel tavern",
  "checksum": false,
- "runtime_s": 4.323014291003346,
+ "runtime_s": 4.323001791010029,
  "rectify_info": {
   "fallback": false,
   "quad": [

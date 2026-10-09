@@ -27,12 +27,12 @@
   }
  ],
  "subtotal": null,
- "tax": null,
+ "tax": 1.44,
  "tip": null,
- "total": null,
+ "total": 19.44,
  "raw_text": "3-08-10 L1 T2 3:04 PM\nVOUR GUEST NUMBER IS\n25\nIn-N-Out BURGER ESCONDIDO\n3:02 PM\n30;-08-10 247 2 480 2152\n@rnen: ADAN EL\nCeek 25\nCounter-Eat In\nDc IDb ] 3,30\nWO K M\nSX3 4,35\nGR $ only\nFF 1,.60\nFF Anima] 3,50\nLg Coke 1 70\nMea Coke 1,50\nShk 2.05\ncounter-Eat In 18 00\nTAX 8 00% 1 44\nAmount Due $ 19 44",
  "checksum": null,
- "runtime_s": 2.9557821240014164,
+ "runtime_s": 2.9556996249884833,
  "rectify_info": {
   "fallback": false,
   "quad": [

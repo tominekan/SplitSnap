@@ -19,10 +19,10 @@
  "subtotal": 38.95,
  "tax": 3.21,
  "tip": null,
- "total": null,
+ "total": 42.16,
  "raw_text": "PAPRADEAVX\nSEAFOOD KITCHEN\nPappadeaux Seafood KItchen (612)\n7800 Alrport BIvd (HOU)\nHouston, Tx 77061\n(713) 847-7622\n0089 Table 7 #Party 2\nDANIEL 0 SvrCk: 7 12:46 01/07/17\nDINE IN\nSide Craw Etouffee 4oz 10.98\nPan Seared Ti apia 21.99\n2 Tea 5.98\nSub Total: 38,95\nTax: 3,21\nSub Total: 42,16\n01/07 13;29 TOTAL : 42 . 16\nThank you for dining at Pappadeaux!\nTip Not Included\n15% 6,32\n187 7,59\n20x 8 ,43",
- "checksum": null,
- "runtime_s": 4.978941166991717,
+ "checksum": true,
+ "runtime_s": 4.978919958986808,
  "rectify_info": {
   "fallback": false,
   "quad": [

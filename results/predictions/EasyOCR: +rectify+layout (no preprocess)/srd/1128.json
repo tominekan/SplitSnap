@@ -1,12 +1,38 @@
 {
- "items": [],
- "subtotal": null,
- "tax": null,
+ "items": [
+  {
+   "name": "Classic Michelada",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Classic Michelada",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Don Julio Anejo",
+   "qty": 1,
+   "price": 15.0
+  },
+  {
+   "name": "Classic Michelada",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Balam Macurado",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 63.0,
+ "tax": 5.99,
  "tip": null,
- "total": null,
+ "total": 68.99,
  "raw_text": "KRAMRAS\nMEXICAN CUISINE & BARL\nKALAVERAS BELLFLOWER\n16530 BELLFLOWER BLVD\nBFLLFLOWFR, CA 90706\n5624610599\nhttp //wwwkalaveras com/\nORDER: Bar B11\nCashier: BAR PM\n30-Aug ?019 3.24:1OP\nClassic Michelada S12.00\nClassic Michelada S12.00\nDon Julio Anejo S15.00\nClassic Michelada S12.00\nBalam Macurado S12.00\nSubtotal S63.00\nTax S5.99\nTotal S68.99\nThank you for your visit!\n83V4QQC31PPMT\nOicler 83VAQ0C3IPPMT",
- "checksum": null,
- "runtime_s": 2.2055373329785652,
+ "checksum": true,
+ "runtime_s": 2.2055641249899054,
  "rectify_info": {
   "fallback": false,
   "quad": [

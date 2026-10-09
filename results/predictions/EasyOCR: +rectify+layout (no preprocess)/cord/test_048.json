@@ -9,20 +9,15 @@
    "name": "PBI",
    "qty": 1,
    "price": 2272.0
-  },
-  {
-   "name": "Tota",
-   "qty": 1,
-   "price": 25000.0
   }
  ],
  "subtotal": 22728.0,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 25000.0,
  "raw_text": "IX S-HazeInut KOI Cafe @25,000 25 ,000\n258\nLess Ice\nPBI 2,272\nSubtotal 22,728\nTota] 25,000\nCash: 100,000\nCHANGE: 75,000",
- "checksum": null,
- "runtime_s": 3.4110652090021176,
+ "checksum": false,
+ "runtime_s": 3.4109457090235082,
  "rectify_info": {
   "fallback": false,
   "quad": [

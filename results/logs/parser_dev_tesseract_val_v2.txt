@@ -1,0 +1,1 @@
+tesseract +rectify+preprocess+layout CORD val F1 0.421 (P 0.522 R 0.352) sub 0.328 tax 0.149 total 0.306 | SRD val total 0.640 (16/25)

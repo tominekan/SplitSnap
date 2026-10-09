@@ -4,15 +4,30 @@
    "name": "26.Fish Goulash",
    "qty": 1,
    "price": 819.95
+  },
+  {
+   "name": "30.Dullet",
+   "qty": 1,
+   "price": 20.95
+  },
+  {
+   "name": "Vegetarian Dish",
+   "qty": 1,
+   "price": 21.95
+  },
+  {
+   "name": "Tox",
+   "qty": 1,
+   "price": 6.91
   }
  ],
- "subtotal": null,
+ "subtotal": 62.85,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 69.76,
  "raw_text": "HAWWI ETHIOPIAN RESTAU\n1126 QUEEN ST\nALEXANDRIA, VA 22314\n7037179740\nORDER: Table 2\nDine In\nCashier: Mosa\n13-Jul-2018 8.53.47P\nTransaction 000016\nGuest 1\n26.Fish Goulash 819.95\n30.Dullet S20.95\n34. Vegetarian Dish S21.95\nSubtotal S62.85\nTox S6.91\nTotal\nS69.76",
- "checksum": null,
- "runtime_s": 6.647697748994688,
+ "checksum": false,
+ "runtime_s": 6.646133332978934,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -1,7 +1,17 @@
 {
  "items": [
   {
+   "name": "GRILLED BABY POTATO (R",
+   "qty": 1,
+   "price": 50500.0
+  },
+  {
    "name": "HOT TUNA",
+   "qty": 1,
+   "price": 67000.0
+  },
+  {
+   "name": "Hot TUNA",
    "qty": 1,
    "price": 67000.0
   },
@@ -17,7 +27,7 @@
  "total": null,
  "raw_text": "GRILLED BABY POTATO (R 50 , 500\nHOT TUNA 67 ,000\nHot TUNA 67 , 000\nDisc 1OOX( ITMO6) ~67 ,000\nSUBTTL 117,500\nSVC CHG 8X 11,070\nPBI 10X 19,557\nTOTAL 148 127",
  "checksum": null,
- "runtime_s": 2.3602622489997884,
+ "runtime_s": 2.3597383739834186,
  "rectify_info": {
   "fallback": false,
   "quad": [

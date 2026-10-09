@@ -17,7 +17,7 @@
  "total": 63000.0,
  "raw_text": "6 TWIST DONUT 54,000\nREDBEAN BREAD 9,000\nTOTAL 63,000\nCASH 70 , OOC\nCHANGE 7,000",
  "checksum": null,
- "runtime_s": 6.279513083980419,
+ "runtime_s": 6.279375792000792,
  "rectify_info": {
   "fallback": false,
   "quad": [

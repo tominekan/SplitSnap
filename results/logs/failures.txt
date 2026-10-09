@@ -38,9 +38,9 @@ Likely cause: small purple print: leading price digits dropped or misread (38,00
 | Fish n Chips | 65,000 | fushroom Soup | 33,000 |
 | Mushroom Soup | 35,000 | Iced Tea | 9,000 |
 | Chamomile | 25,000 | Coupon | 100,000 |
-| Iced Tea | 20,000 |  |  |
+| Iced Tea | 20,000 | CAS | 200,000 |
 
-True subtotal / tax / total: 238000.0 / 25585.0 / 281435.0; predicted: None / None / None
+True subtotal / tax / total: 238000.0 / 25585.0 / 281435.0; predicted: 238000.0 / None / None
 
 ### test_061 (item F1 0.00)
 

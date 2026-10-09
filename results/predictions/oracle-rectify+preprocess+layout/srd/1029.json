@@ -57,7 +57,7 @@
  "total": 30.98,
  "raw_text": "RINCON MEXICANO\n99 BROADWAY\nSOMERVILLE, MA 02145\n6179661387\nORDER: 45\nDine In\nCashier: LORENZO REYES\n09-May-2017 7:19:46P\n2 = Arroz $3.00\n2 Taco De Pescado $7.00\n2 Taco Tuesday Pollo $2.00\n1 Taco D Carne Asada $2.99\n1. Taco D Chorizo $2.99\n1 Taco Tuesday Pastor $1.00\n1 Horchata $2.99\n1 Taco Tuesday Pollo $1.00\n1. Taco D Cochinita $2.99\n1 Taco D Carnitas $2.99\nSubtotal $28.95\nTax $2.03\nTotal $30.98\nOrder 7JTQG?77X6ANRB",
  "checksum": true,
- "runtime_s": 2.782838333016116,
+ "runtime_s": 2.7829612500208896,
  "rectify_info": {
   "fallback": false,
   "quad": [

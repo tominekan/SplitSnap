@@ -4,6 +4,11 @@
    "name": "Lemon Tea (L",
    "qty": 1,
    "price": 28000.0
+  },
+  {
+   "name": "Mike Berry",
+   "qty": 1,
+   "price": 7000.0
   }
  ],
  "subtotal": null,
@@ -12,7 +17,7 @@
  "total": 88000.0,
  "raw_text": "Kad\nLemon Tea (L) 25. 28. 000 000\nMike & Ike Or iginal 28. 00O\nMike & Berry 7 . 000\nRoti Keju Manis:\nTOTAL BB, 000\n88, 000 ,\nCASH\nCHANGED",
  "checksum": null,
- "runtime_s": 4.16630012600217,
+ "runtime_s": 4.165803500000038,
  "rectify_info": {
   "fallback": false,
   "quad": [

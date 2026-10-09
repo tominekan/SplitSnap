@@ -29,20 +29,15 @@
    "name": "Southern Comfort",
    "qty": 1,
    "price": 810.99
-  },
-  {
-   "name": "Subtota",
-   "qty": 1,
-   "price": 846.54
   }
  ],
- "subtotal": null,
- "tax": 83.84,
+ "subtotal": 846.54,
+ "tax": 3.84,
  "tip": null,
  "total": 850.38,
  "raw_text": "SPtra1 608 E Diner Hickory 8 Bakery St\nDenton , TX 76205\nOrdert 185736\nEat In Order\nServer: Sarah A\nTable: 9\nDate: 6/16/19 , 10;04 Am\nRea / Smooth 87.99\nShort Stack 88,59\nCoffee\nBreakfast QuesadII Ia 813.99 82.99\nNO Sausage +80,00\nGrIIIed SpInach +81.99\nSouthern Comfort 810.99\nSubtota) : 846,54\nTotal Tax; 83,84\nTotal: 850,38\nOrder Balance due; 850,38\nWWW _ Asplraldiner .com\nFo] Iow Us On\nfacebook.com/sptraldiner\nInstagram com/spIraIdiner\nThanks for your business!",
- "checksum": null,
- "runtime_s": 8.685882499994477,
+ "checksum": false,
+ "runtime_s": 8.685894750000443,
  "rectify_info": {
   "fallback": false,
   "quad": [

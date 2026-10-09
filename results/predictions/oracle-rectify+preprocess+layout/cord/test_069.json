@@ -9,6 +9,16 @@
    "name": "EAL HONEY PANCAKE BREAD",
    "qty": 2,
    "price": 20000.0
+  },
+  {
+   "name": "USTARD BRIOCHE",
+   "qty": 4,
+   "price": 36000.0
+  },
+  {
+   "name": "ASH",
+   "qty": 1,
+   "price": 100000.0
   }
  ],
  "subtotal": null,
@@ -17,7 +27,7 @@
  "total": 74000.0,
  "raw_text": "ae en ee ne me ee re eee ee OD ee ee ee ee es ee es es ee ee ee\n1 [MD] SOFT MORNING ROLL 18,000\n2 EAL HONEY PANCAKE BREAD 20,000\n4 ,USTARD BRIOCHE 36 , 000\nTOTAL 74,000\n>ASH 100 , 000\nCHANGE —s-. 26,000\nThar <",
  "checksum": null,
- "runtime_s": 19.473380457941403,
+ "runtime_s": 19.473457374959253,
  "rectify_info": {
   "fallback": false,
   "quad": [

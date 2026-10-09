@@ -4,20 +4,15 @@
    "name": "Propolis Cair",
    "qty": 1,
    "price": 156000.0
-  },
-  {
-   "name": "Sub Tolal",
-   "qty": 1,
-   "price": 156000.0
   }
  ],
- "subtotal": null,
+ "subtotal": 156000.0,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "Propolis Cair 156000\n158000\nSub Tolal 156000\nTunai 156000\nKembalian Rp",
  "checksum": null,
- "runtime_s": 1.1497746250097407,
+ "runtime_s": 1.149789500006591,
  "rectify_info": {
   "fallback": false,
   "quad": [

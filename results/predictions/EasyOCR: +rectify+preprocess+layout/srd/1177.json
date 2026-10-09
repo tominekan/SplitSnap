@@ -19,11 +19,6 @@
    "name": "Stuffed Chicken",
    "qty": 1,
    "price": 17.95
-  },
-  {
-   "name": "Ba Tance Due",
-   "qty": 1,
-   "price": 47.9
   }
  ],
  "subtotal": 45.15,
@@ -31,8 +26,8 @@
  "tip": null,
  "total": 47.9,
  "raw_text": "€ Charro Cafe Ventana\n6910 E SUMRISE Or\nServer Ana 06/24/2018\nTable 24/1 8;00 PM\nGuests: 2\n#30076\nCoors LIght 5,00\nIce Tea 3.25\nShr Imp Faf Ita 18.95\nStuffed Chicken 17,95\nSubtotal 45.15\nTax 2.75\nTotal 47,90\nBa Tance Due 47.90\nEAT FOR FREEY! !",
- "checksum": false,
- "runtime_s": 4.768685500006541,
+ "checksum": true,
+ "runtime_s": 4.7685825420194305,
  "rectify_info": {
   "fallback": false,
   "quad": [

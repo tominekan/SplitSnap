@@ -9,15 +9,20 @@
    "name": "SALMON PESTO",
    "qty": 1,
    "price": 85500.0
+  },
+  {
+   "name": "PBI",
+   "qty": 1,
+   "price": 18126.0
   }
  ],
- "subtotal": null,
+ "subtotal": 85500.0,
  "tax": null,
  "tip": 10260.0,
  "total": 113886.0,
  "raw_text": "SALMON PESTO 85, 500\nSALMON PESTO 85,500\nDisc -10O% ( ITMO6) -85, 500\nSUBTTL 85 , 500\nSVC CHG 67 10,260\nPBI 108 18 , 126\nTOTAL 113,886",
- "checksum": null,
- "runtime_s": 7.55521433299873,
+ "checksum": false,
+ "runtime_s": 7.555079625002691,
  "rectify_info": {
   "fallback": false,
   "quad": [

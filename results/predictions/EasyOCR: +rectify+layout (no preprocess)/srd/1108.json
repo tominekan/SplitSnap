@@ -9,20 +9,15 @@
    "name": "bevcrage",
    "qty": 1,
    "price": 52.29
-  },
-  {
-   "name": "Rotal",
-   "qty": 1,
-   "price": 852.06
   }
  ],
  "subtotal": 640.54,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 852.06,
  "raw_text": "Yong?\n6661 Eeantore Ranch Rd;\nRocklin 95677\n916-632-0828\nReccipt; mongo-042441\nDaec: 2018 5:48:07 Pm\nServcd bY : Kanager\nIeca Price Qty Valuc\nBBQ Dinner 910,99 547.15\nbevcrage 52. 29\nIcCms Count:\nSubtotal 640.54\n251: 83.52\nRotal 852,06\nCash\nTendered: 552.06\nChange: 60.00",
- "checksum": null,
- "runtime_s": 0.46473574999254197,
+ "checksum": false,
+ "runtime_s": 0.4648065010114806,
  "rectify_info": {
   "fallback": false,
   "quad": [

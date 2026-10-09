@@ -16,13 +16,13 @@
    "price": 13.95
   }
  ],
- "subtotal": 52.76,
+ "subtotal": 48.85,
  "tax": 3.91,
  "tip": null,
  "total": 52.76,
  "raw_text": "PARBEREAQX\nSEAPOOD KITCHEN\nPappadeaux Seafood Kitchen (030)\n1304 Cope land Rd_ Ar| ington, TX 76011\n(817) 543-0544\nWhw Pappadeaux,coM\n0035 Table 72 #Party 3\nSARAH H SvrCk: 2 12:11 11/18/17\nDINE IN\nLump Crab & Spinach Dip 15.95\nCajun Combo 18. 95\nLunch Shrimp & Andouille 13.95\nSub Total: 48 . 85\nTax: 3.91\nSub Total: 52 ,76\n11/18 12:45 TOTAL: 52.76\nThank you for dining at Pappadeaux.\nTip Not Included\n158 7,91\n185 9,50\n20X 10,55\ne-Gift Card Payment (19 Digits)\nPresent e-Gift Card for validation.\nOd Aen Dtu Ca%4a",
- "checksum": false,
- "runtime_s": 5.9215023330034455,
+ "checksum": true,
+ "runtime_s": 5.921512332992279,
  "rectify_info": {
   "fallback": false,
   "quad": [

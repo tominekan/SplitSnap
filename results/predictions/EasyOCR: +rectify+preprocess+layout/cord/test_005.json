@@ -1,18 +1,23 @@
 {
  "items": [
   {
+   "name": "TRAD kY TOAST CARTE",
+   "qty": 1,
+   "price": 28182.0
+  },
+  {
    "name": "PB",
    "qty": 1,
    "price": 2818.0
   }
  ],
- "subtotal": null,
+ "subtotal": 28182.0,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "=\nTRAD kY TOAST CARTE 28 . 182\nITEHS 1.00\nSUBTTL 28 . 182\nPB- 1 103 2.818\nTOTal 31 0o0\nCASH 31 -000",
  "checksum": null,
- "runtime_s": 9.665735292001045,
+ "runtime_s": 9.665561207992141,
  "rectify_info": {
   "fallback": false,
   "quad": [

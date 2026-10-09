@@ -9,6 +9,16 @@
    "name": "open FooD",
    "qty": 1,
    "price": 60.0
+  },
+  {
+   "name": "RANESH SAUS",
+   "qty": 1,
+   "price": 60.0
+  },
+  {
+   "name": "PaneeR TIKKA",
+   "qty": 1,
+   "price": 248.0
   }
  ],
  "subtotal": null,
@@ -17,7 +27,7 @@
  "total": 498.0,
  "raw_text": "FTHANE 40o606\n@RLER TEL 022 68737988\nR00024585\nBILL DaTE_And TINE Pax TABLE\n800o06266 09/12/2012 6:14 PH\nCASHIER :CASHIER\nHAITER :HAITER\nOty Henu Itea Amount\nFRENCH FRIES 190.00\nopen FooD 60.00\n1.00 RANESH SAUS 60 . 00\nPaneeR TIKKA 248 . 00\nTotal 498.00\nSERVICE Tax @ 4.94\" 24.60\nGrand Total 523.00\nVatNo 27840289613V\nHihank VOU VISIT AGAIN Ht",
  "checksum": null,
- "runtime_s": 0.7326668750029057,
+ "runtime_s": 0.7327574999944773,
  "rectify_info": {
   "fallback": false,
   "quad": [

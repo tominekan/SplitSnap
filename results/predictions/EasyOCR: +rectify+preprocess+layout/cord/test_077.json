@@ -12,7 +12,7 @@
  "total": 17000.0,
  "raw_text": "TRIPPLE CHEESE\n17,000 17,000\nSUB TOTAL 17,000\nGRAND TOTAL 17,000\nCASH IDR 22,000\nCHANGEDUE 5,000",
  "checksum": true,
- "runtime_s": 6.844145166993258,
+ "runtime_s": 6.8439845419925405,
  "rectify_info": {
   "fallback": false,
   "quad": [

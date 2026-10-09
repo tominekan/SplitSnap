@@ -12,7 +12,7 @@
  "total": 31000.0,
  "raw_text": "TRAD KY TOAST CARTE 28. 182\nITEMS 1.00\nSUBTTL 28. 182\nPB-1 10% 2.818\nTOTAL 31.000\nCASH 31.000",
  "checksum": false,
- "runtime_s": 13.07784583317607,
+ "runtime_s": 13.077882583194878,
  "rectify_info": {
   "fallback": null,
   "quad": null

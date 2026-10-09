@@ -4,15 +4,20 @@
    "name": "Apple French Toast",
    "qty": 1,
    "price": 82.29
+  },
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 10.28
   }
  ],
  "subtotal": 80.62,
- "tax": null,
+ "tax": 10.9,
  "tip": null,
  "total": null,
  "raw_text": "Wer olba\nRiver Vi lage Fanily Restaurant\n22825 Huron River Dr\nRockwood,HI 48173\n(734)236-4033\nServer : Jasmine 08/12/19 Table 8:02 AM 23\nCheck #7\nApple French Toast 87,99 82.29\nCoffee\nS10,28\nSubtotal 80,62\nTax S10.90\nTotal\n2,99 early bird breakfast specia]\nMonday- Friday Tam Bam\nRiver viilage kayaking now Open\nSunday-Thursday 7.0an-9;OOp6\nSriday /Saturday 7 OOan-Geoopn\nPayvat the Cash register\nThank you! !",
  "checksum": null,
- "runtime_s": 1.0215707500028657,
+ "runtime_s": 1.021671000009519,
  "rectify_info": {
   "fallback": false,
   "quad": [

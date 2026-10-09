@@ -4,6 +4,11 @@
    "name": "CRAB CAKE",
    "qty": 1,
    "price": 15.0
+  },
+  {
+   "name": "SKIRT STK LUNCH",
+   "qty": 1,
+   "price": 28.0
   }
  ],
  "subtotal": 43.0,
@@ -11,8 +16,8 @@
  "tip": null,
  "total": 47.09,
  "raw_text": "Ehins HHual'ty\nBOA\n(310) 278-2050\n0051a TABLE 308 #Party 1\nBAR L SvrCk: 13 13;22 12/20/17\nSeparate checks: 1-of-3\nCRAB CAKE 15,00\nSKIRT STK LUNCH 28 , 00\nSub Total: 43.00\nTax: 4.09\nSub Total: 47,09\n12/20 14:29 TOTAL : 47 .09\nSUGGESTED GRATUITY\n18% 8 , 48\n20% 9,42",
- "checksum": false,
- "runtime_s": 3.4403478330059443,
+ "checksum": true,
+ "runtime_s": 3.440262166026514,
  "rectify_info": {
   "fallback": false,
   "quad": [

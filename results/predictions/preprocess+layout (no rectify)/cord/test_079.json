@@ -6,11 +6,6 @@
    "price": 22000.0
   },
   {
-   "name": "otal",
-   "qty": 1,
-   "price": 22000.0
-  },
-  {
    "name": "ndered:s r",
    "qty": 1,
    "price": 22000.0
@@ -19,10 +14,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 22000.0,
  "raw_text": "Le SY OL SE OA ee Se A a te NS AY SOA AO SENS YN eS COR SD He\n1001-Chorco Bun\n22.000 “1 22.000\n6001-Plastic Bag Saall\n0 x1 }\nTotal Itea: 2\notal. 22.000\nash\n=ndered:s r 22,000",
  "checksum": null,
- "runtime_s": 2.5614206670975364,
+ "runtime_s": 2.56148337610648,
  "rectify_info": {
   "fallback": null,
   "quad": null

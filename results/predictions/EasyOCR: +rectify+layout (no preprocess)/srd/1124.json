@@ -1,9 +1,19 @@
 {
  "items": [
   {
+   "name": "Ma Ibec Trivento",
+   "qty": 1,
+   "price": 88.0
+  },
+  {
    "name": "Blood Orange Marg",
    "qty": 1,
    "price": 89.0
+  },
+  {
+   "name": "Cup Ital ian Wedding Soup",
+   "qty": 1,
+   "price": 82.95
   },
   {
    "name": "Spaghetti Marinara",
@@ -29,20 +39,15 @@
    "name": "Ba i Teys",
    "qty": 1,
    "price": 87.0
-  },
-  {
-   "name": "Subtota",
-   "qty": 1,
-   "price": 877.8
   }
  ],
- "subtotal": null,
- "tax": 85.84,
+ "subtotal": 877.8,
+ "tax": 5.84,
  "tip": null,
  "total": 883.64,
  "raw_text": "FIREFLQ\nFirefly American Bistro\n5525 New Albany Road West\nNew Albany , OH 43054\nServer Harry M 12/28/18 7:54 PM\nCheck #140 Table 24\nMa Ibec Trivento 88 , 00\nBlood Orange Marg 89.00\nCup Ital ian Wedding Soup 82 . 95\nSpaghetti Marinara 817 .95\nAdd One Meatba11\nAdd Two Meatba1 1\nFettuccine Alfredo 323. 95\nAdd Steak\nSma ] 1 Wedge Salad (Dinner) 84.95\nCreme Brulee 84.00\nBa i Teys 87.00\nSubtota] 877,80\nTax 85.84\nTotal 883.64\nCome See Us Again!",
- "checksum": null,
- "runtime_s": 2.9489990009897156,
+ "checksum": false,
+ "runtime_s": 2.949200583010679,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -19,10 +19,10 @@
  "subtotal": 38.5,
  "tax": 2.31,
  "tip": null,
- "total": null,
+ "total": 42.74,
  "raw_text": "cristield seafood\nRestaurant\n8012 Georgia Ave.\nSilver Spt ing: MD20910\n(301) 589-1306\nDENIS\nORDER# 134\nCarryout # 8\n12/29/2017 8:38:16 PH GUESTS\nTAKE OUT\nDinner Platters\nCrisfield Special Platter 27.00\nX** CoOk MEDIUM K*xx\nExtras\nPint Bisque 11.50\nSUBTOTAL 38.50\nCarry Out 1.93\nTaX: 2.31\nRegister T#0000144\nTOTAL: 842 74\nLast Serviced 12/29/2017 8:41:08 PM\nThank You!",
- "checksum": null,
- "runtime_s": 2.305150625994429,
+ "checksum": false,
+ "runtime_s": 2.3051204179937486,
  "rectify_info": {
   "fallback": false,
   "quad": [

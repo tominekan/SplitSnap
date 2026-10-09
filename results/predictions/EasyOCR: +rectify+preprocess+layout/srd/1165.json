@@ -14,20 +14,15 @@
    "name": "Del ivery Charge",
    "qty": 1,
    "price": 5.0
-  },
-  {
-   "name": "Anount Due",
-   "qty": 1,
-   "price": 117.0
   }
  ],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 117.0,
  "raw_text": "EL CHICO KEXICAN RESTAURANT\nJBR\nTEL 04-7059680\n1050 Hore 0el\nTbl 1014/1 Chk 1958 Gst\nKvi2' 16 05;41pm\nHome [Je1ivry\nTs Guac 48.00\nGrarve chlcken 64.00\nBuritto\nDel ivery Charge 5.00\nAnount Due 117 .00\n###Thaix You For Comingtte\nHoze De] Iverv No;6o05611 1",
  "checksum": null,
- "runtime_s": 2.4038726660073735,
+ "runtime_s": 2.403805874986574,
  "rectify_info": {
   "fallback": false,
   "quad": [

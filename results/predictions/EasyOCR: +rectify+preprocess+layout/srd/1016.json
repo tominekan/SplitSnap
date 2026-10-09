@@ -4,15 +4,35 @@
    "name": "Person PM",
    "qty": 1,
    "price": 3.03
+  },
+  {
+   "name": "Scallion Pancake",
+   "qty": 1,
+   "price": 5.25
+  },
+  {
+   "name": "Little Juicy Pork Buns",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Beef w Fak: Choy (L",
+   "qty": 1,
+   "price": 8.75
+  },
+  {
+   "name": "Funan Beef (L",
+   "qty": 1,
+   "price": 8.75
   }
  ],
  "subtotal": null,
- "tax": null,
+ "tax": 2.82,
  "tip": null,
- "total": 835.52,
+ "total": 35.52,
  "raw_text": "Chef Wang\n1902 Jericho Turnpike\nNew Ilyde Park NY 11040\nTel : 516.354.2858 Fax 516.776.0587\nA5 1\nDine In # 1022\nServer: lily 02/02/19\nPerson 02.14 PM 03.03 PM\nScallion Pancake S5.25\nLittle Juicy Pork Buns S9.95\nBeef w Fak: Choy (L) S8,75\nFunan Beef (L) s8.75\nSubTolal 83470\nSales Tax S2.82\nTotal 835.52\nThank You\nHave A Nice Day",
  "checksum": null,
- "runtime_s": 5.92775645799702,
+ "runtime_s": 5.927734083001269,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -17,7 +17,7 @@
  "total": 9.58,
  "raw_text": "CAFE PARISIEN LARCHMONT LLC\n242 N LARCHMONT BLVD\nLOS ANGELES, CA 90004\n(310) 815-8222\nDine In\nServer Kimberly L Jan 24,2019\nReceipt. YWGS5S 10:29 AM\nTable: 36\neel\nitem(s)\nCROISSANT AUX RAISINS $4.00\nCappucino $4.75\nSubtotal $8.75\nSales Tax (9.5%) $0.83\nTotal $9.58\nCustomer Copy\neee",
  "checksum": true,
- "runtime_s": 3.4980380840115686,
+ "runtime_s": 3.498128084029304,
  "rectify_info": {
   "fallback": null,
   "quad": null

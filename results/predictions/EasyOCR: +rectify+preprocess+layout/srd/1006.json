@@ -6,6 +6,11 @@
    "price": 520.73
   },
   {
+   "name": "Gbnmont Roi",
+   "qty": 1,
+   "price": 15.03
+  },
+  {
    "name": "SdmonR",
    "qty": 1,
    "price": 85.8
@@ -22,7 +27,7 @@
  "total": null,
  "raw_text": "Aklra\n#aow\nOlenapm _ M130n7\nMctana\nMm_\n516;i 16 16657 &\n37 PICKu?\nHichi Sioakkj\nMed\nNoody S0\nSutNv Doluxo 520.73\nGbnmont Roi s15.03\n1 Pniky R 8.8\nSp Tuna R s13.0\nSdmonR 85.80\nBuxxaxr Tox #8\nTolol: 593.58\nUnpald",
  "checksum": null,
- "runtime_s": 2.1804144580091815,
+ "runtime_s": 2.180375666997861,
  "rectify_info": {
   "fallback": false,
   "quad": [

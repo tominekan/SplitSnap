@@ -6,23 +6,18 @@
    "price": 198000.0
   },
   {
-   "name": "Sub Tolal",
-   "qty": 1,
-   "price": 193000.0
-  },
-  {
    "name": "Korribalian",
    "qty": 1,
    "price": 22000.0
   }
  ],
- "subtotal": null,
+ "subtotal": 193000.0,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "Cuka Apel Tefes #S8000\n198000\nSub Tolal 193000\nTunai 200200\nKorribalian 22000",
  "checksum": null,
- "runtime_s": 3.0872036660148297,
+ "runtime_s": 3.0868609990138793,
  "rectify_info": {
   "fallback": false,
   "quad": [

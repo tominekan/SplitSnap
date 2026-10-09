@@ -1,12 +1,43 @@
 {
- "items": [],
+ "items": [
+  {
+   "name": "Wonton Or Egg Orop Or",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "Egg Roll",
+   "qty": 2,
+   "price": 3.0
+  },
+  {
+   "name": "Juice Chinesse Chop",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Tropical",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Tamal De Pollo",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Tex",
+   "qty": 1,
+   "price": 1.7
+  }
+ ],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 25.94,
  "raw_text": "CASA CHAN AESTAUAANT\n145 Pelin Ave\n'aieon. J3010\n(305) 640-8828\nFind us On instagiam\necasa_chan_tes[aurant facebook Casa\nChan Restaurant\nORDER: 9\nDine In\nCashiet Diana 2\n21-Dec-2014 5.23.42P\n#12 Wonton Or Egg Orop Or S3.75\nMixed Dinner\nWonton Soup SO.0O\n2 #01 Egg Roll S3.00\n#23 Juice Chinesse Chop S8.99\nSuey Honduran Style\nDinner\nTropical S5.00\n2 S2.50/12 0z\nTamal De Pollo S3.50\n@ S3.50/each\nSubtotel S24.24\nTex S1.70\nTotal S25.94\nOrder DMHGRRFIJPM70\nBring back this receipt for 10% off your next\nvisitW :)\nOnline: https:I /clover com/r/\nDMHGRRFIJPM7O",
  "checksum": null,
- "runtime_s": 5.989375500008464,
+ "runtime_s": 5.989447083004052,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -22,7 +22,7 @@
  "total": 39600.0,
  "raw_text": "Ix @12.000 12.000\nArem Arem\n2x @12.000 24.000\nSubtotal Rp 36.000\nTax (10.0%) Rp 3.600\nTotal Rp 39.600\nOther Rp 39.600\no _",
  "checksum": false,
- "runtime_s": 3.129077833102656,
+ "runtime_s": 3.129124957107706,
  "rectify_info": {
   "fallback": false,
   "quad": [

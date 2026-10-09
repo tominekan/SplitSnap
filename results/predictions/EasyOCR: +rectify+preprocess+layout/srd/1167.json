@@ -1,12 +1,18 @@
 {
- "items": [],
+ "items": [
+  {
+   "name": "Pounkan Sodot",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": 533.75,
+ "total": 33.75,
  "raw_text": "Ahanh'\nCos\n31 A1emo On 21.2019\nNta NY 11102 60pm\n03J803\nTlt: Ti\nOtn\nOrkd sbt Skak 320.\nWnom\nPounkan Sodot S3.00\nSutxdl s31,0\nSw Tex\n5275\nTotal\n533.75",
  "checksum": null,
- "runtime_s": 2.6031628339987947,
+ "runtime_s": 2.6030652500194265,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -16,19 +16,24 @@
    "price": 54.95
   },
   {
+   "name": "Sour Cream",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
    "name": "Chihuahua Cheese",
    "qty": 1,
    "price": 81.25
   },
   {
+   "name": "IL Sales",
+   "qty": 1,
+   "price": 1.52
+  },
+  {
    "name": "Restaurant",
    "qty": 1,
    "price": 50.04
-  },
-  {
-   "name": "TOTA",
-   "qty": 1,
-   "price": 516.56
   },
   {
    "name": "Food",
@@ -52,7 +57,7 @@
  "total": 814.85,
  "raw_text": "600 E Grarid Ave\nLalo s Kexican at Navy Pier\nTable 0# Serv 1 Claudia\n8/24/2017 Trans 5:29 64142 PM Cust:\nQuan Descrpt Cost\nBottled Hater 82,45\nAdd Pollo Taco 84,95\nAdd Carnitas Taco 54,95\nSour Cream S1,25\nChihuahua Cheese 81,25\nNet Total: 814.85\nIL Sales S1,52\nMPEA Tax $0.15\nRestaurant 50,04\nTOTA: 516.56\nFood: $12.40\nBeverage; $2.45\nEMVUS 516.56\nA Robinson Hi] L Companv\nIt'$ Tlie ExpehHierce That Counts!\nTel| us dbout your visitl\nw, robirsonhi | Jusa , coHguest-survey",
  "checksum": null,
- "runtime_s": 1.1754962089908076,
+ "runtime_s": 1.1757375839806627,
  "rectify_info": {
   "fallback": false,
   "quad": [

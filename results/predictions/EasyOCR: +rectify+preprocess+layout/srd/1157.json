@@ -1,12 +1,18 @@
 {
- "items": [],
+ "items": [
+  {
+   "name": "12'4(Pm Abouot Oue",
+   "qty": 1,
+   "price": 9.7
+  }
+ ],
  "subtotal": null,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "colLege 0f Squtmern nevada\nRussell '$ Restaurart\n108 SERV\n61 55/1 Chk 488 Gs t\nOct08 '14 12:i0pm\nLatte 15\n'8o Flavor\nSalmon 95\n12'4(Pm Abouot Oue 9 . 70\nCOLlege 0f Southern nevada\nMhere HOSPITALITY Eoucation\nTakes LIfe\nPlease Pay cashieR\nThank You",
  "checksum": null,
- "runtime_s": 2.9517516659980174,
+ "runtime_s": 2.9517050830327207,
  "rectify_info": {
   "fallback": false,
   "quad": [

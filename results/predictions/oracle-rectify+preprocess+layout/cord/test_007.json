@@ -1,11 +1,6 @@
 {
  "items": [
   {
-   "name": "subtetal",
-   "qty": 1,
-   "price": 16709.0
-  },
-  {
    "name": "FAY widv",
    "qty": 1,
    "price": 10091.0
@@ -16,13 +11,13 @@
    "price": 111008.0
   }
  ],
- "subtotal": null,
+ "subtotal": 16709.0,
  "tax": null,
  "tip": null,
  "total": 111006.0,
  "raw_text": "kupor 15\nGDG CHICKEN BO)\nsubtetal\nFAY widv,\nTotal\nGach\nLtr, O00\neithy\n16, 709\n10,091\n111,006\nRp. 111,008",
- "checksum": null,
- "runtime_s": 2.5989759579256315,
+ "checksum": false,
+ "runtime_s": 2.5992869589244947,
  "rectify_info": {
   "fallback": true,
   "quad": null,

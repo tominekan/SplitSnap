@@ -6,13 +6,13 @@
    "price": 27.0
   }
  ],
- "subtotal": null,
+ "subtotal": 49.5,
  "tax": 2.97,
  "tip": null,
- "total": 49.5,
+ "total": null,
  "raw_text": "i A@ |\nFamily Res Restaurant\n8:14 PH\nOARWIN'D. Table: 10. Check: 137\n3 Prea Glass @7.50 $22.50\n' Meo Vesote 27. 00 $27.00\n“‘Sb- Total. $49.50\nSales Tax $2.97\nCo ws 2\nkort De 1.0\nones Charge Reve\nTahle No: 10\nHi i\nie\nLuh,\nii\noe\nDM |\nts A)\nYW, iA fH\nyee",
  "checksum": null,
- "runtime_s": 2.0416877488160026,
+ "runtime_s": 2.0417733328067698,
  "rectify_info": {
   "fallback": null,
   "quad": null

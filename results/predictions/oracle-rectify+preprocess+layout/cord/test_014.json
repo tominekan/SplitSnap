@@ -31,13 +31,13 @@
    "price": 200000.0
   }
  ],
- "subtotal": null,
+ "subtotal": 248000.0,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "on\nCn en Ret te Oe LE eee! ~ ee en ee eae eae\n1 RedVelvet Cheese Sle 33,000\n1 Chicken Baked Rice vv, 000\n1 Fish n Chips 63,000\n1 fushroon Soup 32,000\n1 Chamomile eu 000\n| 1 Iced Tea 20, O00\nSUBTOTAL 248 , 000\nBervice 17,890\nPBI : 20 g Won\nTOTAL ao1l,435\nCoupon 100,000\nCAS 200,000\nChange 18,545\nfn Cem sOun SD nee ERENT SON) Me Sa Oo es Oe eaae ot Oe OH FE OE om",
  "checksum": null,
- "runtime_s": 11.83824887618539,
+ "runtime_s": 11.838355501182377,
  "rectify_info": {
   "fallback": true,
   "quad": null,

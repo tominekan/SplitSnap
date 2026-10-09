@@ -4,15 +4,20 @@
    "name": "Gardena, CA",
    "qty": 1,
    "price": 12.34
+  },
+  {
+   "name": "Flame Broiled Chicken",
+   "qty": 1,
+   "price": 11.99
   }
  ],
- "subtotal": null,
- "tax": null,
+ "subtotal": 11.99,
+ "tax": 1.14,
  "tip": null,
- "total": null,
+ "total": 13.13,
  "raw_text": "The Shawarma Factory\n14817 $. Western Ave Apr 10, 2019\nGardena, CA 90249 12.34 PM\nVince\nTicket: #29 Visa 7286\nAuthorlzation 173245\nReceipt O3WE\nVISA DEBIT\nAID AO 00 00 00 03 10 10\nFOR HERE\nFlame Broiled Chicken S11.99\n1/2 Chicken; Hummus House Salad\nSubtotal S11.99\nSales Tax S1.14\nTotal S13.13",
- "checksum": null,
- "runtime_s": 6.235054915989167,
+ "checksum": false,
+ "runtime_s": 6.234949916019104,
  "rectify_info": {
   "fallback": false,
   "quad": [

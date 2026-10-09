@@ -19,10 +19,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 9.5,
  "raw_text": "WINGS & THINGS\n1717 DutCH BRDY ELMONT NY 11003\nTHankS CALL AGAIN 516-341-7075\n#168 OUT\nMACRCHZ SMLL 1.19\nCOLL GRN SMALL 1,19\nCORN BREAD .62\n5 WINGS 5,75\nSPCY FRY\nTXTL 75\nTOTL 9 50\nCASH 9.50\nCHNG , 00\nTHANK YOU COME AGAIN\nPM #1\n0168 20:14 #04 MAR,19 '17 REGOOO 1",
  "checksum": null,
- "runtime_s": 2.2763320409867447,
+ "runtime_s": 2.2762950410105987,
  "rectify_info": {
   "fallback": false,
   "quad": [

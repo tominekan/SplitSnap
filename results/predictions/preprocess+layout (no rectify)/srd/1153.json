@@ -54,20 +54,15 @@
    "name": "Choc Pot De Crem",
    "qty": 1,
    "price": 13.0
-  },
-  {
-   "name": "Subtota",
-   "qty": 1,
-   "price": 290.0
   }
  ],
- "subtotal": null,
+ "subtotal": 290.0,
  "tax": null,
  "tip": null,
  "total": null,
  "raw_text": "Gordon Ramsay Steak\nParis Las Vegas\n10/21/2014 19:41\n| Ge ordon Ramsay Steak\nCheck: 2042367 Table: T-35\nServer: Lomberto Guests: 2\nTeruinal: 42\nRegular\n1 Pies's Cup 14,00\n2 The Orifter 28,00\n6 14.00\n1 Kobe Beef Slider 18.00\n1 New York 63.00\n1 Amer Kobe Filet 79.00\n1 Lobster Taj] 38,00\n1 Potato Puree 12.00\n1 Grlld Asparagus 13.00\n1 Peppercorn 6.00\n1 Pens{ 6.00\n1 Choc Pot De Crem 13.00\nSubtota] 290.00\nlax 3,\nTota} 313 ‘a",
  "checksum": null,
- "runtime_s": 2.153392791074566,
+ "runtime_s": 2.153495166072389,
  "rectify_info": {
   "fallback": null,
   "quad": null

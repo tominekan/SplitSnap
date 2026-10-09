@@ -19,15 +19,25 @@
    "name": "Be I vedere",
    "qty": 1,
    "price": 812.0
+  },
+  {
+   "name": "Becks Non Alcoholic",
+   "qty": 1,
+   "price": 56.0
+  },
+  {
+   "name": "Corona",
+   "qty": 1,
+   "price": 6.0
   }
  ],
  "subtotal": null,
  "tax": 812.51,
  "tip": null,
- "total": null,
+ "total": 157.51,
  "raw_text": "Calager0\nCalogero\n919 Franklin Ave:\nGarden City; NY 11530\n516-2942922\nTable #2\nTrans 137017 Serv: Manager 2\n4/20/2018 8:29 PM Cust-\nQuan Descr ipt Cost\nShr imp Scampi S27. 00\n2 Chicken Mi lanese S46. 00\nVea/ Mi lanese 527. 00\n3 Grey Goose $30. 00\nPineapple Juice $3.00\nBe I vedere 812.00\nBecks Non Alcoholic 56 . 00\nCorona $6 . 00\nComp Item (512.00)\nNet Total: 8145. 00\nTax 812.51\nTOTAL: 8157 _ 51\nAmount Due: 8157.51\nFollow US ON\nFACEBOOK AND INSTAGRAM",
  "checksum": null,
- "runtime_s": 2.4178291670104954,
+ "runtime_s": 2.4178352509916294,
  "rectify_info": {
   "fallback": false,
   "quad": [

@@ -24,10 +24,10 @@
  "subtotal": null,
  "tax": 2.01,
  "tip": null,
- "total": null,
+ "total": 21.76,
  "raw_text": "0 Gato Nogro\nJOu |li| isun Ave\nNew Orleans LA 70124\nDircnie ; (504} 466-0107\n1123 Daniel P\nTo| 9/1 Chk 4650 Gst\nAug23 ' 19 12:07PM\n##* Meio Check #\nDine In\nSeat:1\n1 Fajita Vegetable 7.75\n1 Taco Shrimp Fresh Catch 3 12.00\n#DON 'TMAKE*\n1 Hater 0.00\nFood 19.75\nTax 2.01\nTota] 21 76",
  "checksum": null,
- "runtime_s": 3.15291012499074,
+ "runtime_s": 3.1528589999943506,
  "rectify_info": {
   "fallback": false,
   "quad": [

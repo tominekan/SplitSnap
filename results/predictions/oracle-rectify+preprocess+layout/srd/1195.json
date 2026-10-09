@@ -6,11 +6,6 @@
    "price": 4.99
   },
   {
-   "name": "Subtctal",
-   "qty": 1,
-   "price": 19.27
-  },
-  {
    "name": "Tctal",
    "qty": 1,
    "price": 20.62
@@ -31,23 +26,18 @@
    "price": 0.99
   },
   {
-   "name": "Subtctal",
-   "qty": 1,
-   "price": 12.27
-  },
-  {
    "name": "Tctal",
    "qty": 1,
    "price": 13.13
   }
  ],
- "subtotal": 31.54,
+ "subtotal": 19.27,
  "tax": 1.35,
  "tip": null,
  "total": 33.75,
  "raw_text": "Amici Conyer\n1805 Parker RD Suite G110\n18C5 Parker RD\n(678) 890-2005\nServer: Nicole 0\nTable 52/1 eae\nGuests: 2 30004\nSeat 1\nOOHRS PPE ee\nCoke\nMargherita Calzcne 42\nSide Caesar 4.99\nSubtctal 19.27\nTax 1.35\nTctal 20.62\nSeat 2\nTete teeter tt Tete tet ett terest ett rt tte ttt\nCoke 2.29\nDb] Stack Cheeseburger 8.99\nBacon 0.99\nSubtctal 12,27\nTax 0.86\nTctal 13.13\nSubtotal 31.54\nTax 2.21\nTotal 33.75\nBalance Due 33.75\nThank you for dining with us!\nSUGGES TED GRATUITY:",
  "checksum": false,
- "runtime_s": 1.0375858331335621,
+ "runtime_s": 1.0377474161505233,
  "rectify_info": {
   "fallback": false,
   "quad": [

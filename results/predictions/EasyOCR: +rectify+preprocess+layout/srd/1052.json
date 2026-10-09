@@ -39,10 +39,10 @@
  "subtotal": 83.5,
  "tax": 7.88,
  "tip": null,
- "total": null,
+ "total": 994.18,
  "raw_text": "Nancy 8\n255-41 JerIct@ Turnoike\nFlora| Park, Ny 1i01\nTel; 718.343-4816\nwmm .nancysrestaurant .net\n106 Tom\nCheeck; 1075 Guests : 2\nTable: 34-1\n09/24/2016 03:22PM\nDINE IN\n91 Ico mite 7,75\n8lue Moon Tap 6.00\nMozzarel lasTonato 9.95\nPork @usad1) la 9.95\nFren Onton Soup 5.95\nPork Chop 21,95\nHanger Sizz le 24.95\nSUBTOTAL 83,50\nTax 7,88\nTotai DUF 994 . 18",
- "checksum": null,
- "runtime_s": 3.350316832991666,
+ "checksum": false,
+ "runtime_s": 3.3502748330065515,
  "rectify_info": {
   "fallback": false,
   "quad": [

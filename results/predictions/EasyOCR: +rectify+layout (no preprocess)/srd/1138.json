@@ -9,15 +9,35 @@
    "name": "Egg Roll",
    "qty": 1,
    "price": 53.0
+  },
+  {
+   "name": "Juice Chinesse Chop",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Tropical",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Tamal De Pollo",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Tex",
+   "qty": 1,
+   "price": 1.7
   }
  ],
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 25.94,
  "raw_text": "CASA CHAN AESTAURANT\n44> Folttu\nHaleahFL 43010\n(305) 640 8828\nFind us on instagram\necasa_chan_restaurant Facebook Casa\nChan Restaurant\nORDER: 9\nDine In\nCashier: Diana Z\n21-Dec-2014 5.23.42P\n=12 Wonton or Egg Drop or 53.75\nMixed Dinner\nWonton Soup SO.00\n#01 Egg Roll 53.00\n723 Juice Chinesse Chop S8.99\nSuey Honduran Style\nDinner\nTropical S5.00\n2 @ S2.50/12 0z\nTamal De Pollo S3.50\n@ S3.50/each\nSubtotel S24.24\nTex S1.70\nTotal S25.94\nOrder DMHGRRF9JPM7O\nBring back this receipt for 10% off your next\nvisitu :)\nOnline: https:/ /clover com/r/\nDMHGRRF9JPM7O",
  "checksum": null,
- "runtime_s": 1.6420729999954347,
+ "runtime_s": 1.6421626670053229,
  "rectify_info": {
   "fallback": false,
   "quad": [

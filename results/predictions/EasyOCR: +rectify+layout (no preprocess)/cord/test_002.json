@@ -19,10 +19,10 @@
  "subtotal": null,
  "tax": null,
  "tip": null,
- "total": null,
+ "total": 20006.0,
  "raw_text": "MS*IMF MT 1 ) 24,000\n'CONU] JELLY 4,000\nSUB (OTA 20,000\ntOTAL Sai \"20 , 006\nTOTAL IS\nCASH 100 , 00_\nCHANGE 72,000\nOupue Ho; 102",
  "checksum": null,
- "runtime_s": 2.8427122089924524,
+ "runtime_s": 2.843059667982743,
  "rectify_info": {
   "fallback": false,
   "quad": [
