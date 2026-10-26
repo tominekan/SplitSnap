@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Glass House Wine",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Jumbo Coctail Shrimp",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "Escargot Bourguigonne",
+   "qty": 1,
+   "price": 10.95
+  },
+  {
+   "name": "Veal Zingaria",
+   "qty": 1,
+   "price": 23.95
+  },
+  {
+   "name": "Duckling ala Arancio",
+   "qty": 1,
+   "price": 25.95
+  }
+ ],
+ "subtotal": 87.25,
+ "tax": 7.53,
+ "tip": null,
+ "total": 94.78,
+ "raw_text": "VILLA D'ESTE RESTAURANT\n186 Jericho Tpke\nfloral park, NY 11001\n(516) 354-1355\nServer: Jerry Station: 6\nDine In Guests: 2\nTable: 3\n1 Coffee 3.50\n1 Glass House Wine 9.95\n1 Jumbo Coctail Shrimp 12.95\n1 Escargot Bourguigonne 10.95\n1 Veal Zingaria 23.95\n1 Duckling ala Arancio 25.95\nSUB TOTAL: 87.25\nTax 1: 7.53\n=========\nTOTAL: $94.78\n>> Ticket #: 7 <<\n12/8/2017 4:44:05 PM\n********************************\nThank you for dining at Villa D'Este\nPlease come again soon.",
+ "checksum": true,
+ "runtime_s": 12.859627875033766
+}

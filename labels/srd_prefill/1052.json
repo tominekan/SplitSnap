@@ -1,0 +1,50 @@
+{
+ "id": "1052",
+ "status": "todo",
+ "items": [
+  {
+   "name": "gl Imp White",
+   "qty": 1,
+   "price": 7.75
+  },
+  {
+   "name": "Blue Moon Tap",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Mozzaella&Tomato",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Pork Quesadilla",
+   "qty": 1,
+   "price": 2.85
+  },
+  {
+   "name": "Fren Onion Soup",
+   "qty": 1,
+   "price": 5.95
+  },
+  {
+   "name": "Pork Chop",
+   "qty": 1,
+   "price": 21.95
+  },
+  {
+   "name": "Hanger Sizzle",
+   "qty": 1,
+   "price": 24.95
+  }
+ ],
+ "subtotal": 86.5,
+ "tax": 7.68,
+ "tip": null,
+ "total": 94.18,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

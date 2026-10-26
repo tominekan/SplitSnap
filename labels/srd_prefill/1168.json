@@ -1,0 +1,50 @@
+{
+ "id": "1168",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Box #1",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "All Star Meal #1",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Dbl Chbgr",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Hot Dog",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Baked Cookie",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Lg Fries",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Lg Bev Bar",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": 7.0,
+ "tax": 0.61,
+ "tip": null,
+ "total": 7.61,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

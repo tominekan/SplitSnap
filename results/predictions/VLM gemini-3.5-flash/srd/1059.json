@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "CUP CHOWDER",
+   "qty": 1,
+   "price": 6.0
+  }
+ ],
+ "subtotal": 6.0,
+ "tax": 0.4,
+ "tip": 1.15,
+ "total": 7.55,
+ "raw_text": "LANDFALL RESTAURANT\nAPRIL TO DECEMBER\n\n0084 Table 31 #Party 3\nDWYER M SvrCk: 13 11:47a 06/10/17\nSeparate checks: 6-of-6\n\n1 CUP CHOWDER 6.00\n\nSub Total: 6.00\nTax : 0.40\nGRAT 18 1.15\n06/10 1:39pTOTAL: 7.55\n\nLUNCH & DINNER\nWE TAKE RESERVATIONS\nEST 1946\n508-548-1758",
+ "checksum": true,
+ "runtime_s": 9.59549745800905
+}

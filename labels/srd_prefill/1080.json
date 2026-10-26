@@ -1,0 +1,35 @@
+{
+ "id": "1080",
+ "status": "todo",
+ "items": [
+  {
+   "name": "WEEKEND DINNER BUFFET 19.99",
+   "qty": 2,
+   "price": 39.98
+  },
+  {
+   "name": "WEEKEND DINNER KIDS (3-5Y)",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "SODA DRINK 1.99",
+   "qty": 4,
+   "price": 7.96
+  },
+  {
+   "name": "WEEKEND SENIOR DINNER",
+   "qty": 1,
+   "price": 18.09
+  }
+ ],
+ "subtotal": 84.02,
+ "tax": 8.2,
+ "tip": null,
+ "total": 92.22,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

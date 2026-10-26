@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Power Veg Bowl",
+   "qty": 1,
+   "price": 4.99
+  },
+  {
+   "name": "No Sour Cream",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "No Cheese",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Rg Orange Crsh Fz",
+   "qty": 1,
+   "price": 1.99
+  }
+ ],
+ "subtotal": 6.98,
+ "tax": 0.63,
+ "tip": null,
+ "total": 7.61,
+ "raw_text": "*************************************\nFor a Chance to WIN\nSee Back of Receipt\nSurvey Code: 0279-4033-2211-1303\n(Diganos en Espanol)\n*************************************\n\nTaco Bell 017314\n7230 Pendleton Pike\nLawrence, IN 46226\n(317)541-1897\n\n9/1/2016 8:35:38 PM\nOrder 378752 Cashier: DAJA G\n\n1 Power Veg Bowl 4.99\nNo Sour Cream 0.00\nNo Cheese 0.00\n1 Rg Orange Crsh Fz 1.99\n\nSubTotal 6.98\nTax 0.63\nTotal 7.61\nVisa 7.61\nAcct:XXXXXXXXXX2276\n\nApproval:571883\n\nDRIVE THRU\n\nThank you for visiting!\n\nTACO BELL\nMOBILE\nORDERING\nIS HERE\nDOWNLOAD THE APP",
+ "checksum": true,
+ "runtime_s": 11.64532691705972
+}

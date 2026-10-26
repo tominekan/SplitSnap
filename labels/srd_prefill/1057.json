@@ -1,0 +1,25 @@
+{
+ "id": "1057",
+ "status": "todo",
+ "items": [
+  {
+   "name": "CROISSANT AUX RAISINS",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Cappucino",
+   "qty": 1,
+   "price": 4.75
+  }
+ ],
+ "subtotal": 8.75,
+ "tax": 0.83,
+ "tip": null,
+ "total": 9.58,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

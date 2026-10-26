@@ -1,0 +1,60 @@
+{
+ "id": "1111",
+ "status": "todo",
+ "items": [
+  {
+   "name": "1 25/ CP, up",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "1 25/COSMO, up",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "SOUP DJ",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "TURTLE",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "CATFISH",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "TOSTADA",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "1 25/GIN, up",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "1 25/ RAY, up",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "SOUFFLE/ALA",
+   "qty": 1,
+   "price": 9.5
+  }
+ ],
+ "subtotal": 50.5,
+ "tax": 5.45,
+ "tip": null,
+ "total": 55.95,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

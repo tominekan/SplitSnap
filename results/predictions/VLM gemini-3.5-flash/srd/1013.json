@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "3 ASADA TACO",
+   "qty": 3,
+   "price": 8.1
+  },
+  {
+   "name": "ATM CHARGE",
+   "qty": 1,
+   "price": 0.75
+  }
+ ],
+ "subtotal": 8.85,
+ "tax": 0.73,
+ "tip": null,
+ "total": 9.58,
+ "raw_text": "ALBETOS\nMEXICAN FOOD\n11732 ARTESIA BLVD.\nARTESIA, CA.\nPh: (562) 860-2530\nPHONE ORDERS WELCOME\n\nORDER # 01029\n\n3 ASADA TACO 8.10\nATM CHARGE 0.75\n\nSUBTOTAL $ 8.85\nTAX TOTAL $ 0.73\nTOTAL $ 9.58\n\nATM $ 9.58\n\nRECALL :636",
+ "checksum": true,
+ "runtime_s": 35.75443137495313
+}

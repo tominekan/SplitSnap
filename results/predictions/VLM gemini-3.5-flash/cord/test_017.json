@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Goblin's Mace",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Mozarella Hot Dog",
+   "qty": 2,
+   "price": 38000.0
+  },
+  {
+   "name": "Chili Pepper Croquette",
+   "qty": 1,
+   "price": 14000.0
+  },
+  {
+   "name": "Cheese Croquette",
+   "qty": 1,
+   "price": 14000.0
+  },
+  {
+   "name": "Plastik Amook",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Plastik Putih Take Away",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 91000.0,
+ "tax": null,
+ "tip": null,
+ "total": 91000.0,
+ "raw_text": "삼진\n어묵\nGoblin's Mace 1 25,000\nMozarella Hot 2 38,000\nDog\nChili Pepper 1 14,000\nCroquette\nCheese 1 14,000\nCroquette\nPlastik Amook 1 0\nPlastik Putih 1 0\nTake Away\nSubtotal 91,000\nDiscount (0)\nTOTAL Rp. 91,000\nDebit 91,000",
+ "checksum": true,
+ "runtime_s": 10.231884290929884
+}

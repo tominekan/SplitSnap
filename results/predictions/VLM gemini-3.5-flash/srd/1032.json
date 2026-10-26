@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "MAC&CHZ - SMALL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "COLL GRN - SMALL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "CORN BREAD",
+   "qty": 1,
+   "price": 62.0
+  },
+  {
+   "name": "5 WINGS SPCY FRY",
+   "qty": 1,
+   "price": 5.75
+  }
+ ],
+ "subtotal": null,
+ "tax": 75.0,
+ "tip": null,
+ "total": 9.5,
+ "raw_text": "WINGS & THINGS\n1717 DUTCH BRDY ELMONT, NY 11003\nTHANKS CALL AGAIN 516-341-7075\n\n#168 OUT\n1 MAC&CHZ - SMALL 1.19\n1 COLL GRN - SMALL 1.19\n1 CORN BREAD .62\n1 5 WINGS 5.75\nSPCY FRY\n--------------------------------\nTXTL .75\nTOTL 9.50\nCASH 9.50\nCHNG .00\nTHANK YOU COME AGAIN\nPM #1\n0168 20:14 #04 MAR.19'17 REG0001",
+ "checksum": null,
+ "runtime_s": 12.93911100004334
+}

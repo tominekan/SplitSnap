@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "JASMINE MT ( L )",
+   "qty": 1,
+   "price": 24000.0
+  },
+  {
+   "name": "COCONUT JELLY ( L )",
+   "qty": 1,
+   "price": 4000.0
+  }
+ ],
+ "subtotal": 28000.0,
+ "tax": null,
+ "tip": null,
+ "total": 28000.0,
+ "raw_text": "1 JASMINE MT ( L ) 24,000\nCOCONUT JELLY ( L ) 4,000\nSUB TOTAL 28,000\nTOTAL SALES 28,000\nTOTAL ITEMS 1\nCASH 100,000\nCHANGE 72,000\nQueue No: 102",
+ "checksum": true,
+ "runtime_s": 8.75092866702471
+}

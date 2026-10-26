@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "Beef Ribs",
+   "qty": 1,
+   "price": 36.86
+  },
+  {
+   "name": "Pulled Pork Sand",
+   "qty": 1,
+   "price": 8.5
+  },
+  {
+   "name": "*Reg",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Creamed Corn[Small]",
+   "qty": 1,
+   "price": 3.35
+  },
+  {
+   "name": "Longhorn Mac & Cheese[sm]",
+   "qty": 1,
+   "price": 4.2
+  },
+  {
+   "name": "Chocolate Cake[Slice]",
+   "qty": 1,
+   "price": 3.95
+  },
+  {
+   "name": "Fountain Soda",
+   "qty": 1,
+   "price": 2.25
+  }
+ ],
+ "subtotal": 59.11,
+ "tax": 5.32,
+ "tip": null,
+ "total": 64.43,
+ "raw_text": "Quick 73\nSmoke City Market\n5242 Van Nuys BLVD\nSherman Oaks, CA 91401\n818.855.1280\nServer: Rebecca B\nPrinted By: Rebecca B S1\nID: 234673 #1 Jun 26, 15 04:55 PM\n1 Beef Ribs $36.86\nWeight: 1.89 lbs @ $19.50/lbs\n1 Pulled Pork Sand $8.50\n1 *Reg $0.00\n1 Creamed Corn[Small] $3.35\n1 Longhorn Mac & Cheese[sm] $4.20\n1 Chocolate Cake[Slice] $3.95\n1 Fountain Soda $2.25\nSubtotal $59.11\nCA Sales Tax $5.32\nTotal $64.43\nWells Fargo $64.43\nChange $0.00\nThank You for Visiting\nPlease visit our website:\nwww.smokecitymarket.com\nEnjoy our BBQ? 'Like' us on\nfacebook and Yelp\nPlease rate us on Zagat\nww.zagat.com/r/smoke-city-market-van-nuy",
+ "checksum": true,
+ "runtime_s": 7.220541333896108
+}

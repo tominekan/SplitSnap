@@ -1,0 +1,35 @@
+{
+ "id": "1178",
+ "status": "todo",
+ "items": [
+  {
+   "name": "FREEBIRD",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "ICE CREAM",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "LONESTAR",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "ORIGINAL TTL",
+   "qty": 1,
+   "price": 11.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.91,
+ "tip": null,
+ "total": 11.91,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

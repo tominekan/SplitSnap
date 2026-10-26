@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "PKT AYAM",
+   "qty": 1,
+   "price": 33000.0
+  },
+  {
+   "name": "GULAI OTAK",
+   "qty": 1,
+   "price": 23000.0
+  }
+ ],
+ "subtotal": 56000.0,
+ "tax": 5600.0,
+ "tip": null,
+ "total": 61600.0,
+ "raw_text": "FOODPRINT ------------------------------ PKT AYAM 33,000 GULAI OTAK 23,000 2.00 ITEMS SUBTOTAL 56,000 TAX 10% 5,600 TOTAL 61,600 CHARGE5 61,600 ------------------------------",
+ "checksum": true,
+ "runtime_s": 13.415325916022994
+}

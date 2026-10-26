@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "WATER",
+   "qty": 2,
+   "price": 0.0
+  },
+  {
+   "name": "ENCH VERDE",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "ENCH MANUEL",
+   "qty": 1,
+   "price": 12.8
+  }
+ ],
+ "subtotal": 25.3,
+ "tax": 1.78,
+ "tip": null,
+ "total": 27.08,
+ "raw_text": "MIGUELS MEXICAN\n3035 W. KENNEDY BLVD\nTAMPA , FL.\n(813) 876 - 2587\n\n187 MEGAN F\n----------------------------------------\nTbl 42/1 Chk 3923 Gst 2\nJul05'17 05:53PM\n----------------------------------------\nDINE IN\n2 WATER 0.00\n1 ENCH VERDE 12.50\n1 ENCH MANUEL 12.80\n\nSubtotal 25.30\nTax 1.78\n06:11PM Total 27.08\n\nPLEASE PAY YOUR SERVER\nTHANK YOU\nFOR CHOOSING MIGUELS CAFE\n\n---------Tear Here---------\n\nEmp: MEGAN F Table: 42 Check#: 3\nDate: 7-5-17",
+ "checksum": true,
+ "runtime_s": 12.027447290951386
+}

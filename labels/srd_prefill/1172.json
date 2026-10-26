@@ -1,0 +1,40 @@
+{
+ "id": "1172",
+ "status": "todo",
+ "items": [
+  {
+   "name": "GUACAMOLE DIP",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "DIET COKE",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "LUNCH FAJITAS",
+   "qty": 1,
+   "price": 7.75
+  },
+  {
+   "name": "TORTILLAS (3)",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "SOUR CREAM",
+   "qty": 1,
+   "price": 1.25
+  }
+ ],
+ "subtotal": 16.39,
+ "tax": 1.36,
+ "tip": null,
+ "total": 17.75,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

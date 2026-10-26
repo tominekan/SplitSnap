@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Crisfield Special Platter",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Pint Bisque",
+   "qty": 1,
+   "price": 11.5
+  }
+ ],
+ "subtotal": 38.5,
+ "tax": 2.31,
+ "tip": 1.93,
+ "total": 42.74,
+ "raw_text": "Crisfield Seafood\nRestaurant\n8012 Georgia Ave.\nSilver Spring, MD20910\n(301) 589-1306\n\nDENIS\n\nORDER# 134\nCarryout # 8\n12/29/2017 8:38:16 PM GUESTS 1\n\nTAKE OUT\nDinner Platters\n1 Crisfield Special Platter 27.00\n**** COOK MEDIUM ****\nExtras\n1 Pint Bisque 11.50\nSUBTOTAL: 38.50\nCarry Out 1.93\nTAX: 2.31\nRegister T#0000144 ---------\nTOTAL: $42.74\n\nLast Serviced 12/29/2017 8:41:08 PM\n\nThank You!",
+ "checksum": true,
+ "runtime_s": 21.38903974997811
+}

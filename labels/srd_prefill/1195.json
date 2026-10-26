@@ -1,0 +1,45 @@
+{
+ "id": "1195",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "Margherita Calzone",
+   "qty": 1,
+   "price": 11.99
+  },
+  {
+   "name": "Side Caesar",
+   "qty": 1,
+   "price": 4.99
+  },
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "Dbl Stack Cheeseburger",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Bacon",
+   "qty": 1,
+   "price": 0.99
+  }
+ ],
+ "subtotal": 19.27,
+ "tax": 1.35,
+ "tip": null,
+ "total": 33.75,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

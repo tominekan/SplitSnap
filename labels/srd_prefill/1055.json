@@ -1,0 +1,50 @@
+{
+ "id": "1055",
+ "status": "todo",
+ "items": [
+  {
+   "name": "7 2PC R&B MEAL",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "3 SWING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "3 3WING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "3 3WING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "COLL GRN - SMALL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "TXTL",
+   "qty": 1,
+   "price": 2.43
+  },
+  {
+   "name": "TOTL",
+   "qty": 1,
+   "price": 30.58
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

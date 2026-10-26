@@ -1,0 +1,35 @@
+{
+ "id": "1191",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Draft Beer (2 @ 4.97)",
+   "qty": 1,
+   "price": 9.94
+  },
+  {
+   "name": "Fountain Drink (16oz)",
+   "qty": 1,
+   "price": 2.17
+  },
+  {
+   "name": "MOD Pizza",
+   "qty": 1,
+   "price": 8.67
+  },
+  {
+   "name": "Mini MOD",
+   "qty": 1,
+   "price": 6.67
+  }
+ ],
+ "subtotal": 27.45,
+ "tax": 2.53,
+ "tip": 3.59,
+ "total": 29.98,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

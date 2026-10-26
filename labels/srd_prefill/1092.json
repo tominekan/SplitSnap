@@ -1,0 +1,35 @@
+{
+ "id": "1092",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Sushi Dinner",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Lady Gaga",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "Ginger Ale",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Fried Cheese Cake",
+   "qty": 1,
+   "price": 4.95
+  }
+ ],
+ "subtotal": 39.85,
+ "tax": 3.45,
+ "tip": null,
+ "total": 43.3,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

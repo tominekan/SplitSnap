@@ -1,0 +1,25 @@
+{
+ "id": "1037",
+ "status": "todo",
+ "items": [
+  {
+   "name": "PARTY PK 18-22",
+   "qty": 1,
+   "price": 139.0
+  },
+  {
+   "name": "PEPPERCORN SHRIMP",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 151.0,
+ "tax": 13.89,
+ "tip": null,
+ "total": 164.89,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

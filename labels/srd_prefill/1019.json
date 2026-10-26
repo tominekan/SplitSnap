@@ -1,0 +1,55 @@
+{
+ "id": "1019",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Ultra",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Bells Draft",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Cheese Bread",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "APPS OUT FIRST",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Caprese",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "SALAD OUT FIRST",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Reg Carnivore (s)",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "Reg Marguerita (s)",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 43.0,
+ "tax": 2.58,
+ "tip": null,
+ "total": 45.58,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

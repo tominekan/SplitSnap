@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Crimini",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Salami",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Olives",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Lrg Clams\\mussels",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "Reg Ketel One",
+   "qty": 4,
+   "price": 52.0
+  },
+  {
+   "name": "House Cab",
+   "qty": 1,
+   "price": 6.0
+  }
+ ],
+ "subtotal": 81.0,
+ "tax": 2.44,
+ "tip": null,
+ "total": 83.44,
+ "raw_text": "Blue Bear Tavern\n216 S 11th Street\n(215)922-3427\nwww.bluebeartavern.com\n\nCheck #: 00225\nDate: 01/13/2012 10:16 PM Check # 00225\nStation: Pos3 Server: Andrew\nGuests: 1\n\n1 Crimini 3.00\n1 Salami 3.00\n1 Olives 3.00\n1 Lrg Clams\\mussels 14.00\n4 Reg Ketel One 52.00\n1 House Cab 6.00\n\nSub Total 81.00\nPhilly Liquor Tax 0.60\nPhilly Pa Sales Tax 1.84\nTOTAL 83.44",
+ "checksum": true,
+ "runtime_s": 15.03783345897682
+}

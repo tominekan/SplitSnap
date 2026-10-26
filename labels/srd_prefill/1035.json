@@ -1,0 +1,55 @@
+{
+ "id": "1035",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 1.45
+  },
+  {
+   "name": "Tea",
+   "qty": 1,
+   "price": 1.45
+  },
+  {
+   "name": "Waffle",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "Old Fashion French Toast",
+   "qty": 1,
+   "price": 4.5
+  },
+  {
+   "name": "Side Home Fries",
+   "qty": 1,
+   "price": 2.95
+  },
+  {
+   "name": "Banana",
+   "qty": 1,
+   "price": 2.95
+  },
+  {
+   "name": "Whipped Cream",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "W/ 2 EGGS",
+   "qty": 1,
+   "price": 2.95
+  }
+ ],
+ "subtotal": 24.25,
+ "tax": null,
+ "tip": null,
+ "total": 26.38,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

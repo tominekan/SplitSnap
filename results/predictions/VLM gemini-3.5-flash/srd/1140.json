@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "ShackBurger",
+   "qty": 1,
+   "price": 5.19
+  },
+  {
+   "name": "Smoke Shack",
+   "qty": 1,
+   "price": 6.69
+  },
+  {
+   "name": "cheese fries",
+   "qty": 1,
+   "price": 3.95
+  },
+  {
+   "name": "REG Soda (2 @2.75)",
+   "qty": 2,
+   "price": 5.5
+  },
+  {
+   "name": "REG Iced Tea",
+   "qty": 1,
+   "price": 2.25
+  }
+ ],
+ "subtotal": 23.58,
+ "tax": 1.89,
+ "tip": null,
+ "total": 25.47,
+ "raw_text": "SHAKE SHACK\n1450 S. Dixie Highway\nHost: Nelson\n12\n03/03/2015\n8:06 PM\n30143\n\nShackBurger\t5.19\nSmoke Shack\t6.69\ncheese fries\t3.95\nREG Soda (2 @2.75)\t5.50\n  (2)REG Rootbeer\nREG Iced Tea\t2.25\n\nSubtotal\t23.58\nTax\t1.89\n\nTo Stay Total\t25.47\n\nVisa #XXXXXXXXXXXX9197\t25.47\nAuth:130960\n\nWe Tweet.\nYou Tweet.\nWe All Tweet.\n@ShakeShack\n\n--- Check Closed ---",
+ "checksum": true,
+ "runtime_s": 6.242512624943629
+}

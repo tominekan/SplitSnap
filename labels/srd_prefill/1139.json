@@ -1,0 +1,30 @@
+{
+ "id": "1139",
+ "status": "todo",
+ "items": [
+  {
+   "name": "TANDOORI CHICKEN 179 1.00",
+   "qty": 1,
+   "price": 179.0
+  },
+  {
+   "name": "MUTTON RAGON JOSH 209 1.00",
+   "qty": 1,
+   "price": 209.0
+  },
+  {
+   "name": "FISH BIRIYANI 229 1.00",
+   "qty": 1,
+   "price": 229.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 617.0,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

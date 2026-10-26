@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "(TA) NASGORG TERI MEDAN",
+   "qty": 4,
+   "price": 165460.0
+  },
+  {
+   "name": "(TA) BIHUN GORENG SEAFOOD",
+   "qty": 1,
+   "price": 40456.0
+  },
+  {
+   "name": "(TA) KWETIAW SEAFOOD SIRAM",
+   "qty": 1,
+   "price": 42274.0
+  },
+  {
+   "name": "(TA) NASI GORENG",
+   "qty": 2,
+   "price": 55456.0
+  }
+ ],
+ "subtotal": 303646.0,
+ "tax": 30365.0,
+ "tip": null,
+ "total": 334000.0,
+ "raw_text": "SOLARIA No training Customer: (TA) NASGORG TERI 4 165,460 MEDAN (TA) BIHUN GORENG 1 40,456 SEAFOOD (TA) KWETIAW SEAFOOD 1 42,274 SIRAM (TA) NASI GORENG 2 55,456 ITEMS:8 303,646 Pb1 10% 30,365 Before Rounding 334,011 Rounding -11 Total 334,000 DEBIT BCA 334,000 Atas kunjungan",
+ "checksum": true,
+ "runtime_s": 15.40411037497688
+}

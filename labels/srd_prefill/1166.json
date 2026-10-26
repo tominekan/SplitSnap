@@ -1,0 +1,30 @@
+{
+ "id": "1166",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Side Craw Etouffee 4oz",
+   "qty": 1,
+   "price": 10.98
+  },
+  {
+   "name": "Pan Seared Tilapia",
+   "qty": 1,
+   "price": 21.99
+  },
+  {
+   "name": "Tea",
+   "qty": 2,
+   "price": 5.98
+  }
+ ],
+ "subtotal": 38.95,
+ "tax": 3.21,
+ "tip": null,
+ "total": 42.16,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "1015",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Shrimp Entree",
+   "qty": 1,
+   "price": 21.0
+  },
+  {
+   "name": "BBG & Blue Chz chips",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Sprite",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Lobster Roll",
+   "qty": 1,
+   "price": 21.0
+  }
+ ],
+ "subtotal": 47.0,
+ "tax": 3.29,
+ "tip": null,
+ "total": 50.29,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "TIKKA MASALA CHICKEN (MURGH)",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "PALAK (SPINACH) PANEER (CHEESE)",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "VEGAN BENGAN BHARTA*",
+   "qty": 1,
+   "price": 17.0
+  }
+ ],
+ "subtotal": 55.0,
+ "tax": 3.3,
+ "tip": null,
+ "total": 58.3,
+ "raw_text": "*** TO GO ***\nNAME: CHARES\nCHECK# 71128.1\nClosed to Credit Card\nDATE/TIME: 12/31/2018 6:06:02 PM\nSERVER: Taj\nSTATION: 01\nSo happy about your visit!\nItem Count: 8\n-----------------------------------\n1 TIKKA MASALA $20.00\n CHICKEN (MURGH)\n1 PALAK (SPINACH) $18.00\n PANEER (CHEESE)\n1 VEGAN BENGAN BHARTA* $17.00\n-----------------------------------\nSubtotal $55.00\nTax $3.30\nTotal before tip: $58.30\nTip amount:",
+ "checksum": true,
+ "runtime_s": 15.124986332957633
+}

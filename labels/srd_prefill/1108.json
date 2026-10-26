@@ -1,0 +1,25 @@
+{
+ "id": "1108",
+ "status": "todo",
+ "items": [
+  {
+   "name": "BBQ Dinner $10.99 x4",
+   "qty": 1,
+   "price": 47.15
+  },
+  {
+   "name": "beverage $2.29 x2",
+   "qty": 1,
+   "price": 4.91
+  }
+ ],
+ "subtotal": 48.54,
+ "tax": 3.52,
+ "tip": null,
+ "total": 52.06,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

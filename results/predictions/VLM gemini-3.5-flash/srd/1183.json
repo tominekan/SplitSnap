@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Water",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Caldo de Camaron",
+   "qty": 1,
+   "price": 8.99
+  }
+ ],
+ "subtotal": 8.99,
+ "tax": 0.74,
+ "tip": null,
+ "total": 10.0,
+ "raw_text": "JALISCO\n244 Highway 290 W.\nElgin TX 78621\n512-285-3940 or 512-285-3950\n---------------------------------\nCheck 94 Table 6\nNOEMI 5/19/2019\nGuests 1 11:38 AM\n---------------------------------\nWater 0.00\nCaldo de Camaron 8.99\n---------------------------------\nSubtotal 8.99\nSales Tax 0.74\nProcessing Fee 0.27\n---------------------------------\nTOTAL 10.00\nBALANCE DUE 10.00\n---------------------------------\nProcessing fee will be removed\nif the check is paid in cash.\n**THANK YOU FOR CHOOSING US**",
+ "checksum": false,
+ "runtime_s": 8.315815084031783
+}

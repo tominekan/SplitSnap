@@ -1,0 +1,45 @@
+{
+ "id": "1155",
+ "status": "todo",
+ "items": [
+  {
+   "name": "1 8oz Fill Bearn",
+   "qty": 1,
+   "price": 35.95
+  },
+  {
+   "name": "1 9oz Fill Au Po",
+   "qty": 1,
+   "price": 35.95
+  },
+  {
+   "name": "Onion Ring",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Haricots Vert",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Choc Truf Cake",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "Lunta",
+   "qty": 1,
+   "price": 39.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 129.75,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

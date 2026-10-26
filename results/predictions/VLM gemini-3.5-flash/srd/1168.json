@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "Box #1",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "All Star Meal #1",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Dbl Chbgr",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Hot Dog",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Baked Cookie",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Lg Fries",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Lg Bev Bar",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": 7.0,
+ "tax": 0.61,
+ "tip": null,
+ "total": 7.61,
+ "raw_text": "CARL'S JR\nRestaurant 1100580\n11961 Beach Blvd.\nStanton, CA 90680\n(714)895-5114\n9/27/2017 12:13:06 PM\nOrder 375719 Cashier: Alvaro I\n\n1 Box #1 0.00\n1 All Star Meal #1 1.00\n  Dbl Chbgr 0.00\n  Hot Dog 0.00\n  Baked Cookie 0.00\n  Lg Fries 3.00\n  Lg Bev Bar 3.00\n\nSubTotal 7.00\nTax 0.61\nTotal 7.61\nCash 8.00\nChange 0.39\n\nTo Go\nThank you for visiting!\nTicket #45\nItems in bag(s): 4",
+ "checksum": true,
+ "runtime_s": 4.930854083970189
+}

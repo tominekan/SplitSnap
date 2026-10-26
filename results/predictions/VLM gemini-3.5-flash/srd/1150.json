@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "DB WOODFRD RES 2",
+   "qty": 1,
+   "price": 17.99
+  },
+  {
+   "name": "CAB PEJU SAUV S",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "SAND GRLD CHIX",
+   "qty": 1,
+   "price": 14.5
+  },
+  {
+   "name": "SLD SHRIMP LOUIE",
+   "qty": 1,
+   "price": 24.0
+  },
+  {
+   "name": "SD BRUSSEL SPRTS",
+   "qty": 1,
+   "price": 7.0
+  }
+ ],
+ "subtotal": 74.49,
+ "tax": 5.96,
+ "tip": null,
+ "total": 80.45,
+ "raw_text": "OPERATED BY\nHMS HOST\nESQUIRE GRILLE\nSACRAMENTO INTL AIRPORT\n147079 Jodi\n126/1 GST 2\n2144\nAPR04'16 6:09PM\nDINE IN\n**** SEAT 1 ****\n1 DB WOODFRD RES 2 17.99\nNEAT\n1 CAB PEJU SAUV S 11.00\nPeju Cabernet Sauvignon\n1 SAND GRLD CHIX 14.50\nSD CHOP SLD\nW/ DRS BLUE CHS\nDRESS ON SIDE\n1 SLD SHRIMP LOUIE 24.00\nW/ DRESS ON SIDE\n1 SD BRUSSEL SPRTS 7.00\nTAX 5.96 AMOUNT D 80.45\n******* *******\nSUBTOTAL 74.49\nTAX 5.96\nAMOUNT DUE $80.45\nWE WANT TO HEAR YOUR FEEDBACK!\nPLEASE CONTACT 1-877-672-7467\nOR CUSTOMERSERVICE@HMSHOST.COM\nTO SHARE YOUR EXPERIENCE.\nSTOREID: SMFEGE01",
+ "checksum": true,
+ "runtime_s": 12.244672875036485
+}

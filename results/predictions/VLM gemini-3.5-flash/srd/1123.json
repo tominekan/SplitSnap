@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Fajita Vegetable",
+   "qty": 1,
+   "price": 7.75
+  },
+  {
+   "name": "Taco Shrimp Fresh Catch 3",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Water",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 19.75,
+ "tax": 2.01,
+ "tip": null,
+ "total": 21.76,
+ "raw_text": "El Gato Negro\n300 Harrison Ave\nNew Orleans, LA 70124\nPhone: (504) 488-0107\n\n1128 Daniel P\n----------------------------------\nTbl 90/1 Chk 4650 Gst 1\nAug23'19 12:07PM\n*** Memo Check ***\n----------------------------------\nDine In\nSeat:1\n1 Fajita Vegetable 7.75\n1 Taco Shrimp Fresh Catch 3 12.00\n*DON'T MAKE*\n1 Water 0.00\nFood 19.75\nTax 2.01\nTotal 21.76",
+ "checksum": true,
+ "runtime_s": 7.242428958066739
+}

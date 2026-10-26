@@ -37,6 +37,16 @@ Development scripts used to choose settings on validation splits only: `src/dev/
 
 `python src/evaluate.py --no-cache` wipes `data/cache/ocr/` and recomputes all OCR.
 
+## SRD field labeling
+SRD has transcriptions but no item or total labels. We label them by hand (rules: `labels/GUIDE.md`).
+
+| Step | Command | Output |
+|---|---|---|
+| Drafts from the transcriptions | `python src/labeling/prefill.py` | `labels/srd_prefill/` |
+| Label in the browser | `streamlit run src/labeling/app.py` | `labels/srd/NNNN.json` (committed) |
+| Check progress and problems | `python src/labeling/check_labels.py` | printed report |
+| Blind relabel for self-agreement | `streamlit run src/labeling/app.py -- --out labels/srd_relabel --no-prefill`, then `python src/labeling/check_labels.py --compare labels/srd_relabel` | printed agreement |
+
 ## Code map
 - `src/common.py`: paths, Tesseract location, number and text normalization
 - `src/data.py`: download and load CORD v2 and SRD, CORD label conversion, SRD split and derived totals

@@ -1,0 +1,20 @@
+{
+ "id": "1176",
+ "status": "todo",
+ "items": [
+  {
+   "name": "AMOUNT",
+   "qty": 1,
+   "price": 41.45
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

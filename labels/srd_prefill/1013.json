@@ -1,0 +1,30 @@
+{
+ "id": "1013",
+ "status": "todo",
+ "items": [
+  {
+   "name": "ASADA TACO",
+   "qty": 3,
+   "price": 8.1
+  },
+  {
+   "name": "ATM CHARGE",
+   "qty": 1,
+   "price": 0.75
+  },
+  {
+   "name": "ATM",
+   "qty": 1,
+   "price": 9.58
+  }
+ ],
+ "subtotal": 8.85,
+ "tax": 0.73,
+ "tip": null,
+ "total": 9.58,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

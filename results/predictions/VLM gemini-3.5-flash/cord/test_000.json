@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "901016 -TICKET CP",
+   "qty": 2,
+   "price": 60000.0
+  }
+ ],
+ "subtotal": 60000.0,
+ "tax": 5455.0,
+ "tip": null,
+ "total": 60000.0,
+ "raw_text": "901016 -TICKET CP\n 2 60.000 60.000\nTOTAL DISC $ -60.000\n TAX 5.455\n Subtotal 60.000\nTOTAL (Qty 2.00 60.000\n- EDC CIMB NIAGA No: xx7730 60.000",
+ "checksum": false,
+ "runtime_s": 7.9976604169933125
+}

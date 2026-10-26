@@ -1,0 +1,35 @@
+{
+ "id": "1140",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Smoke Shack",
+   "qty": 1,
+   "price": 6.69
+  },
+  {
+   "name": "cheese fries",
+   "qty": 1,
+   "price": 3.95
+  },
+  {
+   "name": "REG Soda (2 @2.75)",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "REG Iced Tea",
+   "qty": 1,
+   "price": 2.25
+  }
+ ],
+ "subtotal": 23.58,
+ "tax": 1.89,
+ "tip": null,
+ "total": 25.47,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "1091",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Philadelphia Roll",
+   "qty": 1,
+   "price": 4.85
+  },
+  {
+   "name": "1 13. Shrimp Tempura Roll",
+   "qty": 1,
+   "price": 4.25
+  },
+  {
+   "name": "Rich / Famous Roll",
+   "qty": 1,
+   "price": 4.85
+  },
+  {
+   "name": "1 16. Spicy Salmon Roll",
+   "qty": 1,
+   "price": 4.25
+  },
+  {
+   "name": "Veg / Tofu Pad Thai",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 27.15
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.63,
+ "tip": null,
+ "total": 28.78,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

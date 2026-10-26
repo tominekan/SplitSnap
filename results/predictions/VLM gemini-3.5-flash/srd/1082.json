@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Chole Samosa *** TO GO ***",
+   "qty": 1,
+   "price": 5.99
+  }
+ ],
+ "subtotal": 5.99,
+ "tax": 0.57,
+ "tip": null,
+ "total": 6.56,
+ "raw_text": "SURATI FARSAN MART\n11814 186TH STREET\nARTESIA, CA 90701\n562-860-2310\nWWW.SURATIFARSAN.COM\n\n16 Daksh D\n----------------------------------\nChk 45          14          Gst 0\n          Aug08'19 07:33PM\n----------------------------------\n1 Chole Samosa *** TO GO *** 5.99\nXXXXXXXXXXXX8402\n  VISA                       6.56\n\nFOOD                         5.99\nTAX                          0.57\nPAYMENT                      6.56\n---------16 Check Closed---------\n---------Aug08'19 07:34PM---------\n\nThank You for your business\nFree ground shipping on orders\nof 71bs or more...\nWWW.SURATIFARSAN.COM",
+ "checksum": true,
+ "runtime_s": 5.682759333983995
+}

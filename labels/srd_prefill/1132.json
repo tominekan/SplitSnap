@@ -1,0 +1,30 @@
+{
+ "id": "1132",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Tagliatella al Ragu",
+   "qty": 1,
+   "price": 14.9
+  },
+  {
+   "name": "Cappellacci Di Zucca",
+   "qty": 1,
+   "price": 18.9
+  },
+  {
+   "name": "Stufato Al Latte Di Ravenna",
+   "qty": 1,
+   "price": 22.9
+  }
+ ],
+ "subtotal": 56.7,
+ "tax": 5.1,
+ "tip": null,
+ "total": 61.8,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

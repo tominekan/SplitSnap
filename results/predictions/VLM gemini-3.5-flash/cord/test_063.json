@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Kopi Susu Kampung. Ice",
+   "qty": 1,
+   "price": 19000.0
+  },
+  {
+   "name": "Kopi Susu Kampung. Ice",
+   "qty": 2,
+   "price": 38000.0
+  }
+ ],
+ "subtotal": 57000.0,
+ "tax": null,
+ "tip": null,
+ "total": 57000.0,
+ "raw_text": "Kopi Susu Kampung. x1 19.000\nIce\nKopi Susu Kampung - Less Ice 0\nKopi Susu Kampung. x2 38.000\nIce\nSubtotal 57.000\nTotal 57.000\nCash 60.000\nChange 3.000",
+ "checksum": true,
+ "runtime_s": 7.063117500045337
+}

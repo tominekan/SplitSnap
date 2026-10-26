@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "[LG] BLACK SAKURA",
+   "qty": 1,
+   "price": 59091.0
+  },
+  {
+   "name": "LONGAN",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "ROASTED ALMOND",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "MANGGO",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "MINERAL WATER (bundling) 5k",
+   "qty": 1,
+   "price": 4545.0
+  }
+ ],
+ "subtotal": 63636.0,
+ "tax": 6364.0,
+ "tip": null,
+ "total": 70000.0,
+ "raw_text": "1 [LG] BLACK SAKURA 59,091\n1 LONGAN 0\n1 ROASTED ALMOND 0\n1 MANGGO 0\n1 MINERAL WATER (bundling) 5k 4,545\nSub Total 63,636\nPB1 (10%) 6,364\nRounding 0\nTotal 70,000\nCash Payment 100,000\nChange 30,000",
+ "checksum": true,
+ "runtime_s": 8.211819667019881
+}

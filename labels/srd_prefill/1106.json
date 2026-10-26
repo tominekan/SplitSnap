@@ -1,0 +1,45 @@
+{
+ "id": "1106",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Spicy Chicken w. Spicy Garli",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Hf- Peking Duck",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Stir Beef Fillet w. Tofu",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Pork w. Spicy Capsicum",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "White Rice (S)",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "Pork w. Spicy Tofu & Cayen",
+   "qty": 1,
+   "price": 12.95
+  }
+ ],
+ "subtotal": 70.25,
+ "tax": 4.9,
+ "tip": null,
+ "total": 75.15,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

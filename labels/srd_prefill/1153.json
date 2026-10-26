@@ -1,0 +1,65 @@
+{
+ "id": "1153",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Pimm's Cup",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "The Drifter",
+   "qty": 2,
+   "price": 28.0
+  },
+  {
+   "name": "Kobe Beef Slider",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "Amer Kobe Filet",
+   "qty": 1,
+   "price": 79.0
+  },
+  {
+   "name": "Lobster Tail",
+   "qty": 1,
+   "price": 38.0
+  },
+  {
+   "name": "Potato Puree",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Grlld Asparagus",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Peppercorn",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Pepsi",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Choc Pot De Crem",
+   "qty": 1,
+   "price": 13.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 313.49,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "1099",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 3.25
+  },
+  {
+   "name": "Enmoladas with Meat",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "Flautas Chicken",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Coloradito",
+   "qty": 1,
+   "price": 15.95
+  }
+ ],
+ "subtotal": 50.05,
+ "tax": 5.46,
+ "tip": 9.01,
+ "total": 64.52,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -12,3 +12,5 @@ shapely
 nbformat
 nbconvert
 ipykernel
+streamlit
+google-genai

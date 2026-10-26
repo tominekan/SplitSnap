@@ -1,0 +1,55 @@
+{
+ "id": "1005",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Draft Blackhouse",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "Cowboy” 16oz Ribeye",
+   "qty": 1,
+   "price": 45.0
+  },
+  {
+   "name": "Make It Blue",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Add Lobster",
+   "qty": 1,
+   "price": 21.0
+  },
+  {
+   "name": "CK Manhayyam (2 @5.00)",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Whistle Pig Rye 10yr (2 @20.00)",
+   "qty": 1,
+   "price": 40.0
+  },
+  {
+   "name": "Duke” 16oz Top Sirloin",
+   "qty": 1,
+   "price": 34.0
+  },
+  {
+   "name": "Make It Blue",
+   "qty": 1,
+   "price": 5.0
+  }
+ ],
+ "subtotal": 167.0,
+ "tax": 12.94,
+ "tip": null,
+ "total": 179.94,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

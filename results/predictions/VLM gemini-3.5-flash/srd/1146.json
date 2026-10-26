@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Curry Chicken",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Beef Pattie",
+   "qty": 1,
+   "price": 2.25
+  }
+ ],
+ "subtotal": 12.25,
+ "tax": 1.01,
+ "tip": null,
+ "total": 13.26,
+ "raw_text": "Rihanna's Caribbean Restaurant\n12709 BEECHNUT ST STE100\nHOUSTON, TX 77072\n8328902382\n\nORDER: 12\n\nCashier: LeeLee\n12-Aug-2018 3:01:40P\n\n1 Curry Chicken $10.00\n1 Beef Pattie $2.25\n\nSubtotal $12.25\nTax $1.01\n\nTotal $13.26\n\nOrder SVGER69HMWEFR",
+ "checksum": true,
+ "runtime_s": 8.360347291920334
+}

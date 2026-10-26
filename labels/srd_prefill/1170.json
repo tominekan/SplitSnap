@@ -1,0 +1,45 @@
+{
+ "id": "1170",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Iced Tea",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "Sm Garlic Bread",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "9oz Buca Chianti (2 @14.00)",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Gl Buca Chianti",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Sm Chop Antipasto Salad",
+   "qty": 1,
+   "price": 18.99
+  },
+  {
+   "name": "Lg Supremo Pizza",
+   "qty": 1,
+   "price": 29.99
+  }
+ ],
+ "subtotal": 100.26,
+ "tax": 9.02,
+ "tip": null,
+ "total": 109.28,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

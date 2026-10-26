@@ -1,0 +1,66 @@
+{
+ "items": [
+  {
+   "name": "Nasi Putih",
+   "qty": 3,
+   "price": 30000.0
+  },
+  {
+   "name": "Nasi Tambah",
+   "qty": 1,
+   "price": 7000.0
+  },
+  {
+   "name": "Ayam Pop",
+   "qty": 2,
+   "price": 40000.0
+  },
+  {
+   "name": "Samabal SP",
+   "qty": 1,
+   "price": 11000.0
+  },
+  {
+   "name": "Sambal Gabus Asin Cb",
+   "qty": 1,
+   "price": 18000.0
+  },
+  {
+   "name": "Kerupuk Kuah",
+   "qty": 1,
+   "price": 15000.0
+  },
+  {
+   "name": "Ikan Bawal Besa",
+   "qty": 1,
+   "price": 28500.0
+  },
+  {
+   "name": "Telur Dadar",
+   "qty": 1,
+   "price": 10000.0
+  },
+  {
+   "name": "Teh Es",
+   "qty": 1,
+   "price": 7000.0
+  },
+  {
+   "name": "Teh Manis",
+   "qty": 1,
+   "price": 9000.0
+  },
+  {
+   "name": "Es Batu",
+   "qty": 1,
+   "price": 4000.0
+  }
+ ],
+ "subtotal": 179500.0,
+ "tax": 17950.0,
+ "tip": null,
+ "total": 197450.0,
+ "raw_text": "*******************\n3 Nasi Putih 30.000\n1 Nasi Tambah 7.000\n2 Ayam Pop 40.000\n1 Samabal SP 11.000\n1 Sambal Gabus Asin Cb\n18.000\n1 Kerupuk Kuah 15.000\n1 Ikan Bawal Besa 28.500\n1 Telur Dadar 10.000\n1 Teh Es 7.000\n1 Teh Manis 9.000\n1 Es Batu 4.000\n-------------------\nSubtotal 179.500\nPajak Rest 10% 17.950\n14 Total 197.450\nTtl Makanan 159.500\nTtl Minuman 20.000\nCash 197.450",
+ "checksum": true,
+ "runtime_s": 14.983445500023663
+}

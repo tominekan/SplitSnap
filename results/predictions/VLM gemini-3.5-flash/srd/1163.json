@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "DOUBLE DIP, 1 tky, bowl barley, 1 past, bowl barley",
+   "qty": 2,
+   "price": 27.98
+  },
+  {
+   "name": "KNISH",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "ROUND",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "KASHE SIDE",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "COFFEE",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "WATER",
+   "qty": 2,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 37.95,
+ "tax": 3.37,
+ "tip": null,
+ "total": 41.32,
+ "raw_text": "BEN'S BAYSIDE\n211-37 26th Avenue\nBayside, NY 11360\nPhone: (718)229-2367\nEmail: Bayside@BensDeli.net\n\n0032 Table 45 #Party 3\nJESSICA M SvrCk: 1 12:05 03/05/17\nDINING ROOM\n\n2 DOUBLE DIP, 1 tky, bowl barley,\n 1 past, bowl barley 27.98\n1 KNISH 0.00\n1 ROUND 3.99\n1 KASHE SIDE 3.99\n1 COFFEE 1.99\n2 WATER 0.00\n\nSub Total: 37.95\nTax : 3.37\n03/05 12:41 TOTAL: 41.32\n\nSuggested Gratuity\n GRAT 15% 5.69\n GRAT 18% 6.83",
+ "checksum": true,
+ "runtime_s": 10.672870708047412
+}

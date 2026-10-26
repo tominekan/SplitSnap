@@ -1,0 +1,25 @@
+{
+ "id": "1061",
+ "status": "todo",
+ "items": [
+  {
+   "name": "TRIPLE DIPPER",
+   "qty": 1,
+   "price": 12.19
+  },
+  {
+   "name": "CHICKEN WAFFLES4",
+   "qty": 1,
+   "price": 11.89
+  }
+ ],
+ "subtotal": 24.08,
+ "tax": 2.29,
+ "tip": null,
+ "total": 26.37,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

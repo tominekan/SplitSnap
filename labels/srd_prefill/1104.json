@@ -1,0 +1,35 @@
+{
+ "id": "1104",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Red Sangria Glass",
+   "qty": 2,
+   "price": 14.0
+  },
+  {
+   "name": "4-COMBO FAJITAS",
+   "qty": 1,
+   "price": 22.95
+  },
+  {
+   "name": "34-BURRITO SUPREME",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "NY State",
+   "qty": 1,
+   "price": 4.48
+  }
+ ],
+ "subtotal": 14.0,
+ "tax": null,
+ "tip": null,
+ "total": 56.38,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

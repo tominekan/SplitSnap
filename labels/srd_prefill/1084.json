@@ -1,0 +1,45 @@
+{
+ "id": "1084",
+ "status": "todo",
+ "items": [
+  {
+   "name": "STUFFED ARTICHOKE",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "BK FETT AL PORCINI",
+   "qty": 1,
+   "price": 36.0
+  },
+  {
+   "name": "COSTOLETTE/ALLA/PAP",
+   "qty": 1,
+   "price": 42.0
+  },
+  {
+   "name": "BROCCOLI RABE W/ GA",
+   "qty": 1,
+   "price": 10.5
+  },
+  {
+   "name": "ESPRESSO",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "DBLD ESPRESSO",
+   "qty": 1,
+   "price": 7.5
+  }
+ ],
+ "subtotal": 117.75,
+ "tax": 8.24,
+ "tip": null,
+ "total": 125.99,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

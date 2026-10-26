@@ -1,0 +1,30 @@
+{
+ "id": "1160",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Sprite",
+   "qty": 1,
+   "price": 2.55
+  },
+  {
+   "name": "Chicken Caesar Salad",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "Chefs Special",
+   "qty": 1,
+   "price": 19.95
+  }
+ ],
+ "subtotal": 0.0,
+ "tax": 1.89,
+ "tip": null,
+ "total": 33.34,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

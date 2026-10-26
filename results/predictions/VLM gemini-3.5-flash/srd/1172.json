@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "GUACAMOLE DIP",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "DIET COKE",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "LUNCH FAJITAS",
+   "qty": 1,
+   "price": 7.75
+  },
+  {
+   "name": "TORTILLAS (3)",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "SOUR CREAM",
+   "qty": 1,
+   "price": 1.25
+  }
+ ],
+ "subtotal": 16.39,
+ "tax": 1.36,
+ "tip": null,
+ "total": 17.75,
+ "raw_text": "El Valle\nMexican Restaurant\n305 W. John St.\nMatthews, NC 28105\n(704) 845-1417\nServer: GEOVANNY\nStation: 10\nOrder #: 403593\nDine In\nTable: 9\nGuests: 1\n1 GUACAMOLE DIP 3.99\n1 DIET COKE 2.15\n1 LUNCH FAJITAS 7.75\n1 TORTILLAS (3) 1.25\n1 SOUR CREAM 1.25\nSUB TOTAL: 16.39\nTax 1: 1.36\nTOTAL: $17.75\n>> Ticket #: 7 <<\n12/2/2017 11:48:28 AM\nTHANK YOU!",
+ "checksum": true,
+ "runtime_s": 6.660911459010094
+}

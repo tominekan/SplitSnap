@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Vanilla Bean",
+   "qty": 2,
+   "price": 12.0
+  },
+  {
+   "name": "Classic Burger 4oz",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Route 66 Burger 8oz",
+   "qty": 1,
+   "price": 14.0
+  }
+ ],
+ "subtotal": 30.6,
+ "tax": 2.14,
+ "tip": 6.12,
+ "total": 38.86,
+ "raw_text": "Araxi Burger Aventura\n17861 BISCAYNE BLVD\nAventura, FL 33160\n\nServer: Valerie P\n03/17/19 5:39 PM\nCheck #33\nTable 12\n\n2 Vanilla Bean $12.00\nClassic Burger 4oz $8.00\nRoute 66 Burger 8oz $14.00\n\n10% (10.00%) - $3.40\n\nSubtotal $30.60\nService Charge (18.00%) $6.12\nTax $2.14\nTotal $38.86\n\nPowered by Toast",
+ "checksum": false,
+ "runtime_s": 10.857151667005382
+}

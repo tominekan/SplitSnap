@@ -1,0 +1,55 @@
+{
+ "id": "1086",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Shrimp Scampi",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Chicken Milanese",
+   "qty": 2,
+   "price": 46.0
+  },
+  {
+   "name": "Veal Milanese",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Grey Goose",
+   "qty": 3,
+   "price": 30.0
+  },
+  {
+   "name": "Pineapple Juice",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Belvedere",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Becks Non Alcoholic",
+   "qty": 1,
+   "price": 6.6
+  },
+  {
+   "name": "Corona",
+   "qty": 1,
+   "price": 6.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 12.51,
+ "tip": null,
+ "total": 157.51,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

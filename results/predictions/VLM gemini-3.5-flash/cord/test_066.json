@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "PILLOW DURIA",
+   "qty": 1,
+   "price": 36364.0
+  },
+  {
+   "name": "PLASTIK 25",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 36364.0,
+ "tax": 3636.0,
+ "tip": null,
+ "total": 40000.0,
+ "raw_text": "PILLOW DURIA 36,364\nPLASTIK 25 0\nSUBTOTAL 36,364\nPB1 10% 10.000%\nAMOUNT 3,636\nTOTAL 40,000\nCASH 50,000\nCHANGE 10,000",
+ "checksum": true,
+ "runtime_s": 6.706141834030859
+}

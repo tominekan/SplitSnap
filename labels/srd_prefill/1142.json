@@ -1,0 +1,40 @@
+{
+ "id": "1142",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Crimini",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Salami",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Olives",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Lrg Clams\\mussels",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "House Cab",
+   "qty": 1,
+   "price": 6.0
+  }
+ ],
+ "subtotal": 81.0,
+ "tax": 0.6,
+ "tip": null,
+ "total": 83.44,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

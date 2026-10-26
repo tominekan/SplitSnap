@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Traditional Pork & Clams",
+   "qty": 1,
+   "price": 20.95
+  },
+  {
+   "name": "Osso Buco Sp",
+   "qty": 1,
+   "price": 28.95
+  },
+  {
+   "name": "House Wines Half Pitcher",
+   "qty": 1,
+   "price": 16.0
+  }
+ ],
+ "subtotal": 65.9,
+ "tax": 5.68,
+ "tip": null,
+ "total": 71.58,
+ "raw_text": "HEART of PORTUGAL\nHeart of Portugal Restaurant\n241 Mineola Blvd\nMineola, NY 11501\n516-742-9797\nServer: oscar d\nCheck #11\n09/10/17 3:28 PM\nTable D2\nTraditional Pork & Clams $20.95\n1 Osso Buco Sp $28.95\nHouse Wines Half Pitcher $16.00\nSubtotal $65.90\nTax $5.68\nTotal $71.58\nThanks for Dining with Us!\nSee you soon!!!",
+ "checksum": true,
+ "runtime_s": 21.358239624998532
+}

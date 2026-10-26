@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Topping Milo Sparkle (untuk 1 Porsi)",
+   "qty": 1,
+   "price": 1250.0
+  },
+  {
+   "name": "Bola Ubi Mini Original (14 Pcs)",
+   "qty": 2,
+   "price": 25000.0
+  }
+ ],
+ "subtotal": 26250.0,
+ "tax": null,
+ "tip": null,
+ "total": 26250.0,
+ "raw_text": "Topping Milo Sparkle (untuk 1 Po\nrsi)\n1x 1.250 1.250\nBola Ubi Mini Original (14 Pcs\n)\n2x 12.500 25.000\nSubtotal 26.250\nPajak -\nTotal 26.250\nPembayaran GO-PAY",
+ "checksum": true,
+ "runtime_s": 13.503863917081617
+}

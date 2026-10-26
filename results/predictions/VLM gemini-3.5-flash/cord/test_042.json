@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Chicken HCC, 1Pcs",
+   "qty": 1,
+   "price": 15000.0
+  }
+ ],
+ "subtotal": 15000.0,
+ "tax": 1500.0,
+ "tip": null,
+ "total": 16500.0,
+ "raw_text": "1 Chicken HCC, 1Pcs 15.000 Sub Total 15,000 P.Rest 10 % 1.500 Total 16,500 Cash 50,000 Kembali 33,500 1 Items,",
+ "checksum": true,
+ "runtime_s": 9.930121832992882
+}

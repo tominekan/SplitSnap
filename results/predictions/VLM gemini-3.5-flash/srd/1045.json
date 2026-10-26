@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Steak Cheese Egg Rolls (2)",
+   "qty": 1,
+   "price": 4.49
+  },
+  {
+   "name": "4 Wings w/ French Fries\nMumbo S.et",
+   "qty": 1,
+   "price": 7.2
+  },
+  {
+   "name": "4 Wings w/ French Fries\nMumbo S.et\nHot Sauce.et",
+   "qty": 1,
+   "price": 7.2
+  },
+  {
+   "name": "Homemade Half Half",
+   "qty": 1,
+   "price": 1.89
+  }
+ ],
+ "subtotal": 20.78,
+ "tax": 1.25,
+ "tip": null,
+ "total": 22.03,
+ "raw_text": "YUM'S RESTAURANT\n12635 Laurel-Bowie Rd, Laurel, MD 20708\nTel (301)776-5002\nWalk_In\n6/24/2018 04:19 PM 347\nServer Yums\nSteak Cheese Egg Rolls (2) 4.49\n4 Wings w/ French Fries 7.20\nMumbo S.et\n4 Wings w/ French Fries 7.20\nMumbo S.et\nHot Sauce.et\nHomemade Half Half 1.89\nFood Subtotal: 20.78\nBev Subtotal: 0.00\nFood Tax: 1.25\nBev Tax: 0.00\nTotal: 22.03\nReceived: 22.03\nChange: 0.00\nPAID Cash\nThank You",
+ "checksum": true,
+ "runtime_s": 18.295042957994156
+}

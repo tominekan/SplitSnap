@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "CINNAMON SUGAR",
+   "qty": 1,
+   "price": 17000.0
+  }
+ ],
+ "subtotal": 17000.0,
+ "tax": null,
+ "tip": null,
+ "total": 17000.0,
+ "raw_text": "Auntie Anne's\nCINNAMON SUGAR\n1 x 17,000 17,000\nSUB TOTAL 17,000\nGRAND TOTAL 17,000\nCASH IDR 20,000\nCHANGE DUE 3,000",
+ "checksum": true,
+ "runtime_s": 9.315191582893021
+}

@@ -1,0 +1,40 @@
+{
+ "id": "1188",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Beef w. Broccoli",
+   "qty": 1,
+   "price": 8.25
+  },
+  {
+   "name": "w. Chicken Fried Rice",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Sweet / Sour Chicken",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Chicken Chow Mein",
+   "qty": 1,
+   "price": 6.75
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 24.95
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.01,
+ "tip": null,
+ "total": 26.96,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

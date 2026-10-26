@@ -1,0 +1,60 @@
+{
+ "id": "1100",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Delivery",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "1 10 McNuggets EVM",
+   "qty": 1,
+   "price": 10.29
+  },
+  {
+   "name": "L Coke",
+   "qty": 1,
+   "price": 0.4
+  },
+  {
+   "name": "HM GrChs S-Fry Yog",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "1 6 Cookies",
+   "qty": 1,
+   "price": 2.89
+  },
+  {
+   "name": "Baked Apple Pie",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "L French Fries",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "L Iced Tea",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "GST",
+   "qty": 1,
+   "price": 1.11
+  }
+ ],
+ "subtotal": 25.04,
+ "tax": null,
+ "tip": null,
+ "total": 26.15,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "1023",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Chang (2@$3.50)",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "L14 Garlic Delight",
+   "qty": 1,
+   "price": 10.24
+  },
+  {
+   "name": "L28 Red Curry",
+   "qty": 1,
+   "price": 10.24
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.67,
+ "tip": null,
+ "total": 30.15,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

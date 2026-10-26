@@ -1,0 +1,30 @@
+{
+ "id": "1149",
+ "status": "todo",
+ "items": [
+  {
+   "name": "No Beverage",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "No Beverage",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Milk Shake",
+   "qty": 1,
+   "price": 3.99
+  }
+ ],
+ "subtotal": 3.99,
+ "tax": 0.3,
+ "tip": 1.0,
+ "total": 5.29,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

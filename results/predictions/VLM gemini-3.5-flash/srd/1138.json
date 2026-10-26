@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "#12 Wonton or Egg Drop or Mixed Dinner",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "Wonton Soup",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "#01 Egg Roll",
+   "qty": 2,
+   "price": 3.0
+  },
+  {
+   "name": "#23 Juice Chinesse Chop Suey Honduran Style Dinner",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Tropical",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Tamal De Pollo",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 24.24,
+ "tax": 1.7,
+ "tip": null,
+ "total": 25.94,
+ "raw_text": "CASA CHAN RESTAURANT\n445 Palm Ave\nHialeah, FL 33010\n(305) 640-8828\n\nFind us on instagram\n@casa_chan_restaurant Facebook Casa\nChan Restaurant\nORDER: 9\nDine In\n\nCashier: Diana Z\n21-Dec-2014 5:23:42P\n\n1 #12 Wonton or Egg Drop or $3.75\nMixed Dinner\nWonton Soup $0.00\n\n2 #01 Egg Roll $3.00\n1 #23 Juice Chinesse Chop $8.99\nSuey Honduran Style\nDinner\n1 Tropical $5.00\n2 @ $2.50/12 oz\n1 Tamal De Pollo $3.50\n1 @ $3.50/each\n\nSubtotal $24.24\nTax $1.70\n\nTotal $25.94\n\nOrder DMHGRRF9JPM70\n\nBring back this receipt for 10% off your next visit!! :)\n\nOnline: https://clover.com/r/\nDMHGRRF9JPM70",
+ "checksum": true,
+ "runtime_s": 11.73434729105793
+}

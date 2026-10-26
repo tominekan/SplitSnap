@@ -1,0 +1,70 @@
+{
+ "id": "1028",
+ "status": "todo",
+ "items": [
+  {
+   "name": "BUGER COMBO",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "american ch",
+   "qty": 1,
+   "price": 0.7
+  },
+  {
+   "name": "add bacon",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "SUB ZUCCHINI",
+   "qty": 1,
+   "price": 2.49
+  },
+  {
+   "name": "Burger (1/4)",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "add bacon",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "add avocado",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "MAKE SPECIAL",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "onion rings",
+   "qty": 1,
+   "price": 2.49
+  },
+  {
+   "name": "Sub/Ttl",
+   "qty": 1,
+   "price": 31.24
+  },
+  {
+   "name": "DRV THRU",
+   "qty": 1,
+   "price": 34.21
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.97,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

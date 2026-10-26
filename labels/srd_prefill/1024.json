@@ -1,0 +1,30 @@
+{
+ "id": "1024",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Weeken Dinner",
+   "qty": 2,
+   "price": 27.96
+  },
+  {
+   "name": "Coke",
+   "qty": 2,
+   "price": 3.16
+  },
+  {
+   "name": "AMOUNT",
+   "qty": 1,
+   "price": 31.12
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.8,
+ "tip": 3.39,
+ "total": 33.92,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

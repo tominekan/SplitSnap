@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "LATTE",
+   "qty": 1,
+   "price": 1.75
+  },
+  {
+   "name": "SALMON",
+   "qty": 1,
+   "price": 7.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 9.7,
+ "raw_text": "COLLEGE OF SOUTHERN NEVADA\nRUSSELL'S RESTAURANT\n\n108 SERV 7\n\nTbl 55/1 Chk 4488 Gst 1\nOct08'14 12:10PM\n\n1 LATTE 1.75\n*NO FLAVOR\n1 SALMON 7.95\n\n12:44PM Amount Due 9.70\n\nCOLLEGE OF SOUTHERN NEVADA\nWHERE HOSPITALITY EDUCATION\nTAKES LIFE\n\nPLEASE PAY CASHIER\n\nThank You",
+ "checksum": null,
+ "runtime_s": 10.02428599994164
+}

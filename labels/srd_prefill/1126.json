@@ -1,0 +1,30 @@
+{
+ "id": "1126",
+ "status": "todo",
+ "items": [
+  {
+   "name": "SAUV BLANC JB",
+   "qty": 2,
+   "price": 18.0
+  },
+  {
+   "name": "VEGGIE SANDWICH",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "QUICHE LORAINE",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 41.0,
+ "tax": 1.8,
+ "tip": 7.38,
+ "total": 39.18,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

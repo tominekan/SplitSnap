@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "DINNER RODIZIO",
+   "qty": 1,
+   "price": 41.95
+  }
+ ],
+ "subtotal": 41.95,
+ "tax": 2.94,
+ "tip": 10.49,
+ "total": 55.38,
+ "raw_text": "ipanema\nBrazilian Steak House\n2023 South Pine Avenue\nOcala, Florida 34471\n(352) 622-1741\n\nDate: 04/13/18 Time: 09:16 pm\nOrder #: 415\n\nServer: Kyle118\nGuest: 1\nTable #: 12\nName:\nDINING\n\n1 DINNER RODIZIO $41.95\n\nSub-total: $41.95\nGratuity: $10.49\nTax: $2.94\nTotal: $55.38\nPay This Amount:\n\nRecommended Gratuity:\n20% = $8.39 23% = $9.65 25% = $10.49\n\nThank You\nPlease Come Again",
+ "checksum": true,
+ "runtime_s": 6.962276665959507
+}

@@ -1,0 +1,25 @@
+{
+ "id": "1087",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Chicharron",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Maduros",
+   "qty": 1,
+   "price": 3.95
+  }
+ ],
+ "subtotal": 9.95,
+ "tax": 0.86,
+ "tip": null,
+ "total": 10.81,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

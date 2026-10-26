@@ -1,0 +1,30 @@
+{
+ "id": "1045",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Foi Seaatal",
+   "qty": 1,
+   "price": 20.58
+  },
+  {
+   "name": "Tatar",
+   "qty": 1,
+   "price": 22.03
+  },
+  {
+   "name": "Casings",
+   "qty": 1,
+   "price": 0.05
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

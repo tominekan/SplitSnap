@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "Margherita Calzone",
+   "qty": 1,
+   "price": 11.99
+  },
+  {
+   "name": "Side Caesar",
+   "qty": 1,
+   "price": 4.99
+  },
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "Dbl Stack Cheeseburger",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Bacon",
+   "qty": 1,
+   "price": 0.99
+  }
+ ],
+ "subtotal": 31.54,
+ "tax": 2.21,
+ "tip": null,
+ "total": 33.75,
+ "raw_text": "Amici Conyers\n1805 Parker RD Suite G110\n1805 Parker RD\n(678) 890-2005\n\nServer: Nicole\t06/10/2018\nTable 52/1\t1:02 PM\nGuests: 2\t30004\n\nSeat 1\n****************************************\nCoke 2.29\nMargherita Calzone 11.99\nSide Caesar 4.99\nSubtotal 19.27\nTax 1.35\nTotal 20.62\n\nSeat 2\n****************************************\nCoke 2.29\nDbl Stack Cheeseburger 8.99\nBacon 0.99\nSubtotal 12.27\nTax 0.86\nTotal 13.13\n\nSubtotal 31.54\nTax 2.21\n\nTotal 33.75\n\nBalance Due 33.75\n\nThank you for dining with us!\nSUGGESTED GRATUITY:",
+ "checksum": true,
+ "runtime_s": 8.35219341609627
+}

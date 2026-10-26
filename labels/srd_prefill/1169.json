@@ -1,0 +1,45 @@
+{
+ "id": "1169",
+ "status": "todo",
+ "items": [
+  {
+   "name": "No Bev (2 #0.00)",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Mozzarella Fritta",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "Delmonico Steak",
+   "qty": 1,
+   "price": 24.99
+  },
+  {
+   "name": "Asparragus",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Baked Potato",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "Decaf Coffe - Unlimited",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": 42.95,
+ "tax": 3.44,
+ "tip": null,
+ "total": 46.39,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

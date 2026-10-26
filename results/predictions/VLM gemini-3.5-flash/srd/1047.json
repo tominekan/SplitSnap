@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Manhattan (3 @16.00)",
+   "qty": 3,
+   "price": 48.0
+  },
+  {
+   "name": "Grey Goose (3 @9.50)",
+   "qty": 3,
+   "price": 28.5
+  },
+  {
+   "name": "Rocks (3 @1.00)",
+   "qty": 3,
+   "price": 3.0
+  }
+ ],
+ "subtotal": 79.5,
+ "tax": 5.57,
+ "tip": null,
+ "total": 85.07,
+ "raw_text": "730 Tavern Kitchen & Patio\n730tavern.com\n730 Mass Ave\nCambridge, MA 02139-3308\n617-868-8800\n09/23/2017 45757\n9:40 PM\nServer: Megan 30062\nTable 3/1\nGuests: 2\nReprint #: 1\nManhattan (3 @16.00) 48.00\n (3)Makers Mark\nGrey Goose (3 @9.50) 28.50\nRocks (3 @1.00) 3.00\nSubtotal 79.50\nTax 5.57\nTotal 85.07\nBalance Due 85.07\nSUGGESTED GRATUITY PRIOR TO DISCOUNT\n22% $ 17.49\n20% $ 15.90\n18% $ 14.31",
+ "checksum": true,
+ "runtime_s": 12.089107458014041
+}

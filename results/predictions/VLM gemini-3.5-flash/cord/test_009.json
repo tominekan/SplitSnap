@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Bumbu Kaldu Ayam 1",
+   "qty": 1,
+   "price": 36000.0
+  }
+ ],
+ "subtotal": 36000.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Bumbu Kaldu Ayam 1 36000 36000 Sub Total 36000 Discount (0 %) Tunai 50000 Kembalian 14000",
+ "checksum": null,
+ "runtime_s": 11.835732124978676
+}

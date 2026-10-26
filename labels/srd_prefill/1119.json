@@ -1,0 +1,45 @@
+{
+ "id": "1119",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Plate",
+   "qty": 1,
+   "price": 9.1
+  },
+  {
+   "name": "Plate",
+   "qty": 1,
+   "price": 9.1
+  },
+  {
+   "name": "XTRA ENTREE",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "XTRA ENTREE",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "PEPSI 20 OZ",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "PEPSI 20 OZ",
+   "qty": 1,
+   "price": 2.0
+  }
+ ],
+ "subtotal": 25.2,
+ "tax": 2.24,
+ "tip": null,
+ "total": 27.44,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

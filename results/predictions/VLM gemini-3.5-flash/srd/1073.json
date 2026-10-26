@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "#SMS $11.99 Any 2 FtLong",
+   "qty": 1,
+   "price": 11.99
+  }
+ ],
+ "subtotal": 11.99,
+ "tax": 1.23,
+ "tip": null,
+ "total": 13.22,
+ "raw_text": "Subway#44969-0 Phone 626-585-9999\n625 S Fair Oaks Ave\nPasadena, CA, 91105\nServed by: 41 5/1/2019 2:25:37 pm\nTerm ID-Trans# 1/A-297424\n\nQty Size Item Price\n--- ---- ---- -----\n1 #SMS $11.99 Any 2 FtLong 11.99\n1 12\" -Steak & Chse Sub\n1 12\" -B.M.T. Sub\n\nSub Total 11.99\nSales Tax (10.25%) 1.23\nTotal (Eat In) 13.22\nCredit Card 13.22\nChange 0.00\nApproval No: 05114D\nReference No: 912121113552\nCard Issuer: Visa\nAccount No: ************0002\nAcquired: Contact_EMV\nAmount: $13.22\nApplication: CHASE VISA\nAID: A0000000031010\nTVR: 0080008000\nTSI: E800\nDate/Time: 5/1/2019 2:25:37 PM\n\nCUSTOMER COPY",
+ "checksum": true,
+ "runtime_s": 7.955235666013323
+}

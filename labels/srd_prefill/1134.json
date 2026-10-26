@@ -1,0 +1,25 @@
+{
+ "id": "1134",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Family Fill Up",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "DRIVE THRU",
+   "qty": 1,
+   "price": 21.73
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.73,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

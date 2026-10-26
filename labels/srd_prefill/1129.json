@@ -1,0 +1,25 @@
+{
+ "id": "1129",
+ "status": "todo",
+ "items": [
+  {
+   "name": "L)Ton Katsu",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "L) Makimono",
+   "qty": 1,
+   "price": 6.95
+  }
+ ],
+ "subtotal": 15.9,
+ "tax": 1.28,
+ "tip": null,
+ "total": 17.18,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

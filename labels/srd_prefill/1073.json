@@ -1,0 +1,25 @@
+{
+ "id": "1073",
+ "status": "todo",
+ "items": [
+  {
+   "name": "SMS $11.99 Any 2 FtLong",
+   "qty": 1,
+   "price": 11.99
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 13.22
+  }
+ ],
+ "subtotal": 11.99,
+ "tax": 1.23,
+ "tip": null,
+ "total": 13.22,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

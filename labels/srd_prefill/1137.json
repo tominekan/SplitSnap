@@ -1,0 +1,25 @@
+{
+ "id": "1137",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Salmon Plate",
+   "qty": 1,
+   "price": 11.49
+  },
+  {
+   "name": "Extra Shrimp",
+   "qty": 1,
+   "price": 1.45
+  }
+ ],
+ "subtotal": 12.94,
+ "tax": 1.23,
+ "tip": null,
+ "total": 14.17,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

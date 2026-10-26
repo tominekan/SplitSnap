@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "8oz Fil Bearn",
+   "qty": 1,
+   "price": 35.95
+  },
+  {
+   "name": "8oz Fil Au Po",
+   "qty": 1,
+   "price": 35.95
+  },
+  {
+   "name": "Onion Ring",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Haricots Vert",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Choc Truf Cake",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "Lunta",
+   "qty": 1,
+   "price": 39.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 129.75,
+ "raw_text": "Marco Pierre White\nSteakhouse & Grill\nDawson Street\nVAT: 6573338P\nTel:01 6771155\nmarcopierrewhite.ie/Dawson\n\n40006 Charlie\n\nTbl 15/1 Chk 1501 Gst 2\nStation 1 16Feb'19 21:31\n\n1 8oz Fil Bearn 35.95\n1 8oz Fil Au Po 35.95\n1 Onion Ring 4.95\n1 Haricots Vert 4.95\n1 Choc Truf Cake 8.95\n1 Lunta 39.00\n\n22:57 Balance Due 129.75\n\nThank you for your custom.\nPlease call again\nVisit us online at\nmarcopierrewhite.ie/dawson",
+ "checksum": null,
+ "runtime_s": 9.663479125010781
+}

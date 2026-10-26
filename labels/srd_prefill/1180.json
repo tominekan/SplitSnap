@@ -1,0 +1,30 @@
+{
+ "id": "1180",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Chips y Salsa",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Red Bull",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Soft Drink",
+   "qty": 1,
+   "price": 2.79
+  }
+ ],
+ "subtotal": 11.24,
+ "tax": 0.79,
+ "tip": null,
+ "total": 12.03,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

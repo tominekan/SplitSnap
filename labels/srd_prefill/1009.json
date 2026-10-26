@@ -1,0 +1,25 @@
+{
+ "id": "1009",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Piatto Gorgonzola",
+   "qty": 1,
+   "price": 12.99
+  },
+  {
+   "name": "Root Beet",
+   "qty": 1,
+   "price": 2.5
+  }
+ ],
+ "subtotal": 28.48,
+ "tax": 2.28,
+ "tip": 12.99,
+ "total": 30.76,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "1175",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Whiskey",
+   "qty": 1,
+   "price": 6.25
+  }
+ ],
+ "subtotal": 6.25,
+ "tax": 1.31,
+ "tip": null,
+ "total": 7.56,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

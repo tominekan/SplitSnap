@@ -1,0 +1,25 @@
+{
+ "id": "1157",
+ "status": "todo",
+ "items": [
+  {
+   "name": "LATTE",
+   "qty": 1,
+   "price": 1.75
+  },
+  {
+   "name": "SALMON",
+   "qty": 1,
+   "price": 7.95
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 9.7,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

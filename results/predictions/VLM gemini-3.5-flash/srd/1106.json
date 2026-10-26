@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Spicy Chicken w. Spicy Garli c Soy V.",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Hf- Peking Duck",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Stir Beef Fillet w. Tofu",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Pork w. Spicy Capsicum",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "White Rice (S)",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "Pork w. Spicy Tofu & Cayen ne Chili",
+   "qty": 1,
+   "price": 12.95
+  }
+ ],
+ "subtotal": 70.25,
+ "tax": 4.9,
+ "tip": null,
+ "total": 75.15,
+ "raw_text": "Lan Sheng\n209 Paterson Ave.\nWallington N. J. 07057\nTel : 973.773.7100 Fax : 973.773.7101\n\n[ B2 ]\n\nDine In\n# 1011\nServer: Mary\n06/13/17\n2 Person\n08:38 PM - 09:17 P.\n----------------------------------------\n1 Spicy Chicken w. Spicy Garli $7.95\nc Soy V.\n1 Hf- Peking Duck $18.95\n1 Stir Beef Fillet w. Tofu $15.95\n1 Pork w. Spicy Capsicum $12.95\n1 White Rice (S) $1.50\n1 Pork w. Spicy Tofu & Cayen $12.95\nne Chili\n----------------------------------------\nSubTotal $70.25\nSales Tax $4.90\n----------------------------------------\nTotal $75.15\n\nThank You\nHave A Nice Day",
+ "checksum": true,
+ "runtime_s": 10.748410874977708
+}

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "5001-Corn Flakes Cookies",
+   "qty": 1,
+   "price": 56000.0
+  },
+  {
+   "name": "5003-Chokoreto Cookies",
+   "qty": 1,
+   "price": 62000.0
+  },
+  {
+   "name": "6002-Plastic Bag Medium",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 118000.0,
+ "raw_text": "5001-Corn Flakes Cookies\nRp.56.000 x1 Rp.56.000\n5003-Chokoreto Cookies\nRp.62.000 x1 Rp.62.000\n6002-Plastic Bag Medium\nRp.0 x1 Rp.0\nTotal Item: 3\nTotal. Rp.118.000\nDebet Card 118.000",
+ "checksum": null,
+ "runtime_s": 7.641157749923877
+}

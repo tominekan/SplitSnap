@@ -1,0 +1,25 @@
+{
+ "id": "1110",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Koobideh x7",
+   "qty": 1,
+   "price": 115.5
+  },
+  {
+   "name": "Nan-O-Sabzi",
+   "qty": 1,
+   "price": 8.95
+  }
+ ],
+ "subtotal": 146.85,
+ "tax": 13.22,
+ "tip": 22.4,
+ "total": 160.07,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "**CORNBREAD SVC",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "TRIO- POT PIE @ 9.99",
+   "qty": 2,
+   "price": 19.98
+  },
+  {
+   "name": "C- PIE SLICE",
+   "qty": 2,
+   "price": 0.0
+  },
+  {
+   "name": "NO BEVERAGE",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "SOFT DRINK",
+   "qty": 1,
+   "price": 2.79
+  },
+  {
+   "name": "BDAY CLUB $5",
+   "qty": 1,
+   "price": -5.0
+  }
+ ],
+ "subtotal": 17.77,
+ "tax": 1.42,
+ "tip": null,
+ "total": 19.19,
+ "raw_text": "Marie Callender's Restaurant\nStore #0134\n2131 Price St.\nPismo Beach, CA 93449\n(805) 773-0606\nwww.mcpies.com\n\n111590 Becky\nTbl 2/1 Chk 1878 Gst 2\nNov30'14 06:35PM\n\n1 **CORNBREAD SVC 0.00\n2 TRIO- POT PIE @ 9.99 19.98\n2 C- PIE SLICE 0.00\n1 NO BEVERAGE 0.00\n1 SOFT DRINK 2.79\nBDAY CLUB $5 5.00-\n\nSubtotal 17.77\nTax 1.42\n07:10PM Total 19.19\n\n***********************\nIndulge.. Take home a whole pie!",
+ "checksum": true,
+ "runtime_s": 11.162466458044946
+}

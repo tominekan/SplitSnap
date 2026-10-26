@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "NASI GOR SFD TLR",
+   "qty": 1,
+   "price": 35000.0
+  },
+  {
+   "name": "ES TEH TAWAR",
+   "qty": 1,
+   "price": 3000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 38000.0,
+ "raw_text": "1 35.000 Rp35.000\nNASI GOR SFD TLR\n1 3.000 Rp3.000\nES TEH TAWAR\n***TOTAL Rp38.000\nCASH Rp50.000\nCHANGE Rp12.000",
+ "checksum": null,
+ "runtime_s": 6.428144832956605
+}

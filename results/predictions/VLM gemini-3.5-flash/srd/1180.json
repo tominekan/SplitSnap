@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Chips y Salsa",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Red Bull",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Soft Drink",
+   "qty": 1,
+   "price": 2.79
+  }
+ ],
+ "subtotal": 11.24,
+ "tax": 0.79,
+ "tip": null,
+ "total": 12.03,
+ "raw_text": "ONE EYED\nLIZZY'S\n(912)341-8897\n\n555 BAR Z\n\nChk 4427 3 COR Gst 0\nAug30'14 01:20PM\n\n1 Chips y Salsa 4.95\n1 Red Bull 3.50\n1 Soft Drink 2.79\nCash 12.03\n\nSubtotal 11.24\nTax 0.79\nTotal Paid 12.03\n\nState Tax 0.79\n-------555 Check Closed-------\n-------Aug30'14 01:47PM-------",
+ "checksum": true,
+ "runtime_s": 9.237567875068635
+}

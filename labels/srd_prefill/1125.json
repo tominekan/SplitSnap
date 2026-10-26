@@ -1,0 +1,30 @@
+{
+ "id": "1125",
+ "status": "todo",
+ "items": [
+  {
+   "name": "1 6.5 Chicken Korma",
+   "qty": 1,
+   "price": 11.95
+  },
+  {
+   "name": "1 10.1 Naan (Plain Naan)",
+   "qty": 1,
+   "price": 1.95
+  },
+  {
+   "name": "1 13.1 Kheer",
+   "qty": 1,
+   "price": 3.95
+  }
+ ],
+ "subtotal": 17.85,
+ "tax": 1.25,
+ "tip": null,
+ "total": 19.1,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

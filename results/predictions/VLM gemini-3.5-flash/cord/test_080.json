@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Viet Milk Coffee\n+Ice\n+M",
+   "qty": 1,
+   "price": 25000.0
+  }
+ ],
+ "subtotal": 25000.0,
+ "tax": null,
+ "tip": null,
+ "total": 25000.0,
+ "raw_text": "CA PHE\n1 Viet Milk Coffee 25.000\n+Ice\n+M\nSubtotal 25.000\nTotal 25.000\nCASH 25.000\nKembalian 0",
+ "checksum": true,
+ "runtime_s": 8.683723250054754
+}

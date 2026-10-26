@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "Bistec Palomilla Enc W/Moro Gandules Hab Rojas . Red Bean Dine in",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Spaghetti Con Pollo W/Moro Gandules Hab Rojas . Red Bean Dine in",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "Copa Vino White Glass Pinot Gr",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "Lemonada Dine in",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Jugo de Chinola Dine in 16oz",
+   "qty": 1,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 50.49,
+ "tax": 2.74,
+ "tip": 6.59,
+ "total": 53.23,
+ "raw_text": "Dominican Restaurant 1019 Front St. 516-292-5700 Party of 2 Guest Check Ticket 12005 Table 11 SERVERS Employee: EUFEMIA 06:38 PM Date 11/10/18 Seat 1 >> 1 Bistec Palomilla Enc W/Moro Gandules Hab Rojas . Red Bean Dine in 15.95 1 Spaghetti Con Pollo W/Moro Gandules Hab Rojas . Red Bean Dine in 14.95 1 Copa Vino White Glass Pinot Gr 5.50 1 Lemonada Dine in 3.50 1 Jugo de Chinola Dine in 16oz 4.00 1 Gratuity. 6.59 Sub Total : 50.49 Sales Tax : 2.74 Check Total $ 53.23 Additional Tip Total Charge: 15% tip is 7.57 18% tip is 9.09 20% tip is 10.10 22% tip is 11.11 Thank you for Coming Gracias por su Visita",
+ "checksum": false,
+ "runtime_s": 17.18254704202991
+}

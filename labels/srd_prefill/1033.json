@@ -1,0 +1,30 @@
+{
+ "id": "1033",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Taco Salad",
+   "qty": 1,
+   "price": 15.49
+  },
+  {
+   "name": "Add Chicken Fajita",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Pechuga de Pollo",
+   "qty": 1,
+   "price": 18.99
+  }
+ ],
+ "subtotal": 43.47,
+ "tax": 3.26,
+ "tip": null,
+ "total": 46.73,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

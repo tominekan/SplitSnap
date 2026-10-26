@@ -1,0 +1,45 @@
+{
+ "id": "1197",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Vassoi e Stoviglie",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Macedonia",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Insalata Negombo",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Bufala",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Pomodorini",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Nat 1/2 lt",
+   "qty": 1,
+   "price": 1.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 34.0,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

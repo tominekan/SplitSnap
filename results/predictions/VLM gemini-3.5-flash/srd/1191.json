@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Draft Beer (2 @ 4.97)",
+   "qty": 2,
+   "price": 9.94
+  },
+  {
+   "name": "Fountain Drink (16oz)",
+   "qty": 1,
+   "price": 2.17
+  },
+  {
+   "name": "MOD Pizza",
+   "qty": 1,
+   "price": 8.67
+  },
+  {
+   "name": "Mini MOD",
+   "qty": 1,
+   "price": 6.67
+  }
+ ],
+ "subtotal": 27.45,
+ "tax": 2.53,
+ "tip": 3.59,
+ "total": 29.98,
+ "raw_text": "MOD Pizza\n26902 92nd Ave NW\nSuite A\nStanwood, WA 98292\nPhone 360.205.9680\n\n5/19/2019\t4:06:54 PM\nOrder Id: AABT4HN6ACCM\n#77 - HERE\n\nDraft Beer (2 @ 4.97)\t$9.94\nFountain Drink (16oz)\t$2.17\nMOD Pizza\t$8.67\nMini MOD\t$6.67\n\nSub Total\t$27.45\n\nSales Tax\t$2.53\nOrder Total\t$29.98\n\nVisa\t$29.98\n + Tip:\t$3.59\nCard#: ************3352",
+ "checksum": false,
+ "runtime_s": 4.7262332499958575
+}

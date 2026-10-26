@@ -1,0 +1,45 @@
+{
+ "id": "1088",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Little MOO Shake",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "MOOYAH Burger",
+   "qty": 1,
+   "price": 4.99
+  },
+  {
+   "name": "MOOYAH American Cheese",
+   "qty": 1,
+   "price": 0.7
+  },
+  {
+   "name": "Regular Fries",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 8.98
+  },
+  {
+   "name": "Beverage",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.06,
+ "tip": null,
+ "total": 13.03,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

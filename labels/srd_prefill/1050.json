@@ -1,0 +1,40 @@
+{
+ "id": "1050",
+ "status": "todo",
+ "items": [
+  {
+   "name": "SODA",
+   "qty": 1,
+   "price": 2.49
+  },
+  {
+   "name": "CHEESE STEAK",
+   "qty": 1,
+   "price": 10.49
+  },
+  {
+   "name": "AMERICAN CHS",
+   "qty": 1,
+   "price": 0.75
+  },
+  {
+   "name": "FRD ONION",
+   "qty": 1,
+   "price": 0.75
+  },
+  {
+   "name": "Chix Cheesesteak",
+   "qty": 1,
+   "price": 10.49
+  }
+ ],
+ "subtotal": 25.22,
+ "tax": 1.74,
+ "tip": null,
+ "total": 26.96,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "CHOCO PUFF",
+   "qty": 1,
+   "price": 29091.0
+  },
+  {
+   "name": "CREAMY BEEF CLS FTC",
+   "qty": 1,
+   "price": 42727.0
+  },
+  {
+   "name": "NEW ORIENTAL CHK RICE",
+   "qty": 1,
+   "price": 34545.0
+  },
+  {
+   "name": "LIPTON PITCHER",
+   "qty": 1,
+   "price": 54545.0
+  },
+  {
+   "name": "SC/P SUPER SUPREME",
+   "qty": 1,
+   "price": 47273.0
+  },
+  {
+   "name": "CB/P BLACK PEPP BEEF",
+   "qty": 1,
+   "price": 48182.0
+  }
+ ],
+ "subtotal": 256363.0,
+ "tax": 25637.0,
+ "tip": null,
+ "total": 282000.0,
+ "raw_text": "PIZZA HUT\n1 CHOCO PUFF 29,091\n1 CREAMY BEEF CLS FTC 42,727\n1 NEW ORIENTAL CHK RICE 34,545\n1 LIPTON PITCHER 54,545\n1 SC/P SUPER SUPREME 47,273\n1 CB/P BLACK PEPP BEEF 48,182\nSUBTOTAL 256,363\nTAX 25,637\nTOTAL 282,000",
+ "checksum": true,
+ "runtime_s": 8.183096791035496
+}

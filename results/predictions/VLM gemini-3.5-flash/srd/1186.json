@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "3 Prem Glass @7.50",
+   "qty": 3,
+   "price": 22.5
+  },
+  {
+   "name": "1 MED Veggie @27.00",
+   "qty": 1,
+   "price": 27.0
+  }
+ ],
+ "subtotal": 49.5,
+ "tax": 2.97,
+ "tip": null,
+ "total": 52.47,
+ "raw_text": "Primo\nFamily Restaurant\n5/3/19 8:14 PM\nDARWIN D. Table:10 Check:137\n3 Prem Glass @7.50 $22.50\n1 MED Veggie @27.00 $27.00\nSub-Total $49.50\nSales Tax $2.97\nTotal $52.47\nPayments\nMASTERCARD ***6170 $52.47\nAmount Due $0.00\nCharge Receipt\nServer: DARWIN D.\nTable No: 10",
+ "checksum": true,
+ "runtime_s": 8.0923906249227
+}

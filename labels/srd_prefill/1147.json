@@ -1,0 +1,45 @@
+{
+ "id": "1147",
+ "status": "todo",
+ "items": [
+  {
+   "name": "House Wine White Glass 1 3.00",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "VEGETABLE SHORBA 1 2.50",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "GARLIC NAAN 1 2.00",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "KARI PAKORA 1 4.50",
+   "qty": 1,
+   "price": 4.5
+  },
+  {
+   "name": "ANGKOR BEER WITH MEAL 1 0.50",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "ANGKOR BEER WITH HEAL 1 0.50",
+   "qty": 1,
+   "price": 0.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 13.0,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

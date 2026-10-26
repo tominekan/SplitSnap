@@ -1,0 +1,50 @@
+{
+ "id": "1141",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Seafood Puff",
+   "qty": 1,
+   "price": 10.8
+  },
+  {
+   "name": "Sesame Prawn Toast",
+   "qty": 1,
+   "price": 11.8
+  },
+  {
+   "name": "Beancurd Prawn Cheung Fun",
+   "qty": 1,
+   "price": 10.8
+  },
+  {
+   "name": "X0 Scallop Dumpling",
+   "qty": 1,
+   "price": 8.8
+  },
+  {
+   "name": "Poached Beijing Dumpling",
+   "qty": 1,
+   "price": 5.8
+  },
+  {
+   "name": "Spinach Dumpling",
+   "qty": 1,
+   "price": 6.8
+  },
+  {
+   "name": "Tea Smoked Pork Ribs",
+   "qty": 1,
+   "price": 22.0
+  }
+ ],
+ "subtotal": 84.8,
+ "tax": 3.82,
+ "tip": null,
+ "total": 88.62,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

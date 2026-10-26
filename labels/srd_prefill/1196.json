@@ -1,0 +1,30 @@
+{
+ "id": "1196",
+ "status": "todo",
+ "items": [
+  {
+   "name": "TIKKA MASALA",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "PALAK (SPINACH)",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "VEGAN BENGAN BHARTA",
+   "qty": 1,
+   "price": 17.0
+  }
+ ],
+ "subtotal": 55.0,
+ "tax": 3.3,
+ "tip": 58.3,
+ "total": 58.3,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "WEEKEND DINNER BUFFET",
+   "qty": 2,
+   "price": 39.98
+  },
+  {
+   "name": "WEEKEND DINNER KIDS (3-5Y)",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "WEEKEND DINNER KIDS (6-10Y)",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "SODA DRINK",
+   "qty": 4,
+   "price": 7.96
+  },
+  {
+   "name": "WEEKEND SENIOR DINNER",
+   "qty": 1,
+   "price": 18.09
+  }
+ ],
+ "subtotal": 84.02,
+ "tax": 8.2,
+ "tip": null,
+ "total": 92.22,
+ "raw_text": "Newark Buffet\n35201 Newark Blvd. #W Newark CA 94560\n510-818-1136\nhttp://www.newarkbuffet.com\n\n05:25 PM 06/29/2019\n\nServer: Tim-11\n\nTab B11 1P\n\nQTY NAME L/P PRICE\n2 WEEKEND DINNER BUFFET 19.99 39.98\n1 WEEKEND DINNER KIDS (3-5Y) 7.99\n1 WEEKEND DINNER KIDS (6-10Y) 10.00\n4 SODA DRINK 1.99 7.96\n1 WEEKEND SENIOR DINNER 18.09\n\nSUBTOTAL: 84.02\nTax(9.75%): 8.20\nTOTAL: 92.22\n\n(: Thank You! :)\nPlease Come Again.",
+ "checksum": true,
+ "runtime_s": 8.323818124947138
+}

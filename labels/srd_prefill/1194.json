@@ -1,0 +1,45 @@
+{
+ "id": "1194",
+ "status": "todo",
+ "items": [
+  {
+   "name": "GLS CARRIG LAGER",
+   "qty": 2,
+   "price": 6.6
+  },
+  {
+   "name": "WINGS SMALL",
+   "qty": 1,
+   "price": 9.0
+  },
+  {
+   "name": "FRESH COO",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "SHELLFISH POT",
+   "qty": 1,
+   "price": 22.5
+  },
+  {
+   "name": "FISH CAKES",
+   "qty": 1,
+   "price": 7.5
+  },
+  {
+   "name": "PORTION BREAD LARGE",
+   "qty": 1,
+   "price": 1.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 65.1,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

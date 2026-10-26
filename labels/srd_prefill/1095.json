@@ -1,0 +1,20 @@
+{
+ "id": "1095",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Plt Lunch 2 Choices",
+   "qty": 1,
+   "price": 9.79
+  }
+ ],
+ "subtotal": 0.0,
+ "tax": 0.46,
+ "tip": null,
+ "total": 10.25,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

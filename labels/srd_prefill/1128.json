@@ -1,0 +1,40 @@
+{
+ "id": "1128",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Classic Michelada",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Classic Michelada",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Don Julio Anejo",
+   "qty": 1,
+   "price": 15.0
+  },
+  {
+   "name": "Classic Michelada",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Balam Madurado",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 63.0,
+ "tax": 5.99,
+ "tip": null,
+ "total": 68.99,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

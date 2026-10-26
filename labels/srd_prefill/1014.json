@@ -1,0 +1,50 @@
+{
+ "id": "1014",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Enchi Omelete",
+   "qty": 2,
+   "price": 28.98
+  },
+  {
+   "name": "Open Food",
+   "qty": 1,
+   "price": 3.19
+  },
+  {
+   "name": "Open Food",
+   "qty": 1,
+   "price": 3.19
+  },
+  {
+   "name": "Hashbrowns Side",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Hashbrowns Side",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Coffee Hot",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Diet Coke",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": 44.32,
+ "tax": 4.21,
+ "tip": null,
+ "total": 48.53,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

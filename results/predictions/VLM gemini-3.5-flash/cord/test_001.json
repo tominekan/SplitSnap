@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "J.STB PROMO",
+   "qty": 1,
+   "price": 17500.0
+  },
+  {
+   "name": "Y.B.BAT",
+   "qty": 1,
+   "price": 46000.0
+  },
+  {
+   "name": "Y.BASO PROM",
+   "qty": 1,
+   "price": 27500.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 91000.0,
+ "raw_text": "SAMS\nBANDUNG\nJ.STB PROMO 17500\nY.B.BAT 46000\nY.BASO PROM 27500\nTOTAL 91000\nCASH 91000",
+ "checksum": null,
+ "runtime_s": 9.01004195807036
+}

@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "ICED TT",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "ICED GT",
+   "qty": 1,
+   "price": 22000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 42000.0,
+ "raw_text": "ICED TT .20,000\nICED GT .22,000\nCASH .42,000",
+ "checksum": null,
+ "runtime_s": 8.322241834015585
+}

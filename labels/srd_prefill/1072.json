@@ -1,0 +1,30 @@
+{
+ "id": "1072",
+ "status": "todo",
+ "items": [
+  {
+   "name": "1 1/2 AND 1/2 COMBO",
+   "qty": 1,
+   "price": 8.45
+  },
+  {
+   "name": "1 1/2 AND 1/2 COMBO",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "FOUNTAIN MEDIUM",
+   "qty": 2,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 0.0,
+ "tax": 1.79,
+ "tip": null,
+ "total": 21.69,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

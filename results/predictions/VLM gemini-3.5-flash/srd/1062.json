@@ -1,0 +1,66 @@
+{
+ "items": [
+  {
+   "name": "PREM WHITE",
+   "qty": 1,
+   "price": 10.75
+  },
+  {
+   "name": "PREM RED",
+   "qty": 1,
+   "price": 10.75
+  },
+  {
+   "name": "DIET SDA",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "7 UP",
+   "qty": 1,
+   "price": 3.25
+  },
+  {
+   "name": "VONG RIPIENE",
+   "qty": 1,
+   "price": 9.75
+  },
+  {
+   "name": "Chicken Parm",
+   "qty": 1,
+   "price": 21.75
+  },
+  {
+   "name": "SCAMPI MILAN",
+   "qty": 1,
+   "price": 25.75
+  },
+  {
+   "name": "LING VONG",
+   "qty": 1,
+   "price": 22.75
+  },
+  {
+   "name": "1/2 PASTA SP",
+   "qty": 1,
+   "price": 16.75
+  },
+  {
+   "name": "DIET SDA",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "7 UP",
+   "qty": 1,
+   "price": 3.25
+  }
+ ],
+ "subtotal": 132.25,
+ "tax": 9.76,
+ "tip": null,
+ "total": 142.01,
+ "raw_text": "MARIANACCI'S\nRESTAURANT\nTABLE 403 CHECK    39\nRoger   GUESTS  4  FEB 18/17  8:19PM\nPREM WHITE      10.75\nPREM RED        10.75\nDIET SDA         3.75\n7 UP             3.25\nVONG RIPIENE     9.75\nChicken Parm21.75\nSCAMPI MILAN25.75\nLING VONG       22.75\n1/2 PASTA SP16.75\nDIET SDA         3.75\n7 UP             3.25\nSUBTOT         132.25\nTAX              9.76\nTOTAL          142.01\nTHANK YOU,\nTHE MARIANACCI FAMILY",
+ "checksum": true,
+ "runtime_s": 15.785768375033513
+}

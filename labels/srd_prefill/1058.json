@@ -1,0 +1,40 @@
+{
+ "id": "1058",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Glass Imp Stout",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Ashland Amber",
+   "qty": 1,
+   "price": 4.75
+  },
+  {
+   "name": "Butter Noodles",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "Oatmeal Stout",
+   "qty": 1,
+   "price": 4.75
+  },
+  {
+   "name": "Mahi Mahi Taco",
+   "qty": 1,
+   "price": 15.0
+  }
+ ],
+ "subtotal": 36.5,
+ "tax": 1.1,
+ "tip": null,
+ "total": 37.6,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

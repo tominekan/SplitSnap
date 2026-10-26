@@ -1,0 +1,56 @@
+{
+ "items": [
+  {
+   "name": "Hamachi Collar",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Mega Poke Bowl",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "Hamachi - Sashimi",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Maguro - Sashimi",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "Salmon - Sashimi",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "3 Sockeye Salmon - Sashimi",
+   "qty": 3,
+   "price": 36.0
+  },
+  {
+   "name": "Hamachi Japapeno",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Salmon Collar",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Escolar - Sashimi",
+   "qty": 1,
+   "price": 11.0
+  }
+ ],
+ "subtotal": 131.0,
+ "tax": 12.71,
+ "tip": null,
+ "total": 143.71,
+ "raw_text": "Katana Sushi\n2818 Hewitt Ave\nEverett, WA 98201\n425-512-9361\n*********\nServer: Michael C\n05/11/18 8:47 PM\nCheck #93 Table D2\nHamachi Collar $12.00\nMega Poke Bowl $17.00\nHamachi - Sashimi $12.00\nMaguro - Sashimi $11.00\nSalmon - Sashimi $10.00\n3 Sockeye Salmon - Sashimi $36.00\nHamachi Japapeno $12.00\nSalmon Collar $10.00\nEscolar - Sashimi $11.00\nSubtotal $131.00\nTax $12.71\nTotal $143.71\n*********\nThank You for your visit.",
+ "checksum": true,
+ "runtime_s": 12.320520584005862
+}

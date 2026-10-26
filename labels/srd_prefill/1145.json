@@ -1,0 +1,50 @@
+{
+ "id": "1145",
+ "status": "todo",
+ "items": [
+  {
+   "name": "WATER",
+   "qty": 3,
+   "price": 0.0
+  },
+  {
+   "name": "CRAB SUIZA",
+   "qty": 1,
+   "price": 13.25
+  },
+  {
+   "name": "SHRIMP VERACRUZ",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "ENCHILADA",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "FAJITA BF",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "TAKE OUT",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "HH MIGUELS MARGARIT @ 3.38",
+   "qty": 4,
+   "price": 13.52
+  }
+ ],
+ "subtotal": 60.87,
+ "tax": 4.27,
+ "tip": null,
+ "total": 65.14,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "1116",
+ "status": "todo",
+ "items": [
+  {
+   "name": "P-VILLAGIO BREEZE",
+   "qty": 1,
+   "price": 0.01
+  },
+  {
+   "name": "ADD SALAD",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "LUNCH SEAFOOD PASTA",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "KID PEPERONI PIZZA",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "KID ALFREDO",
+   "qty": 1,
+   "price": 7.0
+  }
+ ],
+ "subtotal": 31.01,
+ "tax": 3.11,
+ "tip": null,
+ "total": 34.12,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

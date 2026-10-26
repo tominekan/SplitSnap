@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "BASO TAHU",
+   "qty": 1,
+   "price": 43181.0
+  },
+  {
+   "name": "ES JERUK",
+   "qty": 1,
+   "price": 13000.0
+  }
+ ],
+ "subtotal": 56181.0,
+ "tax": 5618.0,
+ "tip": null,
+ "total": 61799.0,
+ "raw_text": "BASO TAHU 1 43,181 43,181\nES JERUK 1 13,000 13,000\nTOTAL 56,181\nTAX 10.00 % 5,618\nGRAND TOTAL 61,799\nTUNAI 62,000\nKEMBALI 201\nTerima Kasih !",
+ "checksum": true,
+ "runtime_s": 7.4024122500559315
+}

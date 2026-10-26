@@ -1,0 +1,50 @@
+{
+ "id": "1049",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Margarita",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Add Tequila",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Strawberry Daiquiri",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Add Vodca",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Snow Combo",
+   "qty": 1,
+   "price": 54.0
+  },
+  {
+   "name": "Kickin Sauce",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Mild",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 74.0,
+ "tax": 3.49,
+ "tip": null,
+ "total": 77.49,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

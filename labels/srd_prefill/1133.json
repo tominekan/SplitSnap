@@ -1,0 +1,20 @@
+{
+ "id": "1133",
+ "status": "todo",
+ "items": [
+  {
+   "name": "FRI-SUN DINNER $29.88",
+   "qty": 5,
+   "price": 149.4
+  }
+ ],
+ "subtotal": 134.46,
+ "tax": 12.11,
+ "tip": null,
+ "total": 146.57,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

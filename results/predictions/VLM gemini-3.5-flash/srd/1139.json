@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "TANDOORI CHICKEN",
+   "qty": 1,
+   "price": 179.0
+  },
+  {
+   "name": "MUTTON RAGON JOSH",
+   "qty": 1,
+   "price": 209.0
+  },
+  {
+   "name": "FISH BIRIYANI",
+   "qty": 1,
+   "price": 229.0
+  }
+ ],
+ "subtotal": 617.0,
+ "tax": null,
+ "tip": null,
+ "total": 617.0,
+ "raw_text": "SS PARADISE\nAndhra Style Famlily Restaurant\nVidyaranyapura, BANGALORE-560097\nContact:9148436557/58\nBILL\n------\nGST-29ADDFS0740B1ZG\n\nBill No. 00027 Bill Date 06.07.2017\nBill Time 22:06 Persons 01\nTable No. P Wtr. No. SD\n===================================\nItem Name Rate Qty Amount\nTANDOORI CHICKEN 179 1.00 179.00\nMUTTON RAGON JOSH 209 1.00 209.00\nFISH BIRIYANI 229 1.00 229.00\n===================================\n617.00\n===================================\nTotal 617.00\nT\n===================================\nGrand Total Rs. 617.00\n-W1\n-W0\nI",
+ "checksum": true,
+ "runtime_s": 8.935339874937199
+}

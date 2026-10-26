@@ -1,0 +1,35 @@
+{
+ "id": "1060",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Gl Karma Cab Sauv",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Gl Douglass Green SB",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "PKLI Green Curry Scallops",
+   "qty": 1,
+   "price": 27.95
+  },
+  {
+   "name": "PKLI Piri Piri Chicken",
+   "qty": 1,
+   "price": 23.75
+  }
+ ],
+ "subtotal": 74.7,
+ "tax": 6.0,
+ "tip": null,
+ "total": 83.5,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "1029",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Arroz",
+   "qty": 2,
+   "price": 3.0
+  },
+  {
+   "name": "Taco De Pescado",
+   "qty": 2,
+   "price": 7.0
+  },
+  {
+   "name": "Taco Tuesday Pollo",
+   "qty": 2,
+   "price": 2.0
+  },
+  {
+   "name": "Taco D Carne Asada",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Taco D Chorizo",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Taco Tuesday Pastor",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Horchata",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Taco Tuesday Pollo",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Taco D Cochinita",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Taco D Carnitas",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": 28.95,
+ "tax": 2.03,
+ "tip": null,
+ "total": 30.98,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

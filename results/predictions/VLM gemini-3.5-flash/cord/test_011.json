@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "BANABERRY FRESH CREAM CAK",
+   "qty": 1,
+   "price": 230000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 230000.0,
+ "raw_text": "1 BANABERRY FRESH CREAM CAK 230,000\nTOTAL 230,000\nCASH 230,000\nCHANGE 0",
+ "checksum": null,
+ "runtime_s": 8.098654165980406
+}

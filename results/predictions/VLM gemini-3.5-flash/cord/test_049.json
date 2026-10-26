@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Ptgs Eggtart",
+   "qty": 1,
+   "price": 12000.0
+  },
+  {
+   "name": "Choco Melt",
+   "qty": 1,
+   "price": 11000.0
+  }
+ ],
+ "subtotal": 23000.0,
+ "tax": null,
+ "tip": null,
+ "total": 23000.0,
+ "raw_text": "1 Ptgs Eggtart 12,000\n1 Choco Melt 11,000\nSUBTOTAL 23,000\nDUE 23,000\nCASH 50,000\nCHANGE 27,000\nTOTAL QTY 2 ITEM 2 PCS",
+ "checksum": true,
+ "runtime_s": 7.3090321669587865
+}

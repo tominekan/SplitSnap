@@ -1,0 +1,56 @@
+{
+ "items": [
+  {
+   "name": "BURGER COMBO",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "*american ch*",
+   "qty": 1,
+   "price": 0.7
+  },
+  {
+   "name": "**add bacon**",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "SUB ZUCCHINI",
+   "qty": 1,
+   "price": 2.49
+  },
+  {
+   "name": "Burger (1/4)",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "**add bacon**",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "**add avocado**",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "MAKE SPECIAL",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "* onions rings *",
+   "qty": 1,
+   "price": 2.49
+  }
+ ],
+ "subtotal": 31.24,
+ "tax": 2.97,
+ "tip": 0.61,
+ "total": 34.21,
+ "raw_text": "DOUGLAS BURGERS #15\n11325 Washington Blvd\nWhitter, Calif 90605\n(562) 699-7484\n\nCheck 20018\nSAT 2/09/19 5:30pm\n\n1 BURGER COMBO 9.99\n* fries *\n*american ch* 0.70\n1 **add bacon** 1.99\n*gril onions*\n1 SUB ZUCCHINI 2.49\nRaspberry Ice Te\n1 Burger (1/4) 5.99\n* sesame bun *\n**REGULAR**\n1 **add bacon** 1.99\n1 **add avocado** 1.99\n1 MAKE SPECIAL 3.00\n* onions rings * 2.49\n* lemonade *\nSERV.CHARGE(2%) 0.61\n\nSub/Ttl 31.24\nTax 2.97\n*DRV THRU 34.21\n\nCash 34.21",
+ "checksum": false,
+ "runtime_s": 13.453598416992463
+}

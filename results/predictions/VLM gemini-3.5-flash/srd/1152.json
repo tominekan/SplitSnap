@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Chicken Fingers",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Spicy Shrimp",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "Steamed Fish Lg",
+   "qty": 1,
+   "price": 25.0
+  },
+  {
+   "name": "Bottled Water",
+   "qty": 2,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 57.0,
+ "tax": null,
+ "tip": 5.7,
+ "total": 62.7,
+ "raw_text": "KALOOKI'S\nb-2 03/14/2015 8:12 PM\n0 cts 5300\nDine in Denise\n# Item Unit Price\n1 Chicken Fingers 8.00 8.00\n1 Spicy Shrimp 20.00 20.00\n1 Steamed Fish Lg 25.00 25.00\n2 Bottled Water 2.00 4.00\nSubtotal 57.00\nService Charge 10% 5.70\nTotal $ 62.70\nThank You\nKalooki's\nBay Road, Blue Hills\n01649 Providenciales\n6493323388",
+ "checksum": true,
+ "runtime_s": 8.644338125013746
+}

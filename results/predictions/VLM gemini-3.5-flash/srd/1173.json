@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "Bottled Water",
+   "qty": 1,
+   "price": 2.45
+  },
+  {
+   "name": "Add Pollo Taco",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Add Carnitas Taco",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Sour Cream",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "Chihuahua Cheese",
+   "qty": 1,
+   "price": 1.25
+  }
+ ],
+ "subtotal": 14.85,
+ "tax": null,
+ "tip": null,
+ "total": 16.56,
+ "raw_text": "600 E Grand Ave\nLalo's Mexican at Navy Pier\n\nTable Q#1\nTrans #: 64142 Serv: Claudia\n8/24/2017 5:29 PM # Cust:1\n====================================\nQuan Descript Cost\n====================================\n1 Bottled Water $2.45\n1 Add Pollo Taco $4.95\n1 Add Carnitas Taco $4.95\n1 Sour Cream $1.25\n1 Chihuahua Cheese $1.25\n====================================\nNet Total: $14.85\nIL Sales $1.52\nMPEA Tax $0.15\nRestaurant $0.04\n====================\nTOTAL: $16.56\nFood: $12.40\nBeverage: $2.45\n====================================\nEMVUS $16.56\n====================================\nn\nA Robinson Hill Company\nIt's The ExpeRHience That Counts!\nTell us about your visit!\nwww.robinsonhillusa.com/guest-survey",
+ "checksum": false,
+ "runtime_s": 15.407945457962342
+}

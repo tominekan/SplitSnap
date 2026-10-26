@@ -1,0 +1,40 @@
+{
+ "id": "1068",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Pork",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "Pancakes",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Side Bacon",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Regular",
+   "qty": 2,
+   "price": 6.0
+  },
+  {
+   "name": "al",
+   "qty": 1,
+   "price": 42.9
+  }
+ ],
+ "subtotal": 39.0,
+ "tax": 3.9,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

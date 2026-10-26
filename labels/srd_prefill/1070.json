@@ -1,0 +1,20 @@
+{
+ "id": "1070",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Ribeye Steak Lunch 10",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 10.0,
+ "tax": 0.95,
+ "tip": 1.0,
+ "total": 10.95,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

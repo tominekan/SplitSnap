@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "S-Bubble Milk Tea 100%",
+   "qty": 1,
+   "price": 20000.0
+  },
+  {
+   "name": "S-Caramel Milk Tea 100%",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 40000.0,
+ "raw_text": "koi\n1X S-Bubble Milk Tea @20,000 20,000\n100%\n1X S-Caramel Milk Tea @20,000 20,000\n100%\nTotal: 40,000\nCash: 40,000\nCHANGE 0",
+ "checksum": null,
+ "runtime_s": 8.728131666081026
+}

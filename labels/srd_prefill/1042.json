@@ -1,0 +1,45 @@
+{
+ "id": "1042",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Guaca Chicharron",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "EMPANADA",
+   "qty": 2,
+   "price": 3.0
+  },
+  {
+   "name": "PARGO FRITO",
+   "qty": 1,
+   "price": 19.95
+  },
+  {
+   "name": "MAR Y CHICKEN",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "SALMON A LA PLANCHA",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "Void",
+   "qty": 1,
+   "price": -17.95
+  }
+ ],
+ "subtotal": 69.9,
+ "tax": 3.44,
+ "tip": null,
+ "total": 55.39,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

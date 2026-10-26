@@ -1,0 +1,35 @@
+{
+ "id": "1074",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Weekend Buffet",
+   "qty": 2,
+   "price": 27.18
+  },
+  {
+   "name": "Drink",
+   "qty": 2,
+   "price": 3.98
+  },
+  {
+   "name": "Beverages",
+   "qty": 1,
+   "price": 3.98
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 27.18
+  }
+ ],
+ "subtotal": 31.16,
+ "tax": 2.57,
+ "tip": null,
+ "total": 33.73,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

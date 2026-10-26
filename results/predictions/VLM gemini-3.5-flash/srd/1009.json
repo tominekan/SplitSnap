@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Steak Tip Skewers",
+   "qty": 1,
+   "price": 12.99
+  },
+  {
+   "name": "Piatto Gorgonzola",
+   "qty": 1,
+   "price": 12.99
+  },
+  {
+   "name": "Root Beer",
+   "qty": 1,
+   "price": 2.5
+  }
+ ],
+ "subtotal": 28.48,
+ "tax": 2.28,
+ "tip": null,
+ "total": 30.76,
+ "raw_text": "BELLA PASTA\nRISTORANTE\nBella Pasta\n223 Newport Ave\nPawtucket, RI 02861\n(401) 722-6297\nwww.bellapastaristorante.com\nCheck us out on\ngoogle/Facebook/yelp/Trip\nAdvisor\nServer: PM BAR P\n08/09/19 4:28 PM\nCheck #4 Table 21\nSteak Tip Skewers $12.99\nPiatto Gorgonzola $12.99\nRoot Beer $2.50\nSubtotal $28.48\nTax $2.28\nTotal $30.76\nCheck us out on Grub hub and Uber Eats for\nDelivery!!!\nRestaurant Hours\nSunday: 3:00pm - 8:00pm",
+ "checksum": true,
+ "runtime_s": 6.8568261249456555
+}

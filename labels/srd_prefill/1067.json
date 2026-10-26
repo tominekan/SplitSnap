@@ -1,0 +1,35 @@
+{
+ "id": "1067",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Ghee Dosa",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Anjappar Mutton Meals",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "Kaldosa",
+   "qty": 1,
+   "price": 6.95
+  },
+  {
+   "name": "Plain Dosa",
+   "qty": 1,
+   "price": 6.95
+  }
+ ],
+ "subtotal": 36.8,
+ "tax": 3.5,
+ "tip": null,
+ "total": 40.3,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

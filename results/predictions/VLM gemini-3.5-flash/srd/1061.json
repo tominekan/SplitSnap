@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "TRIPLE DIPPER",
+   "qty": 1,
+   "price": 12.19
+  },
+  {
+   "name": "CHICKEN WAFFLES4",
+   "qty": 1,
+   "price": 11.89
+  }
+ ],
+ "subtotal": 24.08,
+ "tax": 2.29,
+ "tip": null,
+ "total": 26.37,
+ "raw_text": "Chili's Grill & Bar\nPuente Hills #25\n17588 Castleton St\nCity of Industry,CA 91748\n\nServer: Jose S 09/15/2018\n33/1 1:25 PM\nGuests: 2 2060012\nOrder Type: Dine In\n\nTRIPLE DIPPER 12.19\nCHICKEN WAFFLES4 11.89\n\nSubtotal 24.08\n\nTotal Tax 2.29\n\nTotal 26.37\n\nBalance Due 26.37\n\n* Gratuity Guide\n15% = $3.96\n18% = $4.75\n20% = $5.27\n22% = $5.80\n\nWant free Chips and Salsa\nor a drink, every visit?\nChilis.com/Rewards\n---------------------------------------\nGift Card activation is\ndelayed by 4 hours.\n\n***********************************\nTELL US HOW WE'RE DOING!",
+ "checksum": true,
+ "runtime_s": 8.821121457964182
+}

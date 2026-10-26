@@ -1,0 +1,60 @@
+{
+ "id": "1154",
+ "status": "todo",
+ "items": [
+  {
+   "name": "TAP BEER 10-HH",
+   "qty": 6,
+   "price": 9.54
+  },
+  {
+   "name": "Manzanita Sol",
+   "qty": 2,
+   "price": 5.5
+  },
+  {
+   "name": "Tamarindo",
+   "qty": 1,
+   "price": 2.75
+  },
+  {
+   "name": "Sprite",
+   "qty": 1,
+   "price": 2.75
+  },
+  {
+   "name": "Thur. 2 Cock Shrimp",
+   "qty": 1,
+   "price": 11.95
+  },
+  {
+   "name": "Whole Fish",
+   "qty": 2,
+   "price": 21.9
+  },
+  {
+   "name": "1 2 tcs Governador",
+   "qty": 1,
+   "price": 7.75
+  },
+  {
+   "name": "French Fries",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Taco DE Asada",
+   "qty": 1,
+   "price": 2.25
+  }
+ ],
+ "subtotal": 66.89,
+ "tax": 6.35,
+ "tip": null,
+ "total": 73.24,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

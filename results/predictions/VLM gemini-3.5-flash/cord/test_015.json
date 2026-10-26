@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Lemon Tea (L)",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Caramel Small",
+   "qty": 1,
+   "price": 38000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 63000.0,
+ "raw_text": "XXI café\n1 Lemon Tea (L) 25.000\n1 Caramel Small 38.000\nTOTAL 63.000\nCASH 70.000\nCHANGED 7.000",
+ "checksum": null,
+ "runtime_s": 5.039037958020344
+}

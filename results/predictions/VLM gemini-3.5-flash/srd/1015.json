@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Shrimp Entree",
+   "qty": 1,
+   "price": 21.0
+  },
+  {
+   "name": "BBQ & Blue Chz chips",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Discount:BBQ & Blue Chz",
+   "qty": 1,
+   "price": -6.0
+  },
+  {
+   "name": "Sprite",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Lobster Roll",
+   "qty": 1,
+   "price": 21.0
+  }
+ ],
+ "subtotal": 47.0,
+ "tax": 3.29,
+ "tip": null,
+ "total": 50.29,
+ "raw_text": "HAMMOCKS TRADING COMPANY\nwww.hammockstradingcompany.com\n7285 Roswell Road\nSandy Springs, Georgia\n30328\n770-395-9592\nNice to Meet You!\nTbl:40 Ref:155091\nChk:202524\nShannon 3/10/2017 6:23 pm\nCoke 2.50\nShrimp Entree 21.00\nMac n Cheese\nFrench Fries\nBBQ & Blue Chz chips 6.00\nDiscount:BBQ & Blue Chz -6.00\nSprite 2.50\nLobster Roll 21.00\nSubTotal 47.00\nState Tax 3.29\nTotal 50.29\nTotal Due 50.29\n1/2 Priced Oysters on the Half Shell 4-\n6 pm daily",
+ "checksum": true,
+ "runtime_s": 8.989197499933653
+}

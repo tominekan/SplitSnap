@@ -1,0 +1,55 @@
+{
+ "id": "1198",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Avion Silver RX",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "1 1 Staub",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Avion Silver RX",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "DA Delmonico 14",
+   "qty": 1,
+   "price": 62.0
+  },
+  {
+   "name": "Truffle Fries",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Mac/Cheese",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Asparagus",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "BAKED COOKIE",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 142.0,
+ "tax": 7.7,
+ "tip": null,
+ "total": 154.78,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

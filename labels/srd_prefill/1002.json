@@ -1,0 +1,35 @@
+{
+ "id": "1002",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Power Veg Bowl",
+   "qty": 1,
+   "price": 4.99
+  },
+  {
+   "name": "No Sour Cream",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "No Cheese",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Rg Orange Crsh Fz",
+   "qty": 1,
+   "price": 1.99
+  }
+ ],
+ "subtotal": 6.98,
+ "tax": 0.63,
+ "tip": null,
+ "total": 7.61,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

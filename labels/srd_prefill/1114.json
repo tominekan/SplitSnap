@@ -1,0 +1,30 @@
+{
+ "id": "1114",
+ "status": "todo",
+ "items": [
+  {
+   "name": "PERRIER 5.80",
+   "qty": 1,
+   "price": 5.8
+  },
+  {
+   "name": "COCA-COLA 5.80",
+   "qty": 1,
+   "price": 5.8
+  },
+  {
+   "name": "JUS ORANGE 5.40",
+   "qty": 1,
+   "price": 5.4
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 17.0,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

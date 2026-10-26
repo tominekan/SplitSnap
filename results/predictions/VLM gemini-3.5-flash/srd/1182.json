@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "SOBE MOJITO'S BACARDI LIGHT",
+   "qty": 4,
+   "price": 40.0
+  }
+ ],
+ "subtotal": 40.0,
+ "tax": 3.6,
+ "tip": 7.2,
+ "total": 50.8,
+ "raw_text": "**************************************** Finnegan's Way Check 822819 1344 Ocean Drive Miami Beach Florida 33139 Tel. 305-672-7747 08/21/17 8:38 PM Table 15 Cust 1 Waiter 58 IRYNA P **************************************** 4 SOBE MOJITO'S 40.00 BACARDI LIGHT Taxable: 40.00 -------------------- Sub-total: 40.00 Sales Tax 7%: 2.80 Resort Tax 2%: 0.80 Total: 43.60 Voluntary 18% Tip: 7.20 Please feel free to adjust or remove the tip amount at your discretion Total 50.80",
+ "checksum": true,
+ "runtime_s": 25.372313375002705
+}

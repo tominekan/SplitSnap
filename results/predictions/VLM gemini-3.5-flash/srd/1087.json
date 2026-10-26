@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Chicharron",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Maduros",
+   "qty": 1,
+   "price": 3.95
+  }
+ ],
+ "subtotal": 9.95,
+ "tax": 0.86,
+ "tip": null,
+ "total": 10.81,
+ "raw_text": "#Noches De Colombia\n204 JERICHO TURNPIKE\nMINEOLA, NY 11501\n(516)747-0861\nCheck:500592 Guests: 0\nDate:07/09/19 Time:09:22am\nTable: Server:Emely\n1 Chicharron $6.00\n1 Maduros $3.95\nSubtotal: $9.95\nTax:: $0.86\nSbtl w/Tax: $10.81\nAmt Due: $10.81",
+ "checksum": true,
+ "runtime_s": 7.972005333984271
+}

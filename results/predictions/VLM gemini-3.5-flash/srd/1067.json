@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Ghee Dosa",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "Anjappar Mutton Meals",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "Kaldosa",
+   "qty": 1,
+   "price": 6.95
+  },
+  {
+   "name": "Plain Dosa",
+   "qty": 1,
+   "price": 6.95
+  }
+ ],
+ "subtotal": 36.8,
+ "tax": 3.5,
+ "tip": null,
+ "total": 40.3,
+ "raw_text": "Anjappar Chettinad Artesia\n18128 Pioneer Blvd\nArtesia, Ca 90701\n(562) 991-1801\nwww.anjapparla.com\nAnjappar - Artesia\nOrder #004-864 Ticket #35\nDine In Table #C16\nSeat: 1\nServer: Deepthi R Device #1\nSeat #1\n1 Ghee Dosa 7.95\nKid is waiting\n1 Anjappar Mutton Meals 14.95\n1 Kaldosa 6.95\n1 Plain Dosa 6.95\nSub Total: 36.80\nTax 1: 3.50\nTotal: 40.30",
+ "checksum": true,
+ "runtime_s": 9.548074166988954
+}

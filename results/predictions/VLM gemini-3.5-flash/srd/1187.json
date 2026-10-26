@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "Real Smooth",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "Short Stack",
+   "qty": 1,
+   "price": 8.59
+  },
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Breakfast Quesadilla",
+   "qty": 1,
+   "price": 13.99
+  },
+  {
+   "name": "NO Sausage",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Grilled Spinach",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "Southern Comfort",
+   "qty": 1,
+   "price": 10.99
+  }
+ ],
+ "subtotal": 46.54,
+ "tax": 3.84,
+ "tip": null,
+ "total": 50.38,
+ "raw_text": "Spiral Diner & Bakery\n608 E Hickory St\nDenton, TX 76205\n\nOrder# 185736\nEat In Order\nServer: Sarah A\nTable: 9\nDate: 6/16/19, 10:04 AM\n\nReal Smooth $7.99\nShort Stack $8.59\nCoffee $2.99\nBreakfast Quesadilla $13.99\n  NO Sausage +$0.00\n  Grilled Spinach +$1.99\nSouthern Comfort $10.99\n\nSubtotal: $46.54\nTotal Tax: $3.84\n\nTotal: $50.38\n\nOrder Balance due: $50.38\n\nwww.spiraldiner.com\nFollow Us On\nfacebook.com/spiraldiner\ninstagram.com/spiraldiner\nThanks for your business!",
+ "checksum": true,
+ "runtime_s": 10.779683250002563
+}

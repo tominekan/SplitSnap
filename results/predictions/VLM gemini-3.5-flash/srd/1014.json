@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "Enchi Omelete\nSHREDDED BEEF",
+   "qty": 2,
+   "price": 25.98
+  },
+  {
+   "name": "Open Food\nSHREDDED BEEG",
+   "qty": 1,
+   "price": 3.19
+  },
+  {
+   "name": "Open Food",
+   "qty": 1,
+   "price": 3.19
+  },
+  {
+   "name": "Hashbrowns Side",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Hashbrowns Side",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Coffee Hot",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Diet Coke",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": 44.32,
+ "tax": 4.21,
+ "tip": null,
+ "total": 48.53,
+ "raw_text": "Loaded Cafe\n15700 Bellflower Blvd\nBellflower, CA 90706\n\n135 Nathalie\nTbl 34/1 Chk 2763 Gst 2\nFeb23'19 10:23AM\n\nDine In\n2 Enchi Omelete 25.98\n SHREDDED BEEF\n1 Open Food 3.19\n SHREDDED BEEG\n1 Open Food 3.19\n1 Hashbrowns Side 2.99\n1 Hashbrowns Side 2.99\n1 Coffee Hot 2.99\n1 Diet Coke 2.99\n\nSUBTOTAL 44.32\nTAX 4.21\n10:51AM TOTAL DUE 48.53\n\nTHANK YOU FOR VISITING",
+ "checksum": true,
+ "runtime_s": 25.625965374987572
+}

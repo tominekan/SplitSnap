@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "PHO TAI CHIN",
+   "qty": 1,
+   "price": 36500.0
+  }
+ ],
+ "subtotal": 36500.0,
+ "tax": 3650.0,
+ "tip": null,
+ "total": 40150.0,
+ "raw_text": "1 PHO TAI CHIN 36,500\nSub Total : 36,500\nPB1 10.0% : 3,650\nGrand Total : 40,150\n5183230101CREDIT CARD 40,150",
+ "checksum": true,
+ "runtime_s": 6.560761958011426
+}

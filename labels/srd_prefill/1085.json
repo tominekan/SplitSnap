@@ -1,0 +1,35 @@
+{
+ "id": "1085",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Mixed Meat Lunch",
+   "qty": 20,
+   "price": 180.0
+  },
+  {
+   "name": "Reg 12pc Falafel",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Reg 12pc Falafel",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Miscelanceous",
+   "qty": 1,
+   "price": 20.0
+  }
+ ],
+ "subtotal": 213.0,
+ "tax": 15.92,
+ "tip": null,
+ "total": 228.92,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

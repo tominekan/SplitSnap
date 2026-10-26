@@ -1,0 +1,25 @@
+{
+ "id": "1039",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Santa Fe Ckn",
+   "qty": 2,
+   "price": 11.38
+  },
+  {
+   "name": "E Green Chile",
+   "qty": 1,
+   "price": 0.7
+  }
+ ],
+ "subtotal": 12.08,
+ "tax": 0.97,
+ "tip": null,
+ "total": 13.05,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

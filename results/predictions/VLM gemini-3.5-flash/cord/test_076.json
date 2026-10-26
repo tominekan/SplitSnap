@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "BASO TAHU",
+   "qty": 1,
+   "price": 46000.0
+  },
+  {
+   "name": "NASI PUTIH",
+   "qty": 1,
+   "price": 6000.0
+  },
+  {
+   "name": "BASO TAHU",
+   "qty": 1,
+   "price": 46000.0
+  },
+  {
+   "name": "NASI PUTIH",
+   "qty": 2,
+   "price": 12000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 110000.0,
+ "raw_text": "BASO TAHU *46000\nNASI PUTIH *6000\nBASO TAHU *46000\n2x 6000\nNASI PUTIH *12000\nITEMS 5Q-\nCASH\n*110000",
+ "checksum": null,
+ "runtime_s": 15.258342750021257
+}

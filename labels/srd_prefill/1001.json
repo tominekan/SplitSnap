@@ -1,0 +1,40 @@
+{
+ "id": "1001",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 2.95
+  },
+  {
+   "name": "Chicken Parmesan",
+   "qty": 1,
+   "price": 17.95
+  },
+  {
+   "name": "Prime Top Sirloin",
+   "qty": 1,
+   "price": 25.95
+  },
+  {
+   "name": "The Bacon-Cheese burger",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 2.95
+  }
+ ],
+ "subtotal": 63.75,
+ "tax": 5.5,
+ "tip": null,
+ "total": 69.25,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

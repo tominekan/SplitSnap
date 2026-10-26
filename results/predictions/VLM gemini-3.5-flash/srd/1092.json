@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Sushi Dinner w.Miso Soup",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Lady Gaga",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "Ginger Ale",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Fried Cheese Cake",
+   "qty": 1,
+   "price": 4.95
+  }
+ ],
+ "subtotal": 39.85,
+ "tax": 3.45,
+ "tip": null,
+ "total": 43.3,
+ "raw_text": "Kaiseki\nJapanese Cuisine\n7 West Merrick Rd., Valley Steam, NY 11580\nTel: (516)561-3556\n\nDine_In\n07/28/18 03:42 PM A3 20\nServer: MANDY Guest 2\n\nSushi Dinner 18.95\nw.Miso Soup\nLady Gaga 13.95\nGinger Ale 2.00\nFried Cheese Cake 4.95\n\nSubtotal: 39.85\nTax: 3.45\nTotal: 43.30\n\nRecommended Tips:\n15%=$5.98\n18%=$7.17\n20%=$7.97\nThank You",
+ "checksum": true,
+ "runtime_s": 9.616032624966465
+}

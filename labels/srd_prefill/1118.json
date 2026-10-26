@@ -1,0 +1,30 @@
+{
+ "id": "1118",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Veggie Sandwich",
+   "qty": 1,
+   "price": 0.99
+  },
+  {
+   "name": "Small Fries",
+   "qty": 1,
+   "price": 1.89
+  },
+  {
+   "name": "Plain Potato",
+   "qty": 1,
+   "price": 1.79
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.32,
+ "tip": null,
+ "total": 4.99,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

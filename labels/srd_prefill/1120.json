@@ -1,0 +1,35 @@
+{
+ "id": "1120",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Vegetable Roll",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "L35.Sesame chicken",
+   "qty": 2,
+   "price": 13.9
+  },
+  {
+   "name": "L)Veg Spare Ribs .BBS",
+   "qty": 1,
+   "price": 7.65
+  },
+  {
+   "name": "Amount",
+   "qty": 1,
+   "price": 21.55
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.91,
+ "tip": null,
+ "total": 23.46,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

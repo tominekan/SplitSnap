@@ -1,0 +1,75 @@
+{
+ "id": "1062",
+ "status": "todo",
+ "items": [
+  {
+   "name": "PREM WHITE",
+   "qty": 1,
+   "price": 10.75
+  },
+  {
+   "name": "PREM RED",
+   "qty": 1,
+   "price": 10.75
+  },
+  {
+   "name": "DIET SDA",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "UP",
+   "qty": 7,
+   "price": 3.25
+  },
+  {
+   "name": "VONG RIPIENE",
+   "qty": 1,
+   "price": 9.75
+  },
+  {
+   "name": "Chicken Parm",
+   "qty": 1,
+   "price": 21.75
+  },
+  {
+   "name": "SCAMPI MILAN",
+   "qty": 1,
+   "price": 25.75
+  },
+  {
+   "name": "LING VONG",
+   "qty": 1,
+   "price": 22.75
+  },
+  {
+   "name": "1/2 PASTA SP",
+   "qty": 1,
+   "price": 16.75
+  },
+  {
+   "name": "DIET SDA",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "UP",
+   "qty": 7,
+   "price": 3.25
+  },
+  {
+   "name": "SUBTOT",
+   "qty": 1,
+   "price": 132.25
+  }
+ ],
+ "subtotal": null,
+ "tax": 9.76,
+ "tip": null,
+ "total": 142.01,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

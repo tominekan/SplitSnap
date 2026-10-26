@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "SOPA DE TORTILA BOWL",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "TACO SALAD\nCHKN",
+   "qty": 1,
+   "price": 9.5
+  },
+  {
+   "name": "HOUSE MARGARITA JUMBO",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "Dr Pepper",
+   "qty": 1,
+   "price": 2.65
+  },
+  {
+   "name": "SIDE CHEESE",
+   "qty": 1,
+   "price": 1.55
+  },
+  {
+   "name": "HOUSE MARGARITA JUMBO",
+   "qty": 1,
+   "price": 12.5
+  }
+ ],
+ "subtotal": 44.2,
+ "tax": 3.5,
+ "tip": null,
+ "total": 47.7,
+ "raw_text": "El Meson Mexican Restaurant\n794 South Perry St Unit EF\nCASTLE ROCK, CO 80104\n(720) 733-9705\n\nServer: IGOR\nStation: 33\nOrder #: 18533\nDine In\nTable: A1\nGuests: 2\n\n1 SOPA DE TORTILA BOWL 5.50\n1 TACO SALAD 9.50\nCHKN\n1 HOUSE MARGARITA JUMBO 12.50\n1 Dr Pepper 2.65\n1 SIDE CHEESE 1.55\n1 HOUSE MARGARITA JUMBO 12.50\n\nSUB TOTAL: 44.20\nTax 1: 3.50\nTOTAL: $47.70",
+ "checksum": true,
+ "runtime_s": 28.269364250008948
+}

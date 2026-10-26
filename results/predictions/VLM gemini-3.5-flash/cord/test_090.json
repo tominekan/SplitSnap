@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "CIRENG PANDAWA",
+   "qty": 1,
+   "price": 26818.0
+  }
+ ],
+ "subtotal": 26818.0,
+ "tax": 2681.0,
+ "tip": null,
+ "total": 29500.0,
+ "raw_text": "B17\n1 CIRENG PANDAWA 26,818\nSubtotal 26,818\nPb1 2,681\nTotal 29,500\nCASH 29,500\nTotal Item 1\nTotal Qty 1",
+ "checksum": true,
+ "runtime_s": 8.338803541031666
+}

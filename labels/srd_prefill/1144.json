@@ -1,0 +1,25 @@
+{
+ "id": "1144",
+ "status": "todo",
+ "items": [
+  {
+   "name": "HOUSE VODKA",
+   "qty": 2,
+   "price": 24.0
+  },
+  {
+   "name": "HOUSE TEQUILA",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 36.0,
+ "tax": 3.19,
+ "tip": 7.2,
+ "total": 46.4,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

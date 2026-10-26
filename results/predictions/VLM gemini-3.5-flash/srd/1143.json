@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "Arthur's Burger *ChsBleu",
+   "qty": 1,
+   "price": 13.95
+  },
+  {
+   "name": "\"Our\" Burger **Avocado",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Loaded Nachos",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "Pint Boston Lager",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Pint Yeungling",
+   "qty": 2,
+   "price": 12.0
+  },
+  {
+   "name": "Kona Longboard",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Quesadilla",
+   "qty": 1,
+   "price": 13.95
+  }
+ ],
+ "subtotal": null,
+ "tax": 3.98,
+ "tip": null,
+ "total": 84.78,
+ "raw_text": "Arthurs\\n237 Washington\\nHoboken, NJ 07030\\n(201) 656-5009\\n\\n1058 Alexandr\\n---------------------------------------\\nChk 1844       TAB/62       Gst 3\\n         Oct01'17 01:44PM\\n---------------------------------------\\nBar\\n1 Arthur's Burger *ChsBleu    13.95\\n1 \"Our\" Burger **Avocado      15.95\\n1 Loaded Nachos               12.95\\n1 Pint Boston Lager            6.00\\n2 Pint Yeungling              12.00\\n1 Kona Longboard               6.00\\n1 Quesadilla                  13.95\\n\\nfood                          56.80\\nliquor                        24.00\\nTax                            3.98\\n02:29PM Total Due            84.78\\n\\n20% added to parties 8 or more\\nThank You for Dining with Us!\\n=======================================\\nPrivate Rooms\\nAvailable for\\nYour Next Party!",
+ "checksum": null,
+ "runtime_s": 10.110161499935202
+}

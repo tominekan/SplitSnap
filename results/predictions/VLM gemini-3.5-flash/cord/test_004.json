@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "ICE BLACKCOFFE",
+   "qty": 2,
+   "price": 82000.0
+  },
+  {
+   "name": "AVOCADO COFFEE",
+   "qty": 1,
+   "price": 61000.0
+  },
+  {
+   "name": "CHIKEN KATSU FF",
+   "qty": 1,
+   "price": 51000.0
+  }
+ ],
+ "subtotal": 194000.0,
+ "tax": null,
+ "tip": null,
+ "total": 174600.0,
+ "raw_text": "ICE BLACKCOFFE 2 82,000\nAVOCADO COFFEE 1 61,000\nCHIKEN KATSU FF 1 51,000\nSUB_TOTAL 194,000\nDISCOUNT 19,400\nTOTAL 174,600\nCASH 200,000\nCHANGE 25,400",
+ "checksum": false,
+ "runtime_s": 7.723228874965571
+}

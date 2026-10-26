@@ -1,0 +1,35 @@
+{
+ "id": "1032",
+ "status": "todo",
+ "items": [
+  {
+   "name": "MAC&CHZ - SMALL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "COLL GRN - SMALL",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "1 5 WINGS",
+   "qty": 1,
+   "price": 5.75
+  },
+  {
+   "name": "TOTL",
+   "qty": 1,
+   "price": 9.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Lemon Tea (L).",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Mike & Ike Original",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "Mike & Berry",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "Roti Keju Manis.",
+   "qty": 1,
+   "price": 7000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 88000.0,
+ "raw_text": "XXI\ncafe\n1 Lemon Tea (L). 25.000\n1 Mike & Ike Original 28.000\n1 Mike & Berry 28.000\n1 Roti Keju Manis. 7.000\nTOTAL 88.000\nCASH 88.000\nCHANGED 0",
+ "checksum": null,
+ "runtime_s": 5.742261916981079
+}

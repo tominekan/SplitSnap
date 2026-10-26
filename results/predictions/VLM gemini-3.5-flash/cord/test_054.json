@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "KACANG MERAH",
+   "qty": 1,
+   "price": 10000.0
+  }
+ ],
+ "subtotal": 10000.0,
+ "tax": null,
+ "tip": null,
+ "total": 10000.0,
+ "raw_text": "Dynamic\nKACANG MERAH 10,000\nSUBTOTAL 10,000\nTOTAL 10,000\nCASH 10,000",
+ "checksum": true,
+ "runtime_s": 7.247985083959065
+}

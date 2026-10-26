@@ -1,0 +1,45 @@
+{
+ "id": "1071",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Quesadilla",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "Pot Roast",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "Fish An Chips",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "Side Salad",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Dft Shock top",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "Dft Guiness",
+   "qty": 2,
+   "price": 15.0
+  }
+ ],
+ "subtotal": 69.5,
+ "tax": 69.5,
+ "tip": null,
+ "total": 75.5,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

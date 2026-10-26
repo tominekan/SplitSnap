@@ -1,0 +1,25 @@
+{
+ "id": "1113",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Adult Dinner 2",
+   "qty": 1,
+   "price": 23.98
+  },
+  {
+   "name": "Soda 2",
+   "qty": 1,
+   "price": 3.38
+  }
+ ],
+ "subtotal": 27.36,
+ "tax": 2.6,
+ "tip": null,
+ "total": 29.96,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

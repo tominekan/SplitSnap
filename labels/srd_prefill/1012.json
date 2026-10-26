@@ -1,0 +1,30 @@
+{
+ "id": "1012",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Pho Ga (Small)",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Pho Ga (Large)",
+   "qty": 1,
+   "price": 9.0
+  },
+  {
+   "name": "Goi Cuon",
+   "qty": 1,
+   "price": 5.25
+  }
+ ],
+ "subtotal": 22.25,
+ "tax": 2.11,
+ "tip": null,
+ "total": 33.26,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

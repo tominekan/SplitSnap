@@ -1,0 +1,25 @@
+{
+ "id": "1075",
+ "status": "todo",
+ "items": [
+  {
+   "name": "FXN DIET BIRCH",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "FULL BOX",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 13.5,
+ "tax": 0.86,
+ "tip": null,
+ "total": 14.36,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

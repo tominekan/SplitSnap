@@ -1,0 +1,56 @@
+{
+ "items": [
+  {
+   "name": "XLB Org Pork 10x",
+   "qty": 1,
+   "price": 78000.0
+  },
+  {
+   "name": "Sicito Babi",
+   "qty": 1,
+   "price": 65000.0
+  },
+  {
+   "name": "Hotplate Tahu",
+   "qty": 1,
+   "price": 58000.0
+  },
+  {
+   "name": "DF Fish Fillet Garlic",
+   "qty": 1,
+   "price": 108000.0
+  },
+  {
+   "name": "LM Pork Belly",
+   "qty": 1,
+   "price": 88000.0
+  },
+  {
+   "name": "Siew Mai",
+   "qty": 1,
+   "price": 38800.0
+  },
+  {
+   "name": "Kwan Yin Cup",
+   "qty": 5,
+   "price": 50000.0
+  },
+  {
+   "name": "Herbal Jelly",
+   "qty": 1,
+   "price": 38000.0
+  },
+  {
+   "name": "Onde-Onde",
+   "qty": 1,
+   "price": 38000.0
+  }
+ ],
+ "subtotal": 561800.0,
+ "tax": 60394.0,
+ "tip": 42135.0,
+ "total": 664329.0,
+ "raw_text": "1 XLB Org Pork 10x 78,000\n1 Sicito Babi 65,000\n1 Hotplate Tahu 58,000\n1 DF Fish Fillet Garlic 108,000\n1 LM Pork Belly 88,000\n1 Siew Mai 38,800\n5 Kwan Yin Cup 50,000\n1 Herbal Jelly 38,000\n1 Onde-Onde 38,000\nITEMS :13 561,800\nService charge 42,135\nPB1 60,394\nTotal......... 664,329",
+ "checksum": true,
+ "runtime_s": 10.831687458907254
+}

@@ -1,0 +1,30 @@
+{
+ "id": "1183",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Water",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Caldo de Camaron",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Processing Fee",
+   "qty": 1,
+   "price": 0.27
+  }
+ ],
+ "subtotal": 8.99,
+ "tax": 0.74,
+ "tip": null,
+ "total": 10.0,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

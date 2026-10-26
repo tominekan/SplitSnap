@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Chicken",
+   "qty": 1,
+   "price": 15.0
+  },
+  {
+   "name": "Pescado",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "Arrachera solo",
+   "qty": 1,
+   "price": 9.5
+  }
+ ],
+ "subtotal": 42.5,
+ "tax": 3.29,
+ "tip": null,
+ "total": 45.79,
+ "raw_text": "Taco Maria\n3313 Hyland Ave. Ste C21\nCosta Mesa, CA 92626\n714 538 8444\nwww.tacomaria.com\nOrder# 118888\nServer: Jesa R\nTable: Bar 7\nDate: 1/23/18, 12:16 PM\nChicken $15.00\nPescado $18.00\nArrachera solo $9.50\nSubtotal: $42.50\nTotal Tax: $3.29\nTotal: $45.79\nOrder Balance due: $45.79\nSuggested Gratuity\n% Tip Total\n18.00% of sale: $7.65 = $53.44\n20.00% of sale: $8.50 = $54.29\n22.00% of sale: $9.35 = $55.14",
+ "checksum": true,
+ "runtime_s": 8.105511375004426
+}

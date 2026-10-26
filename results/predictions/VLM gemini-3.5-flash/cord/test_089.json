@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "XXL Crispy Chicken",
+   "qty": 1,
+   "price": 40000.0
+  },
+  {
+   "name": "- Pedas sedikit",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 40000.0,
+ "raw_text": "1 XXL Crispy Chicken 40,000\n1 - Pedas sedikit 0\nITEMS:1 40,000\nTotal....... 40,000\nPay Cash 50,000 Change :10,000",
+ "checksum": null,
+ "runtime_s": 13.074267916963436
+}

@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "THAI ICED TEA (L)",
+   "qty": 1,
+   "price": 16363.0
+  }
+ ],
+ "subtotal": 16363.0,
+ "tax": 1636.0,
+ "tip": null,
+ "total": 17999.0,
+ "raw_text": "THAI ICED TEA (L)\n1 X 16,363 16,363\nJumlah Item 1\nSub Total 16,363\nPajak Resto 1,636\nGrand Total 17,999",
+ "checksum": true,
+ "runtime_s": 6.7376114160288125
+}

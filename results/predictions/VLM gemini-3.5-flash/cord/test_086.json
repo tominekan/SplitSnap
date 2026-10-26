@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Cheezemania",
+   "qty": 1,
+   "price": 9500.0
+  },
+  {
+   "name": "Mamamia",
+   "qty": 1,
+   "price": 12500.0
+  }
+ ],
+ "subtotal": 22000.0,
+ "tax": null,
+ "tip": null,
+ "total": 22000.0,
+ "raw_text": "BreadLife\n1 Cheezemania 9,500\n1 Mamamia 12,500\nSUBTOTAL 22,000\nDUE 22,000\nCASH 52,000\nCHANGE 30,000\nTOTAL QTY 2 ITEM 2 PCS",
+ "checksum": true,
+ "runtime_s": 7.687337749986909
+}

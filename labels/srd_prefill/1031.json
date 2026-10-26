@@ -1,0 +1,35 @@
+{
+ "id": "1031",
+ "status": "todo",
+ "items": [
+  {
+   "name": "BTL BEER",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "BRUSSELS SPROUTS",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "GRILLED CHEESE",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "ADD GARLIC FRIES",
+   "qty": 1,
+   "price": 4.5
+  }
+ ],
+ "subtotal": 40.5,
+ "tax": 40.5,
+ "tip": null,
+ "total": 44.35,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

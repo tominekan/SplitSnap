@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "XXI Java Tea (M)",
+   "qty": 1,
+   "price": 18000.0
+  },
+  {
+   "name": "Combo 2",
+   "qty": 1,
+   "price": 30000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 48000.0,
+ "raw_text": "XXI\ncafé\n1 XXI Java Tea (M) 18.000\n1 Combo 2 30.000\nTOTAL 48.000\nCASH 50.000\nCHANGED 2.000",
+ "checksum": null,
+ "runtime_s": 6.01519595796708
+}

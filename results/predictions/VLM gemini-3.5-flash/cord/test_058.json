@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "PHO BO TAI",
+   "qty": 1,
+   "price": 55000.0
+  }
+ ],
+ "subtotal": 55000.0,
+ "tax": 5500.0,
+ "tip": null,
+ "total": 60500.0,
+ "raw_text": "1 PHO BO TAI 55,000\nCASH 100,000\nSub Total: 55,000\nPB1 5,500\nTotal: 60,500\nPay: 100,000\nChange Due: 39,500",
+ "checksum": true,
+ "runtime_s": 7.478949125041254
+}

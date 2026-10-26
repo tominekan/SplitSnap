@@ -1,0 +1,25 @@
+{
+ "id": "1069",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Apple French Toast",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 2.29
+  }
+ ],
+ "subtotal": 10.28,
+ "tax": 0.62,
+ "tip": null,
+ "total": 10.9,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Chang (2@$3.50)",
+   "qty": 2,
+   "price": 7.0
+  },
+  {
+   "name": "#L14 Garlic Delight\n [Chicken] [5*****] [Small Brown Rice]",
+   "qty": 1,
+   "price": 10.24
+  },
+  {
+   "name": "#L28 Red Curry\n [Chicken] [5*****] [Small Brown Rice]",
+   "qty": 1,
+   "price": 10.24
+  }
+ ],
+ "subtotal": 27.48,
+ "tax": 2.67,
+ "tip": null,
+ "total": 30.15,
+ "raw_text": "Thai\nGUSTO\nThai Gusto Restaurant\n2011 Hewitt Ave\nEverett WA 98201\nTel. 425-252-3525 Fax. 425-252-3525\n\nWelcome to Thai Gusto\n\nTable 4\nDate: 6/16/2017 12:36 PM\nServer: PRACH (T.1)\n----------------------------------------\nChang (2@$3.50) $7.00\n#L14 Garlic Delight $10.24\n [Chicken] [5*****] [Small Brown Rice]\n#L28 Red Curry $10.24\n [Chicken] [5*****] [Small Brown Rice]\n----------------------------------------\nTotal 4 item(s) $27.48\nSales Tax $2.67\n========================================\nGrand Total $30.15\n\nTip Guide\n15%=$4.52, 18%=$5.43, 20%=$6.03\n\nThank you very much.\nCome back again.\n\n- GUEST CHECK -\nThis is not a receipt.",
+ "checksum": true,
+ "runtime_s": 12.89248483395204
+}

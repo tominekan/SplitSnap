@@ -1,0 +1,96 @@
+{
+ "items": [
+  {
+   "name": "1 Little Hamburger",
+   "qty": 1,
+   "price": 5.19
+  },
+  {
+   "name": "Lettuce",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Pickles",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Tomatoes",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Grilled Onions",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Grilled Mushrooms",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Mustard",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Ketchup",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Jalapeno Peppers",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "2 Large Fry (@5.79)",
+   "qty": 2,
+   "price": 11.58
+  },
+  {
+   "name": "1 Large Soda",
+   "qty": 1,
+   "price": 2.95
+  },
+  {
+   "name": "1 Cheeseburger",
+   "qty": 1,
+   "price": 7.89
+  },
+  {
+   "name": "Mayo",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Lettuce",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Pickles",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "BBQ Sauce",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "1 Regular Soda",
+   "qty": 1,
+   "price": 2.7
+  }
+ ],
+ "subtotal": 30.31,
+ "tax": 2.35,
+ "tip": null,
+ "total": 32.66,
+ "raw_text": "FIVE GUYS\nSTORE # CA-1661\n2640 Reynolds Ranch Pkwy - Ste 140\nLodi, CA 95240\nPhone (209) 333-9750\n\n5/25/2017 1:00:17 PM\nOrder Id: AAAP2F9WAEBP\n47 - FIVE GUYS\nEmployee: Robert C\n\n47\n\n1 Little Hamburger $5.19\nLettuce $0.00\nPickles $0.00\nTomatoes $0.00\nGrilled Onions $0.00\nGrilled Mushrooms $0.00\nMustard $0.00\nKetchup $0.00\nJalapeno Peppers $0.00\n2 Large Fry (@5.79) $11.58\n1 Large Soda $2.95\n1 Cheeseburger $7.89\nMayo $0.00\nLettuce $0.00\nPickles $0.00\nBBQ Sauce $0.00\n1 Regular Soda $2.70\n\nSub Total $30.31\n\nSales Tax $2.35\nOrder Total $32.66\n\nMasterCard $32.66\nCard#: ************2931\nAuthorization: 72876Z\n\n--> Order Closed <--\n\n*********************************\nDon't throw away your receipt!!!\n\nHelp Five Guys and you could win!\nLog online to www.fiveguys.com/survey\nand fill out a brief survey!\n\n10 lucky people will win a\nFive Guys Gift Card each month\nworth $25 each!\n\nNo purchase necessary\nSweepstakes ends 12/31/2017.\nMust be at least 18 years old and\nsubmit survey within 30 days\nof the receipt date to enter.\nPlease visit www.fiveguys.com/survey\nfor Official Rules and how to enter\nwithout making a purchase or\ncompleting a survey.\nVoid where prohibited.\n*********************************",
+ "checksum": true,
+ "runtime_s": 18.591166040976532
+}

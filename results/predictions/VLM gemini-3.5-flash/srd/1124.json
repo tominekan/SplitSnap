@@ -1,0 +1,51 @@
+{
+ "items": [
+  {
+   "name": "Malbec Trivento",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Blood Orange Marg",
+   "qty": 1,
+   "price": 9.0
+  },
+  {
+   "name": "Cup Italian Wedding Soup",
+   "qty": 1,
+   "price": 2.95
+  },
+  {
+   "name": "Spaghetti Marinara",
+   "qty": 1,
+   "price": 17.95
+  },
+  {
+   "name": "Fettuccine Alfredo",
+   "qty": 1,
+   "price": 23.95
+  },
+  {
+   "name": "Small Wedge Salad (Dinner)",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Creme Brulee",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Baileys",
+   "qty": 1,
+   "price": 7.0
+  }
+ ],
+ "subtotal": 77.8,
+ "tax": 5.84,
+ "tip": null,
+ "total": 83.64,
+ "raw_text": "FIREFLY\nAMERICAN BISTRO\n\nFirefly American Bistro\n5525 New Albany Road West\nNew Albany, OH 43054\n\nServer: Harry M\nCheck #140\n\n12/28/18 7:54 PM\nTable 24\n\nMalbec Trivento $8.00\nBlood Orange Marg $9.00\nCup Italian Wedding Soup $2.95\nSpaghetti Marinara $17.95\nAdd One Meatball\nAdd Two Meatball\nFettuccine Alfredo $23.95\nAdd Steak\nSmall Wedge Salad (Dinner) $4.95\nCreme Brulee $4.00\nBaileys $7.00\n\nSubtotal $77.80\nTax $5.84\nTotal $83.64\n\nCome See Us Again!",
+ "checksum": true,
+ "runtime_s": 6.853600417030975
+}

@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Grilled Skirt Steak",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Fountain Sodas",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": 31.0,
+ "tax": 2.75,
+ "tip": null,
+ "total": 33.75,
+ "raw_text": "Casa Rubio Cafe\n25-17 Astoria Blvd May 21, 2019\nAstoria, NY 11102 6:58 PM\n(929) 328-0030\nTicket: T1\nFOR HERE\nGrilled Skirt Steak $28.00\nWell done\nFountain Sodas $3.00\nSubtotal $31.00\nSale Tax $2.75\nTotal $33.75",
+ "checksum": true,
+ "runtime_s": 9.353927500080317
+}

@@ -1,0 +1,65 @@
+{
+ "id": "1173",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Bottled Water",
+   "qty": 1,
+   "price": 2.45
+  },
+  {
+   "name": "Add Pollo Taco",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Add Carnitas Taco",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Sour Cream",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "Chihuahua Cheese",
+   "qty": 1,
+   "price": 1.25
+  },
+  {
+   "name": "IL Sales",
+   "qty": 1,
+   "price": 1.52
+  },
+  {
+   "name": "Restaurant",
+   "qty": 1,
+   "price": 0.04
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 12.4
+  },
+  {
+   "name": "Beverage",
+   "qty": 1,
+   "price": 2.45
+  },
+  {
+   "name": "EMVUS",
+   "qty": 1,
+   "price": 16.56
+  }
+ ],
+ "subtotal": null,
+ "tax": 0.15,
+ "tip": null,
+ "total": 16.56,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

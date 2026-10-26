@@ -1,0 +1,75 @@
+{
+ "id": "1162",
+ "status": "todo",
+ "items": [
+  {
+   "name": "BUCATINI",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "RAVIOLO",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "BT TURNBULL NAPA",
+   "qty": 1,
+   "price": 90.0
+  },
+  {
+   "name": "HALIBUT",
+   "qty": 1,
+   "price": 38.0
+  },
+  {
+   "name": "YODEL",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "MILK & HONEY",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "COFFEE SM",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "OCTOPUS",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "BEEF TARTARE",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "FINLANDIA (WELL) $MARTINI",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "HALIBUT",
+   "qty": 1,
+   "price": 38.0
+  },
+  {
+   "name": "SNAPPER",
+   "qty": 1,
+   "price": 28.0
+  }
+ ],
+ "subtotal": 309.0,
+ "tax": 24.72,
+ "tip": null,
+ "total": 333.72,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

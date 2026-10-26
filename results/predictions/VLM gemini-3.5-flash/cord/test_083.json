@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "COOKIES AND CREAM",
+   "qty": 1,
+   "price": 20909.0
+  }
+ ],
+ "subtotal": 20909.0,
+ "tax": 2091.0,
+ "tip": null,
+ "total": 23000.0,
+ "raw_text": "1 COOKIES AND CREAM 20.909\nSubtotal 20.909\nPAJAK 10% 2.091\n1 Total 23.000\nTendered 25.000\nKembali 2.000",
+ "checksum": true,
+ "runtime_s": 7.364813874941319
+}

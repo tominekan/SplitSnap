@@ -1,0 +1,60 @@
+{
+ "id": "1181",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Strip 16oz",
+   "qty": 4,
+   "price": 212.0
+  },
+  {
+   "name": "Ribeye Bone In",
+   "qty": 1,
+   "price": 69.5
+  },
+  {
+   "name": "Cauliflower",
+   "qty": 1,
+   "price": 16.5
+  },
+  {
+   "name": "Baked Potato",
+   "qty": 1,
+   "price": 10.5
+  },
+  {
+   "name": "Asparagus",
+   "qty": 1,
+   "price": 15.5
+  },
+  {
+   "name": "Onion Rings",
+   "qty": 1,
+   "price": 14.5
+  },
+  {
+   "name": "Sauteed Spinach",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "VOSS Sparkling",
+   "qty": 3,
+   "price": 25.5
+  },
+  {
+   "name": "Coke Btl",
+   "qty": 6,
+   "price": 24.0
+  }
+ ],
+ "subtotal": 404.0,
+ "tax": 35.86,
+ "tip": null,
+ "total": 439.86,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

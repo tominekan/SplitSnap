@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Pecel Komplit + Nasi",
+   "qty": 1,
+   "price": 42000.0
+  },
+  {
+   "name": "SOTO KUDUS",
+   "qty": 1,
+   "price": 47000.0
+  },
+  {
+   "name": "Mineral Water",
+   "qty": 2,
+   "price": 18000.0
+  }
+ ],
+ "subtotal": 107000.0,
+ "tax": 11235.0,
+ "tip": 5350.0,
+ "total": 123585.0,
+ "raw_text": "Kopi Legit\n1 Pecel Komplit + Nasi 42.000\n1 SOTO KUDUS 47.000\n2 Mineral Water 18.000\nSubtotal 107.000\nServi Charge 5% 5.350\nPajak Rest 10% 11.235\n4 Total 123.585",
+ "checksum": true,
+ "runtime_s": 9.580505999969319
+}

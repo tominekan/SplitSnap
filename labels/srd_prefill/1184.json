@@ -1,0 +1,60 @@
+{
+ "id": "1184",
+ "status": "todo",
+ "items": [
+  {
+   "name": "BEEFEATER-MARTINI",
+   "qty": 1,
+   "price": 11.5
+  },
+  {
+   "name": "ROSEMARY CAIPIRINHA",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "CRABCAKES",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "BLACK PEPPER BACON",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Millenium 2",
+   "qty": 1,
+   "price": 52.0
+  },
+  {
+   "name": "NY SIRLOIN",
+   "qty": 1,
+   "price": 46.0
+  },
+  {
+   "name": "BRUSSEL SPROUTS",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "ESPRESSO",
+   "qty": 1,
+   "price": 4.5
+  },
+  {
+   "name": "LAUREN'S HAZELNUT TORTE",
+   "qty": 1,
+   "price": 9.0
+  }
+ ],
+ "subtotal": 178.0,
+ "tax": 15.35,
+ "tip": null,
+ "total": 193.35,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "1065",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Chicken",
+   "qty": 1,
+   "price": 15.0
+  },
+  {
+   "name": "Pescado",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "Arrachera solo",
+   "qty": 1,
+   "price": 9.5
+  },
+  {
+   "name": "22.00K of sale: $9.35",
+   "qty": 1,
+   "price": 55.14
+  }
+ ],
+ "subtotal": 42.5,
+ "tax": 3.29,
+ "tip": null,
+ "total": 45.79,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "Hi.Chk Steak(K)",
+   "qty": 1,
+   "price": 22.95
+  },
+  {
+   "name": "Noodle",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Sushi Deluxe",
+   "qty": 1,
+   "price": 20.75
+  },
+  {
+   "name": "Glenmont Roll",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Philly R",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Sp Tuna R",
+   "qty": 2,
+   "price": 13.0
+  },
+  {
+   "name": "Salmon R",
+   "qty": 1,
+   "price": 5.5
+  }
+ ],
+ "subtotal": 86.65,
+ "tax": 6.93,
+ "tip": null,
+ "total": 93.58,
+ "raw_text": "Akira\n385 Rt 9 W\nGlenmont , NY 12077\n518-434-8880\nwww.akirasushigroup.com\n2018-11-18 18:58:34\n#37 PICKUP Michelle\nLeo\nPhil\nQTY ITEM Amt\n1 Hi.Chk Steak(K) $22.95\nMed\nNoodle $2.00\n1 Sushi Deluxe $20.75\n1 Glenmont Roll $15.95\n1 Philly R $6.50\n2 Sp Tuna R $13.00\n1 Salmon R $5.50\nSubtotal $86.65\nTax $6.93\nTotal: $93.58\n*** Unpaid ***",
+ "checksum": true,
+ "runtime_s": 10.113404167001136
+}

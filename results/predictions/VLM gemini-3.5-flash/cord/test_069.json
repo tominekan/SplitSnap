@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "[MD] SOFT MORNING ROLL",
+   "qty": 1,
+   "price": 18000.0
+  },
+  {
+   "name": "REAL HONEY PANCAKE BREAD",
+   "qty": 2,
+   "price": 20000.0
+  },
+  {
+   "name": "CUSTARD BRIOCHE",
+   "qty": 4,
+   "price": 36000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 74000.0,
+ "raw_text": "23/10/2017\n1 [MD] SOFT MORNING ROLL 18,000\n2 REAL HONEY PANCAKE BREAD 20,000\n4 CUSTARD BRIOCHE 36,000\nTOTAL 74,000\nCASH 100,000\nCHANGE 26,000\nThar <",
+ "checksum": null,
+ "runtime_s": 9.763623208971694
+}

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "FREEBIRD",
+   "qty": 1,
+   "price": 5.5
+  },
+  {
+   "name": "ICE CREAM",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "LONESTAR",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 11.0,
+ "tax": 0.91,
+ "tip": null,
+ "total": 11.91,
+ "raw_text": "Gourdough's Public House\n2700 South Lamar Blvd\nAustin, TX 78704\nPhone: (512) 912-9070\n\n3008 BAR PM B\nChk 7862 Jan21'17 08:56P Gst 1\n1 FREEBIRD 5.50\n1 ICE CREAM 2.00\n1 LONESTAR 3.50\n\nORIGINAL TTL 11.00\nTAX 0.91\n09:38PM TOTAL 11.91\n\nFollow us @gourdoughspub on\nFacebook or Twitter for the\nlatest and greatest specials!",
+ "checksum": true,
+ "runtime_s": 7.240465583046898
+}

@@ -1,0 +1,35 @@
+{
+ "id": "1127",
+ "status": "todo",
+ "items": [
+  {
+   "name": "01 1 $FiveLU",
+   "qty": 1,
+   "price": 12.49
+  },
+  {
+   "name": "02 1 $FiveLU",
+   "qty": 1,
+   "price": 7.69
+  },
+  {
+   "name": "03 1 PiTcher",
+   "qty": 1,
+   "price": 13.5
+  },
+  {
+   "name": "COUPON (F6)",
+   "qty": 1,
+   "price": 10.18
+  }
+ ],
+ "subtotal": 23.5,
+ "tax": 2.32,
+ "tip": 0.94,
+ "total": 26.76,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

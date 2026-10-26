@@ -1,0 +1,20 @@
+{
+ "id": "1094",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Poke Box",
+   "qty": 1,
+   "price": 13.5
+  }
+ ],
+ "subtotal": 13.5,
+ "tax": 1.25,
+ "tip": 1.48,
+ "total": 16.23,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

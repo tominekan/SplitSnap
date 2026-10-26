@@ -1,0 +1,50 @@
+{
+ "id": "1187",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Real Smooth",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "Short Stack",
+   "qty": 1,
+   "price": 8.59
+  },
+  {
+   "name": "Coffee",
+   "qty": 1,
+   "price": 2.99
+  },
+  {
+   "name": "Breakfast Quesadilla",
+   "qty": 1,
+   "price": 13.99
+  },
+  {
+   "name": "NO Sausage",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Grilled Spinach",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "Southern Comfort",
+   "qty": 1,
+   "price": 10.99
+  }
+ ],
+ "subtotal": 46.54,
+ "tax": 3.84,
+ "tip": null,
+ "total": 50.38,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

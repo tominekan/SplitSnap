@@ -1,0 +1,51 @@
+{
+ "items": [
+  {
+   "name": "Ultra",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Bells Draft",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Cheese Bread",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "APPS OUT FIRST",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Caprese",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "SALAD OUT FIRST",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Reg Carnivore (s) Pepper Rings (s)",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "Reg Margherita (s)",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 43.0,
+ "tax": 2.58,
+ "tip": null,
+ "total": 45.58,
+ "raw_text": "Grotto Pizzeria & Tavern\n2441 Van Horn\nTrenton, MI 48183\n(734) 692-4300\nServer: Trinity Station: 2\nOrder #: 22037 Dine In\nTable: 11 Guests: 2\n1 Ultra 2.50\n1 Bells Draft 5.00\n1 Cheese Bread 6.00\n1 APPS OUT FIRST 0.00\n1 Caprese 7.00\n1 SALAD OUT FIRST 0.00\n1 Reg Carnivore (s) 12.50\nPepper Rings (s)\n1 Reg Margherita (s) 10.00\nSUB TOTAL: 43.00\nTax 1: 2.58\n=========\nTOTAL: $45.58\n>> Ticket #: 128 <<\n5/12/2017 7:48:12 PM\nTHANK YOU!",
+ "checksum": true,
+ "runtime_s": 19.3798639170127
+}

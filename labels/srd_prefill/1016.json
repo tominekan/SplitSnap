@@ -1,0 +1,35 @@
+{
+ "id": "1016",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Scallion Pancake",
+   "qty": 1,
+   "price": 5.25
+  },
+  {
+   "name": "Little Juicy Pork Buns",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Beef w Bak Choy (L)",
+   "qty": 1,
+   "price": 8.75
+  },
+  {
+   "name": "I Hunan Beef (L)",
+   "qty": 1,
+   "price": 8.75
+  }
+ ],
+ "subtotal": 32.7,
+ "tax": 2.82,
+ "tip": null,
+ "total": 35.52,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

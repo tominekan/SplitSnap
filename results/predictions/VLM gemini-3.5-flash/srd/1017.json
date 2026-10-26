@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "100027 PARIS",
+   "qty": 1,
+   "price": 5.25
+  },
+  {
+   "name": "100026 LE CLASSIQUE",
+   "qty": 1,
+   "price": 4.95
+  }
+ ],
+ "subtotal": 10.2,
+ "tax": 0.84,
+ "tip": null,
+ "total": 11.04,
+ "raw_text": "UMIX 4327 N. Expressway 77/83 956-350-8686 Brownsville, TX 78521 956-543-5089 Ticket #215406 User:KRIST Station:1 Sales Rep KRIST 4/24/2016 6:30:31 PM Item Qty Price Total Description 100027 1 5.25 5.25 PARIS 100026 1 4.95 4.95 LE CLASSIQUE Subtotal 10.20 Tax 0.84 Total 11.04 Tender: CASH 20.00 Change (CASH) -8.96 Number of items purchased:2",
+ "checksum": true,
+ "runtime_s": 15.460591165930964
+}

@@ -1,0 +1,30 @@
+{
+ "id": "1097",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Burrito Cmb",
+   "qty": 1,
+   "price": 8.28
+  },
+  {
+   "name": "Bur-BRC @ 1.89",
+   "qty": 2,
+   "price": 3.78
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 12.06
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.06,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

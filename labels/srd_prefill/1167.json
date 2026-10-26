@@ -1,0 +1,25 @@
+{
+ "id": "1167",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Grilled Skirt Steak",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Fountain Sodas",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": 31.0,
+ "tax": 2.75,
+ "tip": null,
+ "total": 33.75,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

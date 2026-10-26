@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Onion Bhajia",
+   "qty": 1,
+   "price": 5.95
+  },
+  {
+   "name": "Lamb Vindaloo",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "Konkan Fish Curry",
+   "qty": 1,
+   "price": 16.95
+  },
+  {
+   "name": "Shrimp Briyani",
+   "qty": 1,
+   "price": 16.95
+  },
+  {
+   "name": "Garlic Naan",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Hess Cabernet",
+   "qty": 1,
+   "price": 50.0
+  }
+ ],
+ "subtotal": 108.8,
+ "tax": 9.66,
+ "tip": 35.54,
+ "total": 154.0,
+ "raw_text": "Excellent Food! Superb Service !! 5 stars !!!\nBOMBAY GRILL HOUSE\nIndian Cuisine\nBombay Grill House\n764 9TH AVE\nNEW YORK, NY 10019\n2129771010\nAny Special Offer will be at End of Receipt\nORDER: Table 2\nDine In\n30-Jun-2018 10:36:38P\nTransaction 104379\n1 Onion Bhajia $5.95\n1 Lamb Vindaloo $14.95\nmedium\n1 Konkan Fish Curry $16.95\nmedium\n1 Shrimp Briyani $16.95\nmedium\n1 Garlic Naan $4.00\n1 Hess Cabernet $50.00\nSubtotal $108.80\nTax $9.66\nTotal $118.46\nCREDIT CARD AUTH $118.46\nMASTERCARD 0148\nTip 35.54\nTotal 154.00\nEDWIN ALEXANDER",
+ "checksum": true,
+ "runtime_s": 13.787430334021337
+}

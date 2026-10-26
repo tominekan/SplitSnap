@@ -1,0 +1,51 @@
+{
+ "items": [
+  {
+   "name": "UDANG RE ==*LARGE*==",
+   "qty": 2,
+   "price": 432000.0
+  },
+  {
+   "name": "AYM GR JUN NJAN ==*MEDIUM*==",
+   "qty": 1,
+   "price": 108000.0
+  },
+  {
+   "name": "SAPO TH SEAFOOD ==*LARGE*==",
+   "qty": 1,
+   "price": 172000.0
+  },
+  {
+   "name": "POCAI 3 ==*MEDIUM*==",
+   "qty": 2,
+   "price": 222000.0
+  },
+  {
+   "name": "GURAME FILLET M ASAM MANIS",
+   "qty": 1,
+   "price": 163000.0
+  },
+  {
+   "name": "BIHUN GORENG JJ ==*LARGE*==",
+   "qty": 1,
+   "price": 116000.0
+  },
+  {
+   "name": "ICED TEA",
+   "qty": 5,
+   "price": 60000.0
+  },
+  {
+   "name": "NASI PUTIH",
+   "qty": 7,
+   "price": 70000.0
+  }
+ ],
+ "subtotal": 1343000.0,
+ "tax": 142358.0,
+ "tip": 80580.0,
+ "total": 1565938.0,
+ "raw_text": "2 UDANG RE 216,000 432,000 2 ==*LARGE*== 1 AYM GR JUN NJAN 108,000 ==*MEDIUM*== 1 SAPO TH SEAFOOD 172,000 ==*LARGE*== 2 POCAI 3 111,000 222,000 2 ==*MEDIUM*== 1 GURAME FILLET M 163,000 ASAM MANIS 1 BIHUN GORENG JJ 116,000 ==*LARGE*== 5 ICED TEA 12,000 60,000 7 NASI PUTIH 10,000 70,000 FOOD 1,213,000 BEVERAGES 60,000 OTHERS 70,000 SUBTOTAL 1,343,000 SERVICE CHARGE 80,580 Tax 10% 142,358 DU 1,565,938",
+ "checksum": true,
+ "runtime_s": 19.965627625002526
+}

@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Iced Tea",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "Sm Garlic Bread",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "9oz Buca Chianti (2 @14.00)",
+   "qty": 2,
+   "price": 28.0
+  },
+  {
+   "name": "Gl Buca Chianti",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Sm Chop Antipasto Salad",
+   "qty": 1,
+   "price": 18.99
+  },
+  {
+   "name": "Lg Supremo Pizza",
+   "qty": 1,
+   "price": 29.99
+  }
+ ],
+ "subtotal": 100.26,
+ "tax": 9.02,
+ "tip": null,
+ "total": 109.28,
+ "raw_text": "Buca di Beppo\nStore#0511\nUniversal City, CA 91608\n818.509.9463\n\nServer: Molly 07/15/2016\nTable 53/1 7:57 PM\nGuests: 3 40020\nOrder Type: Dining\n\nIced Tea 3.29\nSm Garlic Bread 9.99\n9oz Buca Chianti (2 @14.00) 28.00\nGl Buca Chianti 10.00\nSm Chop Antipasto Salad 18.99\nLg Supremo Pizza 29.99\n\n***********************************\nWe value your opinion.\nVisit bucafeedback.com to complete\na brief survey and enter our weekly\ndrawing for a chance to win a\n$100 digital promotional certificate.\nSee bucadibeppo.com/buca-feedback-rules\nfor Official Rules and restrictions.\n\n091 257 000 051 115\n***********************************\n\nSubtotal 100.26\nTax 9.02\n\nTotal 109.28\n\nBalance Due 109.28",
+ "checksum": true,
+ "runtime_s": 11.625592875061557
+}

@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Green Salad",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Wagyu Cheeseburger",
+   "qty": 1,
+   "price": 19.0
+  },
+  {
+   "name": "Garlic Fries",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Drink of the Day",
+   "qty": 1,
+   "price": 9.75
+  },
+  {
+   "name": "Tea",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Ohana Discount Breakfast",
+   "qty": 1,
+   "price": -3.3
+  }
+ ],
+ "subtotal": 42.75,
+ "tax": 1.86,
+ "tip": 3.0,
+ "total": 44.31,
+ "raw_text": "OAHU, HAWAII\nLongboards\n92-161 Waipahe Place\nKapolei, HI 96707\n(808) 679-4700\nServer: Elijah J\nCheck: 24016\nTable: 44/0\n01/11/2019\n12:46 PM\nDine In\nItem Price\nGreen Salad 8.00\nRanch\nWagyu Cheeseburger 19.00\nMedium Well\nGarlic Fries 2.00\nADD RAW ONIONS& BACON PLZ\nDrink of the Day 9.75\nTea 4.00\nSubtotal $42.75\nOhana Discount Breakfast -3.30\nHI HNLKO 4.712% GET 1.86\nTotal $41.31\nGratuity 3.00\nTotal 44.31",
+ "checksum": false,
+ "runtime_s": 27.543711417005397
+}

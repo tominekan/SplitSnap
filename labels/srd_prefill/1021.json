@@ -1,0 +1,30 @@
+{
+ "id": "1021",
+ "status": "todo",
+ "items": [
+  {
+   "name": "1 26.Fish Goulash",
+   "qty": 1,
+   "price": 19.95
+  },
+  {
+   "name": "1 30.Dullet",
+   "qty": 1,
+   "price": 20.95
+  },
+  {
+   "name": "1 34. Vegetarian Dish",
+   "qty": 1,
+   "price": 21.95
+  }
+ ],
+ "subtotal": 62.85,
+ "tax": 6.91,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

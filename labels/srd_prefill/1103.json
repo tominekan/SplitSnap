@@ -1,0 +1,30 @@
+{
+ "id": "1103",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Crisfield Special Platter",
+   "qty": 1,
+   "price": 27.0
+  },
+  {
+   "name": "Pint Bisque",
+   "qty": 1,
+   "price": 11.5
+  },
+  {
+   "name": "Carry Out",
+   "qty": 1,
+   "price": 1.93
+  }
+ ],
+ "subtotal": 38.5,
+ "tax": 2.31,
+ "tip": null,
+ "total": 42.74,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

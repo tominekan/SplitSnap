@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Bohemia Tall",
+   "qty": 2,
+   "price": 16.0
+  },
+  {
+   "name": "Albondigas",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Mole",
+   "qty": 1,
+   "price": 16.95
+  }
+ ],
+ "subtotal": 42.9,
+ "tax": 4.08,
+ "tip": null,
+ "total": 46.98,
+ "raw_text": "OE\n223 N. Citrus Ave\nCovina, CA 91723\n(626) 339-9496\n\nCheck:208774\nTable:BAR9\nServer:Ryan\n09/25/18 08:44pm\n\n[Seat 1]\n2 Bohemia $16.00\n Tall\n1 Albondigas $9.95\n1 Mole $16.95\n\nSubtotal: $42.90\nTax:: $4.08\nSub w/Tax: $46.98\nTotal: $46.98\n\n\"Thank-You!\nWe look forward to seeing you again.\"",
+ "checksum": true,
+ "runtime_s": 9.863045834004879
+}

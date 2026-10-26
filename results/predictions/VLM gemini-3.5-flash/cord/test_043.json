@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "6 Pcs Cheese Tart",
+   "qty": 1,
+   "price": 165000.0
+  }
+ ],
+ "subtotal": 165000.0,
+ "tax": 15000.0,
+ "tip": null,
+ "total": 165000.0,
+ "raw_text": "BAKE\n6 Pcs Cheese Tart 165000.00\nBox of 6\nPP Carrier\nSubtotal: Rp165000.00\nTotal Tax Included: Rp15000.00\nTotal: Rp165000.00\nCustomer Paid Cash: Rp200000.00\nCustomer Change: Rp35000.00",
+ "checksum": false,
+ "runtime_s": 10.557387082953937
+}

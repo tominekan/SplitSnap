@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Popcorn Salt (S)",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 20000.0,
+ "raw_text": "1 Popcorn Salt (S) 20.000\\nTOTAL 20.000\\nCASH 50.000\\nCHANGED 30.000",
+ "checksum": null,
+ "runtime_s": 6.700470458948985
+}

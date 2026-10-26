@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Veggie Sandwich",
+   "qty": 1,
+   "price": 0.99
+  },
+  {
+   "name": "Small Fries",
+   "qty": 1,
+   "price": 1.89
+  },
+  {
+   "name": "Plain Potato",
+   "qty": 1,
+   "price": 1.79
+  }
+ ],
+ "subtotal": 4.67,
+ "tax": 0.32,
+ "tip": null,
+ "total": 4.99,
+ "raw_text": "Wendy's Restaurant #00003675\n401 Bergan St\nHarrison, NJ 07029\n(973) 483-8704\n\n#3264\n\nHost: JULIANA\n#3264\n03/18/2017\n8:48 PM\n40103\n\nOrder Type: PUW\n\nVeggie Sandwich 0.99\n  NO American Cheese\n  NO Mayo\nSmall Fries 1.89\nPlain Potato 1.79\n  ADD Chives\n\nTotal Items 3 4.67\nTax 0.32\n\nPUW Total 4.99\n\nBalance Due $4.99\n\nHow was your visit?\nCall us at 888-624-8140",
+ "checksum": true,
+ "runtime_s": 9.59025604208
+}

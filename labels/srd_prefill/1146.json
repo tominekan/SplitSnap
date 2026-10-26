@@ -1,0 +1,25 @@
+{
+ "id": "1146",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Curry Chicken",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Beef Pattie",
+   "qty": 1,
+   "price": 2.25
+  }
+ ],
+ "subtotal": 12.25,
+ "tax": 1.01,
+ "tip": null,
+ "total": 13.26,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,51 @@
+{
+ "items": [
+  {
+   "name": "Delivery",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "10 McNuggets EVM",
+   "qty": 1,
+   "price": 10.29
+  },
+  {
+   "name": "L Coke",
+   "qty": 1,
+   "price": 0.4
+  },
+  {
+   "name": "HM GrChs S-Fry Yog",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "6 Cookies",
+   "qty": 1,
+   "price": 2.89
+  },
+  {
+   "name": "Baked Apple Pie",
+   "qty": 1,
+   "price": 1.19
+  },
+  {
+   "name": "L French Fries",
+   "qty": 1,
+   "price": 3.29
+  },
+  {
+   "name": "L Iced Tea",
+   "qty": 1,
+   "price": 2.99
+  }
+ ],
+ "subtotal": 25.04,
+ "tax": 1.11,
+ "tip": null,
+ "total": 26.15,
+ "raw_text": "843\n***** DUPLICATE *****\n** BILLA **\nStony ....\n16725 Stony Plain Rd\nEdmonton AB T5P 4A9\nStore#: 3859 Tel#: 780-414-8362\n\nWelcome to all day breakfast\n@ McDonald's\n\n192\n\nKS# 1\n03/10/2018 07:39:12 PM\n\nQTY ITEM TOTAL\n1 Delivery 0.00\n1 10 McNuggets EVM 10.29\n  1 Barbeque Sauce\n  1 Barbeque Sauce\n  1 L Coke 0.40\n  1 M French Fries\n1 HM GrChs S-Fry Yog 3.99\n  1 Snoopy\n  1 HM Apple Juice\n1 6 Cookies 2.89\n  6 Choc Chip Cookie\n1 Baked Apple Pie 1.19\n1 L French Fries 3.29\n1 L Iced Tea 2.99\n\nSubtotal 25.04\nGST 1.11\nTake-Out Total 26.15\n\nCREDIT SALES - McDelivery 26.15\nChange 0.00\n\nGST #: 120907092\n\nSALE #04kdfwg532",
+ "checksum": true,
+ "runtime_s": 9.546509042032994
+}

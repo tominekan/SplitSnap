@@ -1,0 +1,10 @@
+{
+ "items": [],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 17.8,
+ "raw_text": "Micros Demo System\nWelcome to Yogurtland\n12502 North Kendall Drive\nMiami, FL 33186\n(305) 279-3478\nDate: Sep07'18 09:28PM\nCard Type: VISA\nAcct #: XXXXXXXXXXXX3862\nCard Entry: SWIPED\nTrans Type: PURCHASE\nTrans Key: III008007193348\nAuth Code: 071410\nCheck: 1082\nServer: 1041 melanie\nTota 17.80\n**NO SIGNATURE REQUIRED\nFOR PURCHASES UNDER $20.00**",
+ "checksum": null,
+ "runtime_s": 9.320031500072218
+}

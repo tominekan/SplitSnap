@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "MISC",
+   "qty": 1,
+   "price": 0.01
+  },
+  {
+   "name": "B CHZ B SPC",
+   "qty": 1,
+   "price": 8.8
+  },
+  {
+   "name": "F FRIES - LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "F FRIES - LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "PREM MED DRINK",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "CHZ BURGER SPEC",
+   "qty": 1,
+   "price": 7.57
+  }
+ ],
+ "subtotal": 25.85,
+ "tax": 2.46,
+ "tip": null,
+ "total": 28.31,
+ "raw_text": "CHRIS'S HAMBURGERS 3950 E SLAUSON MAYWOOD, CA 90270 PHONE 323-588-1607 MC #01 REG CASHIER 11-24-2017 12:13 PM 000072 MISC $0.01 B CHZ B SPC $8.80 no pickles F FRIES - LRG $3.66 CRISPY CRISPY F FRIES - LRG $3.66 CRISPY PREM MED DRINK $2.15 horchata CHZ BURGER SPEC $7.57 no onions EAT-IN TAXABLE SALES $25.85 TAX $2.46 TL $28.31 CASH $40.00 CG $11.69 ORDER # 0000000052 PLEASE HELP US SERVE YOU BETTER SERVICE WAS VERY GOOD [ ] GOOD [ ] POOR [ ]",
+ "checksum": true,
+ "runtime_s": 10.092599167022854
+}

@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "GLS CARRIG LAGER",
+   "qty": 2,
+   "price": 6.6
+  },
+  {
+   "name": "WINGS SMALL",
+   "qty": 1,
+   "price": 9.0
+  },
+  {
+   "name": "FRESH COD",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "SHELLFISH POT",
+   "qty": 1,
+   "price": 22.5
+  },
+  {
+   "name": "FISH CAKES",
+   "qty": 1,
+   "price": 7.5
+  },
+  {
+   "name": "PORTION BREAD LARGE",
+   "qty": 1,
+   "price": 1.5
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 65.1,
+ "raw_text": "Bar Rua\n32 Clarendon Street\nTable #520\nTrans#: 241805 Serv: Simon\n17/08/2018 07:40:22 PM #Cust:4\nQuan Description Cost\n2 GLS CARRIG LAGER 6.60\n1 WINGS SMALL 9.00\n1 FRESH COD 18.00\n1 SHELLFISH POT 22.50\n1 FISH CAKES 7.50\n1 PORTION BREAD LARGE 1.50\nTOTAL: 65.10\nFacebook : BAR RUA\nTwitter : @BARRUADUB\nREVIEW / TRIPADVISOR\n<-REPRINTED->",
+ "checksum": null,
+ "runtime_s": 8.286906708031893
+}

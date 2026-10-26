@@ -1,0 +1,50 @@
+{
+ "id": "1179",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Lamb Burger",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Kids Grilled Cheese",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Kids Fries",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Sweet Potato Fries",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Kids Cheeseburger",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "Beef Burger",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Sides",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 49.5,
+ "tax": 4.7,
+ "tip": null,
+ "total": 54.2,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

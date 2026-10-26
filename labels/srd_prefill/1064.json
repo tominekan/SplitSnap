@@ -1,0 +1,50 @@
+{
+ "id": "1064",
+ "status": "todo",
+ "items": [
+  {
+   "name": "DblDbl",
+   "qty": 1,
+   "price": 3.3
+  },
+  {
+   "name": "FF",
+   "qty": 1,
+   "price": 1.6
+  },
+  {
+   "name": "FF animal",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Lg Coke",
+   "qty": 1,
+   "price": 1.7
+  },
+  {
+   "name": "Med Coke",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "C Shk",
+   "qty": 1,
+   "price": 2.05
+  },
+  {
+   "name": "Counter-Eat In",
+   "qty": 1,
+   "price": 18.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.44,
+ "tip": null,
+ "total": 19.44,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

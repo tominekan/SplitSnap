@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "RedVelvet Cheese Slc",
+   "qty": 1,
+   "price": 38000.0
+  },
+  {
+   "name": "Chicken Baked Rice",
+   "qty": 1,
+   "price": 55000.0
+  },
+  {
+   "name": "Fish n Chips",
+   "qty": 1,
+   "price": 65000.0
+  },
+  {
+   "name": "Mushroom Soup",
+   "qty": 1,
+   "price": 35000.0
+  },
+  {
+   "name": "Chamomile",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Iced Tea",
+   "qty": 1,
+   "price": 20000.0
+  }
+ ],
+ "subtotal": 238000.0,
+ "tax": 25585.0,
+ "tip": 17850.0,
+ "total": 281435.0,
+ "raw_text": "1 RedVelvet Cheese Slc 38,000\n1 Chicken Baked Rice 55,000\n1 Fish n Chips 65,000\n1 Mushroom Soup 35,000\n1 Chamomile 25,000\n1 Iced Tea 20,000\nSUBTOTAL 238,000\nService 17,850\nPB1 25,585\nTOTAL 281,435\nCoupon 100,000\nCASH 200,000\nChange 18,565",
+ "checksum": true,
+ "runtime_s": 7.9777069999836385
+}

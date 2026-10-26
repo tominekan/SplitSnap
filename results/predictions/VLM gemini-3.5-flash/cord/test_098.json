@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "BLACK PEPPER MEATBALL PAS",
+   "qty": 1,
+   "price": 79000.0
+  },
+  {
+   "name": "TRUFFLE CREAM",
+   "qty": 1,
+   "price": 77000.0
+  },
+  {
+   "name": "EARL GREY MILK TEA",
+   "qty": 1,
+   "price": 59000.0
+  }
+ ],
+ "subtotal": 215000.0,
+ "tax": 22790.0,
+ "tip": 12900.0,
+ "total": 250690.0,
+ "raw_text": "1 BLACK PEPPER MEATBALL PAS 79,000 1 TRUFFLE CREAM 77,000 1 EARL GREY MILK TEA 59,000 SUBTTL 215,000 Service Charge 6% 12,900 TAX 10% 22,790 TOTAL 250,690",
+ "checksum": true,
+ "runtime_s": 7.115592957939953
+}

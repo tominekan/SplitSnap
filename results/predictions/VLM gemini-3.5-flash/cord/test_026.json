@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Nasi Cap Cay Porsi Besar",
+   "qty": 1,
+   "price": 65000.0
+  },
+  {
+   "name": "Teh Tawar",
+   "qty": 2,
+   "price": 8000.0
+  },
+  {
+   "name": "Fu Yung Hai",
+   "qty": 1,
+   "price": 65000.0
+  }
+ ],
+ "subtotal": 138000.0,
+ "tax": null,
+ "tip": null,
+ "total": 138000.0,
+ "raw_text": "BAKMI BANGKA\nCHINESE FOOD\nCap Cay\nNasi Cap Cay Porsi B\nesar\n1 65.000 65.000\nMinuman\nTeh Tawar\n2 4.000 8.000\nLain-lain\nFu Yung Hai\n1 65.000 65.000\nSubtotal Rp 138.000\nTotal Rp 138.000\nCash Rp 138.000\nChange Rp 0",
+ "checksum": true,
+ "runtime_s": 8.08861166704446
+}

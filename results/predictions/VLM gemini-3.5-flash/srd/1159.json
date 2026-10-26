@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "SFT TACO BF",
+   "qty": 1,
+   "price": 5.99
+  }
+ ],
+ "subtotal": 5.99,
+ "tax": 0.6,
+ "tip": null,
+ "total": 6.59,
+ "raw_text": "Taco Time - Kenmore\n(425) 486-4472\n6733 NE 181TH ST\nKENMORE WA 98028\n\nDT>248\n\nHost: 04/24/2018\nCashier:\nDT>248 7:08 PM\n30126\n\nOrder Type: Drive Thru\n\nSFT TACO BF 5.99\n\nSubtotal 5.99\nTax 0.60\n\nDrive Thru Total 6.59\n\nCASH $10.00\nChange $3.41\n\nThank you.\nPlease come again!",
+ "checksum": true,
+ "runtime_s": 7.124330125050619
+}

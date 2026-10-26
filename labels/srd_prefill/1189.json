@@ -1,0 +1,30 @@
+{
+ "id": "1189",
+ "status": "todo",
+ "items": [
+  {
+   "name": "WATER",
+   "qty": 2,
+   "price": 0.0
+  },
+  {
+   "name": "ENCH VERDE",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "ENCH MANUEL",
+   "qty": 1,
+   "price": 12.8
+  }
+ ],
+ "subtotal": 25.3,
+ "tax": 1.78,
+ "tip": null,
+ "total": 27.08,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

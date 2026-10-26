@@ -1,0 +1,40 @@
+{
+ "id": "1020",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Dal Fry",
+   "qty": 1,
+   "price": 10.99
+  },
+  {
+   "name": "Paneer Butter Masala",
+   "qty": 1,
+   "price": 12.99
+  },
+  {
+   "name": "rice",
+   "qty": 2,
+   "price": 3.98
+  },
+  {
+   "name": "Deccan Special Biryani",
+   "qty": 1,
+   "price": 14.99
+  },
+  {
+   "name": "rice",
+   "qty": 1,
+   "price": 1.99
+  }
+ ],
+ "subtotal": 35.95,
+ "tax": 2.98,
+ "tip": null,
+ "total": 47.02,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "SALMON PESTO",
+   "qty": 1,
+   "price": 85500.0
+  },
+  {
+   "name": "SALMON PESTO",
+   "qty": 1,
+   "price": 85500.0
+  },
+  {
+   "name": "Disc -100%(ITM06)",
+   "qty": 1,
+   "price": -85500.0
+  }
+ ],
+ "subtotal": 85500.0,
+ "tax": 18126.0,
+ "tip": 10260.0,
+ "total": 113886.0,
+ "raw_text": "1 SALMON PESTO 85,500\n1 SALMON PESTO 85,500\nDisc -100%(ITM06) -85,500\nSUBTTL 85,500\nSVC CHG 6% 10,260\nPB1 10% 18,126\nTOTAL 113,886",
+ "checksum": true,
+ "runtime_s": 11.105056041036732
+}

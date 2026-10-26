@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "FL-Xmas 30 Off",
+   "qty": 1,
+   "price": 68180.0
+  },
+  {
+   "name": "PAKET SLICES",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "» FL Cake - French Vanilla SLC",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "PAKET SLICES",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "» FL Cake - Green Tea SLC",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "PAKET SLICES",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "FL Cake - Belgium Choco SLC",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 68180.0,
+ "tax": 6818.0,
+ "tip": null,
+ "total": 75000.0,
+ "raw_text": "1 FL-Xmas 30 Off 68,180\n1 PAKET SLICES 0\n1 » FL Cake - French 0\nVanilla SLC\n1 PAKET SLICES 0\n1 » FL Cake - Green 0\nTea SLC\n1 PAKET SLICES 0\n1 FL Cake - Belgium 0\nChoco SLC\nSUBTOTAL 68,180\nDISKON 0\nBIAYA TAMBAHAN 0\nPAJAK PPN 10 % 6,818\nPAJAK 0 % 0\nBIAYA CC 0\nPEMBULATAN 2\nTOTAL 75,000\nTUNAI 0\nNON TUNAI 75,000\nKEMBALI 0",
+ "checksum": true,
+ "runtime_s": 10.236585083999671
+}

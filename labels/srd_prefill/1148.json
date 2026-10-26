@@ -1,0 +1,30 @@
+{
+ "id": "1148",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Combo",
+   "qty": 1,
+   "price": 6.79
+  },
+  {
+   "name": "Prem Dog Combo",
+   "qty": 1,
+   "price": 5.09
+  },
+  {
+   "name": "You Saved",
+   "qty": 1,
+   "price": 1.86
+  }
+ ],
+ "subtotal": 11.88,
+ "tax": 13.07,
+ "tip": null,
+ "total": 13.07,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

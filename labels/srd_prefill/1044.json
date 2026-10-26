@@ -1,0 +1,30 @@
+{
+ "id": "1044",
+ "status": "todo",
+ "items": [
+  {
+   "name": "19PC LT",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "NET",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "TOTL",
+   "qty": 1,
+   "price": 10.94
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

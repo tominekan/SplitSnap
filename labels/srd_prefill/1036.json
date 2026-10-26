@@ -1,0 +1,30 @@
+{
+ "id": "1036",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Lump Crab & Spinach Dip",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Cajum Combo",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Lunch Shrimp & Andouille",
+   "qty": 1,
+   "price": 13.85
+  }
+ ],
+ "subtotal": 48.85,
+ "tax": 3.91,
+ "tip": null,
+ "total": 52.76,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

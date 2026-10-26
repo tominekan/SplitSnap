@@ -1,0 +1,20 @@
+{
+ "id": "1078",
+ "status": "todo",
+ "items": [
+  {
+   "name": "19-D.B.B.V. - Special Combo Pho",
+   "qty": 1,
+   "price": 12.95
+  }
+ ],
+ "subtotal": 12.95,
+ "tax": 1.23,
+ "tip": null,
+ "total": 14.18,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

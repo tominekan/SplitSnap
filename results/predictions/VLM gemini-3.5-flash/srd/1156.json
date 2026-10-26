@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "Meatballs 10",
+   "qty": 1,
+   "price": 3.8
+  },
+  {
+   "name": "Fish & Chips Adult",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Petit Pain - White",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "Wine rose",
+   "qty": 1,
+   "price": 2.8
+  },
+  {
+   "name": "Wine red",
+   "qty": 1,
+   "price": 2.8
+  }
+ ],
+ "subtotal": 12.37,
+ "tax": 2.48,
+ "tip": null,
+ "total": 14.85,
+ "raw_text": "IKEA\nIKEA FOOD\nIKEA MILTON KEYNES 185\nVAT: GB 527773320\nAddress4\nQty Name Price Total £\n1 Meatballs 10 3.80 3.80\n1 Fish & Chips Adult 4.95 4.95\n1 Petit Pain - White 0.50 0.50\n1 Wine rose 2.80 2.80\n1 Wine red 2.80 2.80\nNet SubTotal: 12.37\nTax:\n20%VAT 2.48\nTotal to Pay: 14.85\nReceived:\nVISA 14.85\nVisa Credit\n************9529\nStart: **/**\n06/04/2016 11:21\nT111: 1 Cashier: 1890",
+ "checksum": false,
+ "runtime_s": 8.183792000054382
+}

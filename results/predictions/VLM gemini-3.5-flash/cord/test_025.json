@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "TWIST STRAWBERRY DONUT",
+   "qty": 1,
+   "price": 10000.0
+  },
+  {
+   "name": "TLJ CROQUETTE",
+   "qty": 1,
+   "price": 17000.0
+  },
+  {
+   "name": "POTATO PEPPER BAGEL",
+   "qty": 1,
+   "price": 16000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 43000.0,
+ "raw_text": "Tous Les Jours\nMall Taman Anggrek\nL3 31 & 318\nJl. Letjen S Parman Kav. 21\nJakarta\n----------------------------------------\n27/10/2017 16:20 Trans: 001710271\nCashier: Nurlaila B200516\n========================================\n1 TWIST STRAWBERRY DONUT 10,000\n1 TLJ CROQUETTE 17,000\n1 POTATO PEPPER BAGEL 16,000\n----------------------------------------\nTOTAL 43,000\nCASH 50,000\nCHANGE 7,000\nIncl. Tax\nCustomer Signature\nThank You, Please Come Again",
+ "checksum": null,
+ "runtime_s": 7.6272389580262825
+}

@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Scallion Pancake",
+   "qty": 1,
+   "price": 5.25
+  },
+  {
+   "name": "Little Juicy Pork Buns",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Beef w Bak Choy (L)",
+   "qty": 1,
+   "price": 8.75
+  },
+  {
+   "name": "Hunan Beef (L)",
+   "qty": 1,
+   "price": 8.75
+  }
+ ],
+ "subtotal": 32.7,
+ "tax": 2.82,
+ "tip": null,
+ "total": 35.52,
+ "raw_text": "Chef Wang\n1902 Jericho Turnpike\nNew Hyde Park NY 11040\nTel : 516.354.2858 Fax : 516.776.0587\n[ A5 ]\nDine In\nServer: lily # 1022\n02/02/19\n2 Person 02:14 PM - 03:03 PM\n1 Scallion Pancake $5.25\n1 Little Juicy Pork Buns $9.95\n1 Beef w Bak Choy (L) $8.75\n1 Hunan Beef (L) $8.75\nSubTotal $32.70\nSales Tax $2.82\nTotal $35.52\nThank You\nHave A Nice Day",
+ "checksum": true,
+ "runtime_s": 7.997541750082746
+}

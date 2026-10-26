@@ -1,0 +1,55 @@
+{
+ "id": "1007",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Hamachi Collar",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Mega Poke Bowl",
+   "qty": 1,
+   "price": 17.0
+  },
+  {
+   "name": "Hamachi - Sashimi",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Maguro - Sashimi",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "Salmon - Sashimi",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Hamachi Jalapeno",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Salmon Collar",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Escolar - Sashimi",
+   "qty": 1,
+   "price": 11.0
+  }
+ ],
+ "subtotal": 131.0,
+ "tax": 12.71,
+ "tip": null,
+ "total": 143.71,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

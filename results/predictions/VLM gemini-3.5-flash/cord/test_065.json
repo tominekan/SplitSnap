@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Bubur Polos + Telur",
+   "qty": 1,
+   "price": 13000.0
+  }
+ ],
+ "subtotal": 13000.0,
+ "tax": null,
+ "tip": null,
+ "total": 13000.0,
+ "raw_text": "Bubur Polos + Telur\n13.000 13.000\nSubtotal 13.000\nPajak -\nTotal 13.000",
+ "checksum": true,
+ "runtime_s": 9.421927042072639
+}

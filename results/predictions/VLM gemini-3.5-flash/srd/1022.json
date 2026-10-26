@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "WEEKDAY DINNER $29.88",
+   "qty": 1,
+   "price": 29.88
+  }
+ ],
+ "subtotal": 29.88,
+ "tax": 3.01,
+ "tip": 4.48,
+ "total": 37.37,
+ "raw_text": "Moonstar Restaurant\n383 Gellert Blvd., Daly City, CA 94015\n(650) 992-2888\nP A I D REPRINT 1\nTab:332 1P 19:51 #2406\nQTY/LB NAME U/P PRICE\nWEEKDAY DINNER $29.88 29.88\nSUBTOTAL: 29.88\n15% SERVICE CHARGE: 4.48\nTax(8.75%): 3.01\nSALES TOTAL: 32.89\nTOTAL: 37.37\nCASH: 100.00\nCHANGE 62.63\n10/29/2018 19:51\nTHANK YOU",
+ "checksum": true,
+ "runtime_s": 8.869199499953538
+}

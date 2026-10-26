@@ -1,0 +1,45 @@
+{
+ "id": "1135",
+ "status": "todo",
+ "items": [
+  {
+   "name": "ICED TEA",
+   "qty": 1,
+   "price": 4.5
+  },
+  {
+   "name": "ROMBO CARCIOFI FUNGH",
+   "qty": 1,
+   "price": 48.0
+  },
+  {
+   "name": "SPARKLING WATER LARG",
+   "qty": 1,
+   "price": 8.5
+  },
+  {
+   "name": "BRANZINO GRIGLIATO",
+   "qty": 1,
+   "price": 40.0
+  },
+  {
+   "name": "CARPACCIO RED SNAPPE",
+   "qty": 1,
+   "price": 33.0
+  },
+  {
+   "name": "FOOD",
+   "qty": 1,
+   "price": 134.0
+  }
+ ],
+ "subtotal": 134.0,
+ "tax": 12.73,
+ "tip": null,
+ "total": 146.73,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

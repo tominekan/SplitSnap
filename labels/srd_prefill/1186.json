@@ -1,0 +1,25 @@
+{
+ "id": "1186",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Prem Glass @7.50",
+   "qty": 3,
+   "price": 22.5
+  },
+  {
+   "name": "MED Veggie @27.00",
+   "qty": 1,
+   "price": 27.0
+  }
+ ],
+ "subtotal": 49.5,
+ "tax": 2.97,
+ "tip": null,
+ "total": 52.47,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

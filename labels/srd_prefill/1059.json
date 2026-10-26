@@ -1,0 +1,25 @@
+{
+ "id": "1059",
+ "status": "todo",
+ "items": [
+  {
+   "name": "CUP CHOWDER",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "GRAT 18",
+   "qty": 1,
+   "price": 1.15
+  }
+ ],
+ "subtotal": 6.0,
+ "tax": 0.4,
+ "tip": null,
+ "total": 7.55,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

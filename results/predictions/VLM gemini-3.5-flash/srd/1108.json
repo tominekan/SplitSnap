@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "BBQ Dinner",
+   "qty": 4,
+   "price": 47.15
+  },
+  {
+   "name": "beverage",
+   "qty": 2,
+   "price": 4.91
+  }
+ ],
+ "subtotal": 48.54,
+ "tax": 3.52,
+ "tip": null,
+ "total": 52.06,
+ "raw_text": "Go Mongo BBQ\n6661 Stanford Ranch Rd.\nRocklin, CA 95677\n916-632-8828\n\nReceipt: mongo-042441\nDate: Jan 28, 2018 5:48:07 PM\nServed by: Manager\n\nItem Price Qty Value\nBBQ Dinner $10.99 x4 $47.15\nbeverage $2.29 x2 $4.91\n\nItems count: 6\n\nSubtotal: $48.54\nCA Tax 7.25%: $3.52\n\nTotal $52.06\n\nCash\nTendered: $52.06\nChange: $0.00",
+ "checksum": false,
+ "runtime_s": 11.73787391697988
+}

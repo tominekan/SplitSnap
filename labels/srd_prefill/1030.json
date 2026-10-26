@@ -1,0 +1,45 @@
+{
+ "id": "1030",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Coffe",
+   "qty": 1,
+   "price": 3.5
+  },
+  {
+   "name": "Glass House Wine",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "Jumbo Coctail Shrimp",
+   "qty": 1,
+   "price": 12.95
+  },
+  {
+   "name": "Escargot Bourguigonne",
+   "qty": 1,
+   "price": 10.95
+  },
+  {
+   "name": "Veal Zingaria",
+   "qty": 1,
+   "price": 23.95
+  },
+  {
+   "name": "Duckling ala Arancio",
+   "qty": 1,
+   "price": 25.95
+  }
+ ],
+ "subtotal": 87.25,
+ "tax": 7.53,
+ "tip": null,
+ "total": 94.78,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "1046",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Vanilla Bean",
+   "qty": 2,
+   "price": 12.0
+  },
+  {
+   "name": "Classic Burger 4oz",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Route 66 Burger 8oz",
+   "qty": 1,
+   "price": 14.0
+  }
+ ],
+ "subtotal": 30.6,
+ "tax": 2.14,
+ "tip": 6.12,
+ "total": 38.86,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

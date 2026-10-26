@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "Chicken Fried Rice And Egg Lunch",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "California Tropic And Miso Lunch",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "Add Two Tostones",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Sprite",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Perrier Sparkling Water",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 22.98,
+ "tax": 1.61,
+ "tip": 3.45,
+ "total": 28.04,
+ "raw_text": "SUKHOTHAI\nSushi & Asian Fusion\nSUKHOTHAI SUSHI + ASIAN\nFUSION\n11735 SW 147 AVE UNIT 36\nMIAMI, FL 33196\n7865774888\nhttp://www.sukhothaius.com\n****Order online www.sukhothaius.com****\nORDER: 0003\nDINE-IN\nCashier: Sergio\n19-Apr-2019 2:02:26P\nTransaction 211209\n1 Chicken Fried Rice And Egg $7.99\nLunch\n1 California Tropic And Miso $7.99\nLunch\n1 Add Two Tostones $1.00\n1 Sprite $2.50\n1 Perrier Sparkling Water $3.50\nSubtotal $22.98\nTax $1.61\nService fees on tables. $3.45\nRestaurant (15.0%)\nTotal $28.04\nCREDIT CARD AUTH $28.04",
+ "checksum": true,
+ "runtime_s": 10.483973582973704
+}

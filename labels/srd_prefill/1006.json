@@ -1,0 +1,50 @@
+{
+ "id": "1006",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Hi. Chk Steak (K)",
+   "qty": 1,
+   "price": 22.95
+  },
+  {
+   "name": "Noodle",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Sushi Deluxe",
+   "qty": 1,
+   "price": 20.75
+  },
+  {
+   "name": "Glenmont Roll",
+   "qty": 1,
+   "price": 15.95
+  },
+  {
+   "name": "Philly R",
+   "qty": 1,
+   "price": 6.5
+  },
+  {
+   "name": "Sp Tuna R",
+   "qty": 2,
+   "price": 13.0
+  },
+  {
+   "name": "Salmon R",
+   "qty": 1,
+   "price": 5.5
+  }
+ ],
+ "subtotal": 86.65,
+ "tax": 6.93,
+ "tip": null,
+ "total": 93.58,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

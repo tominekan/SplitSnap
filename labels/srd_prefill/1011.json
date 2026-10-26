@@ -1,0 +1,50 @@
+{
+ "id": "1011",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Beef Ribs",
+   "qty": 1,
+   "price": 36.86
+  },
+  {
+   "name": "Reg",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Creamed Corn[Small",
+   "qty": 1,
+   "price": 3.35
+  },
+  {
+   "name": "Longhorn Mac & Cheese[sm",
+   "qty": 1,
+   "price": 4.2
+  },
+  {
+   "name": "Chocolate Cake[Slice",
+   "qty": 1,
+   "price": 3.95
+  },
+  {
+   "name": "Fountain Soda",
+   "qty": 1,
+   "price": 2.25
+  },
+  {
+   "name": "Wells Fargo",
+   "qty": 1,
+   "price": 64.43
+  }
+ ],
+ "subtotal": 59.11,
+ "tax": 5.32,
+ "tip": null,
+ "total": 64.43,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

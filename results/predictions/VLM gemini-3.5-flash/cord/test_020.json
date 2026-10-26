@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "cashew nuts chkn",
+   "qty": 1,
+   "price": 64500.0
+  },
+  {
+   "name": "garlic pepper beef",
+   "qty": 1,
+   "price": 79500.0
+  },
+  {
+   "name": "red curry beef",
+   "qty": 1,
+   "price": 69500.0
+  },
+  {
+   "name": "phad thai",
+   "qty": 1,
+   "price": 64500.0
+  },
+  {
+   "name": "steamed rice",
+   "qty": 4,
+   "price": 47600.0
+  }
+ ],
+ "subtotal": 325600.0,
+ "tax": 34351.0,
+ "tip": 17908.0,
+ "total": 377859.0,
+ "raw_text": "1 cashew nuts chkn 64,500 1 garlic pepper beef 79,500 1 red curry beef 69,500 1 phad thai 64,500 4 steamed rice 47,600 SUBTOTAL 325,600 Service chrg 17,908 10% PB1 34,351 TOTAL 377,859",
+ "checksum": true,
+ "runtime_s": 11.131741459015757
+}

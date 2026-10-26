@@ -1,0 +1,90 @@
+{
+ "id": "1090",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Little Hamburger",
+   "qty": 1,
+   "price": 5.19
+  },
+  {
+   "name": "Lettuce",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Pickles",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Tomatoes",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Grilled Onions",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Grilled Mushroors",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Mustard",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Ketchup",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Jalapeno Peppers",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Large Fry (@5.79)",
+   "qty": 2,
+   "price": 11.58
+  },
+  {
+   "name": "Mayo",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Lettuce",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Pickles",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "BBQ Sauce",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Regular Soda",
+   "qty": 1,
+   "price": 2.7
+  }
+ ],
+ "subtotal": 30.31,
+ "tax": 2.35,
+ "tip": null,
+ "total": 32.66,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

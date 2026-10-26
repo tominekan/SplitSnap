@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "STUFFED ARTICHOKE* CCC222",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "BK FETT AL PORCINI *",
+   "qty": 1,
+   "price": 36.0
+  },
+  {
+   "name": "COSTOLETTE/ALLA/PAP*",
+   "qty": 1,
+   "price": 42.0
+  },
+  {
+   "name": "BROCCOLI RABE W/ GA*",
+   "qty": 1,
+   "price": 10.5
+  },
+  {
+   "name": "ESPRESSO*",
+   "qty": 1,
+   "price": 3.75
+  },
+  {
+   "name": "DBLD ESPRESSO*",
+   "qty": 1,
+   "price": 7.5
+  }
+ ],
+ "subtotal": 117.75,
+ "tax": 8.24,
+ "tip": null,
+ "total": 125.99,
+ "raw_text": "Trattoria Saporito\n328 WashingtonStreet\nHoboken, NJ 07030\n201-533-1801\n\nTABLE # 4\nCHECK# 27273\n\nDATE/TIME: 7/1/2018 5:53:48 PM\nSERVER: Gastone\nSTATION: 01\n\nItem Count: 4\n==================================\n1 STUFFED ARTICHOKE* $18.00\n  CCC222\n1 BK FETT AL PORCINI * $36.00\n1 COSTOLETTE/ALLA/PAP* $42.00\n1 BROCCOLI RABE W/ GA* $10.50\n1 ESPRESSO* $3.75\n1 DBLD ESPRESSO* $7.50\n==================================\nSubtotal $117.75\nTax $8.24\nGRAND TOTAL $125.99\n\nOpened: 7/1/2018 5:53:48 PM",
+ "checksum": true,
+ "runtime_s": 10.348847458022647
+}

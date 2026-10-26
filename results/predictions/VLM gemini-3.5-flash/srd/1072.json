@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "1/2 AND 1/2 COMBO\nFRIED SHRIMP\nSHORT RIB",
+   "qty": 1,
+   "price": 8.45
+  },
+  {
+   "name": "1/2 AND 1/2 COMBO\nBBQ BEEF\nFRIED SHRIMP",
+   "qty": 1,
+   "price": 7.95
+  },
+  {
+   "name": "FOUNTAIN MEDIUM",
+   "qty": 2,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 19.9,
+ "tax": 1.79,
+ "tip": null,
+ "total": 21.69,
+ "raw_text": "OHANA HAWAIIAN BBQ\n4469 SLAUSON AVE\nMaywood, CA 90270\n(323) 771-9888\n\nServer: karla Station: 3\nOrder #: 65193 Dine In\n\n>> SETTLED <<\n1 1/2 AND 1/2 COMBO 8.45\nFRIED SHRIMP\nSHORT RIB\n1 1/2 AND 1/2 COMBO 7.95\nBBQ BEEF\nFRIED SHRIMP\n2 FOUNTAIN MEDIUM 3.50\n\nBar Subtotal: 0.00\nFood Subtotal: 19.90\nTax 1: 1.79\n========\nAMOUNT DUE: $21.69\n\nCash Tendered: 22.00\n========\nCHANGE: -0.31\n\n>> Ticket #: 94 <<\nCreated: 6/1/2013 7:43:46 PM\nSETTLED: 6/1/2013 7:44:18 PM\n\nTHANK YOU!",
+ "checksum": true,
+ "runtime_s": 14.545041000004858
+}

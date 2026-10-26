@@ -1,0 +1,20 @@
+{
+ "id": "1174",
+ "status": "todo",
+ "items": [
+  {
+   "name": "DINNER RODIZIO",
+   "qty": 1,
+   "price": 41.95
+  }
+ ],
+ "subtotal": 41.95,
+ "tax": 2.94,
+ "tip": null,
+ "total": 55.38,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

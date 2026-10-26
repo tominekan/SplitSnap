@@ -1,0 +1,55 @@
+{
+ "id": "1124",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Malbec Trivento",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Blood Orange Marg",
+   "qty": 1,
+   "price": 9.0
+  },
+  {
+   "name": "Cup Italian Wedding Soup",
+   "qty": 1,
+   "price": 2.95
+  },
+  {
+   "name": "Spaghetti Marinara",
+   "qty": 1,
+   "price": 17.95
+  },
+  {
+   "name": "Fettuccine Alfredo",
+   "qty": 1,
+   "price": 23.95
+  },
+  {
+   "name": "Small Wedge Salad (Dinner)",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Creme Brulee",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "Baileys",
+   "qty": 1,
+   "price": 7.0
+  }
+ ],
+ "subtotal": 77.8,
+ "tax": 5.84,
+ "tip": null,
+ "total": 83.64,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

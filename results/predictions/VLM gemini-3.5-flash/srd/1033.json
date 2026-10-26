@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "Taco Salad",
+   "qty": 1,
+   "price": 15.49
+  },
+  {
+   "name": "Add Chicken Fajita",
+   "qty": 1,
+   "price": 8.99
+  },
+  {
+   "name": "Pechuga de Pollo",
+   "qty": 1,
+   "price": 18.99
+  }
+ ],
+ "subtotal": 43.47,
+ "tax": 3.26,
+ "tip": null,
+ "total": 46.73,
+ "raw_text": "8030 Renaissance Parkway\nDurham, NC 27713\n(984) 329-2900\n\nServer: ANASTASHIA 05/18/2019\nTable 57/1 12:25 PM\nGuests: 2 80001\n\nTaco Salad 15.49\n  Ground Beef\nAdd Chicken Fajita 8.99\nPechuga de Pollo 18.99\n\nSubtotal 43.47\nTax 3.26\n\nTotal 46.73\n\nBalance Due 46.73\n\nAsk your Server about the\nUncle Julio's Loyalty Program\nFree to join and tons of rewards to earn!",
+ "checksum": true,
+ "runtime_s": 12.976604375056922
+}

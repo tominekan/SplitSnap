@@ -1,0 +1,25 @@
+{
+ "id": "1038",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Tota",
+   "qty": 1,
+   "price": 17.8
+  },
+  {
+   "name": "FOR PURCHASES UNDER",
+   "qty": 1,
+   "price": 20.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

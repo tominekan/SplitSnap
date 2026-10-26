@@ -1,0 +1,40 @@
+{
+ "id": "1027",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Green Salad",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "Wagyu Cheeseburger",
+   "qty": 1,
+   "price": 19.0
+  },
+  {
+   "name": "Garlic Fries",
+   "qty": 1,
+   "price": 2.0
+  },
+  {
+   "name": "Drink of the Day",
+   "qty": 1,
+   "price": 9.75
+  },
+  {
+   "name": "Tea",
+   "qty": 1,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 42.75,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

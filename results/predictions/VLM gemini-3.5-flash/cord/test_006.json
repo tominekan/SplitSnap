@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "EGG TART",
+   "qty": 1,
+   "price": 13000.0
+  },
+  {
+   "name": "CHOCO CUSTARD PASTRY",
+   "qty": 2,
+   "price": 24000.0
+  },
+  {
+   "name": "REDBEAN BREAD",
+   "qty": 1,
+   "price": 9000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 46000.0,
+ "raw_text": "Tous Les Jours 1 EGG TART 13,000 2 CHOCO CUSTARD PASTRY 24,000 1 REDBEAN BREAD 9,000 TOTAL 46,000 CASH 50,000 CHANGE 4,000",
+ "checksum": null,
+ "runtime_s": 7.687139292014763
+}

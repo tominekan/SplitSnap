@@ -1,0 +1,35 @@
+{
+ "id": "1098",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Open Food",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "Ossobuco",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Diet Coke",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "G 14 Hands Cab",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 62.5,
+ "tax": 5.39,
+ "tip": null,
+ "total": 67.89,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

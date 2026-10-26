@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "TAHU GORENG",
+   "qty": 1,
+   "price": 28000.0
+  },
+  {
+   "name": "CAKWE",
+   "qty": 1,
+   "price": 17000.0
+  },
+  {
+   "name": "PHO TAI CHIN (R)",
+   "qty": 1,
+   "price": 63000.0
+  },
+  {
+   "name": "TEA",
+   "qty": 1,
+   "price": 11000.0
+  }
+ ],
+ "subtotal": 119000.0,
+ "tax": 12733.0,
+ "tip": 8330.0,
+ "total": 140063.0,
+ "raw_text": "1 TAHU GORENG 28,000 1 CAKWE 17,000 1 PHO TAI CHIN (R) 63,000 1 TEA 11,000 Sub Total 119,000 Serv. 7.0% 8,330 PB1 10.0% 12,733 Grand Total 140,063 CREDIT CAR: 140,063",
+ "checksum": true,
+ "runtime_s": 8.884595999959856
+}

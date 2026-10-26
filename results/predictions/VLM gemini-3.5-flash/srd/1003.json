@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Miller Lite",
+   "qty": 1,
+   "price": 5.0
+  }
+ ],
+ "subtotal": 5.0,
+ "tax": 0.35,
+ "tip": null,
+ "total": 5.35,
+ "raw_text": "El Gran Mar de Plata\n10325 Hammocks Blvd\nMiami, FL 33176\n(305) 386-6638\nServer: Kayra Station: 10\nOrder #: 8262 Dine In\nBar Tab: Bar Tab\n>> SETTLED <<\n1 Miller Lite 5.00\nSUB TOTAL: 5.00\nSales Tax: 0.35\nTOTAL: $5.35\nCash Tendered: 5.35\nBalance: $0.00\n>> Ticket #: 35 <<\nCreated: 4/20/2017 10:13:17 PM\nSETTLED: 4/20/2017 10:13:25 PM\nTHANK YOU!\nWhy do I always get short Changed? I give you a $10 bill & only get back $4",
+ "checksum": true,
+ "runtime_s": 6.924171083024703
+}

@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Salmon Plate",
+   "qty": 1,
+   "price": 11.49
+  },
+  {
+   "name": "Extra Shrimp",
+   "qty": 1,
+   "price": 1.45
+  }
+ ],
+ "subtotal": 12.94,
+ "tax": 1.23,
+ "tip": null,
+ "total": 14.17,
+ "raw_text": "Maui Teriyaki\n27000 Marine Ave #103\nRedondo Beach, CA 90278\n(310) 973-3500\n\nServer: Annie\nStation: 1\n\nOrder #: 168479\nPhone Order\nCustomer Name:\nLEANNE\nGuests: 1\n\n>> SETTLED <<\n\n1 Salmon Plate 11.49\n1 Extra Shrimp 1.45\n\nSUB TOTAL: 12.94\nTax 1: 1.23\n========\nTOTAL: $14.17\n\nCash Tendered: 20.00\n========\nCHANGE: -5.83\n\n>> Ticket #: 7 <<\nCreated: 10/25/2017 11:14:30 AM\nSETTLED: 10/25/2017 11:28:31 AM\n\nTHANK YOU!",
+ "checksum": true,
+ "runtime_s": 8.901026375009678
+}

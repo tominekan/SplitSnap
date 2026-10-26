@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "GRILLED BABY POTATO (R",
+   "qty": 1,
+   "price": 50500.0
+  },
+  {
+   "name": "HOT TUNA",
+   "qty": 1,
+   "price": 67000.0
+  },
+  {
+   "name": "HOT TUNA",
+   "qty": 1,
+   "price": 67000.0
+  },
+  {
+   "name": "Disc -100%(ITM06)",
+   "qty": 1,
+   "price": -67000.0
+  }
+ ],
+ "subtotal": 117500.0,
+ "tax": 19557.0,
+ "tip": 11070.0,
+ "total": 148127.0,
+ "raw_text": "========================================\n1 GRILLED BABY POTATO (R 50,500\n1 HOT TUNA 67,000\n1 HOT TUNA 67,000\n Disc -100%(ITM06) -67,000\n SUBTTL 117,500\n SVC CHG 6% 11,070\n PB1 10% 19,557\nTOTAL 148,127",
+ "checksum": true,
+ "runtime_s": 5.611344291944988
+}

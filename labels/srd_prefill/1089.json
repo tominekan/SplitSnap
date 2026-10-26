@@ -1,0 +1,50 @@
+{
+ "id": "1089",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Makers Mark (2 @11.50)",
+   "qty": 1,
+   "price": 23.0
+  },
+  {
+   "name": "Side Caesar",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Chicken & Rib Combo",
+   "qty": 1,
+   "price": 29.0
+  },
+  {
+   "name": "Woodford Reserve (2 @12.00)",
+   "qty": 1,
+   "price": 24.0
+  },
+  {
+   "name": "Frisee Salad",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Poached Shrimp Cocktail",
+   "qty": 1,
+   "price": 17.5
+  },
+  {
+   "name": "NY Stip 8oz",
+   "qty": 1,
+   "price": 28.0
+  }
+ ],
+ "subtotal": 137.5,
+ "tax": 5.43,
+ "tip": null,
+ "total": 142.93,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

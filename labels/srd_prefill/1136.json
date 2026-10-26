@@ -1,0 +1,20 @@
+{
+ "id": "1136",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Flame Broiled Chicken",
+   "qty": 1,
+   "price": 11.99
+  }
+ ],
+ "subtotal": 11.99,
+ "tax": 1.14,
+ "tip": null,
+ "total": 13.13,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

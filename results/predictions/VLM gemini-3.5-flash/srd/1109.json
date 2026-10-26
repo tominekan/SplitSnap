@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "[1]盐酥鸡 (辣, mild) Fopcom Chicken (Spicy , mild )",
+   "qty": 1,
+   "price": 4.39
+  },
+  {
+   "name": "[1]控肉饭 Eraisec Beef Rice/Noodle",
+   "qty": 1,
+   "price": 6.75
+  },
+  {
+   "name": "[1]鸡丝凉面 Cold Noodle With Chicken",
+   "qty": 1,
+   "price": 6.25
+  },
+  {
+   "name": "[1]牛肉面 Beef Noodles",
+   "qty": 1,
+   "price": 7.95
+  }
+ ],
+ "subtotal": 25.34,
+ "tax": 2.28,
+ "tip": null,
+ "total": 27.62,
+ "raw_text": "BreadFish Cafe 15848 Halliburton Rd Hacienda Heights, CA 91745 Tel:(626)937-6555 Table: A2 Guests: 2 Server: linda Dine In#:137 Date: 06/14/2017 18:38:46 SQ# 10038 [1]盐酥鸡 $4.39 (辣, mild) Fopcom Chicken (Spicy , mild ) [1]控肉饭 $6.75 Eraisec Beef Rice/Noodle [1]鸡丝凉面 $6.25 Cold Noodle With Chicken [1]牛肉面 $7.95 Beef Noodles Amount: $25.34 Tax Rate:(9.00%): $2.28 Sub-Total: $27.62 -----TIP GUIDE----- 15% = $3.80 18% = $4.56 20% = $5.07 Thank You Very Much!",
+ "checksum": true,
+ "runtime_s": 32.304516374948435
+}

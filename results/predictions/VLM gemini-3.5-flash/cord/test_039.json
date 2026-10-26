@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "HPL754DR LUNCH BOX 3P SET W/RED BAG & SPOO N.",
+   "qty": 8,
+   "price": 1944000.0
+  },
+  {
+   "name": "DISKON: (20%)",
+   "qty": 1,
+   "price": 1555200.0
+  },
+  {
+   "name": "HPL500 RICE CASE 7L W/CUP",
+   "qty": 5,
+   "price": 975000.0
+  },
+  {
+   "name": "DISKON: (20%)",
+   "qty": 1,
+   "price": 780000.0
+  },
+  {
+   "name": "HPL754DB LUNCH BOX 3P SET W/BLACK BAG & SPOON",
+   "qty": 4,
+   "price": 972000.0
+  },
+  {
+   "name": "DISKON: (20%)",
+   "qty": 1,
+   "price": 777600.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 3112800.0,
+ "raw_text": "HPL754DR LUNCH BOX 3P SET W/RED BAG & SPOO N. 8 PCS 243.000 1,944,000 DISKON: (20%) 1,555,200 HPL500 RICE CASE 7L W/CUP 5 PCS 195.000 975,000 DISKON: (20%) 780,000 HPL754DB LUNCH BOX 3P SET W/BLACK BAG & SPOON 4 PCS 243.000 972,000 DISKON: (20%) 777,600 TOTAL ITEM : 3 TOTAL QTY : 17 BAYAR CREDIT CARD 3,112,800",
+ "checksum": null,
+ "runtime_s": 18.53703854198102
+}

@@ -1,0 +1,45 @@
+{
+ "id": "1190",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Onion Bhajia",
+   "qty": 1,
+   "price": 5.95
+  },
+  {
+   "name": "Lamb Vindaloo",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "Konkan Fish Curry",
+   "qty": 1,
+   "price": 16.95
+  },
+  {
+   "name": "Shrimp Briyani",
+   "qty": 1,
+   "price": 16.95
+  },
+  {
+   "name": "Hess Cabernet",
+   "qty": 1,
+   "price": 50.0
+  },
+  {
+   "name": "Ti",
+   "qty": 1,
+   "price": 35.54
+  }
+ ],
+ "subtotal": 108.8,
+ "tax": 9.66,
+ "tip": null,
+ "total": 154.0,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

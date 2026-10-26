@@ -1,0 +1,60 @@
+{
+ "id": "1077",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Chicken Lollipop",
+   "qty": 1,
+   "price": 9.0
+  },
+  {
+   "name": "Med",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Thai Fried Rice",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Vegetables",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Med",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Chicken Tikka Masala",
+   "qty": 1,
+   "price": 16.0
+  },
+  {
+   "name": "Naan",
+   "qty": 1,
+   "price": 3.0
+  },
+  {
+   "name": "Vegetable Biryani",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Mango Lassi",
+   "qty": 1,
+   "price": 4.0
+  }
+ ],
+ "subtotal": 56.0,
+ "tax": 3.7,
+ "tip": 10.08,
+ "total": 69.79,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

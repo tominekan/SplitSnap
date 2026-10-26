@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "0571-1854 BLUS WANITA",
+   "qty": 1,
+   "price": 120000.0
+  },
+  {
+   "name": "1002-0060 SHOPPING BAG",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 120000.0,
+ "raw_text": "27 0571-1854 BLUS WANITA 1 @120,000 0% 120,000 1002-0060 SHOPPING BAG 1 @880 100% 0 TOTAL (2 item) 120,000 CC.Visa.BCA 120,000 Total Kembalian 0",
+ "checksum": null,
+ "runtime_s": 7.91909308405593
+}

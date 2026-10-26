@@ -1,0 +1,35 @@
+{
+ "id": "1105",
+ "status": "todo",
+ "items": [
+  {
+   "name": "American Coffee",
+   "qty": 1,
+   "price": 1.75
+  },
+  {
+   "name": "Nutella Coconut Pancakes",
+   "qty": 1,
+   "price": 8.0
+  },
+  {
+   "name": "American Coffee",
+   "qty": 1,
+   "price": 1.75
+  },
+  {
+   "name": "Cheddar Grits",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 21.5,
+ "tax": 1.37,
+ "tip": null,
+ "total": 22.87,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

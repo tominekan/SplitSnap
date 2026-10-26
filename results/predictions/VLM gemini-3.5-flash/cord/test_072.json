@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Choco Devil",
+   "qty": 1,
+   "price": 15909.0
+  }
+ ],
+ "subtotal": 15909.0,
+ "tax": 1591.0,
+ "tip": null,
+ "total": 17500.0,
+ "raw_text": "1 Choco Devil 15,909 SubTotal: 15,909 PB1: 1,591 Total: 17,500 cash: 20,000 Change: 2,500",
+ "checksum": true,
+ "runtime_s": 7.055381166981533
+}

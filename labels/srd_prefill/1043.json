@@ -1,0 +1,25 @@
+{
+ "id": "1043",
+ "status": "todo",
+ "items": [
+  {
+   "name": "WINGS (5)",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "SIDE (SM) x3",
+   "qty": 1,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 24.5,
+ "tax": 2.17,
+ "tip": null,
+ "total": 26.67,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

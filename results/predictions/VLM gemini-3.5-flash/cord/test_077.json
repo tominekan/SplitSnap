@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "TRIPPLE CHEESE",
+   "qty": 1,
+   "price": 17000.0
+  }
+ ],
+ "subtotal": 17000.0,
+ "tax": null,
+ "tip": null,
+ "total": 17000.0,
+ "raw_text": "TRIPPLE CHEESE\n1 x 17,000 17,000\nSUB TOTAL 17,000\nGRAND TOTAL 17,000\nCASH IDR 22,000\nCHANGE DUE 5,000",
+ "checksum": true,
+ "runtime_s": 8.602650917018764
+}

@@ -1,0 +1,35 @@
+{
+ "id": "1048",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Coke",
+   "qty": 1,
+   "price": 3.65
+  },
+  {
+   "name": "Short Rib",
+   "qty": 1,
+   "price": 27.95
+  },
+  {
+   "name": "Diet Coke",
+   "qty": 1,
+   "price": 3.65
+  },
+  {
+   "name": "Rib Eye Steak",
+   "qty": 1,
+   "price": 38.75
+  }
+ ],
+ "subtotal": 82.95,
+ "tax": 8.5,
+ "tip": null,
+ "total": 91.45,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

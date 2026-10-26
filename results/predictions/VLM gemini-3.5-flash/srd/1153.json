@@ -1,0 +1,66 @@
+{
+ "items": [
+  {
+   "name": "Pimm's Cup",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "The Drifter",
+   "qty": 2,
+   "price": 28.0
+  },
+  {
+   "name": "Kobe Beef Slider",
+   "qty": 1,
+   "price": 18.0
+  },
+  {
+   "name": "New York",
+   "qty": 1,
+   "price": 63.0
+  },
+  {
+   "name": "Amer Kobe Filet",
+   "qty": 1,
+   "price": 79.0
+  },
+  {
+   "name": "Lobster Tail",
+   "qty": 1,
+   "price": 38.0
+  },
+  {
+   "name": "Potato Puree",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Grlld Asparagus",
+   "qty": 1,
+   "price": 13.0
+  },
+  {
+   "name": "Peppercorn",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Pepsi",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Choc Pot De Crem",
+   "qty": 1,
+   "price": 13.0
+  }
+ ],
+ "subtotal": 290.0,
+ "tax": 23.49,
+ "tip": null,
+ "total": 313.49,
+ "raw_text": "Gordon Ramsay Steak\nParis Las Vegas\n10/21/2014 19:41\n================================\nGordon Ramsay Steak\nCheck: 2042367 Table: T-35\nServer: Lomberto Guests: 2\nTerminal: 42\n================================\nRegular\n1 Pimm's Cup 14.00\n2 The Drifter 28.00\n @ 14.00\n1 Kobe Beef Slider 18.00\n1 New York 63.00\n1 Amer Kobe Filet 79.00\n1 Lobster Tail 38.00\n1 Potato Puree 12.00\n1 Grlld Asparagus 13.00\n1 Peppercorn 6.00\n1 Pepsi 6.00\n1 Choc Pot De Crem 13.00\nSubtotal 290.00\nTax 23.49\nTotal 313.49",
+ "checksum": true,
+ "runtime_s": 9.800272791995667
+}

@@ -1,0 +1,35 @@
+{
+ "id": "1123",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Fajita Vegetable",
+   "qty": 1,
+   "price": 7.75
+  },
+  {
+   "name": "Taco Shrimp Fresh Catch 3",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Water",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "Food",
+   "qty": 1,
+   "price": 19.75
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.01,
+ "tip": null,
+ "total": 21.76,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

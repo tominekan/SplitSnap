@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Lemon Tea (L)",
+   "qty": 1,
+   "price": 25000.0
+  },
+  {
+   "name": "Extra Jelly Lychee",
+   "qty": 1,
+   "price": 5000.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 30000.0,
+ "raw_text": "1 Lemon Tea (L) 25.000\n1 Extra Jelly Lychee 5.000\nTOTAL 30.000\nCASH 30.000\nCHANGED 0",
+ "checksum": null,
+ "runtime_s": 6.945886500063352
+}

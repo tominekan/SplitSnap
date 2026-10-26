@@ -1,0 +1,55 @@
+{
+ "id": "1131",
+ "status": "todo",
+ "items": [
+  {
+   "name": "MISC",
+   "qty": 1,
+   "price": 0.01
+  },
+  {
+   "name": "B CHZ B SPC",
+   "qty": 1,
+   "price": 8.8
+  },
+  {
+   "name": "F FRIES - LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "F FRIES - LRG",
+   "qty": 1,
+   "price": 3.66
+  },
+  {
+   "name": "PREM MED DRINK",
+   "qty": 1,
+   "price": 2.15
+  },
+  {
+   "name": "CHZ BURGER SPEC",
+   "qty": 1,
+   "price": 7.57
+  },
+  {
+   "name": "TL",
+   "qty": 1,
+   "price": 28.31
+  },
+  {
+   "name": "CG",
+   "qty": 1,
+   "price": 11.69
+  }
+ ],
+ "subtotal": null,
+ "tax": 25.85,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

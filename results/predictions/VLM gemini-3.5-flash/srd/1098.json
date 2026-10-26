@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Open Food",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "Ossobuco",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Diet Coke",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "G 14 Hands Cab",
+   "qty": 1,
+   "price": 10.0
+  }
+ ],
+ "subtotal": 62.5,
+ "tax": 5.39,
+ "tip": null,
+ "total": 67.89,
+ "raw_text": "Nick's Tuscan Grill\n149 Mineola Blvd\nMineola NY 11501\n516-747-2545\nwww.nickstuscangrill.com\nMinimum Credit/Debit Payment $20\n907 Victor V\nGst 2\nTbl 12/1\nMar18'18 10:54AM\nBar\nFUSSILLI SP\n1 Open Food 22.00\n1 Ossobuco 28.00\n1 Diet Coke 2.50\n1 G 14 Hands Cab 10.00\nSubtotal 62.50\nTax 5.39\nTotal 67.89\nMinimum Credit/Debit Payment $20\nThank you for joining us today.",
+ "checksum": true,
+ "runtime_s": 13.2853753749514
+}

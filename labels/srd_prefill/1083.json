@@ -1,0 +1,50 @@
+{
+ "id": "1083",
+ "status": "todo",
+ "items": [
+  {
+   "name": "SOPE ASADA",
+   "qty": 1,
+   "price": 3.1
+  },
+  {
+   "name": "TACO ASADA",
+   "qty": 1,
+   "price": 1.59
+  },
+  {
+   "name": "TACO PASTOR",
+   "qty": 1,
+   "price": 1.59
+  },
+  {
+   "name": "QUESADILLA ASADA",
+   "qty": 1,
+   "price": 4.89
+  },
+  {
+   "name": "ORDEN CHIPS",
+   "qty": 1,
+   "price": 1.5
+  },
+  {
+   "name": "Sud/Ttl",
+   "qty": 1,
+   "price": 12.67
+  },
+  {
+   "name": "TO-GO",
+   "qty": 1,
+   "price": 13.78
+  }
+ ],
+ "subtotal": null,
+ "tax": 1.11,
+ "tip": null,
+ "total": null,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

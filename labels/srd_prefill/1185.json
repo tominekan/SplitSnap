@@ -1,0 +1,35 @@
+{
+ "id": "1185",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Coffee (2 @2.95)",
+   "qty": 1,
+   "price": 5.9
+  },
+  {
+   "name": "Two Eggs Any Style",
+   "qty": 1,
+   "price": 6.95
+  },
+  {
+   "name": "Whole-Wheat Pancakes",
+   "qty": 1,
+   "price": 8.95
+  },
+  {
+   "name": "Hawaiian Sausage",
+   "qty": 1,
+   "price": 4.5
+  }
+ ],
+ "subtotal": 26.3,
+ "tax": 2.1,
+ "tip": null,
+ "total": 28.4,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

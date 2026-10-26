@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "Gl Karma Cab Sauv",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Gl Douglass Green SB",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "PKLI Green Curry Scallops",
+   "qty": 1,
+   "price": 27.95
+  },
+  {
+   "name": "PKLI Piri Piri Chicken",
+   "qty": 1,
+   "price": 23.75
+  }
+ ],
+ "subtotal": 74.7,
+ "tax": 6.0,
+ "tip": 2.8,
+ "total": 83.5,
+ "raw_text": "1660 India Street\n12/17/2017\nServer: Jake\n6:29 PM\nTable 24/1\n20018\nGuests: 2\n\nGl Karma Cab Sauv 12.00\nGl Douglass Green SB 11.00\nPKLI Green Curry Scallops 27.95\nPKLI Piri Piri Chicken 23.75\n\nSubtotal 74.70\nTax 6.00\n\nSurcharge 3.75% SC* 2.80\n\nTotal 83.50\n\nBalance Due 83.50\n\n*3.75% SC - In support\nof the increases to min wage\nTo find out why, visit\nwww.wnlhosp.com/rttd",
+ "checksum": true,
+ "runtime_s": 9.369614291004837
+}

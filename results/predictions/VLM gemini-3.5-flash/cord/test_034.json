@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Ash Chick Sambal Matah",
+   "qty": 5,
+   "price": 75000.0
+  },
+  {
+   "name": "Jamur Goreng",
+   "qty": 2,
+   "price": 10000.0
+  }
+ ],
+ "subtotal": 85000.0,
+ "tax": 8500.0,
+ "tip": null,
+ "total": 93500.0,
+ "raw_text": "Ash Chick Sambal Matah  5 75.000\nJamur Goreng  2 10.000\nSubtotal 85.000\nPajak (10%) 8.500\nTotal 93.500\nTunai 100.000\nKembali 6.500",
+ "checksum": true,
+ "runtime_s": 10.199931708048098
+}

@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "name": "#7 2PC R&B MEAL",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "#3 3WING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "#3 3WING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "#3 3WING MEAL",
+   "qty": 1,
+   "price": 6.99
+  },
+  {
+   "name": "COLL GRN - SMALL",
+   "qty": 1,
+   "price": 1.19
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.43,
+ "tip": null,
+ "total": 30.58,
+ "raw_text": "WINGS & THINGS\n519 FULTON AVE. HEMPSTEAD NY\nTHANKS CALL AGAIN 516-483-0936\n\n#195 IN\n1 #7 2PC R&B MEAL 5.99\nICED TEA\nSUB CORNBREAD\n1 #3 3WING MEAL 6.99\nSIERRA\n1 SUB FIXN\nMAC&CHZ\n1 #3 3WING MEAL 6.99\nICED TEA\n1 SUB FIXN\nSP RICE\n1 #3 3WING MEAL 6.99\nICED TEA\n1 SUB FIXN\nMAC&CHZ\n1 COLL GRN - SMALL 1.19\n---------------------------------------\nTXTL 2.43\nTOTL 30.58\nCASH 40.00\nCHNG",
+ "checksum": null,
+ "runtime_s": 10.128398207947612
+}

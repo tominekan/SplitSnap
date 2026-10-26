@@ -1,0 +1,20 @@
+{
+ "id": "1182",
+ "status": "todo",
+ "items": [
+  {
+   "name": "SOBE MOJITO'S",
+   "qty": 4,
+   "price": 40.0
+  }
+ ],
+ "subtotal": 40.0,
+ "tax": 40.0,
+ "tip": null,
+ "total": 50.8,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "1047",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Grey Goose (3 @9.50)",
+   "qty": 1,
+   "price": 28.5
+  },
+  {
+   "name": "Rocks (3 @1.00)",
+   "qty": 1,
+   "price": 3.0
+  }
+ ],
+ "subtotal": 79.5,
+ "tax": 5.57,
+ "tip": null,
+ "total": 85.07,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

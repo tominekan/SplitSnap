@@ -1,0 +1,61 @@
+{
+ "items": [
+  {
+   "name": "Chicken Maryland",
+   "qty": 1,
+   "price": 47619.0
+  },
+  {
+   "name": "Cappucino (Hot/Iced)",
+   "qty": 1,
+   "price": 30303.0
+  },
+  {
+   "name": "Naga Lychee Juice",
+   "qty": 1,
+   "price": 34632.0
+  },
+  {
+   "name": "Cafe Latte",
+   "qty": 1,
+   "price": 30303.0
+  },
+  {
+   "name": "Hot Chocolate Marshmallo",
+   "qty": 1,
+   "price": 30303.0
+  },
+  {
+   "name": "Chicken Cesar Salad",
+   "qty": 1,
+   "price": 43290.0
+  },
+  {
+   "name": "Mineral Water",
+   "qty": 1,
+   "price": 12987.0
+  },
+  {
+   "name": "Mineral Water",
+   "qty": 1,
+   "price": 12987.0
+  },
+  {
+   "name": "Lychee/Peach/Lemon/Mango",
+   "qty": 1,
+   "price": 25974.0
+  },
+  {
+   "name": "Chicken Maryland",
+   "qty": 1,
+   "price": 47619.0
+  }
+ ],
+ "subtotal": 316017.0,
+ "tax": null,
+ "tip": 48982.0,
+ "total": 365000.0,
+ "raw_text": "Chicken Maryland 47619.00\nCappucino (Hot/Iced) 30303.00\nNaga Lychee Juice 34632.00\nCafe Latte 30303.00\nHot Chocolate Marshmallo 30303.00\nChicken Cesar Salad 43290.00\nMineral Water 12987.00\nMineral Water 12987.00\nLychee/Peach/Lemon/Mango 25974.00\nChicken Maryland 47619.00\nSubtotal 316017.00\nService Charge 5% + 48982.68\nTOTAL 365000.00",
+ "checksum": true,
+ "runtime_s": 10.406428916961886
+}

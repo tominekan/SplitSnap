@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "Adult Dinner",
+   "qty": 2,
+   "price": 23.98
+  },
+  {
+   "name": "Soda",
+   "qty": 2,
+   "price": 3.38
+  }
+ ],
+ "subtotal": 27.36,
+ "tax": 2.6,
+ "tip": null,
+ "total": 29.96,
+ "raw_text": "Golden Panda Buffet\n14428 Ramona Blvd. #70\nBaldwin Park, CA 91706\nTel: 626-337-5666\nStation: 1 6/02/2018 04:18:31 PM\nCashier: 010\nInvoice #68554 T# hot food\nAdult Dinner 2 23.98\nSoda 2 3.38\nSubtotal 27.36\nTax 2.60\nGrand Total 29.96\nAmount Tendered 29.96\nDebit Card sale 29.96\nThank you very much.\nOrder # 152",
+ "checksum": true,
+ "runtime_s": 8.918666874989867
+}

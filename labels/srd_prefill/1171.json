@@ -1,0 +1,35 @@
+{
+ "id": "1171",
+ "status": "todo",
+ "items": [
+  {
+   "name": "FRENCH FRIES",
+   "qty": 2,
+   "price": 190.0
+  },
+  {
+   "name": "OPEN FOOD",
+   "qty": 1,
+   "price": 60.0
+  },
+  {
+   "name": "1.00 HANESH  SAUS",
+   "qty": 1,
+   "price": 60.0
+  },
+  {
+   "name": "PANEER TIKKA",
+   "qty": 1,
+   "price": 248.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 24.6,
+ "tip": null,
+ "total": 523.0,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

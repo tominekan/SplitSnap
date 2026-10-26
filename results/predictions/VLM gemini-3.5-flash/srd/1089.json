@@ -1,0 +1,46 @@
+{
+ "items": [
+  {
+   "name": "Makers Mark (2 @11.50)",
+   "qty": 2,
+   "price": 23.0
+  },
+  {
+   "name": "Side Caesar",
+   "qty": 1,
+   "price": 6.0
+  },
+  {
+   "name": "Chicken & Rib Combo",
+   "qty": 1,
+   "price": 29.0
+  },
+  {
+   "name": "Woodford Reserve (2 @12.00)",
+   "qty": 2,
+   "price": 24.0
+  },
+  {
+   "name": "Frisee Salad",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Poached Shrimp Cocktail",
+   "qty": 1,
+   "price": 17.5
+  },
+  {
+   "name": "NY Stip 8oz",
+   "qty": 1,
+   "price": 28.0
+  }
+ ],
+ "subtotal": 137.5,
+ "tax": 5.43,
+ "tip": null,
+ "total": 142.93,
+ "raw_text": "Firepoint Grill\n3739 West Chester Pike\nNewtown Square, PA 19013\n484-428-3093\n\nServer: Will 12/07/2016\n53/1 6:53 PM\nGuests: 2\n#90024\n\nReprint #: 1\nOrder Type: Send\nArea: Dining\n\nMakers Mark (2 @11.50) 23.00\n  As Old Fashioned\nSide Caesar 6.00\nChicken & Rib Combo 29.00\nWoodford Reserve (2 @12.00) 24.00\n  On the Rocks\nFrisee Salad 10.00\nPoached Shrimp Cocktail 17.50\nNY Stip 8oz 28.00\n\nComplete Subtotal 137.50\n\nSubtotal 137.50\n\nTotal Tax 5.43\n\nTotal 142.93\n\nBalance Due 142.93\n\nTHANK YOU\nVisit us Online at\nwww.FirepointGrill.com",
+ "checksum": true,
+ "runtime_s": 15.335075124981813
+}

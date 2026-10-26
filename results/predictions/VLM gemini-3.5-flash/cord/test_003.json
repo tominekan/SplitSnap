@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "DONAT GULA",
+   "qty": 1,
+   "price": 11000.0
+  }
+ ],
+ "subtotal": 11000.0,
+ "tax": null,
+ "tip": null,
+ "total": 11000.0,
+ "raw_text": "Dynamic\nBakery & Cake\nNATURAL\n1X @11000\nDONAT GULA 11,000\n1.00xITEMs\nSUBTOTAL 11,000\nTOTAL 11,000\nCASH 11,000",
+ "checksum": true,
+ "runtime_s": 6.108135957969353
+}

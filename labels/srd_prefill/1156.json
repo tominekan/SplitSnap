@@ -1,0 +1,40 @@
+{
+ "id": "1156",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Meatballs 10 3.80",
+   "qty": 1,
+   "price": 3.8
+  },
+  {
+   "name": "Fish & Chips Adult 4.95",
+   "qty": 1,
+   "price": 4.95
+  },
+  {
+   "name": "Petit Pain - White 0.50",
+   "qty": 1,
+   "price": 0.5
+  },
+  {
+   "name": "Wine rose 2.80",
+   "qty": 1,
+   "price": 2.8
+  },
+  {
+   "name": "Wine red 2.80",
+   "qty": 1,
+   "price": 2.8
+  }
+ ],
+ "subtotal": 12.37,
+ "tax": 2.48,
+ "tip": null,
+ "total": 14.85,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

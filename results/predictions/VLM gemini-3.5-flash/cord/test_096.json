@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "BBQ Chicken",
+   "qty": 1,
+   "price": 41000.0
+  },
+  {
+   "name": "- Tidak Pedas",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 41000.0,
+ "raw_text": "1 BBQ Chicken 41,000\n1 - Tidak Pedas 0\nITEMS :1 41,000\nTotal........ 41,000\nPay Cash 50,000 Change :9,000",
+ "checksum": null,
+ "runtime_s": 11.64908162492793
+}

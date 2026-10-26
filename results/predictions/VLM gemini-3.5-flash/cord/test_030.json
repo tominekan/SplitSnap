@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Kupon 3",
+   "qty": 1,
+   "price": 28636.0
+  }
+ ],
+ "subtotal": 28636.0,
+ "tax": 2864.0,
+ "tip": null,
+ "total": 31500.0,
+ "raw_text": "Kupon 3 28,636\nSubtotal 28,636\nPB1 (10%) 2,864\nDine In Total 31,500\nCash 50,000\nChange 18,500",
+ "checksum": true,
+ "runtime_s": 8.153878250042908
+}

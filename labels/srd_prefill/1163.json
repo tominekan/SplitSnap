@@ -1,0 +1,40 @@
+{
+ "id": "1163",
+ "status": "todo",
+ "items": [
+  {
+   "name": "past, bowl barley",
+   "qty": 1,
+   "price": 27.98
+  },
+  {
+   "name": "KNISH",
+   "qty": 1,
+   "price": 0.0
+  },
+  {
+   "name": "KASHE SIDE",
+   "qty": 1,
+   "price": 3.99
+  },
+  {
+   "name": "COFFEE",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "WATER",
+   "qty": 2,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 37.95,
+ "tax": 3.37,
+ "tip": null,
+ "total": 41.32,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

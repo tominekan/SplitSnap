@@ -1,0 +1,50 @@
+{
+ "id": "1054",
+ "status": "todo",
+ "items": [
+  {
+   "name": "HB",
+   "qty": 1,
+   "price": 4.0
+  },
+  {
+   "name": "French Fries x 2",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Turkey Burger",
+   "qty": 1,
+   "price": 8.85
+  },
+  {
+   "name": "HB",
+   "qty": 1,
+   "price": 8.35
+  },
+  {
+   "name": "CAx2",
+   "qty": 1,
+   "price": 15.7
+  },
+  {
+   "name": "CB",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Chill Fries",
+   "qty": 1,
+   "price": 4.35
+  }
+ ],
+ "subtotal": 51.25,
+ "tax": 5.25,
+ "tip": null,
+ "total": 56.5,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

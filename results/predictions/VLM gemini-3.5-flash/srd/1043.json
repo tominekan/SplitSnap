@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "WINGS (5)\n MAC & CHEESE\n YAMS",
+   "qty": 1,
+   "price": 12.5
+  },
+  {
+   "name": "SIDE (SM) x3\n YAMS\n MAC & CHEESE\n COLLARD GREENS",
+   "qty": 3,
+   "price": 12.0
+  }
+ ],
+ "subtotal": 24.5,
+ "tax": 2.17,
+ "tip": null,
+ "total": 26.67,
+ "raw_text": "BK SOUL FOOD & CATERING\n1131B YONKERS AVE\nYONKERS, NY 10704\n914-237-5083\n\nJune 23, 2019 at 2:33 PM\n\nORDER # 1019\n\nAdmin\n\nWINGS (5) 12.50\n MAC & CHEESE\n YAMS\nSIDE (SM) x3 12.00\n YAMS\n MAC & CHEESE\n COLLARD GREENS\n\nSubtotal 24.50\nTax 2.17\nDiscount 0.00\nTotal 26.67\n",
+ "checksum": true,
+ "runtime_s": 9.734827292035334
+}

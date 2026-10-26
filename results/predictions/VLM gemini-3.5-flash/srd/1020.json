@@ -1,0 +1,41 @@
+{
+ "items": [
+  {
+   "name": "Dal Fry",
+   "qty": 1,
+   "price": 10.99
+  },
+  {
+   "name": "Paneer Butter Masala",
+   "qty": 1,
+   "price": 12.99
+  },
+  {
+   "name": "rice",
+   "qty": 2,
+   "price": 3.98
+  },
+  {
+   "name": "Deccan Special Biryani",
+   "qty": 1,
+   "price": 14.99
+  },
+  {
+   "name": "rice",
+   "qty": 1,
+   "price": 1.99
+  },
+  {
+   "name": "Online Offer",
+   "qty": 1,
+   "price": 8.99
+  }
+ ],
+ "subtotal": 35.95,
+ "tax": 2.98,
+ "tip": 8.09,
+ "total": 47.02,
+ "raw_text": "Deccan Spice\n771 Newark Avenue\nJersey City Local, NJ 07306\n(201) 604-1772\n\nServer: Com\nStation: 6\n\nOrder #: 80110\nDine In\nTable: 2.\nGuests: 6\n\n1 Dal Fry 10.99\n1 Paneer Butter Masala 12.99\n2 rice 3.98\n1 Deccan Special Biryani 14.99\n1 rice 1.99\n\nOnline Offer (8.99)\n\nSUB TOTAL: 35.95\nTax 1: 2.98\n\nORDER TOTAL: 38.93\n18% TIPS: 8.09\n\nTOTAL: $47.02\n\n7/26/2019 10:56:49 PM\n\n****************************************\nNo returns or cancellations accepted once order\nis placed. Exchange only for faulty items ONLY.\n****************************************",
+ "checksum": false,
+ "runtime_s": 8.036059416946955
+}

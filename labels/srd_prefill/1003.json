@@ -1,0 +1,25 @@
+{
+ "id": "1003",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Miller Lite",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Balance",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": 5.0,
+ "tax": 0.35,
+ "tip": null,
+ "total": 5.35,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

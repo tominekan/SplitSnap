@@ -1,0 +1,35 @@
+{
+ "id": "1177",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Coors Light",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Ice Tea",
+   "qty": 1,
+   "price": 3.25
+  },
+  {
+   "name": "Shrimp Fajita",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "Stuffed Chicken",
+   "qty": 1,
+   "price": 17.95
+  }
+ ],
+ "subtotal": 45.15,
+ "tax": 2.75,
+ "tip": null,
+ "total": 47.9,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

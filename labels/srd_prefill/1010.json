@@ -1,0 +1,40 @@
+{
+ "id": "1010",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Cadillac Margarita (2 @14.00)",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Maryland Crab Cakes",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "Chicken Caprese",
+   "qty": 1,
+   "price": 42.0
+  },
+  {
+   "name": "Chix Parm Sandwich",
+   "qty": 1,
+   "price": 10.0
+  },
+  {
+   "name": "Bud Light (2 @3.70)",
+   "qty": 1,
+   "price": 7.4
+  }
+ ],
+ "subtotal": 71.4,
+ "tax": 6.43,
+ "tip": null,
+ "total": 77.83,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

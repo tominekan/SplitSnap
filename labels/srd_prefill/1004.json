@@ -1,0 +1,40 @@
+{
+ "id": "1004",
+ "status": "todo",
+ "items": [
+  {
+   "name": "1 CHKN PLATE",
+   "qty": 1,
+   "price": 9.39
+  },
+  {
+   "name": "AVOCADO",
+   "qty": 1,
+   "price": 1.95
+  },
+  {
+   "name": "MO. DRINK",
+   "qty": 1,
+   "price": 2.29
+  },
+  {
+   "name": "TAK",
+   "qty": 1,
+   "price": 1.4
+  },
+  {
+   "name": "CG",
+   "qty": 1,
+   "price": 4.97
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 15.03,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

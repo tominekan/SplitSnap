@@ -1,0 +1,40 @@
+{
+ "id": "1150",
+ "status": "todo",
+ "items": [
+  {
+   "name": "DB WOODFRD RES 2",
+   "qty": 1,
+   "price": 17.99
+  },
+  {
+   "name": "CAB PEJU SAUV S",
+   "qty": 1,
+   "price": 11.0
+  },
+  {
+   "name": "SAND GRLD CHIX",
+   "qty": 1,
+   "price": 14.5
+  },
+  {
+   "name": "SLD SHRIMP LOUIE",
+   "qty": 1,
+   "price": 24.0
+  },
+  {
+   "name": "SD BRUSSEL SPRTS",
+   "qty": 1,
+   "price": 7.0
+  }
+ ],
+ "subtotal": 74.49,
+ "tax": 80.45,
+ "tip": null,
+ "total": 80.45,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

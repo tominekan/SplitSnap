@@ -1,0 +1,50 @@
+{
+ "id": "1079",
+ "status": "todo",
+ "items": [
+  {
+   "name": "1..6 Oysters",
+   "qty": 1,
+   "price": 19.0
+  },
+  {
+   "name": "1..Fish and Chips",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "3..MONSTAH roll",
+   "qty": 1,
+   "price": 114.0
+  },
+  {
+   "name": "1..Chicken Wings",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "3..*Patron",
+   "qty": 1,
+   "price": 28.5
+  },
+  {
+   "name": "2..*Sparkling Wine",
+   "qty": 1,
+   "price": 22.0
+  },
+  {
+   "name": "1..*Open Liquor",
+   "qty": 1,
+   "price": 6.0
+  }
+ ],
+ "subtotal": null,
+ "tax": 15.38,
+ "tip": null,
+ "total": 235.19,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "1199",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Linguine Scampi",
+   "qty": 1,
+   "price": 20.0
+  },
+  {
+   "name": "Branzino",
+   "qty": 1,
+   "price": 28.0
+  },
+  {
+   "name": "Pizza Americana",
+   "qty": 1,
+   "price": 14.0
+  },
+  {
+   "name": "Carrot Cake",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Gl Sangiovese",
+   "qty": 1,
+   "price": 12.0
+  },
+  {
+   "name": "Gl Merlot",
+   "qty": 1,
+   "price": 13.0
+  }
+ ],
+ "subtotal": 118.0,
+ "tax": 118.0,
+ "tip": null,
+ "total": 128.33,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

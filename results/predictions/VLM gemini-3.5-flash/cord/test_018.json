@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "Propolis Cair 1",
+   "qty": 1,
+   "price": 156000.0
+  }
+ ],
+ "subtotal": 156000.0,
+ "tax": null,
+ "tip": null,
+ "total": null,
+ "raw_text": "Propolis Cair 1 156000\n156000\nSub Total 156000\nTunai 156000\nKembalian Rp. 0",
+ "checksum": null,
+ "runtime_s": 10.567272834014148
+}

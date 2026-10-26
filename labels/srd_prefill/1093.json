@@ -1,0 +1,25 @@
+{
+ "id": "1093",
+ "status": "todo",
+ "items": [
+  {
+   "name": "5 5 WING COMBO",
+   "qty": 1,
+   "price": 9.99
+  },
+  {
+   "name": "11/ POP SHRMP/COMBO",
+   "qty": 1,
+   "price": 8.49
+  }
+ ],
+ "subtotal": null,
+ "tax": 2.37,
+ "tip": null,
+ "total": 38.23,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

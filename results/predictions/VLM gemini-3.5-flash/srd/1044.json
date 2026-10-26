@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "name": "9PC LT",
+   "qty": 1,
+   "price": 9.99
+  }
+ ],
+ "subtotal": 9.99,
+ "tax": 95.0,
+ "tip": null,
+ "total": 10.94,
+ "raw_text": "CHURCH'S CHICKEN #4717\n7635 WINNETKA\nCANOGA PARK CA 818 576 0490\n#253 DR-T\n1 9PC LT 9.99\nNET 9.99\nTXTL .95\nTOTL 10.94\nCASH 11.00\nCHNG .06\n*******************************\nTHANK YOU COME AGAIN !!!\nLISBETH\n0203 20:57 #02 MAY.21'19 REG0002",
+ "checksum": false,
+ "runtime_s": 8.184774124994874
+}

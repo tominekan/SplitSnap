@@ -1,0 +1,51 @@
+{
+ "items": [
+  {
+   "name": "Draft Blackhouse",
+   "qty": 1,
+   "price": 7.0
+  },
+  {
+   "name": "\"Cowboy\" 16oz Ribeye",
+   "qty": 1,
+   "price": 45.0
+  },
+  {
+   "name": "Make It Blue",
+   "qty": 1,
+   "price": 5.0
+  },
+  {
+   "name": "Add Lobster",
+   "qty": 1,
+   "price": 21.0
+  },
+  {
+   "name": "CK Manhattan (2 @5.00)",
+   "qty": 2,
+   "price": 10.0
+  },
+  {
+   "name": "Whistle Pig Rye 10yr (2 @20.00)",
+   "qty": 2,
+   "price": 40.0
+  },
+  {
+   "name": "\"Duke\" 16oz Top Sirloin",
+   "qty": 1,
+   "price": 34.0
+  },
+  {
+   "name": "Make It Blue",
+   "qty": 1,
+   "price": 5.0
+  }
+ ],
+ "subtotal": 167.0,
+ "tax": 12.94,
+ "tip": null,
+ "total": 179.94,
+ "raw_text": "SASKA'S\n3768 Mission Blvd\nSan Diego CA 92109\n(858) 488-7311\n\nServer: Sue            08/15/2017\nTable 103/1               5:51 PM\nGuests: 2                   10005\nReprint #: 2\n\nDraft Blackhouse             7.00\n\"Cowboy\" 16oz Ribeye        45.00\n  Make It Blue               5.00\n  Add Lobster               21.00\nCK Manhattan (2 @5.00)      10.00\nWhistle Pig Rye 10yr (2 @20.00) 40.00\n  (2)BMOD Up\n\"Duke\" 16oz Top Sirloin     34.00\n  Make It Blue               5.00\n\nSubtotal                   167.00\nTax                         12.94\n\nTotal                      179.94\n\nBalance Due                179.94\n\nSUGGESTED TIP\nBEFORE DISCOUNTS\n18% =$30.06\n20% =$33.40\n22% =$36.74",
+ "checksum": true,
+ "runtime_s": 8.851475415984169
+}

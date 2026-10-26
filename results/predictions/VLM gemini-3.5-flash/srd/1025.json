@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "name": "1 Dbl Qtr Cheese",
+   "qty": 1,
+   "price": 5.99
+  },
+  {
+   "name": "ADD Leaf Lettuce",
+   "qty": 1,
+   "price": 0.25
+  },
+  {
+   "name": "ADD Mac Sauce",
+   "qty": 1,
+   "price": 0.4
+  }
+ ],
+ "subtotal": 6.64,
+ "tax": 0.63,
+ "tip": null,
+ "total": 7.27,
+ "raw_text": "McDonald's Restaurant #3100\n1617 N EASTERN AVENUE\nLOS ANGELES, CA 90032-1053\nTEL# 323 264 7300\n\nKS# 2 02/07/2019 03:08 PM\nSide1 Order 97\n\n1 Dbl Qtr Cheese 5.99\nSpecial Request\nADD Leaf Lettuce 0.25\nADD Mac Sauce 0.40\n\nSubtotal 6.64\nTax 0.63\nTake-Out Total 7.27\n\nCashless 7.27\nChange 0.00\n\nMER# 499206\nCARD ISSUER ACCOUNT#\nBofA DEBIT CARD SALE ************\nTRANSACTION AMOUNT 7.27\nCHIP READ\nAUTHORIZATION CODE - 618541\nSEQ# 039988\nAID: A0000000041210\n\nMcDonald's now available on UberEATS",
+ "checksum": true,
+ "runtime_s": 9.521286708069965
+}

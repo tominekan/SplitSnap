@@ -1,0 +1,31 @@
+{
+ "items": [
+  {
+   "name": "CHIC TEND AP",
+   "qty": 1,
+   "price": 9.95
+  },
+  {
+   "name": "RIBS 1/2 ST",
+   "qty": 1,
+   "price": 18.95
+  },
+  {
+   "name": "BRG DELUXE",
+   "qty": 1,
+   "price": 14.95
+  },
+  {
+   "name": "K TIMING",
+   "qty": 1,
+   "price": -9.95
+  }
+ ],
+ "subtotal": 33.9,
+ "tax": 3.39,
+ "tip": null,
+ "total": 37.29,
+ "raw_text": "STANFORD'S\n17380 SOUTHCENTER PARKWAY\nTUKWILA, WA 98188\n206.575.7454\n\n28120 Janell M\n\nTbl 127/1 Chk 3885 Gst 3\nSep30'17 07:36PM\n\n1 CHIC TEND AP 9.95\n1 RIBS 1/2 ST 18.95\n1 BRG DELUXE 14.95\nK TIMING 9.95-\n\nSUBTOTAL 33.90\nTAX 3.39\nTOTAL DUE 37.29\n\nHAPPY HOUR\nMONDAY TO SATURDAY\n3 pm to 6 pm and 9 pm to close\nSUNDAY HAPPY HOUR ALL DAY\n\nJoin our EAT DRINK & EARN Club\nto earn rewards while dining\nat any Restaurants Unlimited\nrestaurant! Ask your server\nfor details or join online at:\n\nwww.r-u-i.com/rewards",
+ "checksum": true,
+ "runtime_s": 8.606464790995233
+}

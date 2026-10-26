@@ -1,0 +1,40 @@
+{
+ "id": "1040",
+ "status": "todo",
+ "items": [
+  {
+   "name": "Chicken Fried Rice And Egg",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "California Tropic And Miso",
+   "qty": 1,
+   "price": 7.99
+  },
+  {
+   "name": "Add Two Tostones",
+   "qty": 1,
+   "price": 1.0
+  },
+  {
+   "name": "Sprite",
+   "qty": 1,
+   "price": 2.5
+  },
+  {
+   "name": "Perrier Sparkling Water",
+   "qty": 1,
+   "price": 3.5
+  }
+ ],
+ "subtotal": 22.98,
+ "tax": 1.61,
+ "tip": 3.45,
+ "total": 28.04,
+ "tip_handwritten": null,
+ "flags": [],
+ "notes": "",
+ "guide_version": 1,
+ "prefill_source": "transcription"
+}

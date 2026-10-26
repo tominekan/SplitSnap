@@ -1,0 +1,21 @@
+{
+ "items": [
+  {
+   "name": "1001-Choco Bun",
+   "qty": 1,
+   "price": 22000.0
+  },
+  {
+   "name": "6001-Plastic Bag Small",
+   "qty": 1,
+   "price": 0.0
+  }
+ ],
+ "subtotal": null,
+ "tax": null,
+ "tip": null,
+ "total": 22000.0,
+ "raw_text": "1001-Choco Bun\n22.000 x1 22.000\n6001-Plastic Bag Small\n0 x1 0\nTotal Item: 2\notal. 22.000\nCash\ndered:\n22.000",
+ "checksum": null,
+ "runtime_s": 8.47020345798228
+}
